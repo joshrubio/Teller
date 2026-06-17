@@ -77,7 +77,12 @@ User approves or rejects each diff individually. Agent does not apply.
 
 **Input:** scene brief: characters present, location, what needs to happen narratively.
 
-**Output:** draft prose. Marks any decision points where canon is ambiguous with `<!-- OPEN: [question] -->`.
+**Output:** draft prose in Markdown (`.md`). Marks any decision points where canon is ambiguous with `<!-- OPEN: [question] -->`.
+
+**Publishing pipeline:** Markdown source → HTML for platform upload.
+- RoyalRoad: paste HTML into chapter editor (source mode). Convert with Pandoc: `pandoc chapter.md -o chapter.html`
+- Wattpad: paste Markdown text directly — basic formatting (bold, italic, line breaks) renders natively.
+- No platform-specific formatting in the source `.md` — keep it clean; apply conversion at publish time.
 
 **Constraints:**
 - Must apply voice patterns from `voice/pov-[id]` for the POV character.
@@ -93,10 +98,13 @@ User approves or rejects each diff individually. Agent does not apply.
 **Entry:** `bundles/session-close.md`
 
 **Steps:**
-1. Propose `chapters/index.md` entry for the chapter just written. Wait for confirmation.
-2. Offer to run `update-nodes-agent` on the new chapter. Optional.
+1. Check for unresolved `continuity-agent` flags. **If any flags remain open, stop here and report them.** Do not proceed to step 2 until all flags are resolved or explicitly dismissed by the user.
+2. Propose `chapters/index.md` entry for the chapter just written. Wait for confirmation.
+3. Offer to run `update-nodes-agent` on the new chapter. User confirms or skips.
 
 **When to invoke:** at end of any writing session where a chapter was finished or significantly revised.
+
+**Invoke as:** Claude Code slash command `/session-close` (see `.claude/commands/session-close.md`).
 
 ---
 
