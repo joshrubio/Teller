@@ -30,3 +30,10 @@ Parent task. Infers sub-task from scene description, or user calls a sub-task di
 
 Then load character-specific POV: each character node declares `load-with: [voice/pov-[id]]` — follow those links.
 Do NOT load `voice/index.md` or `themes/index.md` globally — too broad.
+
+## After delivering a complete chapter
+
+End your response with:
+> "Cap [X] completo. Ejecuta `/session-close [X]` para cerrar la sesión."
+
+Trigger: prose ends at a clear narrative stopping point (chapter end), not mid-scene.

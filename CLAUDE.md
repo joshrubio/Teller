@@ -49,6 +49,16 @@ Then say something like:
 
 ---
 
+## After completing a chapter
+
+When you deliver a complete chapter draft (full prose, not a partial scene), end your response with:
+
+> "Cap [X] completo. Ejecuta `/session-close [X]` para cerrar la sesión."
+
+Do this every time without waiting to be asked. A complete chapter = the prose ends at a clear narrative stopping point, not mid-scene.
+
+---
+
 ## End of session
 
 Run `/session-close` — updates state.md, chapters/index.md, and proposes node diffs.

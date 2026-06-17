@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: characters
 tags: [registro-case-2, sustento-domain, vinculo-domain, apariencia-domain, antagonista-ambiguo, arco-3]
 relations: [oliver, voss, sisi, tomas]
-load-with: [system/registro, system/domains, bestiary/vls-001, world/amat]
+load-with: [system/registro, system/domains, bestiary/vls-001, world/amat, plot/kaspar-note]
 updated: 2026-06-17
 ---
 
