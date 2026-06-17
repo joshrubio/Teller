@@ -126,12 +126,32 @@ Teller/
 
 ---
 
-## Adding a new project
+## Starting a new project
 
-1. Copy `_templates/` structure into `projects/[new-project]/`
-2. Update `CLAUDE.md` — change `Active project:` to the new project name
-3. Fill `state.md` with current position
-4. Start writing
+Two ways to trigger:
+
+**Slash command:**
+```
+/new-project [working-title]
+```
+
+**Natural phrase** — Claude detects and asks to confirm:
+```
+quiero empezar un libro
+nueva historia
+tengo una idea para una novela
+```
+
+Both paths run the same structured intake (6 steps). Claude asks for exactly the fields each node template requires — no open brainstorming. If you don't know a field, say "TBD" and it fills in `<!-- TBD -->`.
+
+**Intake order:**
+1. Project meta → `index.md`
+2. Protagonist → `characters/[id].md`
+3. Setting → `world/[id].md`
+4. Voice → `voice/style.md`
+5. Plot skeleton → `plot/arcs.md`
+
+After Step 5: all module folders scaffolded, `CLAUDE.md` updated, ready to plan Cap 1.
 
 ---
 

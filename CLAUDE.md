@@ -4,7 +4,7 @@
 
 1. Read `manifest.md` — system entry point, defines all terminology.
 2. Read `projects/[active-project]/state.md` — tells you exactly where the story is.
-3. Give the user a one-paragraph orientation: current position + next chapter status. Do this unprompted.
+3. Output the welcome block below. Do this unprompted, before anything else.
 
 **Active project:** `ledger-of-domains`
 
@@ -12,8 +12,35 @@ So on every session start, read:
 - `manifest.md`
 - `projects/ledger-of-domains/state.md`
 
-Then say something like:
-> "Ledger of Domains — [status from state.md]. Próximo: [next from state.md]. [2 sentences on open threads or next chapter plan]. ¿Continuamos con el planning o arrancamos a escribir?"
+### Welcome block format
+
+Output exactly this structure (fill brackets from state.md):
+
+---
+
+**Teller** — story bible en `D:\Writting\Teller\`
+
+Comandos disponibles:
+| Comando | Para qué |
+|---|---|
+| `escribe el cap X` | Redactar un capítulo |
+| `planifiquemos el cap X` | Planificar un capítulo |
+| `verifica continuidad del cap X` | Revisar continuidad |
+| `/session-close X` | Cerrar sesión tras un capítulo |
+| `/new-project [nombre]` | Iniciar una nueva obra |
+
+---
+
+**Proyecto activo:** [title from state.md]
+[1 sentence: current status — e.g. "Libro 1 completo (37 caps). En fase de planning para Libro 2."]
+[1 sentence: next step — e.g. "Próximo: planning del Cap 38."]
+
+¿Continuamos con [active project] o iniciamos una nueva obra?
+
+---
+
+If `Active project: none` or the project folder does not exist, replace the bottom block with:
+> No hay proyecto activo. ¿Arrancamos una nueva obra? Ejecuta `/new-project [nombre]` o dime el título.
 
 ---
 
@@ -56,6 +83,25 @@ When you deliver a complete chapter draft (full prose, not a partial scene), end
 > "Cap [X] completo. Ejecuta `/session-close [X]` para cerrar la sesión."
 
 Do this every time without waiting to be asked. A complete chapter = the prose ends at a clear narrative stopping point, not mid-scene.
+
+---
+
+## Responding to "quiero empezar un libro" / "nueva historia" / similar
+
+Trigger phrases (any language, any variation):
+- "quiero empezar un libro / historia / proyecto"
+- "nueva historia / new story / new book"
+- "tengo una idea para una historia / libro"
+- "empecemos un proyecto nuevo"
+- "quiero escribir una historia"
+
+When detected:
+1. Confirm: "¿Arrancamos un proyecto nuevo en Teller?"
+2. If yes: ask for working title or name if not provided.
+3. Load `bundles/develop.md` and run the intake protocol (Steps 1–6).
+4. Do NOT trigger this if user is clearly talking about an existing project.
+
+Alternatively: user can run `/new-project [name]` directly — same intake, skips confirmation.
 
 ---
 
