@@ -6,7 +6,9 @@
 2. Scan the `projects/` directory — list all subdirectory names.
 3. For each project folder found, read its `state.md`.
 4. Load `bundles/dashboard.md` — fill all data slots from state.md files.
-5. Call show_widget with the filled HTML template. Do this unprompted, before anything else.
+5. Output this exact line first, before anything else (influences Claude Desktop auto-title):
+   `**[Teller] Sesión de escritura: [Project Title]**`
+6. Call show_widget with the filled HTML template.
 
 **Active project:** `ledger-of-domains`
 
