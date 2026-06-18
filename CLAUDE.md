@@ -3,50 +3,57 @@
 ## On session start — always do this first
 
 1. Read `manifest.md` — system entry point, defines all terminology.
-2. Read `projects/[active-project]/state.md` — tells you exactly where the story is.
-3. Output the welcome block below. Do this unprompted, before anything else.
+2. Scan the `projects/` directory — list all subdirectory names.
+3. For each project folder found, read its `state.md`.
+4. Output the welcome block below. Do this unprompted, before anything else.
 
 **Active project:** `ledger-of-domains`
 
-So on every session start, read:
-- `manifest.md`
-- `projects/ledger-of-domains/state.md`
-
 ### Welcome block format
 
-Before outputting the table, check `state.md` for:
-- `next-book-initialized: false` → append after the table:
-  > "Libro [N] está marcado como completo.
-  > - `/new-book [N+1]` — siguiente libro en el mismo universo
-  > - `/new-project [nombre]` — nueva obra, universo diferente"
-
-Output exactly this structure (fill brackets from state.md):
+Output exactly this structure:
 
 ---
 
-**Teller** — story bible en `D:\Writting\Teller\`
+**Teller** — `D:\Writting\Teller\`
 
-Comandos disponibles:
-| Comando | Para qué |
+**Proyectos**
+
+| Proyecto | Libro activo | Estado |
+|---|---|---|
+| [title from each state.md] | Libro [N] | [status — see rules below] |
+
+Comandos: `escribe el cap X` · `planifiquemos el cap X` · `verifica continuidad del cap X` · `/session-close X` · `/new-book N` · `/new-project [nombre]`
+
+---
+
+**Activo:** [active project title] — [1 sentence: current position from state.md]
+[1 sentence: next step from state.md]
+
+¿Continuamos con [active project] o cambiamos de proyecto?
+
+---
+
+### Status column rules
+
+Derive from each project's `state.md`:
+
+| Condition | Status shown |
 |---|---|
-| `escribe el cap X` | Redactar un capítulo |
-| `planifiquemos el cap X` | Planificar un capítulo |
-| `verifica continuidad del cap X` | Revisar continuidad |
-| `/session-close X` | Cerrar sesión tras un capítulo |
-| `/new-project [nombre]` | Iniciar una nueva obra |
+| Libro N in progress, chapters written | `En progreso — Cap X` |
+| Libro N complete, `next-book-initialized: false` | `Completo — Libro N+1 no iniciado` |
+| Libro N complete, `next-book-initialized: true` | `Completo` |
+| concept phase, 0 chapters | `Concepto — sin caps` |
 
----
+### If no projects exist
 
-**Proyecto activo:** [title from state.md]
-[1 sentence: current status — e.g. "Libro 1 completo (37 caps). En fase de planning para Libro 2."]
-[1 sentence: next step — e.g. "Próximo: planning del Cap 38."]
+Replace entire block with:
+> No hay proyectos en Teller. ¿Arrancamos una nueva obra? Ejecuta `/new-project [nombre]` o dime el título.
 
-¿Continuamos con [active project] o iniciamos una nueva obra?
+### If active project folder does not exist
 
----
-
-If `Active project: none` or the project folder does not exist, replace the bottom block with:
-> No hay proyecto activo. ¿Arrancamos una nueva obra? Ejecuta `/new-project [nombre]` o dime el título.
+Output the projects table (other projects still listed), then:
+> El proyecto activo `[id]` no existe. Actualiza `CLAUDE.md → Active project:` con un proyecto válido.
 
 ---
 

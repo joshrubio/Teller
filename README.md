@@ -83,8 +83,23 @@ Step-by-step protocol:
 2. Proposes updated `state.md` — where you are now, what comes next
 3. Proposes new row in `chapters/index.md`
 4. Offers to run `update-nodes` to propose canon diffs
+5. If final chapter of the libro: prompts to mark libro complete, then surfaces `/new-book` or `/new-project`
 
 Nothing is applied without your confirmation at each step.
+
+### Starting a new libro (same universe)
+
+```
+/new-book 2
+```
+
+For sequels or continued story arcs in the same universe. Does NOT create a new project folder — world, system, and character nodes are shared. Only libro-specific layers are versioned:
+
+- `voice/style.md` — adds `## Libro 2` section (Libro 1 section preserved)
+- `themes/writing-rules.md` — adds `## Libro 2` section
+- `plot/arcs-libro2.md` — new arc structure file
+
+Updates `state.md → active-libro: 2` and `CLAUDE.md → Active libro: 2`.
 
 ---
 
@@ -107,7 +122,9 @@ Teller/
 │       └── introspection.md
 ├── .claude/
 │   └── commands/
-│       └── session-close.md   ← /session-close slash command
+│       ├── session-close.md   ← /session-close slash command
+│       ├── new-project.md     ← /new-project slash command
+│       └── new-book.md        ← /new-book slash command
 ├── _planning/                 ← Planning-only content, not loaded during writing
 ├── _templates/                ← Node templates
 └── projects/
@@ -169,9 +186,9 @@ Manuscript files are Markdown. To publish:
 ```
 open Claude Code in Teller/
         ↓
-Claude reads CLAUDE.md → manifest.md → state.md
+Claude reads CLAUDE.md → manifest.md → all projects/*/state.md
         ↓
-orientation (unprompted)
+dashboard: all projects + statuses + commands (unprompted)
         ↓
 write / plan / continuity check
         ↓
@@ -179,5 +196,7 @@ chapter complete → Claude suggests /session-close
         ↓
 /session-close → state.md + chapters/index.md updated
         ↓
-next session starts from updated state
+if final chapter → /new-book N or /new-project suggestion
+        ↓
+next session starts from updated state + dashboard
 ```
