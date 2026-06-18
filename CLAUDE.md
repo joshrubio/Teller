@@ -5,7 +5,8 @@
 1. Read `manifest.md` — system entry point, defines all terminology.
 2. Scan the `projects/` directory — list all subdirectory names.
 3. For each project folder found, read its `state.md`.
-4. Output the welcome block below. Do this unprompted, before anything else.
+4. Load `bundles/dashboard.md` — fill all data slots from state.md files.
+5. Call show_widget with the filled HTML template. Do this unprompted, before anything else.
 
 **Active project:** `ledger-of-domains`
 
@@ -86,6 +87,33 @@ Output the projects table (other projects still listed), then:
 **Closing beat / hook:**
 **Open questions / canon needed:**
 ```
+
+---
+
+## Responding to "quiero editar" / "editar libro" / "volver a un capítulo"
+
+Trigger phrases: "quiero editar", "editar libro", "volver al cap", "revisar algo", "edita el cap X", "revisa el cap X"
+
+When triggered without a specific chapter, ask:
+> "¿Qué quieres trabajar?
+> - Planificar un capítulo específico
+> - Editar o revisar un capítulo ya escrito
+> - Revisar continuidad de un capítulo"
+
+Then follow the path the user chooses. Works for ANY chapter in ANY libro regardless of completion status.
+
+**If editing a specific chapter:**
+1. Read `projects/[project]/chapters/index.md` → find which libro cap X belongs to
+2. Load voice section for that libro: `voice/style.md → ## Libro [N]`
+3. Load `themes/` section for that libro
+4. Load character nodes present in the scene
+5. Read the manuscript file (path from chapters/index.md)
+6. Edit. Mark ambiguous canon with `<!-- OPEN: [question] -->`
+
+**After editing:**
+- Propose updated row in `chapters/index.md` if summary changed
+- Do NOT update `state.md` — past edits don't change active progression
+- Do NOT suggest `/session-close`
 
 ---
 
