@@ -63,8 +63,10 @@ Claude Code reads `CLAUDE.md` automatically. It scans `projects/`, reads the act
 ### End of session
 
 ```
-/session-close 38
+/session-close
 ```
+
+The chapter number is optional — the agent infers it from the session context. Pass it explicitly if needed: `/session-close 38`.
 
 Protocol:
 1. Checks continuity flags (blocks if unresolved)
