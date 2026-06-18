@@ -67,13 +67,15 @@ Output the projects table (other projects still listed), then:
 
 ---
 
-## Responding to "continúa con el planning del cap X" or "planifiquemos el cap X"
+## Responding to "planifiquemos" / "planning" / "planifica"
 
-1. Load `plot/arcs.md`
-2. Load `projects/ledger-of-domains/state.md`
-3. Load `relations/conflicts.md` (open threads)
-4. Produce: a beat sheet for cap X. Format:
+Detect granularity from the input. Do not ask for clarification unless input is genuinely ambiguous.
 
+### Level: Cap — "planifiquemos el cap X"
+
+Load: `plot/arcs.md` + `state.md` + `relations/conflicts.md`
+
+Output format:
 ```
 ## Cap X — [working title]
 
@@ -87,6 +89,41 @@ Output the projects table (other projects still listed), then:
 **Closing beat / hook:**
 **Open questions / canon needed:**
 ```
+
+### Level: Batch — "planifiquemos los caps 38–42" / "los próximos N caps"
+
+Load: `plot/arcs.md` + `state.md` + `relations/conflicts.md`
+
+Output: flow table first (one row per cap: number, POV, arc function, key beat), then beat sheets per cap on request or if N ≤ 3.
+
+```
+| Cap | POV | Arc function | Key beat |
+|---|---|---|---|
+```
+
+### Level: Arc — "planifiquemos el arco X" / "¿cómo va el arco X?"
+
+Load: `plot/arcs.md` + `plot/timeline.md`
+
+Output: arc overview — dramatic question for the arc, act structure (beginning / escalation / resolution), cap range, key beats per act, open threads entering and exiting.
+
+### Level: Book — "planifiquemos el Libro X" / "¿cómo estructuramos el siguiente libro?"
+
+Load: `state.md` + `plot/arcs.md` (active libro) + open threads
+
+Output: dramatic question proposal, 3-arc skeleton (each arc as 1–2 sentences), open threads from previous libro that feed into this one. No beat sheets at this level — structural only.
+
+### Level: Event — "planifiquemos [scene / confrontation / moment]"
+
+Trigger: user names a scene, relationship moment, or plot event without specifying a cap.
+
+1. Load character nodes for people involved + `relations/conflicts.md` + `plot/arcs.md`
+2. Determine where in the arc this event belongs (which caps it likely spans)
+3. Output: which caps carry this event + what each cap needs to contain for the event to land
+
+### Ambiguous input
+
+If input could be cap or batch ("planifiquemos lo que sigue"): default to batch of next 3 caps from `state.md → Next`. Show flow table, offer to go deeper on any cap.
 
 ---
 
