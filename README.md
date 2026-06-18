@@ -40,9 +40,9 @@ claude
 
 Claude Code reads `CLAUDE.md` automatically. It scans `projects/`, reads the active project's `state.md`, and outputs an unprompted welcome block:
 
-- All projects with libro and status
-- Command reference table
-- Active project orientation (current position + open threads)
+- Project table — each project with active libro and status
+- Command reference — what you can ask and how
+- Active project orientation — current position + open threads
 
 ### Actions
 
