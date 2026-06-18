@@ -55,7 +55,7 @@ If libro is complete:
 2. If confirmed → add to `state.md`:
    ```
    libro-[N]-status: complete
-   next-libro-initialized: false
+   next-book-initialized: false
    ```
 3. Output:
    > "Libro [N] completo.

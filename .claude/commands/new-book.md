@@ -86,7 +86,7 @@ Create `projects/[project]/plot/arcs-libro[N].md` with user answers. Propose. Wa
 Add / update:
 ```yaml
 active-libro: [N]
-next-libro-initialized: true
+next-book-initialized: true
 libro-[N-1]-status: complete
 ```
 

@@ -27,7 +27,7 @@ End-of-session protocol for Teller writing sessions.
 
    If libro is complete:
    - Ask: "¿Marcamos Libro [N] como completo?"
-   - If confirmed → add to `state.md`: `libro-[N]-status: complete` and `next-libro-initialized: false`
+   - If confirmed → add to `state.md`: `libro-[N]-status: complete` and `next-book-initialized: false`
    - Output:
      > "Libro [N] completo.
      > - `/new-book [N+1]` — siguiente libro en el mismo universo
