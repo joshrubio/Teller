@@ -29,3 +29,4 @@ updated: 2026-06-17
 | `petra` | Petra | Canje Domain, Level 2 | Migrated |
 | `ji-ho` | Ji-ho | Park's uncle, Rango S | Migrated |
 | `cartwright` | Cartwright | AMAT-NA Director Regional, Rango 1 | Migrated |
+| `elise` | Elise | Previous Registry carrier / Libro 2 hook | Migrated |
