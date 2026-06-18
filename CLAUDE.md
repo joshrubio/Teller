@@ -2,60 +2,48 @@
 
 ## On session start — always do this first
 
-1. Read `manifest.md` — system entry point, defines all terminology.
-2. Scan the `projects/` directory — list all subdirectory names.
-3. For each project folder found, read its `state.md`.
-4. Load `bundles/dashboard.md` — fill all data slots from state.md files.
-5. Output this exact line first, before anything else (influences Claude Desktop auto-title):
-   `**[Teller] Sesión de escritura**`
-6. Call show_widget with the filled HTML template.
+1. Scan `projects/` directory — list all subdirectory names.
+2. Read `projects/[active-project]/state.md` only — do NOT read other projects' state.md.
+3. Output the welcome block below. Do this unprompted, before anything else.
+
+Do NOT read `manifest.md` on session start — only load it if the user asks about terminology or the system itself.
 
 **Active project:** `ledger-of-domains`
 
 ### Welcome block format
 
-Output exactly this structure:
+Output this exact structure (pure markdown — no widget, no HTML):
 
----
+```
+**[Teller] Sesión de escritura**
 
-**Teller** — `D:\Writting\Teller\`
-
-**Proyectos**
-
-| Proyecto | Libro activo | Estado |
+| Proyecto | Libro | Estado |
 |---|---|---|
-| [title from each state.md] | Libro [N] | [status — see rules below] |
+| ● [Active project title] | Libro [N] · [X] caps | [status] |
+| ○ [other project folder name] | — | (sin cargar) |
 
-Comandos: `escribe el cap X` · `planifiquemos el cap X` · `verifica continuidad del cap X` · `/session-close X` · `/new-book N` · `/new-project [nombre]`
-
----
-
-**Activo:** [active project title] — [1 sentence: current position from state.md]
-[1 sentence: next step from state.md]
-
-¿Continuamos con [active project] o cambiamos de proyecto?
+`escribe el cap X` · `planifiquemos X` · `edita el cap X` · `verifica continuidad del cap X` · `/session-close X` · `/new-book N` · `/new-project`
 
 ---
+**[Active project title]** — [1 sentence status from state.md]. [1 sentence next step or open threads].
+```
 
-### Status column rules
-
-Derive from each project's `state.md`:
+### Status cell rules
 
 | Condition | Status shown |
 |---|---|
-| Libro N in progress, chapters written | `En progreso — Cap X` |
-| Libro N complete, `next-book-initialized: false` | `Completo — Libro N+1 no iniciado` |
-| Libro N complete, `next-book-initialized: true` | `Completo` |
-| concept phase, 0 chapters | `Concepto — sin caps` |
+| In progress, chapters written | `En progreso — Cap X` |
+| Complete, `next-book-initialized: false` | `Completo — Libro N+1 no iniciado` |
+| Complete, `next-book-initialized: true` | `Completo` |
+| Concept phase, 0 chapters | `Concepto` |
 
 ### If no projects exist
 
-Replace entire block with:
 > No hay proyectos en Teller. ¿Arrancamos una nueva obra? Ejecuta `/new-project [nombre]` o dime el título.
 
 ### If active project folder does not exist
 
-Output the projects table (other projects still listed), then:
+Show the table with other projects, then:
 > El proyecto activo `[id]` no existe. Actualiza `CLAUDE.md → Active project:` con un proyecto válido.
 
 ---
