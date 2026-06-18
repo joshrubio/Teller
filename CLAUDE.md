@@ -22,7 +22,15 @@ Output this exact structure (pure markdown — no widget, no HTML):
 | ● [Active project title] | Libro [N] · [X] caps | [status] |
 | ○ [other project folder name] | — | (sin cargar) |
 
-`escribe el cap X` · `planifiquemos X` · `edita el cap X` · `verifica continuidad del cap X` · `/session-close X` · `/new-book N` · `/new-project`
+| Acción | Cómo pedirlo |
+|---|---|
+| Redactar capítulo | `escribe el cap X` |
+| Planificar | `planifiquemos el cap X` / `el arco X` / `el Libro X` |
+| Editar capítulo existente | `edita el cap X` |
+| Verificar continuidad | `verifica continuidad del cap X` |
+| Cerrar sesión | `/session-close X` |
+| Nuevo libro, mismo universo | `/new-book N` |
+| Nueva obra | `/new-project [nombre]` |
 
 ---
 **[Active project title]** — [1 sentence status from state.md]. [1 sentence next step or open threads].
