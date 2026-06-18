@@ -38,39 +38,27 @@ cd path/to/Teller
 claude
 ```
 
-Claude Code reads `CLAUDE.md` automatically. It then reads `manifest.md` and the active project's `state.md`, and gives you an unprompted orientation: where the story is, what comes next, open threads.
+Claude Code reads `CLAUDE.md` automatically. It scans `projects/`, reads the active project's `state.md`, and outputs an unprompted welcome block:
 
-If it doesn't orient on the first turn:
+- All projects with libro and status
+- Command reference table
+- Active project orientation (current position + open threads)
 
-```
-lee manifest.md y state.md
-```
+### Actions
 
-### Write a chapter
+| Action | How to ask |
+|---|---|
+| Write a chapter | `escribe el cap X` |
+| Plan | `planifiquemos el cap X` / `el arco X` / `el Libro X` |
+| Edit existing chapter | `edita el cap X` |
+| Continuity check | `verifica continuidad del cap X` |
+| End session | `/session-close X` |
+| New libro, same universe | `/new-book N` |
+| New project | `/new-project [nombre]` |
 
-```
-escribe el cap 38
-```
+**Planning detects granularity automatically** — cap, batch, arc, book, or scene/event. No separate commands needed.
 
-Claude loads `bundles/write/` → infers dialogue / action / introspection → loads `voice/style.md` + `themes/writing-rules.md` + character nodes for the scene → each character node pulls its own POV file and system nodes via `load-with`.
-
-Output: Markdown draft. Ambiguous canon marked with `<!-- OPEN: [question] -->`.
-
-### Plan a chapter
-
-```
-planifiquemos el cap 38
-```
-
-Claude loads `plot/arcs.md` + `state.md` + `relations/conflicts.md` → produces a beat sheet.
-
-### Continuity check
-
-```
-verifica continuidad del cap 37
-```
-
-Claude loads `bundles/continuity-check.md` → reports contradictions only. No rewrites.
+**Editing a past chapter** doesn't touch `state.md` or progression — only updates `chapters/index.md` if the summary changed.
 
 ### End of session
 
@@ -78,28 +66,59 @@ Claude loads `bundles/continuity-check.md` → reports contradictions only. No r
 /session-close 38
 ```
 
-Step-by-step protocol:
-1. Checks for unresolved continuity flags (blocks if any)
-2. Proposes updated `state.md` — where you are now, what comes next
+Protocol:
+1. Checks continuity flags (blocks if unresolved)
+2. Proposes updated `state.md`
 3. Proposes new row in `chapters/index.md`
-4. Offers to run `update-nodes` to propose canon diffs
-5. If final chapter of the libro: prompts to mark libro complete, then surfaces `/new-book` or `/new-project`
+4. Offers `update-nodes` canon diff
+5. If final chapter: prompts to mark libro complete → surfaces `/new-book` or `/new-project`
 
-Nothing is applied without your confirmation at each step.
+Nothing applied without confirmation at each step.
 
-### Starting a new libro (same universe)
+### New libro, same universe
 
 ```
 /new-book 2
 ```
 
-For sequels or continued story arcs in the same universe. Does NOT create a new project folder — world, system, and character nodes are shared. Only libro-specific layers are versioned:
+Shared nodes: world, system, characters. Versioned by libro:
 
-- `voice/style.md` — adds `## Libro 2` section (Libro 1 section preserved)
+- `voice/style.md` — adds `## Libro 2` section (Libro 1 preserved)
 - `themes/writing-rules.md` — adds `## Libro 2` section
 - `plot/arcs-libro2.md` — new arc structure file
 
 Updates `state.md → active-libro: 2` and `CLAUDE.md → Active libro: 2`.
+
+---
+
+## Starting a new project
+
+Two triggers:
+
+**Slash command:**
+```
+/new-project [working-title]
+```
+
+**Natural phrase** — Claude detects and confirms:
+```
+quiero empezar un libro
+nueva historia
+tengo una idea para una novela
+```
+
+Both run the same structured intake (6 steps). Claude asks for the exact fields each node template requires. Say "TBD" for anything unknown — filled with `<!-- TBD -->` and revisited later.
+
+**Parse mode:** if you arrive with narrative ideas already formed, Claude extracts what it can from your description and only asks for missing fields.
+
+**Intake order:**
+1. Project meta → `index.md`
+2. Protagonist → `characters/[id].md`
+3. Setting → `world/[id].md`
+4. Voice → `voice/style.md`
+5. Plot skeleton → `plot/arcs.md`
+
+After step 5: folders scaffolded, `CLAUDE.md` updated, ready to plan cap 1.
 
 ---
 
@@ -108,10 +127,11 @@ Updates `state.md → active-libro: 2` and `CLAUDE.md → Active libro: 2`.
 ```
 Teller/
 ├── CLAUDE.md                  ← Claude Code reads this automatically on session start
-├── AGENTS.md                  ← Agent spec (for building automation on top)
-├── manifest.md                ← System entry point — defines all terminology
+├── AGENTS.md                  ← Agent spec
+├── manifest.md                ← System entry point — terminology definitions
 ├── routes.md                  ← Full path map
 ├── bundles/
+│   ├── develop.md             ← New project intake protocol
 │   ├── continuity-check.md
 │   ├── update-nodes.md
 │   ├── session-close.md
@@ -122,81 +142,52 @@ Teller/
 │       └── introspection.md
 ├── .claude/
 │   └── commands/
-│       ├── session-close.md   ← /session-close slash command
-│       ├── new-project.md     ← /new-project slash command
-│       └── new-book.md        ← /new-book slash command
-├── _planning/                 ← Planning-only content, not loaded during writing
+│       ├── session-close.md   ← /session-close
+│       ├── new-project.md     ← /new-project
+│       └── new-book.md        ← /new-book
+├── _planning/                 ← Planning content, not loaded during writing
 ├── _templates/                ← Node templates
 └── projects/
     └── [project-name]/
         ├── state.md           ← Current position, next chapter, open threads
-        ├── characters/        ← One node per character
+        ├── characters/
         ├── voice/             ← style.md + pov-[id].md per POV character
-        ├── system/            ← Domain mechanics
-        ├── world/             ← Settings, institutions, metaphysics
-        ├── plot/              ← Arcs, timeline, key documents
-        ├── relations/         ← Relationship webs, open conflicts
-        ├── bestiary/          ← Threats and entities
-        ├── themes/            ← Writing rules and constraints
+        ├── system/
+        ├── world/
+        ├── plot/
+        ├── relations/
+        ├── bestiary/
+        ├── themes/
         └── chapters/          ← Navigation index to manuscript files
 ```
 
 ---
 
-## Starting a new project
-
-Two ways to trigger:
-
-**Slash command:**
-```
-/new-project [working-title]
-```
-
-**Natural phrase** — Claude detects and asks to confirm:
-```
-quiero empezar un libro
-nueva historia
-tengo una idea para una novela
-```
-
-Both paths run the same structured intake (6 steps). Claude asks for exactly the fields each node template requires — no open brainstorming. If you don't know a field, say "TBD" and it fills in `<!-- TBD -->`.
-
-**Intake order:**
-1. Project meta → `index.md`
-2. Protagonist → `characters/[id].md`
-3. Setting → `world/[id].md`
-4. Voice → `voice/style.md`
-5. Plot skeleton → `plot/arcs.md`
-
-After Step 5: all module folders scaffolded, `CLAUDE.md` updated, ready to plan Cap 1.
-
----
-
 ## Publishing
 
-Manuscript files are Markdown. To publish:
+Manuscript files are Markdown.
 
 - **Royal Road:** `pandoc chapter.md -o chapter.html` → paste HTML into chapter editor (source mode)
-- **Wattpad:** paste Markdown text directly — basic formatting renders natively
+- **Wattpad:** paste Markdown directly — basic formatting renders natively
 
 ---
 
-## Session workflow summary
+## Session workflow
 
 ```
 open Claude Code in Teller/
         ↓
-Claude reads CLAUDE.md → manifest.md → all projects/*/state.md
+Claude reads CLAUDE.md → scans projects/ → reads active state.md
         ↓
-dashboard: all projects + statuses + commands (unprompted)
+welcome block: project table + command guide + orientation
         ↓
-write / plan / continuity check
+write / plan / edit / continuity check
         ↓
 chapter complete → Claude suggests /session-close
         ↓
 /session-close → state.md + chapters/index.md updated
         ↓
-if final chapter → /new-book N or /new-project suggestion
+if final chapter → /new-book or /new-project suggestion
         ↓
-next session starts from updated state + dashboard
+next session starts oriented
 ```
