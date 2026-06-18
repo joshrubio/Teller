@@ -40,7 +40,7 @@ claude
 
 Claude Code reads `CLAUDE.md` automatically. It scans `projects/`, reads the active project's `state.md`, and outputs an unprompted welcome block:
 
-- Project table — each project with active libro and status
+- Project table — each project with active book and status
 - Command reference — what you can ask and how
 - Active project orientation — current position + open threads
 
@@ -53,7 +53,7 @@ Claude Code reads `CLAUDE.md` automatically. It scans `projects/`, reads the act
 | Edit existing chapter | `edita el cap X` |
 | Continuity check | `verifica continuidad del cap X` |
 | End session | `/session-close X` |
-| New libro, same universe | `/new-book N` |
+| New book, same universe | `/new-book N` |
 | New project | `/new-project [nombre]` |
 
 **Planning detects granularity automatically** — cap, batch, arc, book, or scene/event. No separate commands needed.
@@ -71,23 +71,23 @@ Protocol:
 2. Proposes updated `state.md`
 3. Proposes new row in `chapters/index.md`
 4. Offers `update-nodes` canon diff
-5. If final chapter: prompts to mark libro complete → surfaces `/new-book` or `/new-project`
+5. If final chapter: prompts to mark book complete → surfaces `/new-book` or `/new-project`
 
 Nothing applied without confirmation at each step.
 
-### New libro, same universe
+### New book, same universe
 
 ```
 /new-book 2
 ```
 
-Shared nodes: world, system, characters. Versioned by libro:
+Shared nodes: world, system, characters. Versioned by book:
 
-- `voice/style.md` — adds `## Libro 2` section (Libro 1 preserved)
-- `themes/writing-rules.md` — adds `## Libro 2` section
-- `plot/arcs-libro2.md` — new arc structure file
+- `voice/style.md` — adds `## Book 2` section (Book 1 preserved)
+- `themes/writing-rules.md` — adds `## Book 2` section
+- `plot/arcs-book2.md` — new arc structure file
 
-Updates `state.md → active-libro: 2` and `CLAUDE.md → Active libro: 2`.
+Updates `state.md → active-book: 2` and `CLAUDE.md → Active book: 2`.
 
 ---
 
