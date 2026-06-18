@@ -14,7 +14,40 @@ For new projects with no existing nodes. Guides user through providing the exact
 - User says: "quiero empezar un libro", "nueva historia", "new story", "tengo una idea para una historia", "empecemos un proyecto nuevo", "quiero escribir una historia"
 - `CLAUDE.md → Active project:` points to a folder that does not exist
 
-## Core rule
+## Two modes
+
+| Mode | Trigger | Behavior |
+|---|---|---|
+| **Structured** | User says "quiero empezar", no prior story content given | Ask field by field in order, Steps 1–6 |
+| **Parse** | User arrives with narrative description, partial ideas, or story fragments | Extract first → show map → ask only for missing fields |
+
+### Parse mode — extract-first rule
+
+When the user provides any narrative input (character description, plot idea, scene concept), do NOT ignore it and start the intake from scratch.
+
+Instead:
+1. Parse the input → identify which node types are touched (character / world / plot / voice)
+2. Extract every explicit data point and map it to a node field
+3. Show the user what was extracted:
+
+```
+Identifiqué esto:
+
+**[Node type]:**
+- [field]: [extracted value]
+- [field]: [extracted value]
+- TBD: [missing fields]
+
+**[Node type]:**
+- ...
+
+¿Completamos los campos faltantes?
+```
+
+4. Ask only for TBD fields — never re-ask for data already provided
+5. If input touches multiple node types simultaneously → show all extractions at once, then resolve TBDs node by node
+
+### Core rule (both modes)
 
 Do NOT suggest plot ideas, character traits, themes, or names the user has not provided.  
 Ask for fields. If user doesn't know a field → write `<!-- TBD -->` and move on.  

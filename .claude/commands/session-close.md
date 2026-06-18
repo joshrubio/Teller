@@ -23,8 +23,21 @@ End-of-session protocol for Teller writing sessions.
 
 5. **Offer update-nodes:** "¿Quieres que revise los nodos para actualizar canon del capítulo?" If yes, run update-nodes bundle. Propose diffs — do not apply without confirmation.
 
+6. **Detect libro completion.** Check if the chapter just closed matches the final chapter of the last arc in `plot/arcs.md`. If `plot/arcs.md` has no defined final chapter, ask: "¿Es este el último capítulo del libro?"
+
+   If libro is complete:
+   - Ask: "¿Marcamos Libro [N] como completo?"
+   - If confirmed → add to `state.md`: `libro-[N]-status: complete` and `next-libro-initialized: false`
+   - Output:
+     > "Libro [N] completo.
+     > - `/new-book [N+1]` — siguiente libro en el mismo universo
+     > - `/new-project [nombre]` — nueva obra, universo diferente"
+
+   If libro is NOT complete → skip step 6 entirely. Do not mention it.
+
 ## Notes
 
 - Never apply changes without explicit user confirmation at each step.
 - If user types `/session-close [cap number]` use that as the chapter to close.
 - state.md update (step 2) is the most important — it's what orients the next session.
+- Step 6 is conditional — only triggers when final chapter is detected or confirmed by user.

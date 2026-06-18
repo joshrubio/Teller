@@ -14,6 +14,12 @@ So on every session start, read:
 
 ### Welcome block format
 
+Before outputting the table, check `state.md` for:
+- `next-libro-initialized: false` → append after the table:
+  > "Libro [N] está marcado como completo.
+  > - `/new-book [N+1]` — siguiente libro en el mismo universo
+  > - `/new-project [nombre]` — nueva obra, universo diferente"
+
 Output exactly this structure (fill brackets from state.md):
 
 ---

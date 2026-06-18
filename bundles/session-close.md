@@ -43,10 +43,30 @@ Wait for user confirmation before writing.
 
 Ask: "¿Reviso los nodos para actualizar canon?"
 If yes → load `bundles/update-nodes.md` with the chapter path. Propose diffs per node.
-If no → close session.
+If no → continue to Step 4.
+
+### Step 4 — Detect libro completion
+
+Check: does the chapter just closed match the final chapter of the last arc in `plot/arcs.md`?
+If `plot/arcs.md` has no defined final chapter → ask: "¿Es este el último capítulo del libro?"
+
+If libro is complete:
+1. Ask: "¿Marcamos Libro [N] como completo?"
+2. If confirmed → add to `state.md`:
+   ```
+   libro-[N]-status: complete
+   next-libro-initialized: false
+   ```
+3. Output:
+   > "Libro [N] completo.
+   > - `/new-book [N+1]` — siguiente libro en el mismo universo
+   > - `/new-project [nombre]` — nueva obra, universo diferente"
+
+If libro is NOT complete → skip this step entirely. Do not mention it.
 
 ## Rule
 
 Never auto-apply any step. Each requires explicit user confirmation.
 Step 3 is optional — not every chapter establishes new canon.
+Step 4 is conditional — only runs if final chapter detected or confirmed.
 Step 0 is mandatory — never skip it.
