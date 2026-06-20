@@ -47,10 +47,6 @@ Cocinó el asado. Intercepción calculada: colocó la copa en la mano de Oliver 
 - "saber exactamente dónde está la gravedad en cada momento y decidir ir con ella"
 - "calculado, no con esfuerzo sino con conciencia"
 
-## Inherited property — Book 2 location
-
-Edificio grande, antiguo, renovado posguerra (años 50–60). Heredado de un familiar (tío probable, rama italiana). Norte de Italia o Valais suizo probable. Tras el cierre del Centro (Cap 37), lo ofrece como refugio transitorio sin llamarlo gesto generoso.
-
 ## Narrative function
 
 - Ancla institucional con consciencia humana — lleva más tiempo y no se volvió cínico.

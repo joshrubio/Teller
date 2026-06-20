@@ -5,10 +5,12 @@ project: ledger-of-domains
 module: voice
 tags: [style, editorial-rules, ai-detection]
 load-with: []
-updated: 2026-06-17
+updated: 2026-06-19
 ---
 
 # Narrative Style
+
+## Libro 1
 
 ## Voice and register
 
@@ -67,3 +69,36 @@ updated: 2026-06-17
 - Attribution verb lowercase after closing em-dash.
 - Interrupted speech ends with `—`, no punctuation after.
 - Prefer `dijo`, `respondió`, `preguntó` — avoid elaborate attribution verbs unless register demands it.
+
+---
+
+## By Strength Alone (spinoff)
+
+**POV:** Park Jun-ho — Domain de Strength (F = ma, joint-axis). Sin acceso perceptivo al Odem. El mundo sobrenatural existe pero Park lo lee de segunda mano: rastros, comportamiento, consecuencia. Trabaja por inferencia acumulada.
+
+**Plataforma:** RoyalRoad — serial web. Cada capítulo es unidad autocontenida.
+
+### Rhythm rule
+
+- Cliffhanger al final de cada capítulo, sin excepción.
+- Capítulos más cortos que Libro 1. Apertura con hook, cierre con gancho.
+
+### Tone
+
+- Más oscuro. Park no elabora emoción — la filtra hasta que solo queda lo accionable.
+- Detectivesco: llega a verdades por acumulación de datos y patrón, no por revelación súbita.
+- Introspección aristotélica: qué es realmente esto — persona, sistema, misión — más allá de lo que parece en protocolo.
+
+### Changes from Libro 1
+
+- Sin vocabulario del Odem desde dentro. Park describe lo anómalo por efecto.
+- Diálogo aún más seco — Park no rellena silencios.
+- Acción más frecuente, más directa, sin peso contemplativo de Oliver.
+
+### What stays the same
+
+- Vocabulario técnico exacto.
+- Afecto siempre oblicuo — lo que hacen, no lo que sienten.
+- El coste de la fuerza es específico y físico.
+- AMAT debe sentirse peligrosa, no solo burocrática.
+- Spanish register: contemporary neutral.

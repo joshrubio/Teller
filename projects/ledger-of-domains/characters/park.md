@@ -15,6 +15,7 @@ updated: 2026-06-17
 
 | | |
 |---|---|
+| **Full name** | Park Jun-ho |
 | **Age** | ~24 (approx. 2 years older than Oliver) |
 | **Appearance** | Cabello negro, liso, corto pero sin estructura marcada. Ojos marrón oscuro, expresión difícil de leer en reposo. Piel pálida — ascendencia coreana. 1.81 m, complexión atlética con musculatura definida (entrena de forma consistente; el Domain requiere cuerpo en forma — solo visible fuera de ropa). Sin marcas de edad a los 24. Cicatriz pequeña en el dorso de la mano derecha, origen no establecido. |
 | **Domain** | Strength — F = ma, joint-axis user (acceleration + mass simultaneously) |
@@ -67,6 +68,7 @@ Pragmático. Protecteur cuando conviene. Cinismo entrenado. Seco, económico. Ad
 |---|---|---|
 | **Father** | AMAT Korea Division Head | Direct authority over the division where Park earns Rango 3. Converts M5 into an impossible neutral test. |
 | **Ji-ho** (uncle) | Agente Rango S — strongest agent in AMAT | One of fewer than 10 in the world. No administrative role — pure performance. First text mention: Cap 11, encrypted non-official channel message. His shadow is larger than the father's. |
+| **Ki-yeon / Kiki** (half-sister) | Media-hermana, 17, mismo Domain eje masa | Same father, different mother. Evaluación AMAT activa. Mass control higher than Park's at 17. Present in Seoul (BSA Arc 2). Her existence is the pressure Park can't name. |
 
 > Seoul tension: Park earns rank inside family territory. The only answer to "did family pull strings?" is a result with no margin for doubt.
 
@@ -85,6 +87,17 @@ Pragmático. Protecteur cuando conviene. Cinismo entrenado. Seco, económico. Ad
 
 Misión "sencilla" fallida (Grayhaven) → responsabilidad por Oliver → confrontación con AMAT.
 Frustración/culpa post-Grayhaven se paga en Arco 3.
+
+## BSA Arc 1 — Hartford (M4)
+
+Timeline: ~1–2 weeks post-Grayhaven. Park receives M4 assignment and downloads the 1952 Hartford file immediately. Arrives ~2 days after the call.
+
+<!-- canonical -->
+- Reads the 1952 Hartford file 14 times before arriving. Knows the gaps by distribution, not just by content.
+- 3 pending access requests filed on arrival: (1) informe 1952-HFD-002, (2) Apéndice C del testimonio de S-0, (3) correspondencia AMAT-EU primeras 48h. All pending as of BSA Cap 1.
+- Discovers classification code `1952-HFD-S / PROTOCOLO EU-GINEBRA` in Hartford pages 74+ — recognizes it from Oliver Webb's post-Grayhaven file. Does not mention this to anyone at Hartford.
+- First night: sees a silhouette in the north sector (~200m). Alarm activates 3 seconds after it disappears. Does not move. Does not report what he saw before the alarm.
+- Reads Hartford not as a cooling-off assignment — as the only lead he has.
 
 ## Notes
 

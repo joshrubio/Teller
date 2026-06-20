@@ -9,6 +9,7 @@
 Do NOT read `manifest.md` on session start — only load it if the user asks about terminology or the system itself.
 
 **Active project:** `ledger-of-domains`
+**Active spinoff:** `by-strength-alone` — Park Jun-ho POV, Hartford → Valais. Voice: `voice/style.md → ## By Strength Alone`. Themes: `themes/writing-rules.md → ## By Strength Alone`. Plot: `plot/arcs-bsa.md` (pending).
 
 ### Welcome block format
 
