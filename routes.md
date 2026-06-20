@@ -41,4 +41,4 @@ Path pattern: `projects/[project]/[module]/[node-id].md`
 | `bundles/write/dialogue.md` | Write dialogue scenes | User-invoked or agent-inferred |
 | `bundles/write/action.md` | Write action / Domain-use scenes | User-invoked or agent-inferred |
 | `bundles/write/introspection.md` | Write introspective / internal scenes | User-invoked or agent-inferred |
-| `bundles/session-close.md` | End-of-session protocol — update chapters index, offer update-nodes | Agent-prompted or user-invoked |
+| `.claude/commands/session-close.md` | End-of-session protocol — update state, chapters index, offer update-nodes, commit + push | `/session-close` slash command or agent-prompted |

@@ -95,12 +95,9 @@ User approves or rejects each diff individually. Agent does not apply.
 
 **Purpose:** end-of-session cleanup.
 
-**Entry:** `bundles/session-close.md`
+**Entry:** `.claude/commands/session-close.md`
 
-**Steps:**
-1. Check for unresolved `continuity-agent` flags. **If any flags remain open, stop here and report them.** Do not proceed to step 2 until all flags are resolved or explicitly dismissed by the user.
-2. Propose `chapters/index.md` entry for the chapter just written. Wait for confirmation.
-3. Offer to run `update-nodes-agent` on the new chapter. User confirms or skips.
+**Steps:** see entry file — 7 steps (continuity flags → state.md → chapters index → update-nodes → libro completion → commit + push).
 
 **When to invoke:** at end of any writing session where a chapter was finished or significantly revised.
 
