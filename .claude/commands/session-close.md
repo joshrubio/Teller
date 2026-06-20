@@ -35,9 +35,16 @@ End-of-session protocol for Teller writing sessions.
 
    If libro is NOT complete → skip step 6 entirely. Do not mention it.
 
+7. **Commit and push.** Run `git status` to show changed files. Propose a commit message in the format:
+   ```
+   session: cap [X] — [one-line summary of what was written]
+   ```
+   Ask: "¿Hacemos commit y push?" If confirmed → `git add -A && git commit -m "[message]" && git push origin master`.
+
 ## Notes
 
 - Never apply changes without explicit user confirmation at each step.
 - If user types `/session-close [cap number]` use that as the chapter to close.
 - state.md update (step 2) is the most important — it's what orients the next session.
 - Step 6 is conditional — only triggers when final chapter is detected or confirmed by user.
+- Step 7 always runs last — even if previous steps were skipped.

@@ -64,9 +64,20 @@ If libro is complete:
 
 If libro is NOT complete → skip this step entirely. Do not mention it.
 
+### Step 5 — Commit and push
+
+Run `git status`. Show changed files.
+Propose commit message:
+```
+session: cap [X] — [one-line summary of what was written]
+```
+Ask: "¿Hacemos commit y push?"
+If confirmed → `git add -A && git commit -m "[message]" && git push origin master`.
+
 ## Rule
 
 Never auto-apply any step. Each requires explicit user confirmation.
 Step 3 is optional — not every chapter establishes new canon.
 Step 4 is conditional — only runs if final chapter detected or confirmed.
+Step 5 always runs last — even if previous steps were skipped.
 Step 0 is mandatory — never skip it.
