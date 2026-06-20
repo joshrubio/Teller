@@ -69,13 +69,3 @@ File naming: `Capitulo X.md` — exceptions: Cap 1 = `Capitulo 1 — Arco 1.md`,
 | 35 | Irrupción | `Capitulo 35.md` | Oliver/Tomás | Oliver, Tomás, Kaspar, Park, Riku | Tomás penetra muro norte. 5 frentes. Kaspar ofrece salida. Oliver rechaza. |
 | 36 | Decisión | `Capitulo 36.md` | Oliver/Sisi/Voss | Oliver, Sisi, Kaspar, Voss, Pier, Asha, Dara, Nadia, Petra, Lev, Sabine | "Me quedo." Sisi sale. Lucha colonia. "Todavía a tiempo." "Vuelve." Sin respuesta. |
 | 37 | Epílogo | `Capitulo 37.md` | Oliver | Oliver, Voss, Maren, Park, Riku, Pier | 47 min. 3 ausencias planificadas. "Falla de velocidad." Oliver omite el cuándo a Voss. → Sion. |
-
----
-
-## Spinoff: By Strength Alone
-
-Manuscript root: `D:\Writting\Ledger of Domains - By Strength Alone\`
-
-| Cap | Title | File | POV | Key characters | Summary |
-|---|---|---|---|---|---|
-| BSA 1 | 1952 | `Capitulo 1.md` | Park | Park, Holt, Hendricks | Park llega a Hartford post-Grayhaven. Lee el expediente de 1952 (14 veces). Briefing de rotación. Descubre código `1952-HFD-S / PROTOCOLO EU-GINEBRA` en archivos Hartford y Webb. Silueta en sector norte. Alarma activa la base. |

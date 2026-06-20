@@ -1,9 +1,9 @@
 ---
-id: threads-bsa
+id: threads
 type: plot-threads
-project: ledger-of-domains
+project: by-strength-alone
 module: plot
-tags: [bsa, open-threads, mysteries]
+tags: [open-threads, mysteries, bsa]
 updated: 2026-06-20
 ---
 
@@ -52,6 +52,6 @@ Hartford file pages 74+: 43 pages classified under EU-Ginebra. Park has 3 pendin
 2. Apéndice C del testimonio de S-0
 3. Correspondencia completa AMAT-EU, primeras 48h del evento
 
-Note: Holt has clearance for this section but filed a review request 12 years ago — never processed. Clearance exists; access effectively blocked.
+Note: Holt has clearance for this section but filed a review request 12 years ago — never processed.
 
 **Status:** requests pending. Unresolved through BSA Cap 1.

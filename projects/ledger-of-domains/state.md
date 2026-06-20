@@ -52,32 +52,12 @@ Open threads that feed Libro 2 (load `plot/arcs.md` → "Open threads"):
 - [ ] POV: Oliver or Voss for the opening cap?
 - [ ] First beat: immediate aftermath or timeskip?
 
+
 ---
 
-## Spinoff: By Strength Alone
+## Spinoff
 
-| | |
-|---|---|
-| **Status** | En progreso — BSA Cap 1 |
-| **Last written** | BSA Cap 1 — 1952 |
-| **Next** | BSA Cap 2 |
-| **Protagonist** | Park Jun-ho |
-| **Timeline** | Parallel to Libro 1, Arcs 2–3 |
-| **Span** | Post-Grayhaven (Hartford) → convocatoria a Valais (Cap 20) |
-| **Voice file** | `voice/style.md → ## By Strength Alone` |
-| **Themes file** | `themes/writing-rules.md → ## By Strength Alone` |
-| **Plot file** | `plot/arcs-bsa.md` (pending) |
-
-### Where we are (BSA)
-
-Park llega a Hartford dos días después de Grayhaven. Lee el expediente de 1952 (catorce veces), asiste al briefing de rotación con Holt y Hendricks. Descubre que el código de clasificación `1952-HFD-S / PROTOCOLO EU-GINEBRA` aparece también en el expediente de Oliver Webb — conexión sin explicación. Esa noche ve una silueta en el sector norte. La silueta desaparece. La alarma activa la base.
-
-### Next chapter plan (BSA Cap 2)
-
-- Equipo de exploración despliega al sector norte
-- Park sigue afuera o se incorpora — decisión pendiente
-- Open thread: ¿qué (o quién) era la silueta?
-- Open thread: ¿tiene la alarma relación directa con lo que Park vio o es coincidencia?
+Ver proyecto `by-strength-alone/` — estado independiente con `parent-project: ledger-of-domains`.
 
 ---
 

@@ -1,14 +1,14 @@
 ---
-id: arcs-bsa
+id: arcs
 type: plot
-project: ledger-of-domains
+project: by-strength-alone
 module: plot
-tags: [structure, arcs, beats, by-strength-alone, park, spinoff]
-load-with: [characters/park, characters/ki-yeon, characters/ji-ho, system/strength, bestiary/classification]
-updated: 2026-06-19
+tags: [structure, arcs, beats, park]
+load-with: [shared-characters/park, shared-characters/ki-yeon, shared-characters/ji-ho]
+updated: 2026-06-20
 ---
 
-# Plot: Arcs — By Strength Alone (spinoff)
+# Plot: Arcs — By Strength Alone
 
 ## Dramatic question
 
@@ -35,13 +35,13 @@ Para alguien cuyo Domain *es* la fuerza — F = ma, masa y aceleración como var
 
 ## Arc 1 — Hartford
 
-**Mission:** M4. Zona impregnada por el Principado de 1952 — el Principado se retiró, pero dejó el Odem local saturado. Genera Potestades Nivel 3–4 periódicas. AMAT-NA mantiene perímetro bajo cobertura de remediación ambiental. Park llega con equipo a contener una Potestad activa.
+**Mission:** M4. Zona impregnada por el Principado de 1952 — el Principado se retiró, pero dejó el Odem local saturado. Genera Potestades Nivel 3–4 periódicas. AMAT-NA mantiene perímetro bajo cobertura de remediación ambiental.
 
 **Key beats:**
-- Apertura: restos del encuentro con el Principado de 1952 — no el Principado, sino lo que dejó. Establecer que Hartford es cicatriz, no amenaza activa.
+- Apertura: restos del evento de 1952 — no el Principado, sino lo que dejó. Hartford es cicatriz, no amenaza activa.
 - La Potestad activa viola lo que el protocolo predijo. Park ve la discrepancia antes que el equipo.
 - Park actúa contra protocolo. Funciona. Crédito compartido — no es resolución limpia.
-- Cierre: victoria sin nombre propio. Primera articulación de la pregunta.
+- Cierre: victoria sin nombre propio. Primera articulación de la pregunta del arco.
 
 **Dramatic arc question:** ¿Es fuerza saber cuándo el protocolo está equivocado y actuar de todas formas?
 
@@ -84,7 +84,7 @@ Para alguien cuyo Domain *es* la fuerza — F = ma, masa y aceleración como var
 
 **Key beats:**
 - Cartwright presente desde el inicio con autoridad operativa, no solo observacional.
-- La misión tiene un coste específico — algo o alguien que Park no puede preservar para ganar. No protocolo: coste real.
+- La misión tiene un coste específico — algo o alguien que Park no puede preservar para ganar.
 - Park cruza la línea. Gana. Rango 2.
 - Lo que queda: la victoria es real. El coste también. Park decide qué hace con eso.
 
@@ -94,13 +94,13 @@ Para alguien cuyo Domain *es* la fuerza — F = ma, masa y aceleración como var
 
 ## Arc 5 — Caracas / Venezuela
 
-**Mission:** M8. Interior de Venezuela, semanas antes de lo mostrado en Libro 1 Cap 19 (Yara Montiel). Lo que debería ser una Potestad estándar no lo es — las lecturas no encajan, el comportamiento no sigue el patrón de ningún Nivel documentado.
+**Mission:** M8. Interior de Venezuela, semanas antes de Libro 1 Cap 19 (Yara Montiel). Lo que debería ser una Potestad estándar no lo es — las lecturas no encajan, el comportamiento no sigue ningún Nivel documentado.
 
 **Key beats:**
 - Setup: misión clasificada como Nivel 3. Park llega con equipo mínimo.
 - Las anomalías no cuadran. Park empieza a leer el patrón real — esto no es una Potestad generada. Es algo que impregna.
-- Evidencia de Principado activo — posiblemente el mismo de Hartford, décadas después de retirarse de Connecticut. AMAT no lo confirma. Park no puede probarlo.
-- Cierre: la misión se resuelve en el nivel aparente (la Potestad contenida). Lo que Park vio debajo: sin resolver. Teaser de la saga mayor.
+- Evidencia de Principado activo — posiblemente el mismo de Hartford. AMAT no lo confirma. Park no puede probarlo.
+- Cierre: misión resuelta en el nivel aparente. Lo que Park vio debajo: sin resolver. Teaser de la saga mayor.
 - La llamada a Valais llega antes de que pueda reportar lo que realmente encontró.
 
 **Dramatic arc question:** ¿Es fuerza la que funciona frente a algo que está fuera de escala?
@@ -111,7 +111,7 @@ Para alguien cuyo Domain *es* la fuerza — F = ma, masa y aceleración como var
 
 Empalme con Libro 1 Cap 20. Park recibe la llamada de Voss. El lector de BSA sabe lo que Park no sabe todavía: fue colocado por Voss, no asignado por AMAT-NA. Lo que Park cree que es un nuevo destino es otra cosa.
 
-Cierre del spinoff en el momento en que abre el Libro 1, Arc 3.
+Cierre del spinoff en el momento en que abre Libro 1, Arc 3.
 
 ---
 

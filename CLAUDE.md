@@ -4,12 +4,19 @@
 
 1. Scan `projects/` directory — list all subdirectory names.
 2. Read `projects/[active-project]/state.md` only — do NOT read other projects' state.md.
-3. Output the welcome block below. Do this unprompted, before anything else.
+3. If `state.md` has `parent-project:` field, note it — shared nodes (characters, world) live in the parent project folder. Do NOT auto-load them; load on demand when writing.
+4. Output the welcome block below. Do this unprompted, before anything else.
 
 Do NOT read `manifest.md` on session start — only load it if the user asks about terminology or the system itself.
 
-**Active project:** `ledger-of-domains`
-**Active spinoff:** `by-strength-alone` — Park Jun-ho POV, Hartford → Valais. Voice: `voice/style.md → ## By Strength Alone`. Themes: `themes/writing-rules.md → ## By Strength Alone`. Plot: `plot/arcs-bsa.md` (pending).
+**Active project:** `by-strength-alone`
+
+### parent-project rule
+
+When a project's `state.md` declares `parent-project: [id]`, the `load:` block in that file is authoritative:
+- Load `voice`, `themes`, `plot`, `threads` from the paths listed under `load:` — not from the parent.
+- Load characters and world nodes from `shared-characters:` and `shared-world:` paths when the scene requires them.
+- Never load voice or themes from the parent project — those are for the parent's own books only.
 
 ### Welcome block format
 
