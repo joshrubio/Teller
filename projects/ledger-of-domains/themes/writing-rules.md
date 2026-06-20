@@ -39,3 +39,4 @@ Do not underline the weight of irreversible decisions with excessive internal na
 ## Loyalty rule
 
 Affection is almost always oblique. Do not name what characters feel toward each other — show what they do instead. The reader carries the weight.
+

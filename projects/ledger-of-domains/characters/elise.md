@@ -26,6 +26,7 @@ updated: 2026-06-18
 | **Outcome** | Not stated. Kaspar did not tell Oliver. |
 | **Current status** | Unknown — possibly alive, ~49–56 years old (2026 in-universe) |
 | **AMAT record** | Trabajó para Ginebra 11 años. Retirada ~2014 por razones médicas no documentadas. |
+| **Estado actual** | Consultora en Centro Lemán ("El Quai"). Domain degradado — ya no aguanta lectura activa sostenida, pero puede hacer evaluaciones cortas de casos que los evaluadores estándar no pueden clasificar. Presencia semi-permanente en la instalación. |
 
 ## Elise = Caso 3 (canon)
 

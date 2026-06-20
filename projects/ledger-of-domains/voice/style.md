@@ -5,10 +5,12 @@ project: ledger-of-domains
 module: voice
 tags: [style, editorial-rules, ai-detection]
 load-with: []
-updated: 2026-06-17
+updated: 2026-06-19
 ---
 
 # Narrative Style
+
+## Libro 1
 
 ## Voice and register
 
@@ -67,3 +69,4 @@ updated: 2026-06-17
 - Attribution verb lowercase after closing em-dash.
 - Interrupted speech ends with `—`, no punctuation after.
 - Prefer `dijo`, `respondió`, `preguntó` — avoid elaborate attribution verbs unless register demands it.
+

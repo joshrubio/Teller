@@ -1,7 +1,5 @@
 # Teller — Claude Code Instructions
 
-**Active project:** `ledger-of-domains`
-
 ## On session start
 
 1. Scan `projects/` — list subdirectory names.
@@ -33,6 +31,13 @@
 Status rules: in-progress → `En progreso — Cap X` · complete + next-book-initialized:false → `Completo — Book N+1 no iniciado` · complete → `Completo` · concept → `Concepto`
 
 Do NOT read `manifest.md` on session start.
+
+## parent-project rule
+
+When a project's `state.md` declares `parent-project: [id]`, the `load:` block in that file is authoritative:
+- Load `voice`, `themes`, `plot`, `threads` from the paths listed under `load:` in the project's own folder — not from the parent.
+- Load characters and world nodes from `shared-characters:` and `shared-world:` paths only when the scene requires them.
+- Never load voice or themes from the parent project — those belong to the parent's own books.
 
 ## Routing
 

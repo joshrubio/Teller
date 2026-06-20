@@ -47,10 +47,17 @@ Open threads that feed Libro 2 (load `plot/arcs.md` → "Open threads"):
 
 ## Planning checklist for Cap 38
 
-- [ ] Establish Libro 2 setting (Sion? Pier's property? new location?)
+- [x] Establish Libro 2 setting → **Centro Lemán / El Quai** (villa Belle Époque, acceso privado lago Lemán, Riviera vaudoise entre Lausana y Montreux). Instalación secundaria AMAT-EU, función de tránsito pre-clearance. Ver `world/instalacion-ginebra.md`.
 - [ ] Decide which open thread leads the first chapter
 - [ ] POV: Oliver or Voss for the opening cap?
 - [ ] First beat: immediate aftermath or timeskip?
+
+
+---
+
+## Spinoff
+
+Ver proyecto `by-strength-alone/` — estado independiente con `parent-project: ledger-of-domains`.
 
 ---
 
