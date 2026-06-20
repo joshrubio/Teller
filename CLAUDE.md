@@ -5,7 +5,7 @@
 ## On session start
 
 1. Scan `projects/` — list subdirectory names.
-2. Read `projects/ledger-of-domains/state.md`.
+2. Read `state.md` for EVERY project folder found.
 3. Output welcome block (unprompted):
 
 ```
