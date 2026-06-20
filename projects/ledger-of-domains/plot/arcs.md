@@ -102,7 +102,7 @@ updated: 2026-06-17
 | 34 | Vecindad | Oliver/Sisi | Sisi confronta su régimen diferente. Oliver promete averiguar — retiene info de la plaza y no llama a Park. Ambas omisiones reconocidas como autojustificación |
 | 35 | Irrupción | Oliver/Tomás | Tomás penetra el muro norte. 5 frentes simultáneos. Kaspar a Oliver: oferta renovada. Oliver rechaza. Corre al ala residencial |
 | 36 | Decisión | Oliver/Sisi/Voss | Oliver entrega respuesta de Voss. Sisi ya sabe — usó el Domain. "Me quedo" → Sisi sale. Sisi/Kaspar: "¿Qué me pasa a mí?" / "No lo sé." Lucha colonia. "Todavía a tiempo." Oliver: "Vuelve." Sin respuesta. Sisi cruza |
-| 37 | Epílogo | Oliver | 47 minutos. Maren: 3 ausencias planificadas. Voss: "falla de velocidad, no de seguridad." Oliver divulga contenido de Kaspar (Elise, 11 años) pero omite el cuándo (9 días de banco). Centro sellado → Sion |
+| 37 | Epílogo | Oliver | 47 minutos. 3 ausencias: Sisi (cruzó con Kaspar/Tomás), Lev y Sabine (partida planificada). Kaspar dejó nota en habitación de Oliver (Elise, 11 años). Voss: "falla de velocidad, no de seguridad." Oliver divulga qué pero omite cuándo. Centro sellado. Destino `[DESTINO]` — open. |
 
 ---
 

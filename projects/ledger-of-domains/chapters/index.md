@@ -68,4 +68,4 @@ File naming: `Capitulo X.md` — exceptions: Cap 1 = `Capitulo 1 — Arco 1.md`,
 | 34 | Vecindad | `Capitulo 34.md` | Oliver/Sisi | Oliver, Sisi | Sisi confronta su régimen. Oliver promete — retiene la plaza y no llama a Park. |
 | 35 | Irrupción | `Capitulo 35.md` | Oliver/Tomás | Oliver, Tomás, Kaspar, Park, Riku | Tomás penetra muro norte. 5 frentes. Kaspar ofrece salida. Oliver rechaza. |
 | 36 | Decisión | `Capitulo 36.md` | Oliver/Sisi/Voss | Oliver, Sisi, Kaspar, Voss, Pier, Asha, Dara, Nadia, Petra, Lev, Sabine | "Me quedo." Sisi sale. Lucha colonia. "Todavía a tiempo." "Vuelve." Sin respuesta. |
-| 37 | Epílogo | `Capitulo 37.md` | Oliver | Oliver, Voss, Maren, Park, Riku, Pier | 47 min. 3 ausencias planificadas. "Falla de velocidad." Oliver omite el cuándo a Voss. → Sion. |
+| 37 | Epílogo | `Capitulo 37.md` | Oliver | Oliver, Voss, Maren, Park, Riku, Pier, Dara | 47 min. 3 ausencias: Sisi (con Kaspar/Tomás), Lev y Sabine (planificadas). Nota de Kaspar a Oliver (Elise). "Falla de velocidad." Oliver omite cuándo a Voss. Destino open `[DESTINO]`. |

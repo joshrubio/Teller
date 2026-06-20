@@ -39,7 +39,6 @@ Cedes arguments he's going to lose before finishing them. Calculates the cost of
 ## Canonical gestures / behaviors (Cap 11)
 
 <!-- canonical -->
-- Encoge un hombro when conceding a point or deferring.
 - Consults the localizador without looking up when answering secondary questions — focus stays on primary task.
 - Mentions the perimeter's age unprompted in initial briefings. Not nostalgia — orientation.
 

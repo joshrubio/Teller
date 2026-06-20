@@ -39,6 +39,20 @@ Pragmático. Protecteur cuando conviene. Cinismo entrenado. Seco, económico. Ad
 - La pausa antes de responder no es duda: es filtrado.
 - Sus descripciones de Domain en texto: **intuitive**, not theoretical. (Pier = theoretical.)
 
+## Two internal narration layers (BSA — established Cap 1)
+
+Park has two distinct modes when the narrator enters his perspective:
+
+**Layer 1 — Physical/detective:** anchors to what Park observes — angles, proportions, data, consequence. Arrives at conclusions through accumulated specifics.
+
+**Layer 2 — Institutional voice internalized:** Park reasons in AMAT's vocabulary, the language of the institution he has carried since childhood. Rhetorical, cumulative, scales from the specific to the civilizational. Reveals emotional state obliquely through three mechanisms:
+
+- **By omission:** what Park rules out reveals what he considered. *"No por manía, tampoco por compulsión. Sino por miedo, o más bien, certeza."*
+- **By deduction:** which conclusion he reaches — and how fast — reveals his biases. Park arrives at "this is not a Potestad" before anyone else in the building.
+- **By preference:** when two equally valid readings exist, which one Park commits to is the character. Never stated — enacted.
+
+This layer never names the emotional state directly. It circles it until the reader deduces it. The institutional vocabulary is the distance that makes the revelation land.
+
 ## Canonical gestures
 
 <!-- canonical -->

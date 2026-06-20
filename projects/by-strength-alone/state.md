@@ -23,8 +23,8 @@ updated: 2026-06-20
 
 | | |
 |---|---|
-| **Status** | En progreso — BSA Cap 1 |
-| **Last written** | BSA Cap 1 — 1952 |
+| **Status** | En progreso — BSA Cap 2 |
+| **Last written** | BSA Cap 1 — completo |
 | **Next** | BSA Cap 2 |
 | **Active arc** | Arc 1 — Hartford |
 
@@ -32,7 +32,7 @@ updated: 2026-06-20
 
 ## Where we are
 
-Park llega a Hartford ~1–2 semanas post-Grayhaven (M3). Lee el expediente de 1952 catorce veces. Asiste al briefing de rotación con Holt y Hendricks. Descubre que el código `1952-HFD-S / PROTOCOLO EU-GINEBRA` aparece tanto en archivos de Hartford como en el expediente de Oliver Webb — conexión sin explicación. Primera noche: ve silueta en sector norte. La silueta desaparece. Alarma activa la base.
+Cap 1 completo. Park usa su observación de la silueta como acceso legítimo al equipo de Exploración — trabaja dentro del protocolo, no contra él. Dentro del sector norte: movimiento simultáneo desde ángulos sin línea de visión entre sí. El localizador no registra nada. El agente de cierre muere estampado contra la fachada este — impacto alto, sin forma identificable, sin lectura. Park y el agente de punto solicitan extracción sin objetivo activo visible. Última línea: "El Apéndice B tenía veintitrés entradas."
 
 ---
 
@@ -41,7 +41,8 @@ Park llega a Hartford ~1–2 semanas post-Grayhaven (M3). Lee el expediente de 1
 **BSA Cap 2 — status: not planned.**
 
 Open threads entering Cap 2:
-- Alarma activada — equipo de exploración despliega al sector norte
-- Park afuera, entre el edificio movilizado y el sector vacío — ¿entra, se incorpora, o espera?
-- La silueta: ¿entidad generada por el imprint, o algo asociado al Principado original?
-- Solicitudes de acceso especial pendientes (3 días sin respuesta al inicio de Cap 1)
+- Park y agente de punto en sector norte: agente de cierre muerto, extracción pedida, sin lectura en localizador
+- Movimiento simultáneo desde múltiples ángulos — protocolo Hartford no tiene sección para esto
+- La silueta inicial vs. el ataque: ¿misma entidad o coordinadas?
+- Solicitudes de acceso especial pendientes (sin respuesta)
+- Código `1952-HFD-S / PROTOCOLO EU-GINEBRA`: Park no ha reportado la conexión con Oliver Webb a nadie en Hartford

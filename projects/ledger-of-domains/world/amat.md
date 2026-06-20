@@ -8,7 +8,15 @@ load-with: []
 updated: 2026-06-17
 ---
 
-# AMAT — Agency for the Monitorization of Anomalous Threads
+# AMAT — Agency for the Monitoring of Anomalous Threats
+
+## Name history
+
+| Period | Name | Phase |
+|---|---|---|
+| ~1720s–1883 | *(unnamed)* | Private epistolary network. Zinzendorf / Moravian Brethren as founding node. Framework: Ephesians 6:12. |
+| ~1883–1939 | **All Myths Are True** | Internal identifier only. No institutional structure. Geneva hub emerges during WWI. |
+| ~1939–1945 | **Agency for the Monitoring of Anomalous Threats** | Formally constituted during WWII. Geneva Director appointed. Field rank system established. |
 
 ## Character
 

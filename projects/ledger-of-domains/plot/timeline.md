@@ -14,6 +14,21 @@ In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 19 = January 2026 (Vene
 
 ---
 
+## Institutional pre-history
+
+> Sources below are canonical seeds — marked for deeper research before committing to manuscript.
+
+| Period | Event | Note |
+|---|---|---|
+| ~1720s–1760 | Count Zinzendorf founds the Moravian Brethren (Herrnhut, 1727). Network operates via private correspondence across Europe, Americas, Caribbean. Some members begin documenting anomalies through Ephesians 6:12 framework — Principados and Potestades as literal entities. No institutional name. | Investigate further |
+| 1755 | **Lisboa earthquake** (Nov 1, All Saints Day) — quake + firestorm + tsunami, ~30,000–50,000 dead in hours. Network identifies anomaly signature consistent with Principado activity. First coordinated documentation effort across multiple correspondents. Event becomes founding reference point. | Investigate further |
+| 1816 | **Year Without a Summer** — aftermath of Mount Tambora eruption (1815). Anomalous climate collapse across Northern Hemisphere. Network members present at **Lac Léman**, Switzerland — the lake that will later anchor El Quai. Event triggers internal debate about moving from documentation to intervention. No formalization yet. | Investigate further — Byron/Shelley circle at Lac Léman this summer; potential narrative contact with network members |
+| 1883 | **Krakatoa** — eruption in Indonesia. Blood-red skies globally for months. Network now spans multiple continents; correspondence volume peaks. First use of internal name: **AMAT — All Myths Are True.** Operational in name only — still no hierarchy, no field capacity. | Investigate further |
+| ~1914–1918 | WWI. Network provides anomaly intelligence to multiple parties — no formal allegiance. First field interventions documented. AMAT operates under "All Myths Are True" as internal identifier. Geneva correspondence hub established by proximity to Red Cross infrastructure. |  |
+| ~1939–1945 | WWII. Geneva chosen as institutional seat — Swiss neutrality, existing infrastructure, Red Cross cover model. **AMAT formally constituted: Agency for the Monitoring of Anomalous Threats.** First Geneva Director appointed. AMAT-EU as founding branch. Field agent rank system established. Cover model: private medical research institute. |  |
+
+---
+
 ## Pre-story
 
 | Period | Event |
@@ -74,7 +89,7 @@ In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 19 = January 2026 (Vene
 | Sisi confronts her different regime; Oliver promises to ask Voss | 34 | 9 days after Cap 33 |
 | Kaspar's irruption — Tomás penetrates north wall | 35 | Day 9 of silence |
 | Sisi departs with Kaspar and Tomás | 36 | |
-| Aftermath — Centro sealed; group moves to Sion | 37 | 47 min after irruption. Sabine + Lev: planned departure confirmed. |
+| Aftermath — Centro sealed; group departs | 37 | 47 min after irruption. Sabine + Lev: planned departure confirmed. Destino probable: El Quai (Centro Lemán). `[DESTINO]` open in ms. |
 
 ---
 

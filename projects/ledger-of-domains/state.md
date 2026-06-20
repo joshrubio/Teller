@@ -24,9 +24,19 @@ updated: 2026-06-17
 
 ## Where we are
 
-Libro 1 ends with Centro Valais sealed and the group moving to Sion. Sisi, Lev, and Sabine departed. Kaspar left a note (Elise, 11 years). Oliver told Voss the *content* of Kaspar's message but not the *when* — 9 days of bank. Voss doesn't know yet.
+Libro 1 ends with Centro Valais sealed. Irrupción: 47 minutos totales. 3 ausencias: Sisi (con Kaspar/Tomás, cruzó), Lev y Sabine (partida planificada — habitaciones vacías, camas hechas, aprovecharon el movimiento).
 
-Oliver chose to stay. That choice, and what it costs, is the engine of Libro 2.
+Destino del grupo: **El Quai (Centro Lemán) — probable.** Placeholder `[DESTINO]` en Cap 37 sin confirmar en manuscrito. Ver `world/instalacion-ginebra.md`.
+
+Kaspar dejó una nota en la habitación de Oliver: *"There was one before you. Her name was Elise. She made the same choice you made tonight, for reasons that were also good. I watched what happened to her over eleven years."*
+
+Oliver le dijo a Voss el *qué* (Elise, 11 años) pero no el *cuándo* (9 días de banco, la plaza). Voss dijo "cuando lleguemos, necesito que me cuentes todo" — carga más de lo que sabe.
+
+Voss declaró "falla de velocidad, no de seguridad" — irá en persona a Ginebra a aprobar metodología del grupo antes de fin de mes.
+
+Park propuso seguimiento largo plazo de Yusuf sin intercepción — Sisi es adulta que tomó decisión informada.
+
+Oliver eligió quedarse. Esa elección y su coste es el motor de Libro 2.
 
 ---
 
@@ -48,6 +58,7 @@ Open threads that feed Libro 2 (load `plot/arcs.md` → "Open threads"):
 ## Planning checklist for Cap 38
 
 - [x] Establish Libro 2 setting → **Centro Lemán / El Quai** (villa Belle Époque, acceso privado lago Lemán, Riviera vaudoise entre Lausana y Montreux). Instalación secundaria AMAT-EU, función de tránsito pre-clearance. Ver `world/instalacion-ginebra.md`.
+- [x] Decide destino del grupo → **El Quai (probable)**. Confirmar en manuscrito al escribir Cap 38.
 - [ ] Decide which open thread leads the first chapter
 - [ ] POV: Oliver or Voss for the opening cap?
 - [ ] First beat: immediate aftermath or timeskip?
