@@ -30,6 +30,7 @@ Path pattern: `projects/[project]/[module]/[node-id].md`
 | `projects/ledger-of-domains/themes/` | themes | Thematic framework, motifs |
 | `projects/ledger-of-domains/bestiary/` | bestiary | Potestades, anomaly classification |
 | `projects/ledger-of-domains/chapters/` | chapters | Chapter navigation index |
+| `projects/ledger-of-domains/notes.md` | notes | Writing process journal |
 
 ## Bundles
 
@@ -42,3 +43,4 @@ Path pattern: `projects/[project]/[module]/[node-id].md`
 | `bundles/write/action.md` | Write action / Domain-use scenes | User-invoked or agent-inferred |
 | `bundles/write/introspection.md` | Write introspective / internal scenes | User-invoked or agent-inferred |
 | `.claude/commands/session-close.md` | End-of-session protocol — update state, chapters index, offer update-nodes, commit + push | `/session-close` slash command or agent-prompted |
+| `.claude/commands/notes.md` | Writing process journal — create, add entry, edit entry | `/notes` |

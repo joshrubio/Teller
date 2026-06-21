@@ -23,6 +23,7 @@
 | Cerrar sesión | `/session-close` |
 | Nuevo libro | `/new-book N` |
 | Nueva obra | `/new-project [nombre]` |
+| Notas de proceso | `/notes` |
 
 ---
 [title] — [1 sentence status]. [1 sentence next step / open threads].
@@ -51,6 +52,7 @@ When a project's `state.md` declares `parent-project: [id]`, the `load:` block i
 | `/session-close` | `.claude/commands/session-close.md` |
 | `/new-book` | `.claude/commands/new-book.md` |
 | `/new-project` | `.claude/commands/new-project.md` |
+| `/notes` | `.claude/commands/notes.md` |
 
 After delivering a complete chapter, end with:
 > "Cap [X] completo. Ejecuta `/session-close` para cerrar la sesión."
