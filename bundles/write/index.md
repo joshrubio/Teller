@@ -26,6 +26,7 @@ Parent task. Infers sub-task from scene description, or user calls a sub-task di
 ## Default context (always, no exceptions)
 
 - `projects/[project]/state.md` — active chapter, next step, open threads
+- `projects/[project]/voice/style.md` — narrative voice, rhythm, POV rules
 
 Nothing else loads automatically.
 
