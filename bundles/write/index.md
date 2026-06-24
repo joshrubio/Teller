@@ -1,7 +1,7 @@
 ---
 type: bundle
 task: write
-updated: 2026-06-17
+updated: 2026-06-21
 ---
 
 # Bundle: Write
@@ -23,13 +23,28 @@ Parent task. Infers sub-task from scene description, or user calls a sub-task di
 - Solo POV, no dialogue, no combat → `introspection`
 - Scene mixes types → load multiple sub-task bundles
 
-## Always load first (before sub-task)
+## Default context (always, no exceptions)
 
-- `projects/[project]/voice/style.md`
-- `projects/[project]/themes/writing-rules.md`
+- `projects/[project]/state.md` — active chapter, next step, open threads
 
-Then load character-specific POV: each character node declares `load-with: [voice/pov-[id]]` — follow those links.
-Do NOT load `voice/index.md` or `themes/index.md` globally — too broad.
+Nothing else loads automatically.
+
+## Demand-driven loading
+
+Load a node only when one of these is true:
+
+1. **User declares it upfront** — "escribe cap X, necesito a Oliver y Voss" → load those nodes immediately.
+2. **Scene requires it** — agent hits a moment needing a specific node (character voice, Domain rule, location detail). Agent pauses and asks: "Necesito el nodo de [X] para esta escena. ¿Lo cargo?" User says yes/no/provides inline.
+3. **User asks mid-write** — "¿cómo reacciona Kaspar aquí?" → load `characters/kaspar.md` before answering.
+
+Never load `voice/style.md`, `themes/`, or character nodes speculatively. Load only when the scene demands it.
+
+## Inline provision (skip the load)
+
+User can provide context inline instead of loading a node:
+> "Voss habla frío, clínico, nunca levanta la voz"
+
+Agent uses that. No node load needed.
 
 ## After delivering a complete chapter
 

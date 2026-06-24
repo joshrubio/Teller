@@ -44,7 +44,7 @@ When a project's `state.md` declares `parent-project: [id]`, the `load:` block i
 
 | User input | Load |
 |---|---|
-| `escribe` / `continúa con el cap` | `bundles/write/index.md` → character nodes via load-with |
+| `escribe` / `continúa con el cap` | `bundles/write/index.md` — loads on demand only |
 | `planifiquemos` / `planifica` / `planning` | `bundles/plan.md` |
 | `edita` / `revisa` / `quiero editar` | `bundles/edit.md` |
 | `verifica continuidad` | `bundles/continuity-check.md` |
