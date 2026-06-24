@@ -31,6 +31,13 @@ Reyes himself describes it without alarm: *"Todo se mueve. Los edificios, el sue
 
 Calibrating. Observes before speaking. Describes what he senses without dramatizing it — symptom-reporting register even under novel conditions. First Hartford assignment: processes the difference between briefings and first-hand zone exposure in real time without visible distress.
 
+## Canonical moments (BSA Cap 2)
+
+<!-- canonical -->
+- Llega con equipo de extracción. Menos de 40 segundos en sector norte — ya recalibrando. Ajuste de peso de un pie al otro: Domain procesando señal excesiva del suelo saturado.
+- Primera lectura de la Saturación: "No viene de un punto. Está en todo el suelo. Como si el sector fuera ella."
+- Cap 2 es su primera misión de campo en Hartford documentada.
+
 ## Canonical moments (Cap 11)
 
 <!-- canonical -->

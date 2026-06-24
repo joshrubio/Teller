@@ -10,7 +10,7 @@ load:
   threads: projects/by-strength-alone/plot/threads.md
   shared-characters: projects/ledger-of-domains/characters/
   shared-world: projects/ledger-of-domains/world/
-updated: 2026-06-20
+updated: 2026-06-24
 ---
 
 # Project State — By Strength Alone
@@ -23,26 +23,27 @@ updated: 2026-06-20
 
 | | |
 |---|---|
-| **Status** | En progreso — BSA Cap 2 |
-| **Last written** | BSA Cap 1 — completo |
-| **Next** | BSA Cap 2 |
+| **Status** | En progreso — BSA Cap 3 |
+| **Last written** | BSA Cap 2 — completo |
+| **Next** | BSA Cap 3 |
 | **Active arc** | Arc 1 — Hartford |
 
 ---
 
 ## Where we are
 
-Cap 1 completo. Park usa su observación de la silueta como acceso legítimo al equipo de Exploración — trabaja dentro del protocolo, no contra él. Dentro del sector norte: movimiento simultáneo desde ángulos sin línea de visión entre sí. El localizador no registra nada. El agente de cierre muere estampado contra la fachada este — impacto alto, sin forma identificable, sin lectura. Park y el agente de punto solicitan extracción sin objetivo activo visible. Última línea: "El Apéndice B tenía veintitrés entradas."
+Cap 2 completo. Primer contacto directo con la Saturación. Park esquiva con eje cadera-rodilla-tobillo, acusa tensión tendón lateral rodilla derecha. Equipo Hendricks llega: Reyes confirma que la entidad está "en todo el suelo", Hendricks activa campo de supresión (la fija, el localizador empieza a registrarla), Morales no logra contacto, Brandt lanza implosión — absorbida parcialmente. La Saturación dispersa voluntariamente. Sangre queda en el asfalto. Sistema no puede cerrar el log — sin firma, sin entrada en catálogo. Ji-ho envía mensaje cifrado de cuatro palabras, sin contexto.
 
 ---
 
 ## Next chapter plan
 
-**BSA Cap 2 — status: not planned.**
+**BSA Cap 3 — status: not planned.**
 
-Open threads entering Cap 2:
-- Park y agente de punto en sector norte: agente de cierre muerto, extracción pedida, sin lectura en localizador
-- Movimiento simultáneo desde múltiples ángulos — protocolo Hartford no tiene sección para esto
-- La silueta inicial vs. el ataque: ¿misma entidad o coordinadas?
-- Solicitudes de acceso especial pendientes (sin respuesta)
-- Código `1952-HFD-S / PROTOCOLO EU-GINEBRA`: Park no ha reportado la conexión con Oliver Webb a nadie en Hartford
+Open threads entering Cap 3:
+- Sistema no puede catalogar a la Saturación — sin firma, sin entrada
+- La Saturación mostró consciencia: aprendizaje táctico en tiempo real, dispersión voluntaria
+- Reyes: "Está en todo el suelo" — implicaciones para el protocolo de perímetro
+- Ji-ho: mensaje cuatro palabras coreano, sin contexto, sin firma
+- Conexión Webb / EU-GINEBRA sin reportar a Holt
+- Rodilla izquierda y derecha acusaron coste — Park midió reservas: 40 min al inicio

@@ -19,7 +19,7 @@ updated: 2026-06-19
 | **Age** | 56 (BSA timeline) |
 | **Role** | AMAT-NA Hartford Division Head |
 | **Rank** | Rango 2 |
-| **Domain** | Passive Odem density reading — no combat application. Registers saturation gradients, concentration shifts, entity presence without active effort. Exceptional for zone management; useless in the field against active entities. |
+| **Domain** | Odem cartography — passive, continuous spatial map of all Odem in his vicinity. Not just density: position, movement direction, entity signatures, structural stability, saturation differentials. No activation required; always running. In standard environments, provides tactical intelligence of the highest order — he knows where every Odem-bearing entity is, how dense it is, how stable it is, without instruments. Exceptional for command and zone management; not field-applicable (diagnostic only, no offensive or defensive output). |
 
 ## Personality
 
@@ -49,3 +49,5 @@ Arc 1 (Hartford). Represents the institutional layer: the person who has kept th
 <!-- canonical -->
 - Does not go into the perimeter himself — Domain is diagnostic, not field-applicable.
 - The 1952 Hartford file: Holt has full access. Has never read the redacted section. His clearance level covers it but he filed a request to access it twelve years ago and was told the classification was under review. It has not been reviewed since.
+- Hartford-specific blind spot: the zone's ambient Odem saturation is his calibrated baseline after 14 years. His Domain reads differentials from that baseline — new entities, density shifts, entity signatures. The Saturación Potestad's blind spot: she IS the baseline. Composed of Hartford's residual Odem, she registers as zero differential. Outside Hartford, where baseline saturation is low, she would be an overwhelming signal on his map.
+- Outside Hartford in standard zones: his Domain would make him one of the most tactically valuable command assets in AMAT-NA. At Hartford, his Domain's precision is traded against the zone's camouflage effect on native-Odem entities.

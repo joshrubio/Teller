@@ -18,6 +18,12 @@ Para alguien cuyo Domain *es* la fuerza — F = ma, masa y aceleración como var
 
 ---
 
+## Full chapter-by-chapter plan
+
+See `plot/chapter-plan.md` — cap a cap, beats, cliffhangers, crossover notes.
+
+---
+
 ## Structure
 
 | Arco | Misión | Pregunta del arco | Caps estimados |

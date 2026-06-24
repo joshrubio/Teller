@@ -19,7 +19,7 @@ updated: 2026-06-19
 | **Age** | 38 (BSA timeline) |
 | **Role** | Hartford field team lead |
 | **Rank** | Rango 3 |
-| **Domain** | Signal blocking — suppresses the Odem broadcast range of active entities within a set radius. Prevents Potestades from expanding territory or sending distress signals to other concentrations. Passive accumulation; applied as a sustained field. |
+| **Domain** | Domain suppression field — generates a radius in which active channeling of Odem becomes progressively harder. At close range: near-total suppression of active Domain use. At distance: partial degradation. Does not affect passively accumulated Odem — only active channeling. Affects all entities within radius equally: Potestades, enemy agents, allies. Passive accumulation; applied as a sustained field once activated. |
 | **Time at Hartford** | Eleven years |
 
 ## Personality
@@ -57,5 +57,7 @@ Arc 1 (Hartford). Protocol counterweight to Park. Not a villain of the situation
 ## Notes
 
 <!-- canonical -->
-- Signal blocking Domain: does not require visual contact with the entity. Works within a defined radius around Hendricks's position.
+- Domain suppression field: does not require visual contact. Works within a defined radius around Hendricks's position; he does not need to know where entities are for the field to affect them.
+- The field suppresses active channeling, not accumulated passive Odem. This is why it stopped the Saturación entity's spatial phasing (active channeling) but not her force output on existing strikes (passively accumulated).
 - Has never been transferred despite opportunities. Chose Hartford because the work is contained, consistent, and doesn't require improvisation on most nights.
+- Tactical vulnerability: if the field drops because he loses concentration or is directly attacked, everything it was suppressing reactivates immediately.
