@@ -18,25 +18,27 @@ updated: 2026-06-19
 | **Full name** | Carlos Reyes |
 | **Age** | 22 (BSA timeline / Cap 11 timeline) |
 | **Rank** | Rango 4 |
-| **Domain** | Structural perception — feels movement through solid materials. Real-time mapping of what moves inside buildings and under asphalt. Passive reception; cannot be switched off. |
+| **Domain** | Substrate — channels Odem through solid materials (earth, concrete, metal structures). Can displace, compress, and use the substrate as a weapon. Sensing is a byproduct: Odem extended through solids returns with approximate density/presence readings. Not precision mapping — proximity signal. Passive background noise in Hartford's saturated zone is overwhelming. |
 | **Assignment** | First Hartford assignment (Cap 11) |
 
 ## Domain in practice
 
 Useful for locating entity objectives in dense urban environments. In the Hartford zone, the Odem saturation makes every building and every meter of asphalt register as active — constant low-level signal from the imprinted ground. Not painful. Loud. Hendricks's phrase for new Domain users in Hartford: "instrument that needs tuning."
 
-Reyes himself describes it without alarm: *"Todo se mueve. Los edificios, el suelo. No mucho, pero constante."*
+Reyes describes the zone's saturation without alarm: *"Todo se mueve. Los edificios, el suelo. No mucho, pero constante."* — the saturated Odem in Hartford's substrate registers as constant signal through his Domain, overwhelming the precision of his reads.
 
 ## Personality
 
 Calibrating. Observes before speaking. Describes what he senses without dramatizing it — symptom-reporting register even under novel conditions. First Hartford assignment: processes the difference between briefings and first-hand zone exposure in real time without visible distress.
 
-## Canonical moments (BSA Cap 2)
+## Canonical moments (BSA Cap 2 / Ledger Cap 11)
 
 <!-- canonical -->
-- Llega con equipo de extracción. Menos de 40 segundos en sector norte — ya recalibrando. Ajuste de peso de un pie al otro: Domain procesando señal excesiva del suelo saturado.
-- Primera lectura de la Saturación: "No viene de un punto. Está en todo el suelo. Como si el sector fuera ella."
-- Cap 2 es su primera misión de campo en Hartford documentada.
+- Llega con equipo completo. Menos de 40 segundos en sector norte — ya recalibrando. Ajuste de peso de un pie al otro: Domain procesando señal excesiva del sustrato saturado.
+- Primera lectura de la zona general: "Todo se mueve. Los edificios, el suelo. No mucho, pero constante." — señal de saturación ambiental, no de la Saturación específicamente.
+- Primera lectura de la Saturación: "No viene de un punto. Está en toda la zona. Como si el sector fuera ella." — Odem extendido encuentra densidad distribuida, no focal.
+- Cierre de la operación: "Ya no la siento moverse." — confirma retirada de la entidad via cambio en densidad del sustrato.
+- Primer Hartford es su primera misión de campo en zona de Principado documentada.
 
 ## Canonical moments (Cap 11)
 

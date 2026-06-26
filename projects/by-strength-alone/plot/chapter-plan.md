@@ -55,35 +55,53 @@ Alineación para la operación: seis en eliminación (Park entre ellos), tres ex
 
 ---
 
-### Cap 4 — *[título pendiente]*
+### Cap 4 — *Metamorfosis*
 
-La operación escala. La Potestad no usa el mapa defectuoso contra AMAT — su comportamiento es otro. Se mueve con una coherencia que las Potestades Nivel 3–4 no tienen. No reacciona como criatura territorial. Reconoce.
+**Apertura** (contenido trasladado de Cap 3): recalibración de localizadores — mapa de varianza interna, cuadrante noroeste. Lecturas del equipo: Holt / Hendricks / Reyes / Bauer / Osei / Park. Formación operativa. Contacto: sector sur, cuadrante interior — el mapa predecía noroeste. El equipo se mueve.
 
-El capítulo abre la pregunta: **¿qué son los Principados?** No como exposición — como inferencia que Park construye en tiempo real. Lo que las 43 páginas clasificadas bajo EU-GINEBRA probablemente contenían. La Potestad se comporta como fragmento de algo más grande que se fue pero dejó algo detrás.
+**Escalada**: La Saturación no explota la discrepancia cartográfica. No usa el error del equipo para atacar ni para escapar. Tiene un objetivo propio — Park lo ve antes que el resto. No reacciona al equipo: los evalúa, elige, actúa. El comportamiento no es de criatura territorial defendiendo espacio. Es coherente en un sentido que las Potestades generadas no tienen.
 
-**La silueta del Cap 1:** Park conecta la figura humanoide del sector norte con esto. Las Potestades no tienen esa presentación. Un Principado sí podría — o algo que un Principado dejó impregnado en el Odem local podría manifestar esa forma como eco. No certeza: lectura de patrón.
+**Inferencia de Park** (Layer 2 — voz institucional): qué son los Principados. No exposición — lectura de patrón en tiempo real. La Saturación no es una Potestad generada de la saturación ambiental. Es la saturación volviéndose agente. 72 años de Odem impregnado organizándose hacia la forma que el Principado tenía cuando pasó. La silueta del Cap 1 encaja: las Potestades no presentan forma humanoide. Algo que fue Principado sí podría. No certeza: inferencia con datos suficientes.
 
-Derrota parcial: el equipo pierde posición, un agente herido, la Potestad se retira (no huye — se retira). En la retirada, Park capta algo: la firma de dispersión tiene un nodo. Un punto que no se mueve aunque el resto sí. Posible núcleo, posible ancla a 1952.
+**Combate extendido**: múltiples intercambios. La Saturación aprende en tiempo real entre cada intercambio — ajuste táctico visible. Dominio de Hendricks la fija en forma coherente pero no la neutraliza. Bauer no puede descargar por encima del umbral. Osei no puede desplegar membrana amplia. Reyes proporciona lectura del sustrato en tiempo real pero el sustrato ES ella — información parcial. Park sostiene posición directa con la entidad, absorbe y redistribuye, pero el coste se acumula.
 
-*Cliffhanger: el nodo existe. Si es el ancla, neutralizarlo podría colapsar todo lo generado desde 1952 — o desestabilizar el sector norte de formas que el protocolo no tiene sección para contener.*
+**Cliffhanger**: tras varios intercambios la operación parece perdida. Dos o tres agentes heridos de gravedad. Uno dado por muerto — posición no respondida en canal, sin confirmación de extracción. Hendricks llama retirada táctica. La entidad no los sigue — lo cual es en sí mismo datos: no tiene instinto de persecución. Park se retira con el resto, pero en el último segundo registra algo en la firma de dispersión. Un detalle. No lo procesa todavía.
+
+*Cliffhanger: "Retirada. Todos fuera." — y la cuenta de quién no responde.*
 
 ---
 
 ### Cap 5 — *[título pendiente]*
 
-Stakes máximos del arco. El nodo implica que lo que Hartford ha estado conteniendo no es una Potestad periódica — es una sola entidad fragmentada que se ha estado regenerando. Cada operación exitosa era temporal; el núcleo permanecía.
+**Apertura — aftermath**: equipo en retirada. Bajas evaluadas. El agente dado por muerto — confirmación o no. Holt desde control, sin protocolo para lo que acaba de pasar. Hendricks recalcula.
 
-Park propone actuar sobre el nodo. El protocolo no cubre esto. Holt no puede autorizar lo que el manual no contempla. Hendricks entiende la lógica pero no puede ordenar lo que no está sancionado.
+**Primera mitad — reanálisis**: Park procesa el detalle que registró al final del Cap 4. La firma de dispersión tenía un nodo — un punto que no se movió mientras el resto se dispersaba. No en el sector sur donde ocurrió el combate. En el norte, más profundo. Si es el ancla del Odem organizado desde 1952, su función es sostener la coherencia de todo lo generado.
 
-Park actúa de todas formas. Cálculo, no heroísmo: tiene la inercia, tiene la lectura del patrón, y sabe que si no lo hace ahora el ciclo continúa.
+**El nodo como pregunta imposible**: el protocolo no cubre esto. Holt no puede autorizar lo que el manual no contempla. Hendricks entiende la lógica pero no puede ordenar lo que no está sancionado. La discusión es breve y llega al mismo lugar: nadie puede decirle a Park que lo haga. Nadie puede decirle que no lo haga.
 
-Funciona. El nodo colapsa. La firma de dispersión se desintegra. Hartford queda limpio.
+**CLÍMAX — mitad del capítulo**: Park actúa. Cálculo, no heroísmo: tiene la inercia, tiene la lectura del patrón, y sabe que si no lo hace ahora el ciclo continúa indefinidamente. El nodo está en el sector norte. Park entra solo.
 
-Victoria sin nombre propio: el crédito se distribuye operacionalmente, el protocolo absorbe el resultado como si siempre hubiera sido el plan.
+Lo que encuentra en el nodo no es lo que esperaba. No es solo un ancla de Odem. Es algo que tiene forma — la misma forma humanoide de la silueta del Cap 1 — y que no responde como la Saturación respondió en combate. Es más quieto. Más viejo. Park actúa de todas formas.
 
-Primera articulación de la pregunta del arco — no respondida, formulada.
+El nodo colapsa. La firma de dispersión se desintegra. Hartford queda sin lectura de varianza activa — limpio, por primera vez en 72 años.
 
-**Hilo sembrado:** el nodo de 1952 colapsó — pero Park vio su forma antes de que cayera. No era una Potestad. Era algo más viejo. Queda en Park como dato sin categoría.
+**Segunda mitad — aftermath y cierre del arco**: victoria sin nombre propio. El crédito se distribuye operacionalmente. El protocolo absorbe el resultado como si siempre hubiera sido el plan. Lo que Park hizo fuera de protocolo no aparece en el reporte de Hendricks de esa forma.
+
+Primera articulación de la pregunta del arco — no respondida, formulada. Park sale del sector norte y no dice lo que encontró en el nodo.
+
+**Hilo sembrado**: el nodo de 1952 colapsó — pero Park vio su forma antes de que cayera. No era una Potestad. Era algo más viejo. Queda en Park como dato sin categoría. Y los accesos a EU-GINEBRA siguen sin respuesta.
+
+---
+
+## NOTA ESTRUCTURAL — Pregunta del Arc 1
+
+**¿Es fuerza saber cuándo el protocolo está equivocado y actuar de todas formas?**
+
+No se responde en Arc 1 — se formula oblicuamente en Cap 6 (sustrato quieto, resultado sin atribución, Park lo archiva). Es la respuesta correcta para este arco: Hartford deja la pregunta flotando.
+
+Se recoge en Arc 2 sin nombrarla: Park opera delante de Ji-ho y su padre cargando lo que aprendió en Hartford sin poder decir cómo lo aprendió. La pregunta de Arc 1 resuena en el contexto de Arc 2 ("¿es fuerza ganar cuando alguien que podría hacerlo por ti te está mirando?") — ambas preguntas coexisten en Seoul.
+
+**Patrón BSA confirmado:** la pregunta de cada arco no se responde en ese arco. Se acumula. La respuesta a "¿qué es fuerza?" solo existe cuando tienes los cinco arcos completos.
 
 ---
 

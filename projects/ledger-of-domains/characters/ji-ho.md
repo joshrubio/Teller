@@ -36,3 +36,5 @@ Cap 11 (texto): Park recibe mensaje encriptado de canal no oficial. "GRH-094. Cl
 - Rango S ≠ posición administrativa. Sin cargo. Solo rendimiento.
 - Primera mención explícita: Cap 11 (manuscrito).
 - Central character in Seoul spinoff: "Ledger of Domains: By Strength Alone."
+- BSA Cap 2: sent a 4-word encrypted message to Park on non-official channel during or just after the first contact with Saturación. Content: "No es solo Hartford." No context, no signature. Park received it; processed it during Cap 3 drive-back from Grayhaven.
+- BSA Cap 6 (pending): Park reads the message again post-operation — now with the full weight of what Hartford was.

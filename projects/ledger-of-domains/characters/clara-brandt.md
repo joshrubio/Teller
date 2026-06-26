@@ -47,3 +47,6 @@ Arc 1 (Hartford). Second half of the Morales–Brandt pair. Cap 2: implosión la
 <!-- canonical -->
 - Eleven years at Hartford alongside Morales.
 - Described in Cap 2 as one of two "veteranas" Hendricks calls without instruction.
+- BSA Cap 4: Brandt-Morales coordination — Brandt interrupts surface coherence, Morales enters within the 2-second window. Entity learns the sequence and preempts: hits Morales mid-approach (fractures), ending the paired tactic.
+- BSA Cap 5 (north sector): entered with Park as combat partner. Launched implosion from left flank — entity redirected collapse into building behind Brandt (second floor fragmented). Brandt did not move.
+- BSA Cap 5 (decisive): launched second point-blank implosion from Park's right flank at the moment entity concentrated Odem to crush Park. The collapse radius could reach Brandt herself at that distance — she did it anyway. Entity was forced to redirect its field to Brandt (reaction, not choice), exposing the organizational center for Park's second Stage 3 kick. Extracted urgently with severe injuries; status unconfirmed end of Cap 5.

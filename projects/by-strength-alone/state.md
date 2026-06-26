@@ -23,27 +23,26 @@ updated: 2026-06-24
 
 | | |
 |---|---|
-| **Status** | En progreso — BSA Cap 3 |
-| **Last written** | BSA Cap 2 — completo |
-| **Next** | BSA Cap 3 |
-| **Active arc** | Arc 1 — Hartford |
+| **Status** | En progreso — BSA Cap 6 completo |
+| **Last written** | BSA Cap 6 — Limpieza |
+| **Next** | BSA Cap 7 |
+| **Active arc** | Arc 2 — Seoul (Korea) |
 
 ---
 
 ## Where we are
 
-Cap 2 completo. Primer contacto directo con la Saturación. Park esquiva con eje cadera-rodilla-tobillo, acusa tensión tendón lateral rodilla derecha. Equipo Hendricks llega: Reyes confirma que la entidad está "en todo el suelo", Hendricks activa campo de supresión (la fija, el localizador empieza a registrarla), Morales no logra contacto, Brandt lanza implosión — absorbida parcialmente. La Saturación dispersa voluntariamente. Sangre queda en el asfalto. Sistema no puede cerrar el log — sin firma, sin entrada en catálogo. Ji-ho envía mensaje cifrado de cuatro palabras, sin contexto.
+Cap 6 cierra Hartford. Cartwright aparece dos días después de la operación, toma el informe, y le da a Park acceso al expediente de Lisboa + traslado a Korea por petición del padre. Park re-lee el mensaje de Ji-ho con el peso acumulado de la operación y detecta el patrón: EU-GINEBRA, la isla de Korea y Lisboa apuntan a más casos como Hartford. Cap termina con Park saliendo del perímetro a las 06:47, Hartford desapareciendo del retrovisor.
 
 ---
 
 ## Next chapter plan
 
-**BSA Cap 3 — status: not planned.**
+**BSA Cap 7 — llegada a Seoul. Status: not planned.**
 
-Open threads entering Cap 3:
-- Sistema no puede catalogar a la Saturación — sin firma, sin entrada
-- La Saturación mostró consciencia: aprendizaje táctico en tiempo real, dispersión voluntaria
-- Reyes: "Está en todo el suelo" — implicaciones para el protocolo de perímetro
-- Ji-ho: mensaje cuatro palabras coreano, sin contexto, sin firma
-- Conexión Webb / EU-GINEBRA sin reportar a Holt
-- Rodilla izquierda y derecha acusaron coste — Park midió reservas: 40 min al inicio
+Open threads entrando a Cap 7:
+- EU-1755-PT en el expediente de Lisboa — sin resolver
+- Expediente de Lisboa: leído parcialmente por Park, sin cierre
+- Korea island: mismo patrón que Hartford — Park lo sospecha, no lo ha dicho a nadie
+- Brazo izquierdo en recuperación (semanas, depende del Domain)
+- Presión familiar: padre dirige la División Korea, Ji-ho observa, Kiki en eje paralelo

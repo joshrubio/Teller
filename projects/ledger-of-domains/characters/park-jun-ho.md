@@ -18,7 +18,7 @@ updated: 2026-06-17
 | **Full name** | Park Jun-ho |
 | **Age** | ~24 (approx. 2 years older than Oliver) |
 | **Appearance** | Cabello negro, liso, corto pero sin estructura marcada. Ojos marrón oscuro, expresión difícil de leer en reposo. Piel pálida — ascendencia coreana. 1.81 m, complexión atlética con musculatura definida (entrena de forma consistente; el Domain requiere cuerpo en forma — solo visible fuera de ropa). Sin marcas de edad a los 24. Cicatriz pequeña en el dorso de la mano derecha, origen no establecido. |
-| **Domain** | Strength — F = ma, joint-axis user (acceleration + mass simultaneously) |
+| **Domain** | Strength — F = ma. Primary axis: inercia (the "a" component) — passive accumulation and redirection of kinetic mass received from external sources. Full-form combines accumulated inertia with active Odem mass concentration simultaneously. Current ceiling: one full-form strike per operation. |
 | **Rank** | Agente de Campo Rango 4 al inicio → Rango 2 por Cap 19 |
 | **POV chapters** | 5–6, 11, 19, 20 (partial) |
 
@@ -117,6 +117,6 @@ Timeline: ~1–2 weeks post-Grayhaven. Park receives M4 assignment and downloads
 
 <!-- canonical -->
 - "Hasta hoy no había necesitado aplicarlo en campo" (Cap 3) refers to the specific desvinculación protocol (ancla→separar→colapso), NOT to facing Potestades generally. Park has prior field experience.
-- Never runs to "charge" the Domain. Accumulation is passive and has no visual signal.
+- Never runs to "charge" the Domain. Accumulation is passive, has no visual signal, and extends across time — reserve built over days persists into subsequent operations. In Hartford (BSA Arc 1), nearly two weeks of passive accumulation function as fuel entering the Cap 4–5 engagement.
 - Domain Stage 2 (passive visible accumulation): first shown Cap 21. Oliver reads it as a signature growing with no outlet.
-- Domain Stage 3 (active mass increase): not shown yet.
+- Domain Stage 3 (full F=ma — mass concentration + accumulated inertia simultaneously): first used BSA Cap 5, against Saturación's organizational center. The "a" component is the inertia accumulated across the entire Hartford engagement; the "m" component is Park's own Odem concentrated at the point of contact rather than distributed through the body. He cannot sustain both variables simultaneously for more than one strike at current level — after it, he has no Domain left for that operation. Prior real-combat attempt (pre-BSA) ended with both arms broken — imprecise Stage 3 execution damages the user structurally, not just depletes reserve.
