@@ -38,11 +38,21 @@ Cap 6 cierra Hartford. Cartwright aparece dos días después de la operación, t
 
 ## Next chapter plan
 
-**BSA Cap 7 — llegada a Seoul. Status: not planned.**
+**BSA Cap 7 — Seoul. Status: planificado.**
+
+Arc 2 completo planificado: Caps 7–13 (operativos) + Cap 14 (transición Seoul → Lisboa).
+
+Elementos nuevos de Arc 2:
+- **Chukgi (축기):** kata de acumulación pasiva de Odem — nombre propio, exclusiva de Fuerza/acumulación cinética
+- **Tejido activo / Clase-R (Refuerzo):** material AMAT infusado con Odem, acceso restringido, AMAT-KR mayor dotación
+- **Katana Kiki:** arma Odem-modificada — nombre TBD al escribir Cap 12
+- **Kiki:** media hermana de Park, Domain Fuerza dos fases, opuesto de Park (enérgica, girly, provocadora)
+- **Ji-ho físico:** basado en Toji Fushiguro — musculoso, presencia literal de Odem, daga extraña, sangre en primera aparición
 
 Open threads entrando a Cap 7:
 - EU-1755-PT en el expediente de Lisboa — sin resolver
 - Expediente de Lisboa: leído parcialmente por Park, sin cierre
-- Korea island: mismo patrón que Hartford — Park lo sospecha, no lo ha dicho a nadie
-- Brazo izquierdo en recuperación (semanas, depende del Domain)
+- Korea island: mismo patrón que Hartford — Park lo sospecha, no lo ha dicho a nadie; conoce la isla desde niño como "la operación de Korea"
+- Brazo izquierdo en cabestrillo (semanas, depende del Domain)
 - Presión familiar: padre dirige la División Korea, Ji-ho observa, Kiki en eje paralelo
+- Pregunta de Arc 1 no resuelta: ¿Es fuerza saber cuándo el protocolo está equivocado y actuar de todas formas?
