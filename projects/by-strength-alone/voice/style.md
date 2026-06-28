@@ -61,6 +61,20 @@ This layer must never name the emotional state directly. It circles it until the
 - Acción más frecuente, más directa, sin el peso contemplativo de Oliver.
 - Narrador más pegado al razonamiento que a la percepción sensorial.
 
+## Verb variety — Park's internal processing
+
+"Procesó" and "registró" are AI defaults when writing an analytical, contained character. Avoid repeating them. Alternatives per function:
+
+| What Park does | Options |
+|---|---|
+| Takes in data without reacting | *archivó / tomó nota / lo dejó pasar / lo anotó / no dijo nada* |
+| Does the math / weighs options | *consideró / calculó / midió / trazó / cerró el margen* |
+| Hears something that lands differently | *lo dejó reposar / algo en eso no cerró / tardó un segundo más en responder* |
+| Sees a pattern form | *las piezas cayeron / algo encajó / la lectura era clara* |
+| Decides not to engage | *no respondió / dejó pasar el silencio / no dio más* |
+
+Default: show the consequence of the thought, not the act of thinking. *"Lo que eso implicaba era—"* beats *"Park procesó lo que eso implicaba."*
+
 ## What stays the same
 
 - Vocabulario técnico exacto (nodos, Potestades, Rango, Domain).

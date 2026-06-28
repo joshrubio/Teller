@@ -23,22 +23,22 @@ updated: 2026-06-24
 
 | | |
 |---|---|
-| **Status** | En progreso — BSA Cap 6 completo |
-| **Last written** | BSA Cap 6 — Limpieza |
-| **Next** | BSA Cap 7 |
-| **Active arc** | Arc 2 — Seoul (Korea) |
+| **Status** | En progreso — BSA Cap 7 completo |
+| **Last written** | BSA Cap 7 — Seoul |
+| **Next** | BSA Cap 8 |
+| **Active arc** | Arc 2 — Seoul / Isla (Jeollanam-do) |
 
 ---
 
 ## Where we are
 
-Cap 6 cierra Hartford. Cartwright aparece dos días después de la operación, toma el informe, y le da a Park acceso al expediente de Lisboa + traslado a Korea por petición del padre. Park re-lee el mensaje de Ji-ho con el peso acumulado de la operación y detecta el patrón: EU-GINEBRA, la isla de Korea y Lisboa apuntan a más casos como Hartford. Cap termina con Park saliendo del perímetro a las 06:47, Hartford desapareciendo del retrovisor.
+Cap 7 abre Arc 2. Park llega a Seoul, visita la tumba de su madre, entra a la sede AMAT-KR por primera vez (edificio de 16 plantas, red de transporte propia). Dinámica con Kiki establecida — media-hermana, 17 años, Domain de masa, mitad japonesa, carácter opuesto a Park. A las 02:00 reunión con Park Taeho (padre, Director AMAT-KR): anuncia el traslado a la isla sin explicar el mecanismo Cartwright. Cliffhanger: "Ji-ho siguió la operación de Hartford. Desde aquí."
 
 ---
 
 ## Next chapter plan
 
-**BSA Cap 7 — Seoul. Status: planificado.**
+**BSA Cap 8 — La isla. Status: planificado.**
 
 Arc 2 completo planificado: Caps 7–13 (operativos) + Cap 14 (transición Seoul → Lisboa).
 
