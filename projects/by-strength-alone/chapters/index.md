@@ -30,3 +30,4 @@ File naming: `Capitulo X.md`
 | Cap | Title | File | POV | Key characters | Summary |
 |---|---|---|---|---|---|
 | 7 | Seoul | `Capitulo 7.md` | Park / Narrador | Park, Kiki, Park Taeho | Apertura Arc 2: historia AMAT-KR y suhojas, ontología del Odem en Korea, llegada Seoul, cementerio madre, primera escena con Kiki (dinámica establecida), reunión 2AM con Park Taeho — cliffhanger: Ji-ho siguió Hartford desde aquí. ~3.100 palabras. |
+| 8 | La isla | `Capitulo 8.md` | Park / Narrador | Park, Kiki, Ji-ho | Llegada a base Jeollanam-do, paseo con Kiki (sector 2 activo sin reportar), Ji-ho entra al briefing cubierto de sangre con daga, campfire con historias del Sampoong y Fukushima, cliffhanger: "¿Sabes cuánto tarda el sustrato en olvidar?" ~3.070 palabras. |

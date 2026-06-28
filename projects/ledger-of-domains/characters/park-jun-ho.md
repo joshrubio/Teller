@@ -102,6 +102,15 @@ This layer never names the emotional state directly. It circles it until the rea
 Misión "sencilla" fallida (Grayhaven) → responsabilidad por Oliver → confrontación con AMAT.
 Frustración/culpa post-Grayhaven se paga en Arco 3.
 
+## Childhood / Background
+
+<!-- canonical — BSA Cap 8 -->
+- Creció en un apartamento en Incheon.
+- Edad ~7–8: Ji-ho visitó el apartamento dos o tres veces. Visitas breves (menos de dos horas). Ji-ho traía comida y hablaba poco. El padre hablaba todavía menos cuando Ji-ho estaba en la sala — su propia forma de comunicar algo.
+- En esas visitas, Park notó que el apartamento "se hacía más pequeño" y que los adultos redistribuían su atención sin decidirlo. No tenía vocabulario para eso entonces. BSA Cap 8: lo identifica como la densidad de Odem de Ji-ho — la misma cualidad que sintió en el perímetro norte de Hartford.
+- Para el campfire de BSA Cap 8, Park tenía más información sobre Ji-ho de la historia contada por un agente mayor (caso Sampoong, 1995) que de todo el tiempo que habían pasado en el mismo espacio.
+- La isla de Jeollanam-do: conocida desde niño como "la operación de Korea" — referencia familiar sin contexto operativo hasta Arc 2.
+
 ## BSA Arc 1 — Hartford (M4)
 
 Timeline: ~1–2 weeks post-Grayhaven. Park receives M4 assignment and downloads the 1952 Hartford file immediately. Arrives ~2 days after the call.

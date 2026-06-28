@@ -156,7 +156,7 @@ La convocatoria a Seoul llega. Los accesos solicitados a EU-GINEBRA siguen sin r
 
 **Noche en la base:** recorrido del centro de operaciones en la isla — tiendas, cabañas, ~100+ operativos. Al anochecer: todos comen al aire libre cerca de la cabaña de cocina. Cultura coreana en la escena. Historia de Ji-ho: empezó joven, éxitos tempranos (conectar a evento histórico si es posible), posicionamiento como el más fuerte de AMAT. La gente lo ama — siempre rodeado, ríe, bromea, apuesta con los agentes, bebe. Park y Kiki orbitan. Park lleva todo el rato pensando en el mensaje de Ji-ho.
 
-**Cliffhanger:** Park y Ji-ho encuentran un momento a solas en medio de la multitud. Kiki presente pero no presta atención. Ji-ho dice algo — o no dice nada, y el silencio es el cliffhanger. TBD al escribir.
+**Cliffhanger:** Park y Ji-ho encuentran un momento a solas en medio de la multitud. Kiki presente pero no presta atención. Ji-ho pregunta algo sobre Hartford que nadie más le ha preguntado: *"¿Cuánto tiempo llevaba quieta cuando llegaste a ella?"* La conversación conduce a Park a articular sin quererlo que el Odem dispersado en el cráter no desaparece — queda en el sustrato. Ji-ho cierra con: *"¿Sabes cuánto tarda el sustrato en olvidar?"* Esa pregunta es el cliffhanger: implica que la respuesta es nunca, que los casos "resueltos" de AMAT son un mapa de lo que espera reorganizarse, y que Ji-ho lo sabe desde hace tiempo.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: park-father
+id: park-taeho
 type: character
 project: ledger-of-domains
 module: characters
@@ -9,16 +9,17 @@ load-with: [world/amat]
 updated: 2026-06-28
 ---
 
-# Park (Father) — Director AMAT-KR
+# Park Taeho (Father) — Director AMAT-KR
 
 ## Profile
 
 | | |
 |---|---|
 | **Name** | Park Taeho (박태호) |
+| **Age** | ~52 (born ~1974) |
 | **Role** | Director AMAT-KR — head of the Korean division |
 | **Rank** | Rango 1 — administrative authority, not field seniority |
-| **Family** | Father of Park Jun-ho (Park's mother deceased). Father of Ki-yeon / Kiki (different mother). |
+| **Family** | Older brother of Park Ji-ho (~4 years). Father of Park Jun-ho (mother deceased). Father of Ki-yeon / Kiki (different mother). |
 
 ## Physical description
 

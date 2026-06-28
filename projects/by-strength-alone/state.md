@@ -10,7 +10,7 @@ load:
   threads: projects/by-strength-alone/plot/threads.md
   shared-characters: projects/ledger-of-domains/characters/
   shared-world: projects/ledger-of-domains/world/
-updated: 2026-06-24
+updated: 2026-06-28
 ---
 
 # Project State — By Strength Alone
@@ -23,22 +23,22 @@ updated: 2026-06-24
 
 | | |
 |---|---|
-| **Status** | En progreso — BSA Cap 7 completo |
-| **Last written** | BSA Cap 7 — Seoul |
-| **Next** | BSA Cap 8 |
+| **Status** | En progreso — BSA Cap 8 completo |
+| **Last written** | BSA Cap 8 — La isla |
+| **Next** | BSA Cap 9 |
 | **Active arc** | Arc 2 — Seoul / Isla (Jeollanam-do) |
 
 ---
 
 ## Where we are
 
-Cap 7 abre Arc 2. Park llega a Seoul, visita la tumba de su madre, entra a la sede AMAT-KR por primera vez (edificio de 16 plantas, red de transporte propia). Dinámica con Kiki establecida — media-hermana, 17 años, Domain de masa, mitad japonesa, carácter opuesto a Park. A las 02:00 reunión con Park Taeho (padre, Director AMAT-KR): anuncia el traslado a la isla sin explicar el mecanismo Cartwright. Cliffhanger: "Ji-ho siguió la operación de Hartford. Desde aquí."
+Cap 8 abre la base de operaciones en Jeollanam-do. Kiki ya está al llegar Park — informa del sector 2 con lectura activa que el briefing no tiene. Ji-ho entra al briefing cubierto de sangre con una daga sin explicación; Park reconoce la densidad de Odem de Ji-ho como lo mismo que sintió en Hartford. Noche: campfire, historias sobre Ji-ho (Sampoong 1995, Fukushima 2011), Park en el borde. Cliffhanger: Ji-ho pregunta a Park sobre Hartford de una forma que nadie más le ha preguntado — cierra con "¿Sabes cuánto tarda el sustrato en olvidar?"
 
 ---
 
 ## Next chapter plan
 
-**BSA Cap 8 — La isla. Status: planificado.**
+**BSA Cap 9 — Primer contacto. Status: planificado.**
 
 Arc 2 completo planificado: Caps 7–13 (operativos) + Cap 14 (transición Seoul → Lisboa).
 
