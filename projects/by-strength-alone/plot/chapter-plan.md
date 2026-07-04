@@ -9,7 +9,7 @@ updated: 2026-06-24
 
 # BSA — Plan completo cap a cap
 
-**Total:** 35 capítulos / 87.500–122.500 palabras (~105.000 centro realista)
+**Total:** 34 capítulos / ~85.000–120.000 palabras estimado (actualizado 2026-07-02 — ver Resumen estructural al final; los caps de combate pesado en Arc 2 promediaron 3.200-4.200 palabras, más que el estimado original de ~3K/cap)
 
 ---
 
@@ -176,47 +176,41 @@ La convocatoria a Seoul llega. Los accesos solicitados a EU-GINEBRA siguen sin r
 
 ---
 
-### Cap 10 — *Kiki*
+### Cap 10 — *Kiki* ✓ ESCRITO — beats reales, no el plan original
 
-**Función:** Ji-ho retira a Kiki → Park como lead de campo efectivo → escalada + Kiki en acción.
+**Lo que se planeó:** Ji-ho retira a Kiki del frente sin explicación, Park queda como lead efectivo.
 
-Ji-ho retira a Kiki del frente activo sin explicación. Park queda como lead efectivo del campo. La operación escala más allá de lo previsto — el sector que debían cubrir se complica. Park ve con claridad el patrón: esto no es limpieza de Potestades residuales. Hay algo más profundo en la isla. No lo reporta todavía.
-
-Kiki en acción antes de ser retirada (o en escena paralela): Domain de Fuerza en sus dos fases. Park observa su nivel — asombro genuino. Los otros operativos también actúan: tecnología Clase-R y armas modificadas en uso. Cap es principalmente batalla.
-
-**Cliffhanger:** TBD al escribir — debe surgir del combate y presagiar Cap 11.
+**Lo que pasó en la escritura:** Kiki nunca se retira — entra al combate y se queda en él el resto del arco. El cap es una batalla de escala creciente: ocho gwisin en el claro (Park resuelve con técnica variada — golpes, patadas, agarres, sin placajes repetidos, ver `voice/combat.md`), después dokkaebi estándar del borde sur (quemadura de Odem al contacto, primera vez que se ve esta capacidad). Kiki entra, sufre daño real (manos quemadas, no una victoria limpia), cuatro dokkaebi resueltos con un team-up final Park+Kiki sin palabras. Park sigue entidades en retirada hacia el interior — cliffhanger: la entidad (después confirmada como el imugi, ver Cap 13) lo reconoce por el residuo de Odem de Hartford, POV de la entidad decidiendo esperar.
 
 ---
 
-### Cap 11 — *Park solo*
+### Cap 11 — *Reserva* ✓ ESCRITO — Park solo, pero con contexto distinto
 
-**Función:** Park aislado + descubrimiento del centro de la isla. TBD en detalle al escribir los primeros caps.
+**Función real:** descenso al cuenco de los anclajes de 1954 con tres agentes de apoyo. No fue "Park aislado del grupo" — fue una operación de reconocimiento que escala mal. El dokkaebi anciano (velocidad imposible sin transición) y la quimera (firma inestable, absorbe gwisin) dejan a los tres agentes fuera de combate uno por uno. Park termina solo por eliminación, no por diseño narrativo previo.
 
-La operación escala más allá de lo esperado. Todos luchan — enfoque especial en Kiki, Park, Ji-ho. Park queda aislado del grupo. Descubre lo que hay en el centro de la isla: una Potestad Nivel 1 o S. Decide retirarse. En el proceso encuentra una Potestad sin clasificación — nivel 3 o 2, fuerza monstruosa que apenas puede soportar. Referencia tonal: arco de las Hormigas Quimera en HxH — escala que excede lo previsto, consecuencias reales.
-
----
-
-### Cap 12 — *Clímax*
-
-**Función:** convergencia de la batalla + resolución Park + Kiki completa.
-
-La batalla se mueve — el grupo y Park se reencuentran. El nivel de la Potestad que enfrenta Park excede lo que cualquier otro agente puede gestionar — solo Ji-ho y Kiki podrían interferir. Ji-ho ordena a Kiki no intervenir en el combate de Park.
-
-Llegan más Potestades — controladas por la que enfrenta Park. Ji-ho permite a Kiki encargarse de la oleada. Kiki pide "eso" — un agente le acerca un maletín. Saca una katana Odem-modificada (nombre TBD). La usa como extensión de su Domain de masa — concentración del componente "m" en el filo. Extraordinariamente eficaz contra múltiples Potestades.
-
-Park: varios intercambios con la Potestad sin clasificar. La resuelve con inercia+masa (Chukgi como base de la acumulación) + Clase-R en el brazo izquierdo como refuerzo estructural. La victoria tiene coste.
+Park al límite: absorción dual de dos amenazas simultáneas, primer golpe Stage 3 completo de la noche (contra el anciano), redirección de su propia trayectoria en el aire sin footing, uso del entorno como arma cargada (fragmentos de anclaje lanzados con precisión — nueva técnica, ver `voice/combat.md` regla 11). Ambos enemigos lo siguen hasta el perímetro exterior — el combate no se resuelve en este cap, escala hacia el siguiente. Cliffhanger: Ji-ho lee algo llegando del norte, Kiki abre el maletín.
 
 ---
 
-### Cap 13 — *Aftermath / Rango 3*
+### Cap 12 — *Filo* ✓ ESCRITO — el clímax que el plan original preveía, pero repartido distinto
 
-**Función:** aftermath institucional + pregunta del arco.
+**Lo que se planeó:** Ji-ho ordena a Kiki no intervenir en el combate de Park; ella se encarga de una oleada aparte con la katana nueva.
 
-Rango 3 confirmado. Ceremonia secundaria. Reporte: la isla al 90% limpia en registro. Park documenta lo que puede documentar — no lo que encontró en el centro. Otro Hartford absorbido por el sistema.
+**Lo que pasó:** la oleada del norte no es una amenaza aparte — alimenta a la quimera, que la absorbe y evoluciona a forma humanoide estable (Nivel 3). Ji-ho redirige a Kiki al dokkaebi anciano (no a una oleada), y ahí debuta Zanma — la katana, nombrada aquí, con origen revelado en Cap 13 (regalo de Ji-ho, de su tiempo en Fukushima). El combate de Kiki es real: heridas genuinas, casi pierde el control dos veces, team-up final con Park para rematar al anciano.
 
-Momento Park/Ji-ho: ninguno dice lo que piensa. La pregunta del arco no se responde — ¿Ji-ho confió en Park, o sabía que Kiki o él mismo eran suficientes y quería ver qué hacía Park sin red?
+Park contra la quimera evolucionada es el combate central del capítulo — no "varios intercambios" simples: lectura mutua de patrones, la quimera imita una técnica que vio hacer a Park una vez, ambos se prueban con fintas antes de comprometerse. La resolución no es un golpe limpio de Park — es una colisión explosiva entre la carga incompleta de Park (interrumpida por la quimera cerrando distancia antes de tiempo) y la propia embestida de la entidad. Ninguno de los dos sale ileso. Cliffhanger: el suelo tiembla — algo mucho más grande que ambas entidades juntas nota la presencia de Park.
 
-Dinámica Park/padre: qué sabe el padre de lo que Park vio en la isla. No se resuelve.
+---
+
+### Cap 13 — *Cicatriz* ✓ ESCRITO — el "Nivel 1 o S" del plan, resuelto por Ji-ho, no por Park
+
+**Lo que se planeó:** Park descubre una Potestad Nivel 1/S en el centro de la isla y decide retirarse sin enfrentarla.
+
+**Lo que pasó:** la entidad (el imugi, contenido desde 1954 — ver `world/entities/imugi-jeollanam-do.md`) emerge en pantalla por primera vez, atraída por Park, no descubierta por él en una incursión propia. Ji-ho la despacha en un solo golpe sin carga visible — contraste directo de escala con todo el arco. La cicatriz resultante (forma de media luna) es visible desde satélite — el narrador se eleva a voz macro para describirla, igual que hizo con la introducción del imugi (mito vs. clasificación AMAT, templo histórico en la isla).
+
+Rango 3 confirmado para Park. **Rango 2 para Kiki — lo supera en la misma operación**, variación mayor respecto al plan original (que no contemplaba a Kiki ascendiendo). Park Taeho reaparece en persona, con diálogo real (no solo entrega de datos): reconoce el mérito de sostener el frente aunque no resolviera él la amenaza mayor, y corta en seco cuando Kiki intenta defenderlo — "los rangos miden lo que cada agente resolvió, no lo que resolvieron juntos." Ji-ho revela oblicuamente que el imugi vino por el residuo de Hartford en Park, y esquiva la pregunta directa de por qué esperó toda la noche para intervenir — la pregunta del arco queda sin resolver, pero por una no-respuesta explícita en diálogo, no por atmósfera.
+
+Cierre emocional Park/Kiki en el helipuerto — primer momento entre los dos sin protocolo de por medio.
 
 ---
 
@@ -230,93 +224,175 @@ Park en tránsito. El expediente de Lisboa (leído parcialmente en Cap 6) cobra 
 
 ---
 
-## CAP 13 — TRANSICIÓN
-
-Park en tránsito. Momento para respirar y retomar hilo de LoD o EU-GINEBRA si corresponde. Lo que Park hace con el silencio entre misiones.
-
----
-
-## ARC 3 — LISBOA (Caps 14–19)
+## ARC 3 — LISBOA (Caps 14–19) — replanteado post Arc 2 (2026-07-02)
 
 **Pregunta del arco:** ¿Es fuerza lo que demuestras cuando nadie mira?
 
-| Cap | Beat principal |
-|---|---|
-| 14 | Llegada. Cartwright aparece — misión cruzada, presencia institucional no anunciada. No explica por qué está ahí. Park no pregunta. |
-| 15 | Operación inicial. Cartwright observa calibrado — no interviene. La misión parece estándar. Park empieza a sentir que Cartwright está evaluando algo específico. |
-| 16 | Cartwright se va. Sin explicación, sin cierre. La misión continúa. Su ausencia cambia la textura del campo — como si la dificultad real hubiera esperado a que se fuera. |
-| 17 | Complicación mayor. Sin testigos externos. El equipo de Park es local — no lo conocen, no tienen contexto de lo que puede hacer. |
-| 18 | Park resuelve. Solo en el sentido que importa: sin red institucional, sin historial que valide sus decisiones en tiempo real. |
-| 19 | Resultado confirmado. Nadie fuera del teatro sabe exactamente qué pasó. Cierre interno: ¿eso es suficiente? La respuesta es sí — pero el lector no está seguro de si Park lo cree. |
+**Cambio de eje respecto al plan original:** Arc 2 escaló hasta convertirse en guerra de bestiario (gwisin → dokkaebi anciano → quimera evolucionada → imugi). Arc 3 no compite en escala — cambia de terreno. Prowess aquí no es derrotar algo grande: es usar el Odem con precisión, creatividad, inteligencia. El arco funciona como vehículo para profundizar la mecánica del Odem de forma natural, algo que el ritmo de combate de Arc 1-2 no dejó espacio de hacer. Combates presentes en varios capítulos, pero de escala menor y más frecuentes — cada uno enseña algo distinto sobre cómo funciona el Domain.
+
+Park llega a este arco cargando Arc 2 entero: heridas reales compensadas con Clase-R nuevo, Kiki por encima de él en rango, la pregunta sin resolver de Ji-ho, la ruptura de su propio techo de Domain (dos Stage 3 en una operación — ver `characters/park-jun-ho.md`).
+
+Ya no hay capítulo de transición aparte — Cartwright recoge a Park en Korea en helicóptero y lo lleva a Lisboa en avión privado; el briefing pasa en vuelo, cara a cara. Esto absorbe la función que antes tenía un capítulo de transición dedicado.
+
+**Elenco nuevo:** Mariana Vasconcelos (`characters/mariana-vasconcelos.md`), Báthory (`characters/bathory.md`), Doutor Henrique Salgado (`characters/henrique-salgado.md`), Comandante Duarte Ferreira (`characters/duarte-ferreira.md`). Mundo: `world/amat-pt.md`, `world/entities/a-saudade.md`. Nota: Yusuf NO aparece en BSA — está retirado, LoD lo trae de vuelta solo como instructor (ver `characters/yusuf.md`).
+
+### Cap 14 — *Apertura*
+
+**Beat (esqueleto compartido: apertura — resto/cicatriz de algo pasado):**
+
+Cartwright recoge a Park en Korea — helicóptero desde la isla, avión privado a Lisboa. Briefing en vuelo, cara a cara, primera vez que Cartwright lo hace en persona en vez de por expediente. Park todavía procesando Arc 2 entero: heridas reales bajo Clase-R nuevo, Kiki por encima de él en rango, la pregunta sin resolver de Ji-ho, la ruptura de su propio techo de Domain. Cartwright lo nota sin comentarlo — el briefing se adapta a un agente que llega roto, no triunfante.
+
+Llegada a Lisboa. Primer contraste deliberado con Seúl: rama pequeña, oficina de coordinación en vez de sede monumental. Presentación del equipo AMAT-PT — incluye a Doutor Henrique Salgado (científico infravalorado, buen ánimo, mentor informal) y al Comandante Duarte Ferreira. Salgado empieza a dar contexto sobre EU-1755-PT y A Saudade — primera dosis de teoría del Odem que el arco necesita, entregada como curiosidad genuina, no protocolo.
+
+**Cliffhanger:** primer indicio de actividad del linaje guardián — sutil, no se lee como amenaza todavía.
 
 ---
 
-## CAP 20 — TRANSICIÓN
+### Cap 15 — *Primer contacto*
 
-Hilo EU-GINEBRA — respuesta parcial o negación formal de los accesos. Cartwright reaparece brevemente (comunicación, no presencial) — no explica Lisboa. Siembra Budapest sin nombrarlo.
+**Beat (esqueleto: primer contacto — viola lo que el protocolo predijo):**
+
+Investigación de campo con el equipo local y Salgado. El "problema" no encaja con lectura estándar — protocolo dice bajo riesgo; Park, con ayuda de Salgado, empieza a leer que es más sofisticado de lo que parece, no más peligroso en el sentido que AMAT mide. Primer encuentro con la influencia ambiental de A Saudade — zona de vacío de Odem, atmósfera desconcertante en vez de amenazante.
+
+Cartwright observa, calibrado, no interviene — Park nota por primera vez que está siendo evaluado en algo específico: precisión, no potencia.
+
+Introducción de Mariana Vasconcelos — encuentro ambiguo, no hostil.
+
+**Cliffhanger:** algo o alguien más peligroso que Mariana se revela — primer indicio de Báthory.
 
 ---
 
-## ARC 4 — BUDAPEST (Caps 21–26)
+### Cap 16 — *Escalada*
+
+**Beat (esqueleto: escalada — combate extendido, la amenaza aprende/se adapta):**
+
+Báthory se presenta como la amenaza real — más agresivo, menos cauteloso que Mariana. Primer combate del arco: escala menor que cualquier cosa de Arc 2, centrado en precisión — Park tiene que usar el Odem de forma creativa contra un drenaje ambiental, no fuerza bruta contra un cuerpo. Ferreira en acción con su Domain Fio, mostrando en la práctica la filosofía de precisión de la rama — quizás salva a Park de un error, o le enseña algo en el momento que redefine cómo Park entiende su propio Domain.
+
+Cartwright se va sin explicación. La dificultad real parece haber esperado su ausencia.
+
+**Cliffhanger:** descubrimiento de la escala real del ritual de Báthory — daño colateral sobre terceros, primer indicio de la crisis regional que se pagará en Arc 4.
+
+---
+
+### Cap 17 — *Nodo*
+
+**Beat (esqueleto: nodo — causa raíz, decisión imposible):**
+
+Sin Cartwright, sin red institucional. El equipo local no confía del todo en Park — un agente externo, poco tránsito habitual en esta rama. Descubrimiento completo: A Saudade es anterior a 1755, el linaje Vasconcelos la protege por razones que Park empieza a entender, Báthory fuerza el proceso con coste real sobre gente que no consiente.
+
+Decisión imposible: proteger a Mariana (que no es la amenaza) contra actuar sobre todo el sistema guardián que Báthory representa. Mariana advierte a Park sobre Báthory — alianza tensa, no declarada como tal.
+
+**Cliffhanger:** Báthory hace un movimiento decisivo que fuerza la mano de Park.
+
+---
+
+### Cap 18 — *Clímax en solitario*
+
+**Beat (esqueleto: clímax en solitario — Park actúa sin red):**
+
+Park enfrenta a Báthory. Resolución por precisión e inteligencia, no potencia — el tema central del arco pagado en la escena que más importa. La muerte de Báthory no es limpia — probablemente ligada a la propia naturaleza de sustracción del Domain de la zona (algo se retira, no se golpea), coste real y ambiguo. Mariana presente, reacción emocional genuina — el quiebre que la va a definir en Arc 4.
+
+Park no entiende del todo, todavía, el peso de lo que acaba de hacer.
+
+---
+
+### Cap 19 — *Cierre*
+
+**Beat (esqueleto: cierre — victoria sin nombre propio, pregunta formulada):**
+
+Aftermath. Nadie fuera del teatro sabe qué pasó realmente. Cartwright reaparece — algo se revela o se insinúa sobre qué estaba midiendo en Park durante todo el arco. Despedida de Salgado y Ferreira — cierre del hilo Lisboa. Mariana, sola, ya empezando a cambiar — última imagen antes de Budapest.
+
+Aquí se siembra la idea del mundo del Odem fuera de AMAT — "como intentar atrapar todos los peces del mar" (ver `plot/threads.md`).
+
+Pregunta del arco formulada, no respondida: ¿es suficiente si nadie más lo vio? Puente directo a Budapest — Cartwright anuncia el siguiente destino con un tono distinto, más serio. Sin capítulo de transición aparte.
+
+---
+
+## ARC 4 — BUDAPEST (Caps 20–25) — replanteado post Arc 3 (2026-07-02)
 
 **Pregunta del arco:** ¿Es fuerza lo que queda en pie cuando ya no puedes retroceder?
 
-| Cap | Beat principal |
-|---|---|
-| 21 | Cartwright presente desde el inicio — autoridad operativa, no observacional. La misión tiene una estructura diferente a todo lo anterior. |
-| 22 | Briefing completo. El coste de la misión se insinúa — algo que no puede preservarse para que el objetivo se cumpla. |
-| 23–24 | La misión en progreso. Cartwright activo en campo o en control. El coste se hace concreto. |
-| 25 | Park en el momento donde tiene que cruzar la línea. No una decisión dramática — una decisión clara que no puede deshacerse. |
-| 26 | Victoria. Rango 2 confirmado. El coste es real. Park decide qué hace con eso — no lo resuelve, decide. Lo que queda en pie no es lo que esperaba que quedara. |
+**Elenco nuevo:** AMAT-HU (`world/amat-hu.md`), Mariana Vasconcelos como amenaza principal (escalada desde Arc 3), crisis de Domains descontrolados.
+
+**Hilo de fondo (no confirmado en prosa hasta escribir):** Park no sabe, al llegar, que su resolución en Lisboa es la causa directa de lo que encuentra aquí — Mariana escaló al perder a Báthory. Ver `plot/threads.md`, hilo "Park como catalizador."
+
+### Cap 20 — *Apertura*
+
+Cartwright presente desde el inicio — autoridad operativa, no observacional. Tono distinto a Lisboa: la misión tiene estructura diferente desde el briefing. Llegada a Budapest, AMAT-HU — contraste con AMAT-PT (rama robusta, trauma denso: ocupación otomana, Shoá húngara, 1944-45, 1956). Revelación gradual: la crisis no es un objetivo único — es la tasa de Domains despertando sin patrón en la población, ya en marcha antes de que Park llegue.
+
+**Cliffhanger:** la escala del problema es mucho mayor de lo que el briefing inicial sugería.
 
 ---
 
-## CAP 27 — TRANSICIÓN
+### Cap 21 — *Briefing completo*
+
+El coste de la misión se insinúa — algo que no puede preservarse para que el objetivo se cumpla. Evidencia de que Mariana opera en Budapest, más fuerte que en Lisboa. Cartwright activo, dirigiendo, no solo observando.
+
+---
+
+### Cap 22–23 — *Misión en progreso*
+
+Domains descontrolados manifestándose en población civil — caos que AMAT no puede contener con una operación puntual, sin objetivo único que neutralizar. Park reconoce a Mariana — confrontación con peso emocional real, ella sabe lo que él hizo en Lisboa. El coste se hace concreto: algo o alguien que Park no puede preservar para que la misión se cumpla.
+
+---
+
+### Cap 24 — *Cruzar la línea*
+
+Park en el momento de la decisión irreversible — no dramática, clara, sin poder deshacerse. Enfrentamiento con Mariana: ya no es del todo la "buena" de Lisboa, pero tampoco una villana limpia — la situación no permite salida sin coste.
+
+---
+
+### Cap 25 — *Victoria / Rango 2*
+
+Victoria real, coste real. Rango 2 confirmado. Lo que queda en pie no es lo que Park esperaba. Revelación parcial (o total) de que Park causó lo que acaba de resolver — recontextualiza la pregunta de toda la serie sobre qué es la fuerza. Sin capítulo de transición aparte — cierre directo hacia lo que sigue.
+
+---
+
+## CAP 26 — TRANSICIÓN
 
 Aftermath de Budapest. El coste pesa. Hilo EU-GINEBRA si no se cerró antes. Lo que Park lleva a Caracas.
 
 ---
 
-## ARC 5 — CARACAS / VENEZUELA (Caps 28–33)
+## ARC 5 — CARACAS / VENEZUELA (Caps 27–32)
 
 **Pregunta del arco:** ¿Es fuerza la que funciona frente a algo que está fuera de escala?
 
 | Cap | Beat principal |
 |---|---|
-| 28 | Misión clasificada Nivel 3. Equipo mínimo. Venezuela interior. Setup estándar que empieza a no serlo. |
-| 29 | Primera anomalía. Las lecturas no encajan con perfil de Potestad generada. Park lo reconoce — similar a Hartford, pero más viejo, más profundo. |
-| 30 | La misión escala. Equipo mínimo insuficiente para lo que realmente hay aquí. Park no puede pedir refuerzo sin reportar lo que cree ver — y lo que cree ver no tiene categoría en el protocolo. |
-| 31 | Evidencia de Principado activo — posiblemente el mismo de Hartford. No confirmado. AMAT no tiene registro de Principado en Venezuela. Park no puede probarlo. |
-| 32 | Misión resuelta en el nivel aparente — la Potestad visible neutralizada. Lo que Park vio debajo: sin resolver. El teatro queda "limpio" según el protocolo. Park sabe que no lo está. |
-| 33 | La llamada a Valais llega antes de que Park pueda reportar lo que realmente encontró. La pregunta del arco no se responde — se interrumpe. Eso también es una respuesta. |
+| 27 | Misión clasificada Nivel 3. Equipo mínimo. Venezuela interior. Setup estándar que empieza a no serlo. |
+| 28 | Primera anomalía. Las lecturas no encajan con perfil de Potestad generada. Park lo reconoce — similar a Hartford, pero más viejo, más profundo. |
+| 29 | La misión escala. Equipo mínimo insuficiente para lo que realmente hay aquí. Park no puede pedir refuerzo sin reportar lo que cree ver — y lo que cree ver no tiene categoría en el protocolo. |
+| 30 | Evidencia de Principado activo — posiblemente el mismo de Hartford. No confirmado. AMAT no tiene registro de Principado en Venezuela. Park no puede probarlo. |
+| 31 | Misión resuelta en el nivel aparente — la Potestad visible neutralizada. Lo que Park vio debajo: sin resolver. El teatro queda "limpio" según el protocolo. Park sabe que no lo está. |
+| 32 | La llamada a Valais llega antes de que Park pueda reportar lo que realmente encontró. La pregunta del arco no se responde — se interrumpe. Eso también es una respuesta. |
 
 ---
 
-## BRIDGE — VALAIS (Caps 34–35)
+## BRIDGE — VALAIS (Caps 33–34)
 
 **Empalme con Libro 1 Cap 20.**
 
 | Cap | Beat principal |
 |---|---|
-| 34 | Park recibe la convocatoria de Voss. No sabe lo que el lector de BSA ya intuye: fue colocado por Voss, no asignado por AMAT-NA. Lo que Park cree que es un destino nuevo es otra cosa. |
-| 35 | Partida. Cierre del spinoff en el momento exacto en que abre Libro 1, Arc 3. El lector llega a Valais sabiendo lo que Park todavía no puede ver sobre sí mismo. |
+| 33 | Park recibe la convocatoria de Voss. No sabe lo que el lector de BSA ya intuye: fue colocado por Voss, no asignado por AMAT-NA. Lo que Park cree que es un destino nuevo es otra cosa. |
+| 34 | Partida. Cierre del spinoff en el momento exacto en que abre Libro 1, Arc 3. El lector llega a Valais sabiendo lo que Park todavía no puede ver sobre sí mismo. |
 
 ---
 
-## Resumen estructural
+## Resumen estructural (actualizado 2026-07-02, refleja lo escrito real)
 
 | Bloque | Caps | Tipo |
 |---|---|---|
-| Arc 1 — Hartford | 1–5 | 5 caps |
-| Transición | 6 | 1 cap |
-| Arc 2 — Seoul | 7–12 | 6 caps |
-| Transición | 13 | 1 cap |
-| Arc 3 — Lisboa | 14–19 | 6 caps |
-| Transición | 20 | 1 cap |
-| Arc 4 — Budapest | 21–26 | 6 caps |
-| Transición | 27 | 1 cap |
-| Arc 5 — Caracas | 28–33 | 6 caps |
-| Bridge — Valais | 34–35 | 2 caps |
-| **Total** | | **35 caps** |
+| Arc 1 — Hartford | 1–6 | 6 caps (transición absorbida en Cap 6) |
+| Arc 2 — Seoul | 7–13 | 7 caps (transición absorbida en Cap 13) |
+| Arc 3 — Lisboa | 14–19 | 6 caps (sin transición aparte — Cartwright absorbe la función en Cap 14) |
+| Arc 4 — Budapest | 20–25 | 6 caps (sin transición aparte — puente directo desde Cap 19) |
+| Transición | 26 | 1 cap |
+| Arc 5 — Caracas | 27–32 | 6 caps |
+| Bridge — Valais | 33–34 | 2 caps |
+| **Total** | | **34 caps** |
+
+**Nota:** la numeración de Arc 1-2 ya no coincide con el plan original (que asumía transiciones dedicadas tras cada arco) porque la escritura real absorbió esa función dentro del último capítulo operativo de cada arco. Ver `plot/arc-model.md` para el análisis completo de cómo varió la ejecución del diseño original.
 
 **Palabras:** 87.500 – 122.500 (~105.000 centro realista a 3K/cap)

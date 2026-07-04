@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: world
 tags: [korea, amat-kr, entities, mythology, odem, substrate, branch-lore]
 relations: [odem, amat, isla-jeollanam-do, park-family]
-updated: 2026-06-28
+updated: 2026-07-02
 ---
 
 # AMAT-KR — Rama coreana
@@ -47,6 +47,8 @@ Espíritus de personas muertas con agravio sin resolver. La Potestad más común
 - Frente del 38° paralelo: substrato de combate activo 1950-1953
 - Núcleos urbanos con trauma histórico concentrado (Seúl, Daegu)
 
+**Nivel operativo confirmado (BSA Cap 13):** Nivel 4 — clasificación estándar para gwisin y dokkaebi individuales sin evolución/absorción previa. Las lecturas de campo durante el combate (Cap 10) oscilaron por la interferencia de múltiples entidades activas simultáneas; la clasificación de Nivel 4 es el resultado post-operación, no la lectura en tiempo real.
+
 ---
 
 ### Imugi (이무기)
@@ -55,23 +57,33 @@ Proto-dragón de la mitología coreana. Pasa siglos intentando completar su tran
 
 **En LoD:** no es un Principado en el sentido estándar — es algo adyacente. Una entidad que no puede completar lo que intenta ser y no puede disolverse porque el sustrato la define con demasiada precisión. El de la isla de Jeollanam-do lleva siglos en proceso interrumpido, alimentado por la cultura que sigue recordándolo (mitología viva) y por el trauma acumulado en su entorno.
 
-**Comportamiento:** no ataca directamente. Acumula Odem pasivamente desde el sustrato. Su presencia como polo de acumulación da coherencia emergente a los gwisin del área. No los dirige: los organiza por proximidad, como un campo gravitacional organiza objetos sin moverse.
+**Comportamiento:** no ataca directamente por iniciativa propia. Acumula Odem pasivamente desde el sustrato. Su presencia como polo de acumulación da coherencia emergente a los gwisin del área. No los dirige: los organiza por proximidad, como un campo gravitacional organiza objetos sin moverse. Puede reaccionar/desplazarse si algo resuena con Odem que reconoce (ver instancia activa) — la única excepción documentada a la pasividad.
 
-**Nivel operativo:** fuera de la escala estándar. Sin categoría de cierre directa en el protocolo AMAT.
+**Clasificación AMAT:** sin categoría estándar de cierre. Archivado administrativamente como "acumulador de umbral" — eufemismo que evita nombrar directamente lo que el mito describe. Nivel operativo confirmado en campo (BSA Cap 13): **Nivel 1**, el más alto registrado en la rama.
 
-**Instancia activa:** isla de Jeollanam-do. Ver `isla-jeollanam-do.md`.
+**Culto histórico:** antes de la intervención AMAT, comunidades costeras adoraban a la entidad como deidad local — ni benevolente ni maligna, solo poderosa, con el mismo tipo de reverencia con la que se trata algo que puede dar la pesca del año o ahogarte sin diferencia real entre las dos cosas. Restos de templo (piedra tallada, altar sin ofrendas desde antes de la guerra) permanecen sin cartografiar en el interior de la isla de Jeollanam-do.
+
+**Instancia activa — isla de Jeollanam-do:** contenida desde 1954 (ver `isla-jeollanam-do.md`). BSA Cap 10: reconoce el residuo de Odem de Hartford en Park Jun-ho durante su descenso al interior — primer indicio de que la pasividad tiene excepción. BSA Cap 13: emerge por primera vez en pantalla, atraída por ese mismo residuo. Ji-ho la despacha en un golpe de Domain de Fuerza sin acumulación visible — la onda resultante arrasa un sector del bosque, dejando una cicatriz con forma de arco/media luna visible desde satélite. El cuerpo se separa en segmentos con Odem denso individual; no se disuelve del todo. El núcleo queda entre los restos, recolectado por Deposición. Consistente con el principio "no mueren, esperan" — contención, no destrucción definitiva.
 
 ---
 
 ### Dokkaebi (도깨비)
 
-Entidades de agencia propia — traviesas, ambiguas, asociadas a sitios y objetos específicos. Nivel 2-3 con comportamiento menos predecible que los gwisin. Sin instancias documentadas en arcos activos — anotado para futuros arcos.
+Espíritu de lugar u objeto — no de persona. La diferencia con un gwisin es de origen, no de grado: un gwisin carga la forma de alguien que existió; el dokkaebi no carga ninguna forma previa. Es lo que el sustrato construye con lo que tiene a mano cuando el Odem se acumula sin molde humano que copiar. Proporciones geológicas, no anatómicas — tronco largo, hombros desproporcionados, sin cara ni ropa identificable. Odem denso en el centro, bordes irregulares que se deshacen hacia fuera.
+
+**Capacidad de contacto:** quemadura de Odem activo al tocar la superficie — el cuerpo lo lee como quemadura real sin que haya fuego. El área afectada queda inutilizable durante minutos. No requiere fuerza del dokkaebi; basta el contacto.
+
+**Resistencia:** mayor a la contención estándar. El protocolo diseñado para gwisin no encuentra eje de firma en un dokkaebi — el aparato de contención falla salvo aplicación muy precisa (masa concentrada en área mínima, no distribuida).
+
+**Instancia — dokkaebi anciano (BSA Cap 11-13):** variante de setenta años de antigüedad en la isla de Jeollanam-do, alimentada por operaciones AMAT sucesivas sin disolución completa. Escala mayor que el dokkaebi estándar, con una capacidad no documentada en otras instancias: dos velocidades — lento en reposo/aproximación normal, velocidad imposible sin transición perceptible al atacar. El campo de burn se acumula en el punto de una herida — un miembro cercenado puede liberar la compresión acumulada como onda de presión pura, sin contacto directo. Herido gravemente en Cap 12 mediante corte coordinado Park/Kiki con Zanma (ver `characters/ji-ho.md`) — el núcleo se parte pero no se disuelve del todo, quedando en estado ambiguo hasta el cierre de la operación. **Clasificación oficial (BSA Cap 13): Nivel 2.**
+
+**Instancia — quimera (BSA Cap 10-12):** fusión de múltiples gwisin fundidos en un solo cuerpo tras décadas de contención en el mismo espacio — múltiples rostros coexistiendo en posiciones no anatómicas, firma de Odem inestable (el lector no puede fijar Nivel, oscila entre lecturas). Capacidad única: **absorción activa** — puede integrar gwisin sueltos que se acercan a su radio, consolidando la forma con cada absorción. Tras absorber una oleada completa (BSA Cap 12), evoluciona a forma humanoide estable, con capacidades nuevas: lectura de patrones de combate del oponente (finge, prueba reacciones antes de comprometerse, cierra distancia antes de que el oponente complete una carga), imitación de técnicas observadas. Resuelta en Cap 12 por colisión directa — el golpe Domain completo de Park y la propia embestida de la quimera se encuentran en el mismo instante, generando una onda expansiva que abre un cráter nuevo y perfora el torso de la entidad de lado a lado. **Clasificación oficial (BSA Cap 13): Nivel 3, pendiente de reclasificación a Nivel 2 por laboratorio.** No hay precedente documentado de un dokkaebi con esta progresión de absorción — abre pregunta abierta para AMAT-KR sobre el límite superior de lo que la absorción puede producir.
 
 ---
 
 ## Equipamiento específico AMAT-KR
 
-**Clase-R (Refuerzo):** material infusado con Odem, apariencia de vendaje/tejido, refuerza estructura de extremidades bajo estrés de Domain. Mayor dotación en AMAT-KR que en otras ramas — las operaciones de larga duración contra entidades de alta legibilidad requieren refuerzo estructural sostenido. Los agentes americanos lo conocen de nombre; raramente acceden a él.
+**Clase-R (Refuerzo):** ver `clase-r.md` para descripción completa. Material infusado con Odem. Color índigo oscuro — casi negro en sombra, azul profundo con luz directa. Apariencia de vendaje comprimido; peso mayor del que sugiere el volumen. Se aplica en capas sobre la extremidad. Al activarse con temperatura corporal: los bordes se vuelven translúcidos durante uno o dos segundos — la estructura muscular y tendinosa visible debajo — antes de asentarse en opaco. El efecto translúcido indica integración activa entre material y tejido. Refuerza estructura de extremidades bajo estrés de Domain sin restringir rango de movimiento. Mayor dotación en AMAT-KR que en otras ramas. Los agentes americanos lo conocen de nombre; raramente acceden a él. Nota: trabaja con lo que el agente tiene — si el miembro está al 70%, el Clase-R da 70% con mejor soporte. No sustituye recuperación.
 
 **Armas modificadas:** algunos agentes AMAT-KR llevan armas de fuego con componente de Odem integrado — eficacia aumentada contra entidades de alta cohesión de forma. No es equipamiento estándar global.
 

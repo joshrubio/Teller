@@ -54,6 +54,24 @@ Oliver does not see energy. He sees *how far each thing's Odem extends* — and 
 | Does not see past states | Only the present |
 | Passive signature ≠ enough to copy | Needs active Domain to read structure |
 
+## Non-Registro Odem sensing — pressure/weight (the Ki/Reiatsu analog)
+
+Oliver's direct visual perception of Odem (Registro) is rare, not the only way people interact with Odem non-instrumentally. Four channels exist, layered, and none of them overlap with Registro:
+
+1. **Instruments** — lectores/localizadores, calibrated per region (see `by-strength-alone/world/amat-kr-branch.md`, `amat-pt.md`). Standard AMAT field equipment, available to anyone regardless of Domain.
+2. **Universal baseline — pressure/weight.** Any active Domain user (and, faintly, sensitive people without one) perceives concentrated Odem as physical pressure on the body and in the air — not sight, not smell, weight. This is the series' Ki/Reiatsu analog. It scales with three variables:
+   - **Intensity/level of the source.** A Nivel 4 gwisin is a faint discomfort at close range. A Rango S user like Ji-ho compresses a room a degree just by entering it. A Principado at full display (the imugi rising, BSA Cap 13) flattens trees and compresses chests thirty meters out. The scale is continuous, not a light switch.
+   - **Proximity.** Falls off with distance, like any pressure field — closer is exponentially heavier, not linearly.
+   - **Source type — point vs. ambient.** A Domain user or a coherent Potestad reads as a **point source**: pressure with a clear direction, something you can turn and locate. Residual/diffuse Odem — saturation soaked into a place over time (Hartford's Saturación, a location A Saudade has been draining) — reads as **ambient**: ache without a direction, no point to walk toward, harder to localize because there is no single "there." This is why standard instruments miscalibrate in saturated zones (Hartford) and why Saturación registered as zero differential in Cap 1-4: she IS the background, not a point pressing against it.
+   - **Suppression.** A controlled Domain user holding back reads as unnervingly quiet rather than absent — the pressure is there but flat, deliberate, which experienced agents learn to recognize as its own kind of warning (a coiled stillness, not true calm).
+   - **Symptom, not the sense itself:** the pressure is often *felt* through an ordinary physical tell — breath catching, a held quality to the air, gooseflesh, the base of the skull. These are consequences of the pressure registering in the body, not separate senses. Don't over-specify which tell a character gets; one physical detail is enough per scene.
+3. **Domain-specific layer (optional, on top of #2).** When a scene benefits from more texture, a character's own Domain can additionally misbehave in a way specific to its mechanic. Not mandatory every time — reach for it only when the scene needs the extra precision.
+4. **Training sharpens #2.** Passive-accumulation practice (Chukgi, `by-strength-alone/world/amat-kr-branch.md`) or equivalent discipline in other Domains doesn't just build reserve — it sharpens the user's read on ambient pressure. A trained user notices smaller gradients, at greater range, than an untrained one with the same Domain.
+
+**Canonical examples already in continuity (retroactively explained by this system):** Ji-ho's presence compressing a room (BSA Cap 8) — point source, Rango S. The imugi's rise compressing chests at 30m and folding trees inward (BSA Cap 13) — point source, Principado-scale. Saturación unreadable by standard instruments (BSA Cap 1-4) — ambient, not point. Dokkaebi's "presión en el aire" near the core (BSA Cap 10-12) — point source, Nivel 2-4 range. Park noticing his breath catch and his own passive accumulation stall near A Saudade's drained zone (BSA Cap 15) — ambient source (ver arriba), plus his domain-specific layer on top.
+
+**Rule going forward:** when a character without Registro needs to notice Odem, default to pressure/weight scaled to intensity + proximity + point-vs-ambient, surfaced through one physical tell. Add a domain-specific symptom only when the scene wants extra precision. This one system covers Odem-in-places, Domain-in-people, and everything in between — don't invent a new bespoke mechanism per character or per scene.
+
 ## Morning phenomenon
 
 Contours are sharper in the mornings from accumulated noise: after hours of perceiving passive signatures, the system saturates. Sleep functions as a reset.

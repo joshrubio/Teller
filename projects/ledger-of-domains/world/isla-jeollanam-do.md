@@ -17,12 +17,19 @@ Isla en la costa de la provincia de Jeollanam-do (전라남도), extremo sur de 
 | | |
 |---|---|
 | **Actividad** | Operación de larga duración — continua desde 1954 |
-| **Fase actual** | BSA Arc 2 (2026) — 10% de limpieza pendiente |
-| **Limpieza acumulada** | ~80% al inicio de Arc 2 |
-| **Meta de Arc 2** | +10% → 90% total |
-| **Restante post-Arc 2** | ~10% — reservado, sin cierre previsto |
+| **Fase actual** | BSA Arc 2 (2026) — 90% de limpieza confirmada tras Cap 13 |
+| **Limpieza acumulada** | ~80% al inicio de Arc 2 → 90% confirmado en el reporte oficial de Cap 13 |
+| **Restante post-Arc 2** | ~10% — reservado, sin cierre previsto en pantalla |
 
 El 10% restante post-BSA se limpia off-screen entre BSA y LoD. Para LoD Libro 2 la isla está completamente limpia — sin Potestades activas. La operación de larga duración queda cerrada fuera de cámara.
+
+## El imugi de la isla — canon BSA Cap 13
+
+La entidad contenida en 1954 (ver Historia) es un imugi — proto-dragón de transformación interrumpida, ver `amat-kr-branch.md` para la entrada de catálogo completa. Antes de la operación AMAT, la isla albergaba un templo dedicado a esta entidad como deidad local — restos de piedra tallada y un altar sin ofrendas desde antes de la guerra siguen en el interior, sin cartografiar por completo por ninguna generación de agentes.
+
+**BSA Cap 13:** el imugi emerge por primera vez en la serie, atraído por el residuo de Odem de Hartford que Park lleva encima (reconocimiento establecido desde su POV en Cap 10). Ji-ho lo despacha en un solo golpe — Domain de Fuerza sin gesto de carga visible, contraste directo con el coste que a Park le exige el mismo principio. El impacto genera una onda que arrasa un sector completo del bosque, dejando una cicatriz con forma de arco/media luna visible desde reconocimiento satelital.
+
+El imugi no desaparece — el cuerpo se separa en segmentos, cada uno todavía con Odem denso. El núcleo queda entre los restos, recolectado por el escuadrón de Deposición junto con los restos del dokkaebi anciano y la quimera evolucionada de la misma operación. Consistente con el principio "no mueren, esperan" (Ji-ho, Cap 8) — la entidad está contenida/dispersada, no destruida en sentido definitivo.
 
 ## Historia
 
@@ -46,3 +53,5 @@ Caso fundacional de la familia Park como linaje suhoja. El cierre provisional de
 - BSA Arc 2, Caps 8–13: escenario principal de la operación.
 - Cap 8: base de operaciones descrita. 80% limpieza completada. Sector 2 activo al margen del briefing oficial.
 - Cap 7: mencionada por Park Taeho al anunciar el traslado — "isla operación activa en tres semanas."
+- Caps 9–12: operación de campo completa — sector 2, el claro, el cuenco con los anclajes de 1954, el sendero interior. Ver `amat-kr-branch.md` para catálogo de entidades encontradas (gwisin, dokkaebi anciano, quimera evolucionada, imugi).
+- Cap 13: 90% de limpieza confirmado en reporte oficial. Ji-ho despacha al imugi — primera aparición de la entidad fundacional de 1954 en pantalla. Cicatriz visible desde satélite como resultado.
