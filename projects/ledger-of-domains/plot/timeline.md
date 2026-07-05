@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: plot
 tags: [timeline, chronology, in-universe-dates]
 load-with: [plot/arcs]
-updated: 2026-06-17
+updated: 2026-07-06
 ---
 
 # Timeline — Ledger of Domains, Libro 1
@@ -109,5 +109,8 @@ In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 19 = January 2026 (Vene
 
 - Kaspar's 40-year timeline: 1982 (copy) → 1983 (escape) → 2025 (active near Centro). Exact movements undocumented.
 - Elise: worked AMAT Geneva ~2003–2014. Kaspar observed her during those 11 years. Current status unknown.
-- Park M5 Seoul (→ Rango 3) and M6 Lisbon, M7 Budapest: before January 2026, exact dates open canon.
+- Park M4 Hartford: autumn 2025, immediately following Grayhaven (GRH-094) — BSA Cap 1 references Grayhaven as freshly closed.
+- Park M5 Seoul (→ Rango 3): weeks after Hartford, still autumn 2025.
+- Park M6 Lisbon: begins "tres días después de la isla" (BSA Cap 14) — lands in autumn 2025. **Confirmed 2026-07-06:** the arc's climax (BSA Cap 18-19) falls on 1 November 2025 — Dia de Todos os Santos, 270th anniversary of the Lisboa earthquake, the Vigília das velas at the Carmo ruins.
+- Park M7 Budapest: after Lisbon, before January 2026 (Venezuela M8/LoD Cap 19) — exact dates still open canon.
 - Hartford zone: active anomaly since 1952. Park's M4 (Hartford) = connected but not resolved.

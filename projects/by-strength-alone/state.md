@@ -10,7 +10,7 @@ load:
   threads: projects/by-strength-alone/plot/threads.md
   shared-characters: projects/ledger-of-domains/characters/
   shared-world: projects/ledger-of-domains/world/
-updated: 2026-06-28
+updated: 2026-07-04
 ---
 
 # Project State — By Strength Alone
@@ -23,36 +23,44 @@ updated: 2026-06-28
 
 | | |
 |---|---|
-| **Status** | En progreso — BSA Cap 8 completo |
-| **Last written** | BSA Cap 8 — La isla |
-| **Next** | BSA Cap 9 |
-| **Active arc** | Arc 2 — Seoul / Isla (Jeollanam-do) |
+| **Status** | En progreso — BSA Cap 15 completo |
+| **Last written** | BSA Cap 15 — Alfama |
+| **Next** | BSA Cap 16 — Escalada (Báthory se presenta como amenaza real) |
+| **Active arc** | Arc 3 — Lisboa (Caps 14-19), en curso |
 
 ---
 
 ## Where we are
 
-Cap 8 abre la base de operaciones en Jeollanam-do. Kiki ya está al llegar Park — informa del sector 2 con lectura activa que el briefing no tiene. Ji-ho entra al briefing cubierto de sangre con una daga sin explicación; Park reconoce la densidad de Odem de Ji-ho como lo mismo que sintió en Hartford. Noche: campfire, historias sobre Ji-ho (Sampoong 1995, Fukushima 2011), Park en el borde. Cliffhanger: Ji-ho pregunta a Park sobre Hartford de una forma que nadie más le ha preguntado — cierra con "¿Sabes cuánto tarda el sustrato en olvidar?"
+Arc 2 cerrado en Cap 13. Arc 3 (Lisboa) arrancó con enfoque nuevo: prowess = precisión/comprensión del Odem, no escala de combate — proceso de escritura pasó a modo "discovery writing" (beats delgados en `chapter-plan.md`, fichas profundas solo cuando una escena las necesita, no antes).
+
+**Cap 14 ("Lisboa"):** Cartwright recoge a Park en Seúl (tres días tras la isla, Kiki visitándolo cada mañana), briefing en avión sobre EU-1755-PT. Llegada a AMAT-PT — rama pequeña, gaiola pombalina. Conoce a Ferreira y Salgado. Cliffhanger: marca ajena tallada en piedra fresca en Alfama, "de otro sitio."
+
+**Cap 15 ("Alfama"):** Investigación nocturna — la marca no es de A Saudade ni de los Vasconcelos. Park siente el sistema de percepción de Odem por primera vez (presión/peso, ver `world/odem.md` — sistema universal nuevo, análogo a Ki/Reiatsu, con capa específica de Domain opcional encima). Mariana Vasconcelos aparece, avisada por el submundo de Lisboa — confirma que la marca viene de otro sitio, advierte que la fuerza no sirve aquí. Resto del equipo AMAT-PT presentado por fricción/acción, no por fila de presentaciones (Costa, Bruno, Vitória, Rui, Dona Filipa — ver `characters/equipo-amat-pt.md`). Cartwright evalúa el **juicio** de Park (por qué no detuvo a Mariana, por qué no insistió) — sembrando que lo está considerando para algo relacionado con un Principado, sin decirlo.
+
+**Sistema nuevo de canon (`world/odem.md`):** percepción de Odem sin Registro = presión/peso, escalado por intensidad + proximidad + punto-vs-ambiente, con un tell físico (ej. respiración) como síntoma, no el mecanismo en sí. Reemplaza cualquier explicación ad-hoc anterior — usar esto por defecto en cualquier proyecto futuro.
 
 ---
 
 ## Next chapter plan
 
-**BSA Cap 9 — Primer contacto. Status: planificado.**
+**BSA Cap 16 — Escalada. Status: planificado en `chapter-plan.md`, sin escribir.**
 
-Arc 2 completo planificado: Caps 7–13 (operativos) + Cap 14 (transición Seoul → Lisboa).
+Báthory se presenta como la amenaza real — más agresivo, menos cauteloso que Mariana. Primer combate del arco, escala menor, centrado en precisión. Ferreira en acción con Domain Fio. Cartwright se va sin explicación. Cliffhanger: escala real del ritual de Báthory (daño colateral sobre terceros).
 
-Elementos nuevos de Arc 2:
-- **Chukgi (축기):** kata de acumulación pasiva de Odem — nombre propio, exclusiva de Fuerza/acumulación cinética
-- **Tejido activo / Clase-R (Refuerzo):** material AMAT infusado con Odem, acceso restringido, AMAT-KR mayor dotación
-- **Katana Kiki:** arma Odem-modificada — nombre TBD al escribir Cap 12
-- **Kiki:** media hermana de Park, Domain Fuerza dos fases, opuesto de Park (enérgica, girly, provocadora)
-- **Ji-ho físico:** basado en Toji Fushiguro — musculoso, presencia literal de Odem, daga extraña, sangre en primera aparición
+Elementos de Arc 2 todavía abiertos, disponibles para libros futuros:
+- El imugi sigue "vivo" en sentido no-destruido — hilo abierto para LoD Libro 2.
+- Ruptura del techo de Domain de Park (dos strikes Stage 3 en una operación) — consecuencia física (nudillos abiertos) mencionada en Cap 14, sin desarrollo mayor todavía.
+- Kiki por encima de Park en rango — tensión no resuelta para el resto del libro.
 
-Open threads entrando a Cap 7:
-- EU-1755-PT en el expediente de Lisboa — sin resolver
-- Expediente de Lisboa: leído parcialmente por Park, sin cierre
-- Korea island: mismo patrón que Hartford — Park lo sospecha, no lo ha dicho a nadie; conoce la isla desde niño como "la operación de Korea"
-- Brazo izquierdo en cabestrillo (semanas, depende del Domain)
-- Presión familiar: padre dirige la División Korea, Ji-ho observa, Kiki en eje paralelo
+Open threads Arc 3 activos:
+- Hilo "Park como catalizador" (Báthory muere Arc 3 → Mariana escala Arc 4) — ver `plot/threads.md`, no confirmar en prosa hasta que ocurra.
+- Hilo "mundo del Odem fuera de AMAT" — sembrado, pagar en Arc 4 (crisis de Domains descontrolados en Budapest).
+- Cartwright evaluando el juicio de Park para un caso con Principado — sembrado en Cap 15, sin nombrar todavía.
+- Quién dejó la marca en Alfama (Báthory, no confirmado en prosa todavía).
+
+Open threads generales (heredados, sin resolver):
+- EU-1755-PT — origen no oficial de EU-GINEBRA, ahora contextualizado (A Saudade, anterior al terremoto).
 - Pregunta de Arc 1 no resuelta: ¿Es fuerza saber cuándo el protocolo está equivocado y actuar de todas formas?
+- Pregunta de Arc 2, sin resolver del todo: ¿Es fuerza ganar cuando alguien que podría hacerlo por ti te está mirando?
+- Pregunta de Arc 3: ¿Es fuerza lo que demuestras cuando nadie mira?

@@ -72,3 +72,4 @@ Lo revela a Park oblicuamente en Cap 8 — no como teoría, como pregunta: *"¿S
 - BSA Cap 6: Park relee el mensaje post-operación con el peso completo de lo que fue Hartford.
 - BSA Cap 7: mencionado por Kiki y por Park Taeho. Taeho confirma que Ji-ho siguió la operación de Hartford desde Seoul.
 - BSA Cap 8: primera aparición directa. Llega al briefing de la isla cubierto de sangre con una daga. Ver cliffhanger arriba.
+- BSA Cap 12: origen de Zanma (斬魔 — "corta-demonios," 斬 zan "cortar/cercenar" + 魔 ma "demonio/espíritu maligno"), la katana de Kiki. Nombre japonés, no coreano — deliberado. Ji-ho pasó tres meses en la zona de exclusión de Fukushima (2011, ver tabla de carrera) sin informe detallado; el arma se adquirió o se encargó en ese periodo. Dársela a Kiki con ese nombre es gesto personal de Ji-ho, no protocolo estándar AMAT-KR.

@@ -70,29 +70,37 @@ See `plot/chapter-plan.md` — cap a cap, beats, cliffhangers, crossover notes.
 
 ---
 
-## Arc 3 — Lisboa
+## Arc 3 — Lisboa (Caps 14-19) — replanteado 2026-07-02, ver `plot/chapter-plan.md` para detalle cap a cap
 
-**Mission:** M6. Solo, alto riesgo. Cartwright aparece al inicio — misión cruzada, presencia institucional no anunciada. Luego Cartwright se va y Park continúa solo.
+**Mission:** M6. Cartwright recoge a Park en Korea (helicóptero → avión privado), briefing en vuelo. AMAT-PT: rama pequeña, principio ontológico saudade — entidades que se desdibujan en vez de definirse. Prowess = precisión y comprensión del Odem, no escala de combate (contraste deliberado con Arc 2).
+
+**Elenco nuevo:** Mariana Vasconcelos (guardiana de A Saudade, Principado EU-1755-PT — anterior al terremoto de 1755, no nacido de él), Báthory (linaje húngaro equivalente, fuerza el proceso de despertar con daño colateral, amenaza real del arco), Doutor Henrique Salgado (científico AMAT-PT, mentor, vehículo de exposición sobre el Odem).
 
 **Key beats:**
-- Cartwright: presencia breve, observación calibrada. No interviene. No explica por qué está ahí.
-- La misión se complica después de que Cartwright se va — como si su ausencia fuera la condición real.
-- Park resuelve sin testigos. El resultado confirma que Seoul no fue caridad.
-- Cierre: la resolución no cambia nada externamente. Park lo sabe. Eso es suficiente — o tiene que serlo.
+- Cartwright observa calibrado, no interviene — Park nota que lo están midiendo en precisión, no potencia.
+- Cartwright se va sin explicación. La dificultad real esperaba su ausencia.
+- Park descubre la verdad completa sobre el linaje guardián y decide sin red institucional, equipo local que no lo conoce.
+- Park mata a Báthory resolviendo la amenaza inmediata — no limpio, coste real.
+- Cierre: nadie fuera del teatro sabe qué pasó. Puente directo a Budapest, sin transición aparte.
+
+**Hilo trágico (no confirmado en prosa hasta escribir):** la muerte de Báthory rompe el contrapeso de Mariana — su duelo real la empuja a heredar su lugar como amenaza en Arc 4. Park es, sin saberlo, el catalizador de la crisis siguiente. Ver `plot/threads.md`.
 
 **Dramatic arc question:** ¿Es fuerza lo que demuestras cuando nadie mira?
 
 ---
 
-## Arc 4 — Budapest
+## Arc 4 — Budapest (Caps 20-25) — replanteado 2026-07-02, ver `plot/chapter-plan.md` para detalle cap a cap
 
-**Mission:** M7 → Rango 2. Cartwright reaparece con peso institucional — ya no de paso, sino como figura con agenda. La misión exige que Park cruce una línea que no puede deshacerse.
+**Mission:** M7 → Rango 2. Cartwright presente desde el inicio, autoridad operativa. AMAT-HU: rama robusta (trauma denso — ocupación otomana, Shoá, 1944-45, 1956), principio ontológico de marca de sangre (folclore táltos).
+
+**Elenco:** Mariana Vasconcelos como amenaza principal, escalada desde Arc 3. Crisis de Domains despertando sin patrón en población civil — consecuencia del ritual de Báthory, sin objetivo único que AMAT pueda neutralizar. Primera manifestación concreta de la idea sembrada en Arc 3: un mundo de Odem fuera del alcance de AMAT, demasiado amplio para controlar.
 
 **Key beats:**
 - Cartwright presente desde el inicio con autoridad operativa, no solo observacional.
+- Park reconoce a Mariana — ella sabe lo que él hizo en Lisboa. Confrontación con peso emocional real.
 - La misión tiene un coste específico — algo o alguien que Park no puede preservar para ganar.
 - Park cruza la línea. Gana. Rango 2.
-- Lo que queda: la victoria es real. El coste también. Park decide qué hace con eso.
+- Lo que queda: la victoria es real. El coste también. Revelación parcial o total de la propia responsabilidad de Park en la crisis.
 
 **Dramatic arc question:** ¿Es fuerza lo que queda en pie cuando ya no puedes retroceder?
 

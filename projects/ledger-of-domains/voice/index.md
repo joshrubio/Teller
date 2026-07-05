@@ -22,5 +22,7 @@ Load first in any write task. Rules here are constraints, not suggestions.
 | `pov-asha` | POV: Asha | Gestures, speech patterns, canonical phrase warning | Migrated |
 | `pov-riku` | POV: Riku | Gestures, hand variant registry, speech patterns | Migrated |
 
+| `combat` | Combat narration | Sanderson model: spatial anchoring, micro-objectives, cause-effect chains. Applies to LoD + BSA | Active |
+
 > Per-character POV files are loaded via `load-with` in each character node — not loaded globally.
 > References (Naruto/HxH/JJK) moved to `_planning/references.md` — planning only.

@@ -30,3 +30,11 @@ updated: 2026-06-17
 | `ji-ho` | Ji-ho | Park's uncle, Rango S | Migrated |
 | `cartwright` | Cartwright | AMAT-NA Director Regional, Rango 1 | Migrated |
 | `elise` | Elise | Previous Registry carrier / Libro 2 hook | Migrated |
+| `mariana-vasconcelos` | Mariana Vasconcelos | BSA Arc 3 antagonist, guardiana de A Saudade → amenaza Arc 4. Aparece Cap 15 | Migrated (Cap 15) |
+| `bathory` | Báthory | BSA Arc 3 antagonist principal, linaje húngaro, muere Arc 3 | Planning |
+| `henrique-salgado` | Doutor Henrique Salgado | BSA Arc 3 científico AMAT-PT, mentor de Odem, vehículo de exposición | Migrated (Caps 14-15) |
+| `yusuf` | Yusuf | Densidad Domain Nivel 3, Centro Valais — retirado, solo instructor. No aparece en BSA | Migrated |
+| `duarte-ferreira` | Comandante Duarte Ferreira | BSA Arc 3 líder equipo AMAT-PT, Rango 2, Domain Fio (filamentos de Odem) | Migrated (Caps 14-15) |
+| `equipo-amat-pt` | Equipo AMAT-PT | Costa, Bruno, Vitória, Rui, Dona Filipa — roster completo BSA Arc 3 Cap 15 | Migrated (Cap 15) |
+| `mariana-aliados` | Aliados de Mariana | Submundo del Odem de Lisboa — Inês (fado), Zé (pescador), despertado involuntario | Planning |
+| `bathory-aliados` | Aliados de Báthory | Despertados forzados, teniente húngaro leal — hilo hacia Arc 4 | Planning |

@@ -6,7 +6,7 @@ module: characters
 tags: [amat-agent, strength-domain, rango-2, tutor, pov]
 relations: [oliver, voss, ji-ho, cartwright, yusuf, dara, pier, petra, sabine]
 load-with: [system/strength, world/amat, voice/pov-park]
-updated: 2026-06-17
+updated: 2026-07-07
 ---
 
 # Park — AMAT Agent / Tutor
@@ -70,7 +70,7 @@ This layer never names the emotional state directly. It circles it until the rea
 | M1–M2 | Unknown | Rango 4 | Open canon |
 | M3 | Grayhaven — incident GRH-094, Oliver | Rango 4 | No promotion: resolution via civilian; AMAT flags review. Debt Park carries. |
 | M4 | Hartford, CT — Principado Zone, Nivel 3 entity | Rango 4 | Team op, special zone classification. Shared credit — not a clean solo resolution. |
-| M5 | Seoul, South Korea | → **Rango 3** | First clean Nivel 3 resolution as verified lead. Father (Korea Division Head) and/or Ji-ho present directly or indirectly. The question Park cannot silence: *does it count if family was watching?* |
+| M5 | Seoul, South Korea (Jeollanam-do island, BSA Caps 7–13) | → **Rango 3** (confirmed Cap 13) | Solo resolution of an evolved dokkaebi (quimera, Nivel 3 pending reclass to Nivel 2) via explosive mutual collision — not a clean textbook finish, real structural cost (unreinforced arm, no Clase-R). Ji-ho present throughout, intervenes only against the imugi (Nivel 1) at the very end — never in Park's own fight. Kiki achieves Rango 2 same operation, surpassing Park's rank. Father confirms both ranks on-site, flatly refuses to frame it as a hierarchy between siblings. The question Park cannot silence: *does it count if family was watching?* — still unresolved, sharpened by Ji-ho's oblique non-answer (Cap 13: "Now you know. And so do I.") |
 | M6 | Lisbon | Rango 3 | Solo, high stakes. Confirms Seoul was not charity. |
 | M7 | Budapest | → **Rango 2** | Mentioned by Cartwright (Cap 27). |
 | M8 | Caracas, Venezuela, Jan 2026 — Yara Montiel | Rango 2 | First mission operating from Rango 2. (Cap 19) |
@@ -129,3 +129,5 @@ Timeline: ~1–2 weeks post-Grayhaven. Park receives M4 assignment and downloads
 - Never runs to "charge" the Domain. Accumulation is passive, has no visual signal, and extends across time — reserve built over days persists into subsequent operations. In Hartford (BSA Arc 1), nearly two weeks of passive accumulation function as fuel entering the Cap 4–5 engagement.
 - Domain Stage 2 (passive visible accumulation): first shown Cap 21. Oliver reads it as a signature growing with no outlet.
 - Domain Stage 3 (full F=ma — mass concentration + accumulated inertia simultaneously): first used BSA Cap 5, against Saturación's organizational center. The "a" component is the inertia accumulated across the entire Hartford engagement; the "m" component is Park's own Odem concentrated at the point of contact rather than distributed through the body. He cannot sustain both variables simultaneously for more than one strike at current level — after it, he has no Domain left for that operation. Prior real-combat attempt (pre-BSA) ended with both arms broken — imprecise Stage 3 execution damages the user structurally, not just depletes reserve.
+- BSA Cap 11–12 (Seoul island, dokkaebi anciano + quimera evolucionada): Park executes **two** full Stage 3 strikes in the same operation — left fist in the cuenco (Cap 11, Clase-R-reinforced), right fist against the evolved quimera (Cap 12, unreinforced — no Clase-R on that arm). The second strike exceeds his documented one-strike ceiling under extreme duress and total reserve depletion. Cost: the unreinforced right arm takes real structural damage, not just fatigue — first confirmed breach of the established limit. Open thread for Cap 13: physical consequence of this breach should surface (injury, recovery time, or Ji-ho/medical notice).
+- BSA Cap 20 (Lisboa, sala de máquinas del elevador de Santa Justa, clímax Arc 3): growth marker. Under a three-way threat (Báthory + Rafa's localized tremor simultaneously), Park treats the ground tremor as a physical impact like any other and absorbs it via Inercia (his established axis) instead of losing footing — NOT Manto (that technique governs containing one's own Odem overflow, not absorbing external kinetic force). Briefly uses Vacío against Báthory (barely two breaths, costs him half a second of read-time, not full concealment). Follows with a Stage 3 strike concentrated to a point the size of two knuckles instead of distributed through the whole arm/fist as in Seúl — smaller, more precise, aimed at displacing a live threat (an oil drum about to ignite) rather than at maximum destructive output. Contrast explicitly drawn in-text with the reckless full-power Seúl strikes: control instead of desperation. Does not break his own arm this time.
