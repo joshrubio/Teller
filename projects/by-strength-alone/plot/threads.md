@@ -31,6 +31,22 @@ Same code. Same protocol. Same office of origin.
 
 ---
 
+## Thread: Ji-ho — mensaje cifrado 4 palabras (BSA Cap 2)
+
+**Mensaje:** `"No es solo Hartford."`
+
+**Canal:** cifrado, no oficial. Sin firma. Sin contexto.
+
+**Momento:** durante o inmediatamente después de la operación contra la Saturación en Hartford.
+
+**Lectura en el momento:** ¿Cómo sabe Ji-ho que Park está en Hartford? ¿Qué sabe él? Park no puede responder la pregunta — no tiene el marco todavía.
+
+**Lectura retroactiva (evento global 24 jun 2026):** Ji-ho ya trazaba el patrón global. Hartford era un nodo de muchos — lo sabía antes de que cualquier protocolo lo nombrara. Rango S no es solo potencia: es reconocimiento de patrón a escala que otros no tienen. Ji-ho no alertó — observó. Esa distancia entre lo que sabía y lo que dijo es carácter.
+
+**Status:** canonizado. No resuelto para Park hasta Libro 2 de Ledger.
+
+---
+
 ## Thread: North sector silhouette (BSA Cap 1)
 
 **Event:** Park spots a standing figure at ~200m in the north sector, after midnight. Figure disappears. Alarm activates 3 seconds later — base mobilizes.

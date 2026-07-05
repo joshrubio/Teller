@@ -42,26 +42,35 @@ Oliver eligió quedarse. Esa elección y su coste es el motor de Libro 2.
 
 ## Next chapter plan
 
-**Cap 38 — status: not planned.**
+**Cap 38 — status: PLANNED. Ver `plot/libro-2-arcs.md`.**
 
-Open threads that feed Libro 2 (load `plot/arcs.md` → "Open threads"):
+**Cap 38 es Ji-ho POV — 24 jun 2026. Evento global. No Oliver.**
+Oliver reaparece en Cap 39–40 cuando llega la convocatoria excepcional.
+
+Open threads que alimentan Libro 2:
 - Elise: what happened to her (Voss knows; Oliver doesn't know that Voss knows).
-- Sisi: "Vuelve" without answer — where is she, what does Kaspar's offer actually mean.
-- Oliver's cost arc: atención selectiva established, but the ceiling hasn't been tested in Libro 2 conditions.
-- Lev + Sabine: departed together. Their absence reshapes the Centro group.
-- Park: long-term tracking, no interception — Sisi made an informed adult decision. What does Park do with that?
-- Gary: the repair shop needs to pay the theme.
-- Kaspar's offer: still open. Oliver said no once.
+- Sisi: con Kaspar. "Vuelve" sin respuesta — la respuesta llega como información, no reencuentro.
+- Oliver's cost arc: techo de 14 min se convierte en pregunta urgente en Centro Marado.
+- Lev + Sabine: departed together. Absence reshapes the group.
+- Park: rol en Libro 2 pendiente (post-BSA).
+- Gary: repair shop debe pagar el tema.
+- Kaspar: ya no solo oferta — movimiento activo. Yusuf lo rastrea.
+- Yusuf: rastreo de Kaspar desde irrupción. Vector de información en Libro 2.
 
 ---
 
-## Planning checklist for Cap 38
+## Planning checklist para Libro 2
 
-- [x] Establish Libro 2 setting → **Centro Lemán / El Quai** (villa Belle Époque, acceso privado lago Lemán, Riviera vaudoise entre Lausana y Montreux). Instalación secundaria AMAT-EU, función de tránsito pre-clearance. Ver `world/instalacion-ginebra.md`.
-- [x] Decide destino del grupo → **El Quai (probable)**. Confirmar en manuscrito al escribir Cap 38.
-- [ ] Decide which open thread leads the first chapter
-- [ ] POV: Oliver or Voss for the opening cap?
-- [ ] First beat: immediate aftermath or timeskip?
+- [x] Establish Libro 2 macro-event → **evento global 24 jun 2026. Despertar de Principados.**
+- [x] Cap 38 POV → **Ji-ho. Venezuela. Teatro más duro.**
+- [x] Interlude setting → **El Quai** — el grupo llega ahí post-Valais. Calma que el evento destruye.
+- [x] Campamento → **Centro Marado** (Marado, Corea del Sur). 6 meses. Reclutamiento excepcional.
+- [x] Kaspar arc → tercer vector. Opera en el evento global. Menos bajas que AMAT. Movimiento.
+- [x] Oliver pregunta dramática → ¿Por qué este poder importa tanto — y para qué puedo usarlo?
+- [ ] Nombre del responsable AMAT-Suiza en El Quai
+- [ ] ¿Qué le costó exactamente la victoria a Ji-ho en Venezuela?
+- [ ] Park: rol en Centro Marado (instructor / track paralelo / ausente hasta más tarde)
+- [ ] Kaspar: teatro específico del evento global (undisclosed — revelar vía Yusuf)
 
 
 ---

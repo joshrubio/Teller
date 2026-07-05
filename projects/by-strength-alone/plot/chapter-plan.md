@@ -159,6 +159,18 @@ Aftermath de Budapest. El coste pesa. Hilo EU-GINEBRA si no se cerró antes. Lo 
 
 ---
 
+## NOTA — BAJAS DEL EVENTO GLOBAL (24 jun 2026)
+
+El evento global diezma AMAT, especialmente la rama AMAT-NA donde opera Park durante BSA Libro 1. Los siguientes personajes son candidatos a bajas del evento — su peso narrativo debe construirse durante los arcos restantes para que la pérdida importe en Ledger Libro 2:
+
+- **Hendricks** — pragmático, el protocolo como herramienta. Su muerte = pérdida de experiencia de campo real.
+- **Holt** — institucional, el sistema como garantía. Su muerte = colapso de la capa administrativa que sostenía AMAT-NA.
+- Reyes, Morales, Brandt — candidatos a sobrevivir o quedar abiertos.
+
+Nota de escritura: no marcar a nadie como baja todavía. Construir peso primero. Decisión final al terminar Arc 4 o inicio de Arc 5.
+
+---
+
 ## ARC 5 — CARACAS / VENEZUELA (Caps 28–33)
 
 **Pregunta del arco:** ¿Es fuerza la que funciona frente a algo que está fuera de escala?
