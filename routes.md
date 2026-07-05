@@ -15,6 +15,7 @@ Path pattern: `projects/[project]/[module]/[node-id].md`
 | `routes.md` | Full path map (this file). |
 | `bundles/` | Task bundles |
 | `_templates/` | Node templates for new entries |
+| `_ideas/` | Standalone spinoff pitches, not active projects — see `_ideas/README.md` |
 
 ## ledger-of-domains
 
@@ -44,3 +45,4 @@ Path pattern: `projects/[project]/[module]/[node-id].md`
 | `bundles/write/introspection.md` | Write introspective / internal scenes | User-invoked or agent-inferred |
 | `.claude/commands/session-close.md` | End-of-session protocol — update state, chapters index, offer update-nodes, commit + push | `/session-close` slash command or agent-prompted |
 | `.claude/commands/notes.md` | Writing process journal — create, add entry, edit entry | `/notes` |
+| `.claude/commands/spinoff-idea.md` | Generate standalone spinoff pitch, connected to a universe's world rules only | `/spinoff-idea [universe]` |
