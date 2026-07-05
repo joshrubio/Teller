@@ -35,6 +35,7 @@ updated: 2026-07-04
 ## What to avoid
 
 - No usar terminología de Odem/sistema en el POV de ningún personaje — ninguno de los dos sabe que existe ese marco.
+- No usar terminología burocrática u de protocolo tipo AMAT ("protocolo", "informe oficial", etc.) — enfocarse en lenguaje natural o técnico deportivo ("rutina", "plan de hidratación", "reglamento"). Reflejo adquirido de escribir tanto desde AMAT (LoD/BSA) — vigilar que no se filtre acá, donde no hay institución.
 - No resolver el vínculo con explicación científica satisfactoria — la ambigüedad es el punto.
 - El libro sí desarrolla romance entre Zeke y Sanne (ver `themes/writing-rules.md` → "Romance — ritmo y reglas") — pero no acelerado. La intimidad crece del reconocimiento mutuo forzado por el vínculo, no de atracción declarada temprano. Primer reconocimiento explícito recién en Acto III.
 
