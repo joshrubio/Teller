@@ -4,12 +4,12 @@ type: plot
 project: by-strength-alone
 module: plot
 tags: [structure, chapters, beats, full-plan]
-updated: 2026-06-24
+updated: 2026-07-08
 ---
 
 # BSA — Plan completo cap a cap
 
-**Total:** 34 capítulos / ~85.000–120.000 palabras estimado (actualizado 2026-07-02 — ver Resumen estructural al final; los caps de combate pesado en Arc 2 promediaron 3.200-4.200 palabras, más que el estimado original de ~3K/cap)
+**Total:** 36 capítulos / ~88.500–129.000 palabras estimado (actualizado 2026-07-06 — ver Resumen estructural al final; los caps de combate pesado en Arc 2 promediaron 3.200-4.200 palabras, más que el estimado original de ~3K/cap; Arc 3 ganó dos caps cuando el clímax de Báthory se dividió en setup + confrontación + resolución)
 
 ---
 
@@ -278,121 +278,157 @@ Cartwright se va sin explicación. La dificultad real parece haber esperado su a
 
 **Beat (esqueleto: nodo — causa raíz, decisión imposible):**
 
-Sin Cartwright, sin red institucional. El equipo local no confía del todo en Park — un agente externo, poco tránsito habitual en esta rama. Descubrimiento completo: A Saudade es anterior a 1755, el linaje Vasconcelos la protege por razones que Park empieza a entender, Báthory fuerza el proceso con coste real sobre gente que no consiente.
+**Actualizado 2026-07-04 tras Cap 16 (Bruno despierta Domain forzado — Eco):** el equipo tiene una emergencia propia, no solo una investigación — uno de los suyos ahora vive el mismo problema que están estudiando en civiles. Ferreira no puede ayudarlo con Fio (corta hilos, no calma percepción descontrolada) y Salgado no tiene la experiencia práctica para enseñarle a filtrar el ruido. La única gente que sabe cómo se aprende a vivir con un despertar así es el grupo de apoyo que mencionó el hombre de Mouraria — organizado por Mariana.
 
-Decisión imposible: proteger a Mariana (que no es la amenaza) contra actuar sobre todo el sistema guardián que Báthory representa. Mariana advierte a Park sobre Báthory — alianza tensa, no declarada como tal.
+Esto fuerza la decisión que el beat original ya preveía, pero por necesidad práctica en vez de solo dilema moral: Park y el equipo tienen que buscar a Mariana directamente, pedirle ayuda para Bruno. Ahí es donde Mariana explica más de A Saudade, del linaje, de por qué protege lo que protege — y de paso, alguien de su submundo (quizás Inês, la cantante, o el "despertado involuntario" ya establecido en `characters/mariana-aliados.md`) puede mostrarle a Bruno, y al lector, cómo se filtra el ruido de una percepción de Odem recién despierta — vehículo natural para la exploración narrativa del sistema que ya sentamos en `world/odem.md` (presión/peso, punto vs. ambiental).
+
+Decisión imposible sigue en pie, pero reencuadrada: proteger/confiar en Mariana (que ayuda, no amenaza) mientras Báthory sigue suelto y su daño colateral (Bruno) ya es personal para el equipo, no abstracto.
 
 **Cliffhanger:** Báthory hace un movimiento decisivo que fuerza la mano de Park.
 
 ---
 
-### Cap 18 — *Clímax en solitario*
+### Cap 18 — *Expediente* ✓ ESCRITO (parcial — setup, no confrontación)
 
-**Beat (esqueleto: clímax en solitario — Park actúa sin red):**
+**Lo que se planeó:** este beat originalmente era el clímax en solitario contra Báthory.
 
-Park enfrenta a Báthory. Resolución por precisión e inteligencia, no potencia — el tema central del arco pagado en la escena que más importa. La muerte de Báthory no es limpia — probablemente ligada a la propia naturaleza de sustracción del Domain de la zona (algo se retira, no se golpea), coste real y ambiguo. Mariana presente, reacción emocional genuina — el quiebre que la va a definir en Arc 4.
+**Lo que pasó en la escritura:** el cap se convirtió en el setup necesario antes del enfrentamiento — AMAT-HU abre su archivo, Filipa revela el nombre completo (Zoltán Báthory, primera vez en prosa — pago del "no dijo el nombre" de Mariana en Cap 17), trasfondo de ex-agente y ruptura familiar, el origen del 23 de octubre de 2011 (protestas reales de la oposición húngara, aniversario 55 de 1956, brote involuntario de Báthory adolescente) como prueba de concepto de su método, y el patrón de catorce años por Europa (Praga 2014, Viena 2017, Marsella 2020, Zagreb 2023) que Filipa ya había detectado en Cap 16. Se alude al origen del Dominio de los Báthory — un Principado bajo el Danubio, sin nombre confirmado, paralelo a A Saudade — sin detallar (clasificado, material de Arc 4).
 
-Park no entiende del todo, todavía, el peso de lo que acaba de hacer.
+**Corrección de cronología (2026-07-06):** BSA Arc 3 ocurre en 2025, en paralelo con LoD (ver `ledger-of-domains/plot/timeline.md`), no en verano — Santo António (junio) descartado por incompatible con la cronología real del arco (Hartford autumn 2025 → Seoul semanas después → Lisboa "tres días después de la isla"). El incidente se movió al 1 de noviembre — Dia de Todos os Santos, 270 aniversario del terremoto de 1755 — durante la Vigília das velas en las ruinas del Carmo: lecturas ambientales anómalas subiendo toda la tarde, decenas de miles de personas en silencio, vela en mano, imposible de evacuar o registrar sin pánico. Park identifica el combustible: duelo colectivo sincronizado a escala masiva — la misma sustancia con la que A Saudade se alimenta, concentrada en la noche y el lugar exactos del terremoto. El equipo se moviliza (no a un sitio aislado como el almacén de Xabregas, ya usado en Cap 17) — ahí es donde todas las facciones convergen: AMAT-PT, Mariana (buscando a Rafa, que no contesta el teléfono y nunca se pierde la Vigília), y presumiblemente Báthory y su gente en algún punto de la multitud. Cierra con una primera señal de que algo cambia en el "ruido de fondo" de la Vigília — sin resolver.
 
----
-
-### Cap 19 — *Cierre*
-
-**Beat (esqueleto: cierre — victoria sin nombre propio, pregunta formulada):**
-
-Aftermath. Nadie fuera del teatro sabe qué pasó realmente. Cartwright reaparece — algo se revela o se insinúa sobre qué estaba midiendo en Park durante todo el arco. Despedida de Salgado y Ferreira — cierre del hilo Lisboa. Mariana, sola, ya empezando a cambiar — última imagen antes de Budapest.
-
-Aquí se siembra la idea del mundo del Odem fuera de AMAT — "como intentar atrapar todos los peces del mar" (ver `plot/threads.md`).
-
-Pregunta del arco formulada, no respondida: ¿es suficiente si nadie más lo vio? Puente directo a Budapest — Cartwright anuncia el siguiente destino con un tono distinto, más serio. Sin capítulo de transición aparte.
+**Función real:** el clímax en solitario contra Báthory se traslada a Cap 19, ahora en medio del caos de la Vigília — el incidente donde Rafa probablemente muere (método sin fijar, ver `plot/threads.md`).
 
 ---
 
-## ARC 4 — BUDAPEST (Caps 20–25) — replanteado post Arc 3 (2026-07-02)
+### Cap 19 — *Lo que el suelo despertó* ✓ ESCRITO
+
+**Lo que pasó en la escritura:** el clímax en solitario contra Báthory se traslada de Xabregas (descartado) a la sala de máquinas del elevador de Santa Justa, en medio del caos de la Vigília. Caos con despertares civiles en vivo; Ferreira contra el lugarteniente húngaro y Costa+Rui contra un recluta de Lisboa, ambos combates resueltos en paralelo mientras Park sigue a Mariana. Mariana encuentra a Báthory primero y usa A Saudade para drenarlo — el amor no resuelto entre ambos les impide un enfrentamiento real ("todavía te quiero" / "es lo único que cuento contigo para que no lo hagas"). Ella reconoce algo en la cara de Báthory sobre el paradero de Rafa, sin decirlo — el narrador sigue ocultando la identidad del "más joven" del mirador (Cap 18). Park, sin nada que lo detenga (recuerda a Cartwright evaluándolo en Cap 15), entra en combate directo con Báthory — varios intercambios, Mariana interviene sin decidir bando, protegiendo a los dos a la vez. La sala de máquinas queda dañada (motor abollado, panel eléctrico chispeando, un bidón de aceite ya detonado una vez) — establece el peligro físico del lugar para el pago posterior. Cierra con Rafa entrando por la puerta, viendo la escena, decidido a intervenir.
+
+**Función real:** el "clímax en solitario" se resuelve en Cap 20, no aquí — Cap 19 lo deja en el punto de máxima tensión, justo antes de la consecuencia.
+
+---
+
+### Cap 20 — *Lo que la sala de máquinas se llevó* ✓ ESCRITO (2.541 palabras)
+
+**Beat (resolución del clímax):** Rafa hace team-up con Báthory contra Park, no contra él — el giro que resuelve el cliffhanger. La pelea escala a tres bandas (Mariana sin comprometerse del todo con ningún lado). Park se ve forzado a ser creativo con las técnicas universales de Odem (Manto/Vacío/Foco, ver `world/odem.md`) combinadas con su Dominio de Fuerza — muestra el impacto acumulado del arco en su forma de pelear, ya no solo fuerza bruta. Logra un golpe de Dominio completo (Stage 3, F=ma) — pero fino, calibrado, reducido respecto a los golpes desesperados de Seúl (ver `characters/park-jun-ho.md`) — control en vez de sobreesfuerzo. La escalada del combate hace detonar el resto del combustible/electricidad de la sala — una explosión real, no contenida, que alcanza tanto a Rafa (de lleno, muere) como a Báthory (de refilón, quemado, cojeando) cuando este se lanza a intentar salvarlo. Park saca a Mariana por muy poco, el calor rozándolos al cruzar el umbral.
+
+**Aftermath (añadido tras primer borrador):** de vuelta en la sede AMAT-PT, equipo herido reunido (Ferreira, Costa, Vitória, Rui), la decisión pendiente de si Rafa entra o no en el informe oficial (queda en manos de Mariana), y Filipa rastreando a Báthory hasta un taxi y un vuelo con pasaporte falso — Frankfurt, conexión a Budapest, nueve de la mañana. Cierra con el cliffhanger: cuatro horas de ventaja hacia una ciudad que ninguno conoce todavía. Esto absorbe la función que Cap 21 iba a tener como aftermath — Cap 21 queda libre para ser transición pura.
+
+**Función real:** este es el beat que el plan original asignaba a Cap 19 (clímax en solitario, coste real y ambiguo) — se resuelve aquí en cambio, un capítulo después de lo planeado, y absorbe además parte del aftermath que iba a ir en Cap 21.
+
+---
+
+### Cap 21 — *Transición a Budapest* [ajustado — antes "Cierre"]
+
+**Beat (ajustado — el aftermath ya se cubrió en Cap 20):** puente directo hacia Arc 4. Cartwright reaparece — algo se revela o se insinúa sobre qué estaba midiendo en Park durante todo el arco. Despedida de Salgado y Ferreira — cierre del hilo Lisboa. Mariana, sola, ya empezando a cambiar — última imagen antes de Budapest, o decide acompañarlos (sin fijar). Aquí se siembra la idea del mundo del Odem fuera de AMAT — "como intentar atrapar todos los peces del mar" (ver `plot/threads.md`).
+
+Pregunta del arco formulada, no respondida: ¿es suficiente si nadie más lo vio? Cartwright anuncia el siguiente destino con un tono distinto, más serio. Capítulo más corto que el resto del arco — es transición, no clímax.
+
+---
+
+## ARC 4 — BUDAPEST (Caps 22–28) — replanteado 2026-07-08, tras cierre real de Arc 3
 
 **Pregunta del arco:** ¿Es fuerza lo que queda en pie cuando ya no puedes retroceder?
 
-**Elenco nuevo:** AMAT-HU (`world/amat-hu.md`), Mariana Vasconcelos como amenaza principal (escalada desde Arc 3), crisis de Domains descontrolados.
+**Elenco nuevo:** AMAT-HU / Ilona (`world/amat-hu.md`), Katalin Báthory (aliada, rama tradicionalista de la familia — nombre de trabajo), Tamás (lugarteniente de Báthory) y el recluta de Lisboa superviviente (`characters/bathory-aliados.md`), crisis de Domains descontrolados.
 
-**Hilo de fondo (no confirmado en prosa hasta escribir):** Park no sabe, al llegar, que su resolución en Lisboa es la causa directa de lo que encuentra aquí — Mariana escaló al perder a Báthory. Ver `plot/threads.md`, hilo "Park como catalizador."
+**Corrección de rumbo respecto al plan anterior (obsoleto):** el plan viejo asumía que Mariana escalaba a amenaza principal de Arc 4 y que Cartwright llegaba con autoridad operativa desde el inicio. Ninguna de las dos cosas es cierta ya: Cap 20-21 (reales) dejaron a Mariana de duelo en Lisboa, no persiguiendo a Park a Budapest, y a Park yendo solo, como agente libre, con Cartwright cubriéndolo por teléfono, no presente. El plan de abajo reemplaza al anterior por completo.
 
-### Cap 20 — *Apertura*
+**Antagonista real del arco:** Báthory, no Mariana. Llega a Budapest herido, sin nada de lo que fue a buscar a Lisboa, y en clara desventaja numérica — solo le quedan Tamás y un recluta de Lisboa superviviente. Esto le da a Báthory un arco propio dentro del arco: protagonista de su propia huida, no un objetivo pasivo esperando a que Park lo encuentre.
 
-Cartwright presente desde el inicio — autoridad operativa, no observacional. Tono distinto a Lisboa: la misión tiene estructura diferente desde el briefing. Llegada a Budapest, AMAT-HU — contraste con AMAT-PT (rama robusta, trauma denso: ocupación otomana, Shoá húngara, 1944-45, 1956). Revelación gradual: la crisis no es un objetivo único — es la tasa de Domains despertando sin patrón en la población, ya en marcha antes de que Park llegue.
+**Beats confirmados por el usuario (2026-07-08):**
+- Mariana aparece cerca del final, sin aviso previo, para ayudar a cerrar el conflicto con Báthory — no como enemiga.
+- Báthory superado en número da pie a mostrar su propio protagonismo mientras huye — Tamás y el recluta de Lisboa lo acompañan.
+- AMAT-HU se muestra extrañamente colaborativa — el motivo real es Katalin Báthory, moviendo recursos por su cuenta para limpiar el nombre de su familia y proteger el equilibrio con el Principado del Danubio.
+- Exploración profunda de Budapest, la familia Báthory (rama tradicionalista) y el Principado del Danubio — el momento de lore que Arc 3 no se dio con los Vasconcelos y A Saudade.
+- El combate final debe ser épico y terminar en una muerte — de quién, sin decidir todavía.
 
-**Cliffhanger:** la escala del problema es mucho mayor de lo que el briefing inicial sugería.
+### Cap 22 — *Miskolc*
 
----
+Continúa directo desde el cliffhanger de Cap 21 (derrumbe cerca de Miskolc, billete de tren sin vuelta). Park sigue el rastro fuera de Budapest por primera vez — la ciudad no es el escenario completo del arco. En Miskolc encuentra el sitio del derrumbe: no es un ataque de Báthory, es un intento fallido de calibrar su ritual lejos de ojos institucionales, con daño colateral real. Primer contacto con Katalin Báthory — se presenta como enlace de AMAT-HU, ofrece ayuda que no le corresponde dar según el mandato que Ilona describió en Cap 21. Park nota la discrepancia sin poder explicarla todavía.
 
-### Cap 21 — *Briefing completo*
-
-El coste de la misión se insinúa — algo que no puede preservarse para que el objetivo se cumpla. Evidencia de que Mariana opera en Budapest, más fuerte que en Lisboa. Cartwright activo, dirigiendo, no solo observando.
-
----
-
-### Cap 22–23 — *Misión en progreso*
-
-Domains descontrolados manifestándose en población civil — caos que AMAT no puede contener con una operación puntual, sin objetivo único que neutralizar. Park reconoce a Mariana — confrontación con peso emocional real, ella sabe lo que él hizo en Lisboa. El coste se hace concreto: algo o alguien que Park no puede preservar para que la misión se cumpla.
+**Cliffhanger:** Katalin le muestra algo — un objeto, un lugar, un nombre — que conecta directamente con el Principado del Danubio, más de lo que ninguna rama de AMAT ha compartido nunca con un agente externo.
 
 ---
 
-### Cap 24 — *Cruzar la línea*
+### Cap 23 — *La otra familia*
 
-Park en el momento de la decisión irreversible — no dramática, clara, sin poder deshacerse. Enfrentamiento con Mariana: ya no es del todo la "buena" de Lisboa, pero tampoco una villana limpia — la situación no permite salida sin coste.
+Capítulo de exposición, el equivalente al Salgado/A Saudade de Lisboa pero más profundo. Katalin lleva a Park a la propiedad/sede de la rama tradicionalista de los Báthory. Se revela el nombre y la naturaleza del Principado del Danubio, la mecánica generacional del linaje (paralela a los Vasconcelos, más antigua, más marcada por la industrialización que Zoltán intentó imponerle), y por qué la familia entera podría perder su tolerancia institucional si la crisis regional sigue escalando. Katalin explica su propio motivo sin ocultarlo del todo: no está ayudando a Park por AMAT, está ayudando para salvar a su familia de las consecuencias de lo que hizo Zoltán.
 
----
-
-### Cap 25 — *Victoria / Rango 2*
-
-Victoria real, coste real. Rango 2 confirmado. Lo que queda en pie no es lo que Park esperaba. Revelación parcial (o total) de que Park causó lo que acaba de resolver — recontextualiza la pregunta de toda la serie sobre qué es la fuerza. Sin capítulo de transición aparte — cierre directo hacia lo que sigue.
+**Cliffhanger:** noticia o señal de que Tamás y el recluta de Lisboa ya han sido vistos actuando en la ciudad — Báthory no está solo escondiéndose, está preparando algo.
 
 ---
 
-## CAP 26 — TRANSICIÓN
+### Cap 24 — *Superados en número*
 
-Aftermath de Budapest. El coste pesa. Hilo EU-GINEBRA si no se cerró antes. Lo que Park lleva a Caracas.
+Escalada — primer enfrentamiento físico de Park con Tamás y/o el recluta de Lisboa, en la ciudad, sin Báthory presente todavía. Muestra que aunque Báthory esté en desventaja numérica frente a lo que Park puede reunir (AMAT-HU + Katalin + lo que queda de su propio juicio), sus dos hombres restantes siguen siendo una amenaza real y coordinada. Intercalado: una escena o fragmento desde la perspectiva de Báthory (recurso ya usado en Cap 18-19) — mostrarlo activo, adaptándose, no solo huyendo. La crisis de Domains descontrolados se manifiesta con más fuerza en esta parte del arco — civiles afectados, imposible de contener con una operación puntual.
+
+**Cliffhanger:** Park localiza el sitio donde Báthory planea el intento final de estabilizar/acelerar su vínculo con el Principado.
 
 ---
 
-## ARC 5 — CARACAS / VENEZUELA (Caps 27–32)
+### Cap 25 — *Nodo*
+
+Decisión imposible del arco: actuar ya, en desventaja, con lo que tiene — o esperar refuerzo institucional que puede no llegar a tiempo. Aquí, si hace falta, Cartwright pasa de cobertura telefónica a presencia real — la ventana de seis-ocho horas de Cap 21 se resolvió en algún sentido, y AMAT decide (tarde, a regañadientes) respaldar oficialmente lo que Park ya empezó solo. Katalin en el mismo dilema desde el lado de su familia: hasta dónde está dispuesta a llegar contra su propio primo.
+
+---
+
+### Cap 26 — *Lo que queda en pie*
+
+Clímax. Combate épico — Park, con el apoyo que haya logrado reunir (Katalin, posiblemente algo de AMAT-HU), contra Báthory, Tamás y el recluta de Lisboa, en o cerca del sitio del Principado del Danubio. Mariana aparece sin aviso, hacia el final, y su intervención inclina la balanza — no llega como aliada institucional, llega por Rafa. El combate termina en una muerte real — candidatos sin decidir todavía: Tamás, el recluta de Lisboa, Báthory mismo, o incluso Katalin. Pagar aquí la pregunta del arco: qué queda en pie cuando ya no se puede retroceder.
+
+---
+
+### Cap 27 — *Rango 2*
+
+Aftermath inmediato. Coste real, victoria sin nombre propio de nuevo. Rango 2 confirmado para Park. La crisis regional de Domains descontrolados no se resuelve del todo — se contiene, ecoando el hilo "como intentar atrapar todos los peces del mar" (ver `plot/threads.md`). Despedida de Katalin (y de lo que quede de la familia Báthory), de Ilona, quizás de Mariana si sigue presente.
+
+---
+
+### Cap 28 — *Cierre* [absorbe la función de "Transición" del plan viejo]
+
+Cierre del arco y puente hacia Caracas. Aftermath de Budapest, el coste pesa, hilo EU-GINEBRA si no se cerró antes. Reflexión final de Park sobre lo que costó Budapest comparado con lo que costó Lisboa. Sin capítulo de transición aparte — evaluar al escribir si Cap 27 y 28 deben fusionarse (precedente: esto pasó en Arc 3 con Cap 20).
+
+---
+
+## ARC 5 — CARACAS / VENEZUELA (Caps 29–34)
 
 **Pregunta del arco:** ¿Es fuerza la que funciona frente a algo que está fuera de escala?
 
 | Cap | Beat principal |
 |---|---|
-| 27 | Misión clasificada Nivel 3. Equipo mínimo. Venezuela interior. Setup estándar que empieza a no serlo. |
-| 28 | Primera anomalía. Las lecturas no encajan con perfil de Potestad generada. Park lo reconoce — similar a Hartford, pero más viejo, más profundo. |
-| 29 | La misión escala. Equipo mínimo insuficiente para lo que realmente hay aquí. Park no puede pedir refuerzo sin reportar lo que cree ver — y lo que cree ver no tiene categoría en el protocolo. |
-| 30 | Evidencia de Principado activo — posiblemente el mismo de Hartford. No confirmado. AMAT no tiene registro de Principado en Venezuela. Park no puede probarlo. |
-| 31 | Misión resuelta en el nivel aparente — la Potestad visible neutralizada. Lo que Park vio debajo: sin resolver. El teatro queda "limpio" según el protocolo. Park sabe que no lo está. |
-| 32 | La llamada a Valais llega antes de que Park pueda reportar lo que realmente encontró. La pregunta del arco no se responde — se interrumpe. Eso también es una respuesta. |
+| 29 | Misión clasificada Nivel 3. Equipo mínimo. Venezuela interior. Setup estándar que empieza a no serlo. |
+| 30 | Primera anomalía. Las lecturas no encajan con perfil de Potestad generada. Park lo reconoce — similar a Hartford, pero más viejo, más profundo. |
+| 31 | La misión escala. Equipo mínimo insuficiente para lo que realmente hay aquí. Park no puede pedir refuerzo sin reportar lo que cree ver — y lo que cree ver no tiene categoría en el protocolo. |
+| 32 | Evidencia de Principado activo — posiblemente el mismo de Hartford. No confirmado. AMAT no tiene registro de Principado en Venezuela. Park no puede probarlo. |
+| 33 | Misión resuelta en el nivel aparente — la Potestad visible neutralizada. Lo que Park vio debajo: sin resolver. El teatro queda "limpio" según el protocolo. Park sabe que no lo está. |
+| 34 | La llamada a Valais llega antes de que Park pueda reportar lo que realmente encontró. La pregunta del arco no se responde — se interrumpe. Eso también es una respuesta. |
 
 ---
 
-## BRIDGE — VALAIS (Caps 33–34)
+## BRIDGE — VALAIS (Caps 35–36)
 
 **Empalme con Libro 1 Cap 20.**
 
 | Cap | Beat principal |
 |---|---|
-| 33 | Park recibe la convocatoria de Voss. No sabe lo que el lector de BSA ya intuye: fue colocado por Voss, no asignado por AMAT-NA. Lo que Park cree que es un destino nuevo es otra cosa. |
-| 34 | Partida. Cierre del spinoff en el momento exacto en que abre Libro 1, Arc 3. El lector llega a Valais sabiendo lo que Park todavía no puede ver sobre sí mismo. |
+| 35 | Park recibe la convocatoria de Voss. No sabe lo que el lector de BSA ya intuye: fue colocado por Voss, no asignado por AMAT-NA. Lo que Park cree que es un destino nuevo es otra cosa. |
+| 36 | Partida. Cierre del spinoff en el momento exacto en que abre Libro 1, Arc 3. El lector llega a Valais sabiendo lo que Park todavía no puede ver sobre sí mismo. |
 
 ---
 
-## Resumen estructural (actualizado 2026-07-02, refleja lo escrito real)
+## Resumen estructural (actualizado 2026-07-08, refleja plan real de Arc 4)
 
 | Bloque | Caps | Tipo |
 |---|---|---|
 | Arc 1 — Hartford | 1–6 | 6 caps (transición absorbida en Cap 6) |
 | Arc 2 — Seoul | 7–13 | 7 caps (transición absorbida en Cap 13) |
-| Arc 3 — Lisboa | 14–19 | 6 caps (sin transición aparte — Cartwright absorbe la función en Cap 14) |
-| Arc 4 — Budapest | 20–25 | 6 caps (sin transición aparte — puente directo desde Cap 19) |
-| Transición | 26 | 1 cap |
-| Arc 5 — Caracas | 27–32 | 6 caps |
-| Bridge — Valais | 33–34 | 2 caps |
-| **Total** | | **34 caps** |
+| Arc 3 — Lisboa | 14–21 | 8 caps (sin transición aparte — Cartwright absorbe la función en Cap 14; creció dos veces: primero al dividir el clímax en Cap 18 setup + Cap 19 confrontación, y de nuevo al separar Cap 19 confrontación de Cap 20 resolución/muerte de Rafa) |
+| Arc 4 — Budapest | 22–28 | 7 caps (sin transición aparte — Cap 28 absorbe la función; replanteado 2026-07-08 con Miskolc, Katalin Báthory, y Báthory como antagonista real en vez de Mariana) |
+| Arc 5 — Caracas | 29–34 | 6 caps |
+| Bridge — Valais | 35–36 | 2 caps |
+| **Total** | | **36 caps** |
 
 **Nota:** la numeración de Arc 1-2 ya no coincide con el plan original (que asumía transiciones dedicadas tras cada arco) porque la escritura real absorbió esa función dentro del último capítulo operativo de cada arco. Ver `plot/arc-model.md` para el análisis completo de cómo varió la ejecución del diseño original.
 
-**Palabras:** 87.500 – 122.500 (~105.000 centro realista a 3K/cap)
+**Palabras:** 88.500 – 129.000 (~106.000 centro realista a 3K/cap)

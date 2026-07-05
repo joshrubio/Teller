@@ -6,7 +6,7 @@ module: characters
 tags: [bsa-arc3, lisboa, linaje-guardian, antagonista-ambiguo, bsa-arc4-setup]
 relations: [park, bathory, world/entities/a-saudade, world/amat-pt]
 load-with: [world/entities/a-saudade, world/amat-pt]
-updated: 2026-07-04
+updated: 2026-07-08
 ---
 
 # Mariana Vasconcelos — Guardiana de A Saudade
@@ -18,6 +18,7 @@ updated: 2026-07-04
 | **Family** | Vasconcelos — linaje guardián de A Saudade (EU-1755-PT), generaciones desde antes de AMAT |
 | **Role in BSA** | Antagonista ambiguo Arc 3 (Lisboa) → amenaza principal Arc 4 (Budapest), tras la muerte de Báthory |
 | **Domain** | Despertado por exposición ritual generacional, no innato ni copiado — patrón ligado a la séptima generación del linaje (ver Mecánica) |
+| **Edad** | ~30 — misma generación que Báthory, no una brecha de mentor/discípula. Ver `characters/bathory.md`. |
 
 ## Nature
 
@@ -37,9 +38,19 @@ Mariana no está aislada en su linaje — está conectada a una comunidad más a
 
 **Cantante de fado (aliada, nombre TBD):** parte de este submundo, no del linaje Vasconcelos. Textura cultural de saudade — canta lo que la comunidad no puede decir directamente. Conexión con Mariana anterior a los eventos de Arc 3.
 
-## Relación con Báthory
+## Rafa — hermano menor (BSA Cap 17)
+
+Rafa no pertenece a la línea de sucesión del linaje Vasconcelos — no va a heredar el rol de guardián de A Saudade, y Mariana no quiere que lo haga. Despertó solo, hace tres años, sin ritual ni linaje detrás — un despertar espontáneo como cualquier otro miembro de la comunidad. Mariana lo entrenó igual que entrena a cualquiera que llega a la casa de Mouraria, pero lo quiere de una forma que no quiere a los demás — "eso no debería cambiar nada de cómo lo protejo, pero cambia todo" (palabras de Mariana, Cap 17).
+
+**Función narrativa confirmada (2026-07-04):** la muerte de Rafa, no la muerte de Báthory, es el disparador real de la escalada de Mariana hacia Arc 4 — más personal y devastador que perder a un corresponsal/pareja. Esto desacopla el arco de tener que matar a Báthory en Arc 3 — su fecha de muerte queda abierta. Ver `by-strength-alone/plot/threads.md`.
+
+**Muerte confirmada — BSA Cap 20:** Rafa muere en la sala de máquinas del elevador de Santa Justa, durante el clímax del arco — no a manos de nadie, accidental, consecuencia de la propia sala ya dañada (motor, panel eléctrico, dos bidones de aceite) durante el enfrentamiento a tres bandas entre Park, Báthory y el propio Rafa. Su ambigüedad de Cap 17 (¿coaccionado o converso?) se resuelve parcialmente en Cap 18-20: se presenta por voluntad propia al lado de Báthory ("vine yo solo. Nadie me trajo"), usando una capacidad de temblor localizado — la misma, sin que el narrador lo confirme del todo, que causó el temblor de la Vigília. La sala termina en una explosión real, no contenida — alcanza también a Báthory (quemaduras, cojera) cuando se lanza hacia Rafa demasiado tarde. Park saca a Mariana por muy poco, el calor rozándolos al cruzar el umbral. Mariana está presente en el momento exacto de la muerte de su hermano — no se entera después, lo ve pasar, y estuvo a segundos de no salir ella misma.
+
+## Relación con Báthory — romance roto (BSA Cap 17)
 
 Corresponsal desde Budapest — la familia Vasconcelos mantiene contacto con un linaje equivalente húngaro (ver `characters/bathory.md`, `world/amat-hu.md`) que gestiona su propio residuo de Principado con métodos mucho más agresivos. Báthory visita Lisboa durante Arc 3; es la amenaza inmediata que Park tiene que detener, no Mariana.
+
+Fueron pareja, hace tiempo. Mariana no dice su nombre cuando Park le pregunta por el hombre de la marca — lo protege incluso mientras rechaza sus métodos, y admite abiertamente, sin que Park se lo pida, que todavía lo quiere en algún grado sin resolver. Lo que rompió la relación no fue una traición personal sino una escisión de su propia comunidad: Báthory reclutó, con el tiempo, gente que Mariana entrenó en Mouraria — no despertados forzados como en Budapest, sino conversos, gente que decidió que él ofrecía algo que ella se negaba a dar (permiso para usar de verdad lo que despierta en la gente). Duele más por ser desde dentro, no una invasión desde fuera. Ver `characters/bathory.md`, `characters/bathory-aliados.md`.
 
 ## Primera aparición — BSA Cap 15
 
@@ -49,11 +60,13 @@ Advierte a Park directamente: "en esta ciudad la fuerza no sirve de mucho." Prim
 
 ## Arco narrativo — BSA
 
-**Arc 3 (Lisboa):** Mariana es el rostro razonable del linaje guardián — Park negocia, entiende, quizás simpatiza antes de que la situación escale por causa de Báthory, no de ella. Park mata a Báthory resolviendo la amenaza inmediata — no limpio, con coste real.
+**Arc 3 (Lisboa):** Mariana es el rostro razonable del linaje guardián — Park negocia, entiende, quizás simpatiza antes de que la situación escale por causa de Báthory, no de ella. En el clímax (Cap 19-20) protege a los dos a la vez, sin decidir bando, hasta que la sala de máquinas se cobra a Rafa de todos modos — Báthory escapa en el caos, visto un segundo y perdido de vista, destino abierto hacia Arc 4.
 
-**Consecuencia:** la muerte de Báthory rompe el contrapeso que mantenía a Mariana moderada. Sin él, y con el duelo real (no solo protocolario) de perderlo, se empuja más lejos en el proceso de su propio linaje — hereda su lugar como amenaza, no su poder literal. Para Arc 4 (Budapest) es más fuerte de lo que fue en Lisboa.
+**Consecuencia (actualizada 2026-07-06, tras Cap 20):** no es la muerte de Báthory lo que rompe a Mariana — es la de Rafa, presenciada en persona. El duelo real, sin nadie a quien culpar del todo (ni Park, cuyo golpe apuntó al bidón para salvarlos a los tres; ni Báthory, que huyó; la sala misma), la empuja más lejos en el proceso de su propio linaje.
 
-**Función temática:** Park como catalizador involuntario — cada arco que "resuelve" deja algo peor detrás. Mariana en Budapest es consecuencia directa de una decisión que Park tomó en Lisboa sin entender del todo su alcance. Ver hilo en `by-strength-alone/plot/threads.md`.
+**Arc 4 (Budapest) — rol revisado (2026-07-08):** Mariana NO es la amenaza principal del arco — ese rol lo mantiene Báthory. Mariana aparece hacia el final de Arc 4, sin aviso previo, para ayudar a cerrar el conflicto — no como enemiga de Park, sino como alguien con cuentas propias que saldar con Báthory por lo de Rafa. Su ayuda es lo que inclina la balanza en el enfrentamiento final. El "hereda su lugar como amenaza" queda como consecuencia a largo plazo, sembrada pero no dramatizada dentro de Arc 4 — el duelo de esa noche empieza aquí un proceso que la serie no tiene por qué resolver todavía. Ver `by-strength-alone/plot/threads.md`, hilo "Park como catalizador."
+
+**Función temática:** Park como catalizador involuntario — cada arco que "resuelve" deja algo peor detrás, pero esa consecuencia no siempre llega dentro del mismo arco. Lo que Park ve de Mariana en Budapest es alguien todavía del lado correcto de esa línea, aunque más cerca de cruzarla que en Lisboa.
 
 ## Notes
 

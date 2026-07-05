@@ -21,6 +21,10 @@ Contención de campo. ~40 años, uniforme impecable comparado con el resto. Dist
 
 Aparatos. Más joven, brazo lleno de quemaduras antiguas ya curadas (contacto repetido con entidades de la ciudad en años de servicio). Mantiene que los instrumentos estándar no calibran bien contra algo "que no tiene un eje que calibrar" — línea que conecta directo con la naturaleza ambiental/difusa de A Saudade.
 
+**BSA Cap 16 — despertar forzado:** Báthory lo golpea con una detonación de Odem sin calibrar (pensada para sobrecargar un Domain activo, no para despertar uno latente) — sin canal que sobrecargar, lo que le llega fuerza en cambio el despertar de su propio potencial, de golpe y sin control. Resultado: colapso físico real, pérdida de color, no responde.
+
+**Domain nuevo — Eco:** resonancia pasiva con la firma de Odem de cualquier cosa cercana — objetos, personas, residuos — con más claridad que cualquier instrumento estándar, pero sin ningún filtro. No es una copia de estructura tipo Registro; es percepción cruda, sin entrenamiento, dolorosa por exceso de información en vez de por ausencia de ella. Se ha vuelto, en la práctica, un instrumento de lectura viviente sin manual de uso — irónico dado que llevaba años reparando los instrumentos que ahora, básicamente, es él mismo.
+
 ## Vitória
 
 Domain de reflejo — no ofensivo espectacular, pero no falla un golpe que ya vio venir una vez. Postura de quien entrena más que trabaja de escritorio. Directa, evalúa a Park sin rodeos en su primer encuentro.

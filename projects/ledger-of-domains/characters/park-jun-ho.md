@@ -6,7 +6,7 @@ module: characters
 tags: [amat-agent, strength-domain, rango-2, tutor, pov]
 relations: [oliver, voss, ji-ho, cartwright, yusuf, dara, pier, petra, sabine]
 load-with: [system/strength, world/amat, voice/pov-park]
-updated: 2026-06-17
+updated: 2026-07-07
 ---
 
 # Park — AMAT Agent / Tutor
@@ -130,3 +130,4 @@ Timeline: ~1–2 weeks post-Grayhaven. Park receives M4 assignment and downloads
 - Domain Stage 2 (passive visible accumulation): first shown Cap 21. Oliver reads it as a signature growing with no outlet.
 - Domain Stage 3 (full F=ma — mass concentration + accumulated inertia simultaneously): first used BSA Cap 5, against Saturación's organizational center. The "a" component is the inertia accumulated across the entire Hartford engagement; the "m" component is Park's own Odem concentrated at the point of contact rather than distributed through the body. He cannot sustain both variables simultaneously for more than one strike at current level — after it, he has no Domain left for that operation. Prior real-combat attempt (pre-BSA) ended with both arms broken — imprecise Stage 3 execution damages the user structurally, not just depletes reserve.
 - BSA Cap 11–12 (Seoul island, dokkaebi anciano + quimera evolucionada): Park executes **two** full Stage 3 strikes in the same operation — left fist in the cuenco (Cap 11, Clase-R-reinforced), right fist against the evolved quimera (Cap 12, unreinforced — no Clase-R on that arm). The second strike exceeds his documented one-strike ceiling under extreme duress and total reserve depletion. Cost: the unreinforced right arm takes real structural damage, not just fatigue — first confirmed breach of the established limit. Open thread for Cap 13: physical consequence of this breach should surface (injury, recovery time, or Ji-ho/medical notice).
+- BSA Cap 20 (Lisboa, sala de máquinas del elevador de Santa Justa, clímax Arc 3): growth marker. Under a three-way threat (Báthory + Rafa's localized tremor simultaneously), Park treats the ground tremor as a physical impact like any other and absorbs it via Inercia (his established axis) instead of losing footing — NOT Manto (that technique governs containing one's own Odem overflow, not absorbing external kinetic force). Briefly uses Vacío against Báthory (barely two breaths, costs him half a second of read-time, not full concealment). Follows with a Stage 3 strike concentrated to a point the size of two knuckles instead of distributed through the whole arm/fist as in Seúl — smaller, more precise, aimed at displacing a live threat (an oil drum about to ignite) rather than at maximum destructive output. Contrast explicitly drawn in-text with the reckless full-power Seúl strikes: control instead of desperation. Does not break his own arm this time.

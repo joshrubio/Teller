@@ -21,11 +21,13 @@ updated: 2026-07-02
 
 ## Domain — Fio
 
-Manipula directamente los filamentos de Odem que sostienen la realidad (ver `world/odem.md` — "filaments, lines of tension between things"). Puede reforzar, redirigir o cercenar hilos de tensión de Odem de forma localizada.
+Concentra Odem en filamentos literales — finos como alambre, tensos, capaces de cortar limpio cualquier cosa por donde los pasa. No es un arma que empuña: son hilos que traza con las manos, generados en el momento, que existen mientras los sostiene activamente.
 
-**Uso en combate:** corta la coherencia estructural de un ataque enemigo en el punto exacto — precisión quirúrgica, no potencia bruta. Encaja con el tema del arco (prowess = uso inteligente del Odem).
+**Uso ofensivo:** corta material físico (cuerda, tela, incluso metal fino) y estructura de Odem por igual — un ataque enemigo, una conexión entre dos puntos, el "hilo" de una descarga como la de Báthory. Requiere trazar el filamento a través del objetivo — necesita proximidad y línea directa, no es un corte a distancia infinita ni instantáneo en área. Puede sostener varios hilos a la vez, pero cada uno cuesta concentración — interceptar algo grande o inesperado (ver Cap 16, ataque de Báthory a Bruno) lo deja con la mano temblando, al límite de lo que puede sostener de golpe.
 
 **Uso diagnóstico:** rastrea por dónde fluye el Odem en una zona — trabaja en sinergia con Doutor Henrique Salgado, cuya investigación teórica se beneficia de la lectura fina de Ferreira en campo.
+
+**Límite:** el filamento corta lo que encuentra en su trayectoria — no puede curvarlo a mitad de camino ni dirigirlo por instinto puro. Interceptar algo requiere anticipación real, no reacción pura.
 
 ## Función narrativa
 
