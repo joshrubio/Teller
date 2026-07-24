@@ -59,5 +59,5 @@ Su asignación externa en Cap 18 es el catalizador de todo lo que sigue:
 | Person | Dynamic |
 |---|---|
 | Oliver | No compartieron tiempo real. Su destino mueve el acuerdo de Cap 18. |
-| Kaspar | Colabora Arco 3. Kaspar lo necesitaba para llegar a Oliver — si Tomás lo sabe: abierto. |
+| Kaspar | Colabora Arco 3. Kaspar lo necesitaba para llegar a Oliver — si Tomás lo sabe: abierto. Libro 2 Cap 51: sigue con el grupo, contrapeso moral real frente a Kaspar y Sisi — objeta abiertamente que Sisi practique Mente sobre desconocidos sin consentimiento, pregunta directo por el propósito real del entrenamiento sin obtener respuesta completa. Tensión sin resolver, no ruptura. |
 | AMAT | Rabia sin resolución. El sistema nunca le ofreció lo que sí negociaron Pier, Sabine y Petra. |

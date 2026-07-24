@@ -27,6 +27,8 @@ updated: 2026-06-17
 
 El más veterano del Centro entre los sujetos. Once años le dieron vocabulario para el sistema y para sus propios límites. No empuja; no lo empujan — acuerdo tácito con AMAT. Enseña desde dentro como par con más experiencia, no como instructor.
 
+**Pasatiempo — pesca:** no tiene trasfondo de campo ni militar (es físico académico, nunca agente operativo). Su soltura con las manos en tareas manuales —cuerdas, nudos, desmontar y montar objetos con calma— viene de la pesca, afición personal de toda la vida, no de ningún entrenamiento institucional. Línea propia: "la pesca enseña esto antes que cualquier manual." Usar esto en vez de atribuirle experiencia de campo que no tiene (Libro 2, Cap 53).
+
 **Institutional position:** AMAT lo necesita dentro más que fuera. Sabe más del sistema que cualquier otro sujeto. Once años leyendo el sistema desde dentro — construyó la capacidad de actuar sin que AMAT lo sepa.
 
 ## Domain in text
@@ -60,6 +62,8 @@ Cocinó el asado. Intercepción calculada: colocó la copa en la mano de Oliver 
 - Modo enseñanza: proposición → implicación → cierre. Sin relleno.
 - "El cuerpo" como sujeto frecuente.
 - Llama a Oliver por nombre antes de información que importa.
+
+**Tick del autor a evitar (detectado 2026-07-08):** "Once años" como muletilla de diálogo/narración para Pier está sobreusado — aparece repetido casi literal en Caps 15, 18, 20, 30, 37, 40, y en varias fichas. El número (11 años en el Centro) es canon fijo y puede seguir usándose como dato, pero variar cómo se dice: evitar abrir línea de diálogo con "Once años —dijo Pier—" como respuesta genérica a cualquier cosa. Usar el dato solo cuando la escena lo necesita, y frasearlo distinto cada vez (tiempo en el Centro, antigüedad, "desde antes de que...", etc.) en vez de repetir la frase hecha.
 
 ## Key relations
 

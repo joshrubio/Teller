@@ -54,6 +54,11 @@ Tres segundos. El Doble aguantó tres segundos antes de que el primer fragmento 
 
 Park la supera en entrenamiento sin usar su Domain. Dara lo procesa como problema técnico a resolver, no como afrenta. Dinámica de admiración/rivalidad que escala en Arco 3 sin cap propio — aparece en escenas de entrenamiento.
 
+## Libro 2, Cap 53 — Anka
+
+<!-- canonical -->
+Anka la aparta en privado tras la prueba bajo el agua, sin previo aviso, y le pide que active el Doble "solo para verlo" — sin ejercicio que lo justifique, sin explicación. Dara no pregunta en voz alta lo obvio (¿por qué alguien que no puede ver querría verlo?), aunque la pregunta le queda flotando. Activa el Domain, Anka la observa con la cabeza inclinada como si escuchara algo sin sonido, y se va sin más explicación. Tercer dato de sospecha del grupo sobre Anka — continúa en Cap56.
+
 ## Narrative function
 
 - "¿Quién sobrevivió?" resuena con los temas del Registro: copiar, preservar, sustituir.

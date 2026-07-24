@@ -26,7 +26,7 @@ updated: 2026-07-07
 
 Pragmático. Protecteur cuando conviene. Cinismo entrenado. Seco, económico. Advertencias sin explicar. Humor negro en cierre de situaciones de alta tensión. Con Oliver: más palabras de las que usa con otros.
 
-**What he hides:** fue asignado al Centro por Voss, no por AMAT-NA ("necesito saber si hay alguien prestando atención"). No lo sabe al llegar (Cap 19–20). Cuando lo descubra, cambia cómo lee su propia presencia ahí.
+**What he hides:** fue asignado al Centro por Voss, no por AMAT-NA ("necesito saber si hay alguien prestando atención"). No lo sabe al llegar (Cap 19–20). Libro 2 Cap 41 (numeración absoluta): empieza a notar patrones sin confirmación — sin revelación todavía, Voss ausente (en Ginebra). Sin fecha fija para cuando lo descubra — cuando pase, cambia cómo lee su propia presencia ahí.
 
 **Exploitable weaknesses:** agotamiento del Domain; decisiones morales (casi dejó morir a Oliver, Cap 4); qué oculta sobre sus propias misiones.
 
@@ -72,7 +72,7 @@ This layer never names the emotional state directly. It circles it until the rea
 | M4 | Hartford, CT — Principado Zone, Nivel 3 entity | Rango 4 | Team op, special zone classification. Shared credit — not a clean solo resolution. |
 | M5 | Seoul, South Korea (Jeollanam-do island, BSA Caps 7–13) | → **Rango 3** (confirmed Cap 13) | Solo resolution of an evolved dokkaebi (quimera, Nivel 3 pending reclass to Nivel 2) via explosive mutual collision — not a clean textbook finish, real structural cost (unreinforced arm, no Clase-R). Ji-ho present throughout, intervenes only against the imugi (Nivel 1) at the very end — never in Park's own fight. Kiki achieves Rango 2 same operation, surpassing Park's rank. Father confirms both ranks on-site, flatly refuses to frame it as a hierarchy between siblings. The question Park cannot silence: *does it count if family was watching?* — still unresolved, sharpened by Ji-ho's oblique non-answer (Cap 13: "Now you know. And so do I.") |
 | M6 | Lisbon | Rango 3 | Solo, high stakes. Confirms Seoul was not charity. |
-| M7 | Budapest | → **Rango 2** | Mentioned by Cartwright (Cap 27). |
+| M7 | Budapest (BSA Arc 4, Caps 21–28) | → **Rango 2** | Solo agente libre, sin mandato, contra el antagonista más fuerte de la serie hasta ahora (Báthory con el Grillete del Vado, cerca de Rango 1). Confirmado en persona por Cartwright, Cap 28 — ya decidido desde Lisboa, no una recompensa por el puente. Eco deliberado de Ji-ho en el golpe decisivo del Cap 27: deja pasar a propósito el ataque final desesperado de Báthory, lo absorbe entero, y lo devuelve como un Stage 3 de doble eje dirigido con precisión quirúrgica a un punto específico (el Grillete, no el cuerpo) — la primera vez que Park gana un enfrentamiento por dónde apunta, no por cuánto golpea. El Grillete revienta en vez de fallar en silencio; el resultado (brazo y parte del torso de Báthory destruidos, muerte por desangramiento) es indistinguible en pantalla de un golpe letal de Park, algo que él mismo carga al cierre del capítulo. |
 | M8 | Caracas, Venezuela, Jan 2026 — Yara Montiel | Rango 2 | First mission operating from Rango 2. (Cap 19) |
 | Current | Centro Valais — tactics tutor | Rango 2 | Placed by Voss. Active from Cap 20. |
 
@@ -95,12 +95,19 @@ This layer never names the emotional state directly. It circles it until the rea
 | Ji-ho | Tío. Rango S. Canal encriptado no oficial. La sombra contra la que Park mide todo sin nombrarlo. |
 | Cartwright | Amigos cercanos, tono extraoficial. Cap 27: Cartwright menciona Budapest. |
 | Yusuf | Dos agentes con experiencia de campo. Cap 27: encuentran rastros de Kaspar juntos. |
+| Elena Krauss (Libro 2) | Rango 2, Domain Rastro (lee perturbación residual en la densidad ambiental de Odem, se desvanece con las horas). Equipo Lev/Sabine. Desconfía de explicaciones que exculpan a AMAT sin más — Park no sabe todavía por qué. Lev puede alisar el rastro a propósito (extracción de Odem, ya establecida como su uso avanzado) — el equipo lo descubre en Cap 41. |
+| Marc Delacroix (Libro 2) | Rango 3, sin Domain. Equipo Lev/Sabine. Táctico, impaciente, ejecuta sin cuestionar. |
+| Sofia Reyes (Libro 2) | Rango 3, sin Domain. Equipo Lev/Sabine. Observadora, calculadora, primera en notar detalles fuera de lugar. |
 | Dara | Admira/rivaliza con Park — Park la supera sin Domain; ella lo procesa como problema técnico. |
 
 ## Arc
 
 Misión "sencilla" fallida (Grayhaven) → responsabilidad por Oliver → confrontación con AMAT.
 Frustración/culpa post-Grayhaven se paga en Arco 3.
+
+**Libro 2 (numeración absoluta):** NO pasa por San Gotardo — despliegue inmediato, horas después de la Irrupción (Cap 41, apertura in media res), directo tras el rastro fresco de Lev y Sabine. No elección propia. Equipo: Elena Krauss (Rango 2, Domain Silencio), Marc Delacroix y Sofia Reyes (Rango 3, ambos sin Domain) — el arco de Libro 2 sigue también la relación con estos tres, no solo la misión. Progresión: Cap 63 (primer indicio), Cap 68 (encuentro real, los escucha), Cap 71 (tiene la oportunidad real de dejarlos ir — la considera en serio, no lo hace), Cap 72 (cuestiona el protocolo mismo, eco directo de Grayhaven M3: la pregunta no es si cumple la orden, es cómo), Cap 73 (captura — se salta un paso del protocolo estándar para minimizar daño, sin reportarlo, primera fisura real desde Grayhaven). Silenciosa, sin confrontar a Voss. Queda sin resolver al cierre del libro — hilo abierto hacia Libro 3, junto con el "casi los deja ir" que nunca cuenta a nadie. El hilo "Park no sabe que Voss lo colocó" (Libro 1) sigue abierto, ahora sembrado dentro de su propia línea de campo en vez de en San Gotardo (ver Cap 41: la llamada de Voss no explica por qué él).
+
+**Cap 54 — excepción de POV (Lev/Sabine, no Park):** el equipo pierde el rastro de nuevo tras un encuentro entre Lev/Sabine y su contacto de recursos, Aurelio — visto solo desde fuera, el capítulo cierra con el coche del equipo parado frente al piso ya vacío de la pareja, más cerca de lo que ellos creen. Aurelio queda como cabo suelto — pista real para la próxima entrega de línea D (Cap58).
 
 ## Childhood / Background
 

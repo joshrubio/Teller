@@ -29,3 +29,6 @@ Ascending: **4 → 3 → 2 → 1 → S (Principado)**
 | `world/entities/quimera-evolucionada` | Quimera Evolucionada | Jeollanam-do, BSA Arc 2, Nivel 3→2, absorción activa, lectura de patrones | Active |
 | `world/entities/imugi-jeollanam-do` | Imugi de Jeollanam-do | Jeollanam-do, BSA Arc 2, Nivel 1, contenido desde 1954, despachado por Ji-ho Cap 13 | Active |
 | `world/entities/a-saudade` | A Saudade | Principado de Lisboa, EU-1755-PT, BSA Arc 3, drenaje ambiental de Odem, anterior al terremoto de 1755 | Planning |
+| `vampirismo` | Vampirismo — Domain "Caza" | Excepción de archivo (Domain humano, no Potestad) — linaje multi-origen, sin canon cerrado, grounding real (Serbia 1725-1732), leyenda de Caín como origen no-verificado. Libro 2, Dax | Active |
+| `clasificacion-erronea-angeles` | Punto ciego de AMAT — Nivel S mal clasificado | AMAT no distingue alineamiento moral/cósmico, solo consciencia y persistencia — encuentros históricos ambiguos archivados como Principado sin resolver qué eran. No afirma nada sobre ángeles reales ni relatos bíblicos concretos. | Active |
+| `1979-cel-002` | 1979-CEL-002 — Mar de Célebes | Principado #2 de la tabla oficial. Naufragio 1979, doce testimonios de presencia protectora, no hostil, sin repetición. Adenda clasificada — interacción directa 1980, restringida por riesgo de la información, no de la entidad | Active |

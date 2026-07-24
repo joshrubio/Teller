@@ -80,5 +80,10 @@ North sector 4m-diameter, 1m-deep crater remains where the organizational center
 ## Open threads
 
 - What did the Principado actually *do* in Hartford before withdrawing? (Redacted in 1952 file.)
-- The same Principado is suspected in Venezuela decades later (BSA Arc 5 / Caracas). Not confirmed by AMAT.
 - Residual firma: equipo de deposición handling what remains — not active agency, but present.
+
+## Libro 2 reveal — internal note, NOT for BSA/LoD prose until explicitly decided (added 2026-07-08)
+
+**Confirmed:** María Lionza (BSA Arc 5) is NOT the same Principado as Hartford's — separate entity, separate origin, no relation. The stale "suspected in Venezuela" open thread above is resolved and removed.
+
+**What is confirmed instead:** the Hartford Principado — internally named **Belcebú** (AMAT working designation; full mythological identity Baal-zebub, "lord of the flies," reveal reserved for later) — never actually died or was fully "neutralized" in BSA Cap 5. What Park (with Brandt) interrupted that day was Saturación: a local manifestation of Belcebú's own Odem, reforming at the Hartford site after the original withdrew in 1952 (one node among many — see chronology below). Park damaged that specific manifestation's organizational center, leaving the "residual firma, not active agency" already on record — but Belcebú itself had already existed independently, elsewhere, across decades of unrelated contamination catastrophes. It resurfaces at full strength in LoD Cap 39 (now slated as Libro 3 opening material — see `plot/chapter-plan-libro3.md`, reetiquetado 2026-07-10), taking María Lionza from Ji-ho and costing him an arm. This is Libro 3's central antagonist mystery — held back deliberately, not to be named or confirmed in any reader-facing text until the story explicitly reveals it. See `plot/libro-3-setup.md` for the full note, including the decades chronology.

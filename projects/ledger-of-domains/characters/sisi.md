@@ -15,7 +15,8 @@ updated: 2026-06-17
 
 | | |
 |---|---|
-| **Name** | Isabel — Sisi en uso cotidiano |
+| **Name** | Isabel Heredia — Sisi en uso cotidiano |
+| **AMAT case code** | 2025-UK-004 — designación formal usada en Ginebra; nadie en el consejo la llama por su nombre (ver Libro 2 Cap 40) |
 | **Appearance** | Cabello castaño oscuro con veta rojiza — casi rojizo bajo luz directa, castaño en sombra. Liso, largo hasta los hombros. Cae sobre el lado derecho. Ojos marrón muy oscuro, casi negros. Piel morena cálida — tono mediterráneo profundo, aceitunado con subyacente dorado. 1.63 m, complexión delgada con tensión física contenida. Ascendencia gitana (romaní o española del sur). Sin cicatrices visibles. Esencia: tierra húmeda, algo especiado y cálido — no perfume de compra. |
 | **Origin** | Gitana. Cultura nómada; historia de relación difícil con instituciones. |
 | **Domain** | Mente — opera íntegramente dentro de la percepción/cognición de otros |
@@ -72,3 +73,7 @@ updated: 2026-06-17
 - Su partida es la mayor pérdida del libro, y es la que Oliver entiende.
 - Establece que el Domain de Oliver tiene un límite estructural que no resuelve el entrenamiento.
 - "Vuelve" sin respuesta — gancho Libro 2.
+
+## Libro 2 — Cap 51 (Práctica, POV Kaspar/excepción)
+
+Entrena Mente activamente bajo la guía de Kaspar, en espacios públicos, sobre desconocidos sin su consentimiento — un florista (corte de atención sostenido 5 minutos sin fisura, progreso real desde Book1) y dos guardias de banco a la vez (cortes en paralelo, mucho más difícil, solo 10 segundos de momento). Defiende el método frente a la objeción de Tomás con lógica fría ("no le he tocado nada de lo que le importa"). Pregunta directa a Kaspar sobre qué pasa si el perseguidor de verdad llega hasta ellos — no obtiene garantía, solo la respuesta de que Kaspar decidirá cuando pase. Primera vez que se le ve progresar con libertad real, sin la vigilancia que tenía en el Centro.

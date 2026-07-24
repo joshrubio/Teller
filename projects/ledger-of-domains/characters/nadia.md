@@ -47,10 +47,20 @@ Demostró el juego junto a Sabine antes de que Oliver participara. Ganó la prim
 
 Copia deliberada pendiente de escritura en Arco 3 mid. Condiciones 0–3 completas; practicable en controladas.
 
+## Libro 2, Cap 44 (San Gotardo)
+
+<!-- canonical -->
+Ejercicio de campo contra un candidato del grupo de Dax — el Impulso no basta, el candidato lee y neutraliza el patrón en tres intercambios. Nadia sale herida de verdad (clavícula fisurada, corte sobre la ceja) al golpear contra una estructura de contención sin acolchar; Petra la salva de un segundo impacto swapeándola con una caja de equipamiento (ver `characters/petra.md`). Delante del grupo finge estar bien ("ha sido peor el susto que el golpe"); a solas con Petra, en el pasillo de la enfermería, admite que el miedo real no fue el golpe — fue pensar, en el suelo, si quedarse valía lo que estaba costando, y no tener otro sitio adonde ir desde que su padre [hilo abierto, referencia a Cap 59 "El expediente de mi padre"].
+
+## Libro 2, Cap 52 (Val Bedretto)
+
+Bajo mando de Asha (no lidera, pero decisiva): la ladera cede bajo su pie en terreno real, usa Impulso hacia dentro por primera vez (contra su propio cuerpo, no hacia un objetivo externo) para redistribuir peso y caer controlada en vez de al vacío. Tobillo lesionado, pero el "estoy bien" suena real por primera vez desde Cap44 — Asha no se lo discute, la deja marcar su propio ritmo el resto del ejercicio. Tablero: sube de #213 (última de 213) a #192 — el mayor salto de todo el equipo, sinergia de grupo reconocida explícitamente por Reber.
+
 ## Narrative function
 
 - Personaje funcional en escenas de entrenamiento grupal.
 - La relación con su padre puede crear conflicto si el oficial tiene acceso a información sobre Oliver.
+- Libro 2: primera grieta visible entre lo que muestra al grupo y lo que siente — construye hacia Cap 59.
 
 ## Key relations
 

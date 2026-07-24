@@ -41,6 +41,10 @@ Intercambia la posición de dos objetivos instantáneamente en rango visual. Req
 
 **Cap 37:** reposicionó dos veces a un fragmento que encontró abertura en lateral norte. Junto a Pier en perímetro interior hasta que el personal recogió.
 
+**Libro 2, Cap 44 (San Gotardo):** swapea a Nadia con una caja de equipamiento vacía para salvarla de un segundo impacto durante un ejercicio de campo — activación bajo presión real, sin tiempo de pensar. Oliver, observando de cerca, capta un pico involuntario de estructura, más nítido que nunca, sin que ni él pueda medir cuánto. Conversación con Petra después queda sin resolver — ninguno de los dos sabe qué hacer con ello; no hay permiso otorgado ni promesa cerrada, solo tensión pendiente que ambos reconocen que van a tener que hablar de verdad en algún momento futuro.
+
+**Libro 2, Cap 52 (Val Bedretto, sala de entrenamiento secundaria):** reconoce de inmediato lo que Oliver hace con Manto/Foco — ya lo practica sin nombre propio desde hace dos años de trabajo diplomático real ("contener antes de responder"). No parte de cero: busca encontrar el límite real de lo que ya sabe hacer, no aprender el gesto — específicamente para poder aguantar contra candidatos militares con buen manejo de Odem (Iker, el que enfrentó a Dara). Progreso real esa misma noche, empezando desde una base ya sólida. Dax escucha desde el pasillo sin entrar; reconoce progreso genuino, no torpeza de principiante.
+
 ## Cap 18 agreement
 
 Fue ella quien articuló la invitación final a Oliver: "Lo de ayer en el patio llegó a todos antes de mediodía. Maren entró al patio. El radio excedió el área segura. Y hablaste con todos después como si lo que acababa de pasar fuera algo entre las personas que estaban en ese patio."

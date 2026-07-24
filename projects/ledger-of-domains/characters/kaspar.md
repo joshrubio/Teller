@@ -68,9 +68,9 @@ Incorrecta — ni vacía ni llena. Compuesta, superpuesta, simultáneamente cont
 | 33 | Encuentro con Oliver en pueblo post-misión como "Martin". Sabe demasiado sobre el Registro. Menciona a Sisi. |
 | 35 | Irrupción al Centro. En corredor norte: "Vine aquí por ella. Pero tú también puedes irte." Oliver no responde. |
 | 36 | Primera conversación real con Sisi. "¿Qué me pasa a mí?" / "No lo sé." — honestidad sin promesa. Llega a pared norte con Tomás y Sisi. "Todavía a tiempo." No interfiere cuando Oliver dice "Vuelve." |
-| 37 | Fuera del radio del Registro en min 16–17. Dejó nota en escritorio de Oliver (en inglés). Elise. Once años. Gancho Libro 2. |
+| 37 | Fuera del radio del Registro en min 16–17. Dejó nota en escritorio de Oliver (en inglés). Anke. Once años. Gancho Libro 2. |
 
-## Elise — previous Registry carrier (Book 2 hook)
+## Anke — previous Registry carrier (Book 2 hook)
 
 Mencionada en la nota de Cap 37. Kaspar la conoció — observó once años tras tomar la misma decisión que Oliver. Qué pasó con ella: no dicho. Documentación en `nota de Kaspar.md`.
 
@@ -78,11 +78,13 @@ Mencionada en la nota de Cap 37. Kaspar la conoció — observó once años tras
 
 Contactar a Oliver — único ser vivo con perspectiva real sobre lo que 40 años de Registro hacen. Si su "ayuda" es genuina o instrumental: intencionalmente abierto.
 
+**Libro 2, Cap 51 (Práctica, POV Kaspar — excepción puntual dentro de línea B):** entrena activamente a Sisi en el uso de Mente sobre desconocidos en espacios públicos — confirma, desde su propio punto de vista, que el hueco en el metraje y la fotografía que Yusuf encuentra en Cap 39 fueron migas de pan dejadas a propósito, parte de un patrón más amplio repartido por Suiza para medir quién tiene la paciencia de seguirlo. Trata al perseguidor solitario (Yusuf, sin nombrar en esta escena) como variable interesante, no amenaza — información sobre cómo piensa AMAT ahora, no motivo para cambiar nada de lo que está haciendo. No revela a Tomás ni a Sisi el propósito final del entrenamiento de Sisi, solo que es "para que nadie vuelva a decidir por ella lo que puede intentar."
+
 ## Key relations
 
 | Person | Dynamic |
 |---|---|
-| Oliver | Lo que Oliver podría ser. Único par posible. Tres encuentros: plaza (Cap 33), corredor norte (Cap 35), pared norte (Cap 36). Nota de Elise. |
+| Oliver | Lo que Oliver podría ser. Único par posible. Tres encuentros: plaza (Cap 33), corredor norte (Cap 35), pared norte (Cap 36). Nota de Anke. |
 | Voss | Voss lo rastreó activamente. Kaspar salió — Voss sabe pero no interceptó a tiempo. |
 | Tomás | Pieza en la operación de llegar a Sisi/Oliver. |
 | Sisi | Conversación real Cap 36. Honestidad sin promesa fue suficiente. |

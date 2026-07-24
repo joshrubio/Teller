@@ -4,7 +4,7 @@ type: world
 project: ledger-of-domains
 module: world
 tags: [centro-leman, el-quai, amat-eu, amat-suiza, libro-2, location]
-load-with: [world/amat, characters/elise, characters/voss]
+load-with: [world/amat, characters/anke, characters/voss]
 updated: 2026-06-19
 ---
 
@@ -43,7 +43,7 @@ Lo que nadie dice en voz alta pero todos saben: el examen de clearance compite a
 |---|---|
 | **AMAT-Suiza** | Gestiona el Centro Lemán operativamente. Tiene un responsable que aprueba cambios operativos locales. No debe nada a Voss, pero lo conoce hace años. |
 | **AMAT-EU (consejo)** | Aprueba marcos de metodología. Voss tiene influencia en el consejo pero no voto directo — trabaja por presión y evidencia acumulada. |
-| **Voss** | Rol activo en ambos niveles. Su objetivo en Libro 2: que AMAT-Suiza abra espacio operativo para el grupo de Oliver, y que el consejo apruebe el framework de evaluación pendiente nueve meses. Guerra burocrática en dos frentes. |
+| **Voss** | Rol activo en ambos niveles. Su objetivo en Libro 2: que AMAT-Suiza abra espacio operativo para el grupo de Oliver, y que el consejo apruebe el framework de evaluación pendiente nueve meses. Guerra burocrática en dos frentes. **Denegado Libro 2 Cap77, pagado Libro 3 Cap83 (numeración absoluta):** presentó ambos casos juntos ante el consejo (dieciséis ramas con voto, sala en herradura en Ginebra) — denegado por escrutinio, no por rechazo ("el marco no existía todavía"). La Convergencia fuerza una sesión de emergencia horas después; el director de AMAT-JP, que había votado en contra por prudencia, revierte su posición dado el nuevo contexto y arrastra al consejo con él — la moción se aprueba en once minutos. Voss gana el marco, pero no el argumento — le queda debiendo un favor no especificado a AMAT-JP, relevante para el arco de Japón (Arc 2). |
 
 ## Población de sujetos
 
@@ -56,7 +56,7 @@ La dinámica social es de calibración constante: todos se miden entre sí, nadi
 
 ## Consultora residente
 
-**Elise** — ver `characters/elise.md`. Presencia semi-permanente. AMAT la usa para evaluaciones de casos que los evaluadores estándar no pueden clasificar. Su Domain justifica el rol. Los sujetos nuevos no saben quién es — aparece en sesiones, no en listas de personal.
+**Anke** — ver `characters/anke.md`. Presencia semi-permanente. AMAT la usa para evaluaciones de casos que los evaluadores estándar no pueden clasificar. Su Domain justifica el rol. Los sujetos nuevos no saben quién es — aparece en sesiones, no en listas de personal.
 
 ## Narrativa — para qué sirve este espacio en Libro 2
 
@@ -64,7 +64,7 @@ El Centro Lemán es la condición de entrada, no la historia. La historia es lo 
 
 Lo que el espacio genera:
 - Presión comparativa: Oliver/Riku/Dara en contacto con sujetos europeos más entrenados, diferente baseline
-- Acceso a Elise sin saber quién es todavía
+- Acceso a Anke sin saber quién es todavía
 - Voss operando en su terreno — diferente dinámica con Oliver que en Valais
 - El lago como presencia constante — contrapunto geográfico a la montaña de Libro 1
 

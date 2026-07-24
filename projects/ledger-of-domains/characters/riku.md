@@ -39,8 +39,8 @@ Preciso sin ser pedante — corrige terminología porque le importa la exactitud
 |---|---|---|
 | 1 — Ruido pasivo | Estado inicial ✓ | |
 | 2 — Modulación (on/off, ajuste de radio) | Alcanzada Cap 17 ✓ | Emergió de la lectura de Oliver, no del entrenamiento de Maren. |
-| 3 — Lectura EM (siente corrientes, campos biológicos) | Cap 32 — trigger forzado ✓ | Absorbido por Potestad colonia → field bioeléctrico activó Lectura EM no controlada. Disrumpió red de coordinación → explosión EM ~15m. No reproducible en controladas. |
-| 4 — Redirección | Pendiente | |
+| 3 — Lectura EM (siente corrientes, campos biológicos) | Cap 32 — trigger forzado ✓; **reproducible en controladas desde Libro 2** | Absorbido por Potestad colonia → field bioeléctrico activó Lectura EM no controlada. Disrumpió red de coordinación → explosión EM ~15m. No reproducible en controladas al cierre de Libro 1. Durante el salto temporal (2 meses en El Quai, no dramatizado) consiguió sostenerla de forma voluntaria — confirmado en Cap 40: mantiene la Lectura EM activa ~40 segundos, ojos cerrados, distinguiendo la firma real de Dara de la de su Doble. Todavía tiene techo bajo sobrecarga: sostenerla contra dos fuentes moviéndose a la vez (Dara real + Doble en direcciones distintas) lo tumba con retroalimentación. |
+| 4 — Redirección | Pendiente para Riku — visto en acción por primera vez en Cap 48 (Libro 2), usado por Iker Zabala contra él: toma el campo ya extendido del rival y lo dobla de vuelta contra su origen. Riku lo sufre en carne propia, no lo alcanza todavía. **Cap 53:** segunda revelación, escalada en vivo delante de Oliver (Registro abierto) — Iker usa el mismo eje en tres formas dentro de un solo combate: (1) golpe que aturde/paraliza localmente en el punto de contacto, (2) pulso en el propio contacto pie-suelo para un juego de pies con ventaja física imposible de calcular, (3) golpe final que descarga de lleno por todo el torso y lo deja K.O. Riku no lo domina, pero por primera vez ve una dirección de crecimiento real que nadie en AMAT le había señalado nunca. | |
 | 5 — Generación (electricidad desde Odem) | Pendiente | |
 
 **Asimetría izquierda:** origen del Domain en mano/brazo izquierdo. Establecida Caps 14–15. Solo mencionarla cuando sea narrativamente relevante.
@@ -70,6 +70,11 @@ Entablillado apoyado en rodilla, mirando la fachada. Riku primero: "Sabine." Oli
 - Espejo con Oliver: Riku tiene vocabulario (hijo de agente) pero no control; Oliver tiene control emergente pero no vocabulario.
 - Cap 31: primer campo EM real (perímetro, 40+ min continuos).
 - Stage 3 alcanzado bajo presión extrema — el umbral de todo el cast.
+
+## Libro 2 — arco de resentimiento (Cap 48 → Cap 53 → cierre del libro)
+
+<!-- canonical -->
+Cap 48: pierde contra Iker en el foso, ve el techo real de su Domain por primera vez — línea de Iker ("llevas años dejando que otros decidan hasta dónde puedes llegar") queda sin resolver. Cap 53: arrastrado sin querer a un club de pelea informal de los militares, pierde otra vez (K.O. por descarga completa), pero Iker le muestra Estática canalizada cuerpo a cuerpo y en el juego de pies — esperanza real de una dirección de crecimiento, mezclada con rabia concreta de que nadie en AMAT se la señaló antes. **Daño físico persistente:** moretón oscuro en el centro del pecho + enrojecimiento profundo en el antebrazo izquierdo, del golpe final — deben seguir visibles/mencionables en los próximos capítulos (no curación instantánea). **Semilla de arco largo, deliberadamente no resuelta todavía:** este resentimiento debe madurar a lo largo del resto de Libro 2 hasta canalizarse en un estilo de combate propio para Riku, con más madurez emocional, hacia el cierre del libro. No forzar la resolución antes de tiempo.
 
 ## Voice patterns (→ voice/pov-riku.md)
 

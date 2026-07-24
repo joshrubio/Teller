@@ -44,7 +44,7 @@ Voss entiende el potencial de Oliver mejor que nadie. Lo ve como variable, no co
 |---|---|---|---|
 | 1 | ~1955 | Sin nombre | Murió en evaluación — supresión forzó copia involuntaria del equipo. |
 | 2 | ~1982 | **Kaspar** | Desapareció a 17 meses. Copió Domain de Potestad Nivel 2. 40 años fuera de radar. |
-| 3 | ~2003 | **Elise** | Único "éxito" — trabajó 11 años para Ginebra, retirada por razones médicas ~2014. Voss la conoció. |
+| 3 | ~2003 | **Anke** | Único "éxito" — trabajó 11 años para Ginebra, retirada por razones médicas ~2014. Voss la conoció. |
 | 4 | Oliver | — | Primer sujeto activo en décadas. |
 
 ## Domain in text
@@ -78,6 +78,7 @@ Subplot Kaspar: Voss y Park rastrean de forma independiente. Convergen Cap 29: "
 | Maren | Seis años trabajando juntos. Confianza institucional profunda, perspectivas distintas. |
 | Kaspar | "Caso 2" — expediente abierto desde 1982. Lo conoce mejor que nadie. |
 | Brenner | Tensión potencial Arco 3 sobre destino de Oliver. |
+| Cartwright | Libro 2, Cap49: primera fricción real documentada. Voss mueve una pieza política (compromete el apoyo tácito de Park Taeho en privado, dos días antes de la sesión) sin avisarle antes. Cartwright lo descubre después, molesto de no haber sido informado; Voss defiende compartimentar información como protección, no desconfianza personal. No resuelto del todo — tregua provisional, no reconciliación limpia. |
 
 ## Notes
 

@@ -21,7 +21,7 @@ Isla en la costa de la provincia de Jeollanam-do (전라남도), extremo sur de 
 | **Limpieza acumulada** | ~80% al inicio de Arc 2 → 90% confirmado en el reporte oficial de Cap 13 |
 | **Restante post-Arc 2** | ~10% — reservado, sin cierre previsto en pantalla |
 
-El 10% restante post-BSA se limpia off-screen entre BSA y LoD. Para LoD Libro 2 la isla está completamente limpia — sin Potestades activas. La operación de larga duración queda cerrada fuera de cámara.
+El 10% restante post-BSA se limpia off-screen entre BSA y LoD. Para LoD Libro 3 la isla está completamente limpia — sin Potestades activas. La operación de larga duración queda cerrada fuera de cámara.
 
 ## El imugi de la isla — canon BSA Cap 13
 

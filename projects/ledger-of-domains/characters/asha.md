@@ -31,6 +31,8 @@ Colapsó estructura durante inspección rutinaria de obra. AMAT intervino antes 
 
 Pragmática hasta el límite del análisis. Trata de igual a igual — no evalúa, no compite. Se levanta cuando la conversación terminó para ella, sin señales previas. Mira objetos en observaciones técnicas, no personas. No fría: precisa.
 
+**Evolución Libro 2 (post-salto temporal, confirmado Cap 40):** los dos meses en El Quai suavizaron el filo — sigue siendo precisa, pero ya no evita del todo el contexto emocional en conversación de grupo. Sigue conservando el gesto de comprobar sus propias manos, palmas hacia arriba, como verificación de que algo sigue en su sitio; ese gesto en sí no es un tell emocional, es su ritual de siempre y debe tratarse como ambiental, no como señal de temblor o angustia.
+
 ## Instruction arc with Oliver
 
 - **Cap 13:** primera sesión de observación. Activa Domain deliberadamente para que Oliver lo vea. Copia involuntaria cruda. Asha: "necesitas practicarlo."

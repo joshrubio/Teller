@@ -2,7 +2,7 @@
 id: state
 type: project-state
 project: ledger-of-domains
-updated: 2026-06-17
+updated: 2026-07-23
 ---
 
 # Project State — Ledger of Domains
@@ -15,54 +15,33 @@ updated: 2026-06-17
 
 | | |
 |---|---|
-| **Status** | Libro 1 complete (37 caps) |
-| **Last written** | Cap 37 — Epílogo |
-| **Next** | Libro 2 — planning phase |
-| **Active arc** | Libro 2, Arc 1 (TBD) |
+| **Status** | Libro 2, Arc 1, Fase B en curso |
+| **Last written** | Cap 54 — El del coche (línea D, POV Lev/Sabine) |
+| **Next** | Cap 55 — Estancado (línea C, Voss) |
+| **Active arc** | Libro 2, Arc 1 — San Gotardo (Cap 38-66) |
 
 ---
 
 ## Where we are
 
-Libro 1 ends with Centro Valais sealed. Irrupción: 47 minutos totales. 3 ausencias: Sisi (con Kaspar/Tomás, cruzó), Lev y Sabine (partida planificada — habitaciones vacías, camas hechas, aprovecharon el movimiento).
+Libro 2 en marcha, San Gotardo (El Reducto). Línea A (Oliver/grupo Valais) en Fase B del entrenamiento — Cap53 cerró con Riku derrotado otra vez por Iker (K.O. por descarga eléctrica, moretones que persisten en próximos caps) y tercer dato de sospecha sobre Anka (escena con Dara). Línea D (Park) retomó el gancho de Cap41 en Cap54, con giro de POV a Lev y Sabine: en fuga desde la Irrupción (~15-19 días), viven bajo vigilancia real de AMAT sin saberlo con certeza — casi los detectan tras un encuentro con su contacto Aurelio, escapan en tren. El equipo de Park queda con el rastro cortado de nuevo, cerca pero sin captura. Línea C (Voss/Ginebra) sobrevivió en Cap49 una amenaza de revisión de conducta contra el propio Voss, sin avanzar nada — Cap55 retoma ese hilo en revés real (Furrer reabre la revisión).
 
-Destino del grupo: **El Quai (Centro Lemán) — probable.** Placeholder `[DESTINO]` en Cap 37 sin confirmar en manuscrito. Ver `world/instalacion-ginebra.md`.
+Reloj absoluto del libro: ~24-25 abril 2026 (Irrupción) → ~24-25 junio 2026 (Doblete del Pacífico, arranque Libro3). El Reducto dura 8 semanas. Línea A en Cap53 ≈ día 19-20 post-Irrupción — usar este reloj para chequear consistencia entre líneas.
 
-Kaspar dejó una nota en la habitación de Oliver: *"There was one before you. Her name was Elise. She made the same choice you made tonight, for reasons that were also good. I watched what happened to her over eleven years."*
-
-Oliver le dijo a Voss el *qué* (Elise, 11 años) pero no el *cuándo* (9 días de banco, la plaza). Voss dijo "cuando lleguemos, necesito que me cuentes todo" — carga más de lo que sabe.
-
-Voss declaró "falla de velocidad, no de seguridad" — irá en persona a Ginebra a aprobar metodología del grupo antes de fin de mes.
-
-Park propuso seguimiento largo plazo de Yusuf sin intercepción — Sisi es adulta que tomó decisión informada.
-
-Oliver eligió quedarse. Esa elección y su coste es el motor de Libro 2.
+Regla activa: toda actualización de tablero general debe llevar cifras exactas (posición antes→después). Tracking completo en `characters/oliver.md`.
 
 ---
 
 ## Next chapter plan
 
-**Cap 38 — status: not planned.**
+**Cap 55 — Estancado (línea C).** Furrer encuentra o fabrica el "elemento concreto" que el presidente de sesión exigió en Cap49 para reabrir sin más trámite la revisión de conducta contra Voss, que había quedado "registrada, no descartada". Primer bajón real del hilo institucional — duele más porque en Cap49 Voss ya había conseguido, a base de jugada política, que no se abriera.
 
-Open threads that feed Libro 2 (load `plot/arcs.md` → "Open threads"):
-- Elise: what happened to her (Voss knows; Oliver doesn't know that Voss knows).
-- Sisi: "Vuelve" without answer — where is she, what does Kaspar's offer actually mean.
-- Oliver's cost arc: atención selectiva established, but the ceiling hasn't been tested in Libro 2 conditions.
-- Lev + Sabine: departed together. Their absence reshapes the Centro group.
-- Park: long-term tracking, no interception — Sisi made an informed adult decision. What does Park do with that?
-- Gary: the repair shop needs to pay the theme.
-- Kaspar's offer: still open. Oliver said no once.
-
----
-
-## Planning checklist for Cap 38
-
-- [x] Establish Libro 2 setting → **Centro Lemán / El Quai** (villa Belle Époque, acceso privado lago Lemán, Riviera vaudoise entre Lausana y Montreux). Instalación secundaria AMAT-EU, función de tránsito pre-clearance. Ver `world/instalacion-ginebra.md`.
-- [x] Decide destino del grupo → **El Quai (probable)**. Confirmar en manuscrito al escribir Cap 38.
-- [ ] Decide which open thread leads the first chapter
-- [ ] POV: Oliver or Voss for the opening cap?
-- [ ] First beat: immediate aftermath or timeskip?
-
+Open threads a mantener:
+- Riku: moretones (pecho/antebrazo) visibles en próximos caps de línea A; arco de resentimiento madura hacia estilo de pelea propio al cierre del libro — no resolver antes.
+- Anka/Dara: petición de activar Doble "solo para verlo" — continúa en Cap56.
+- Lev/Sabine: rastro cortado, pero dejaron pista real (Aurelio comprometido) — retoma en próxima entrega de línea D (Cap58).
+- Park: aún no confirma que Voss lo colocó en el Centro (Libro 1) — sigue abierto.
+- Documento anómalo de Asha (Cap50): sin retomar todavía.
 
 ---
 
@@ -74,8 +53,8 @@ Ver proyecto `by-strength-alone/` — estado independiente con `parent-project: 
 
 ## How to use this file
 
-**Writing:** "continúa con el cap 38" → load `bundles/write/index.md` + this file + relevant character nodes.
+**Writing:** "escribe el cap 55" → load `bundles/write/index.md` + this file + relevant character nodes.
 
-**Planning:** "continúa con el planning del cap 38" → load `plot/arcs.md` + this file + `relations/conflicts.md`.
+**Planning:** "planifiquemos el cap 55" → load `plot/chapter-plan-libro2.md` + this file + `relations/conflicts.md`.
 
 **After finishing a chapter:** run `/session-close` — it will propose an update to this file as step 0.

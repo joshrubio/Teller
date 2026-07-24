@@ -53,6 +53,11 @@ Partida planificada. Cama hecha, tomó solo lo que necesitaba. Lev y Sabine part
 
 **Oliver post-partida:** lleva el Domain de Ancla en el cuerpo — integración estable. La copia no desaparece cuando la portadora se va. Cap 37: Riku: "Sabine." Oliver: "Ya." Sin elaborar.
 
+## Libro 2, Cap 54 (POV, excepción — junto con Lev)
+
+<!-- canonical -->
+En fuga con Lev, ~15-19 días desde la Irrupción. Su paranoia es disciplina, no pánico — lleva una libreta donde solo cuenta como "observado" lo que declara en voz alta, nunca una sospecha suelta; coherente con su Domain de contención/fijación, que exige precisión absoluta para no ser letal por accidente. Detecta el patrón de vigilancia (coche gris, tres veces en cuatro días) antes que Lev. Casi la detecta el equipo de Park tras el encuentro con Aurelio (contacto de recursos de la pareja) — escapan en tren. Dinámica de pareja mostrada por reparto táctico de tareas sin negociar en voz alta, no por gestos grandes.
+
 ## Narrative function
 
 - Espejo de Oliver: llegó sin red, sin familia, sin negociación posible — encontró en el Centro algo que funciona. Eso no la hace ingenua; la hace pragmática de forma específica.

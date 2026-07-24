@@ -3,7 +3,7 @@ id: characters-index
 type: module-index
 module: characters
 project: ledger-of-domains
-updated: 2026-06-17
+updated: 2026-07-08
 ---
 
 # Characters
@@ -29,12 +29,21 @@ updated: 2026-06-17
 | `petra` | Petra | Canje Domain, Level 2 | Migrated |
 | `ji-ho` | Ji-ho | Park's uncle, Rango S | Migrated |
 | `cartwright` | Cartwright | AMAT-NA Director Regional, Rango 1 | Migrated |
-| `elise` | Elise | Previous Registry carrier / Libro 2 hook | Migrated |
-| `mariana-vasconcelos` | Mariana Vasconcelos | BSA Arc 3 antagonist, guardiana de A Saudade → amenaza Arc 4. Aparece Cap 15 | Migrated (Cap 15) |
-| `bathory` | Báthory | BSA Arc 3 antagonist principal, linaje húngaro, muere Arc 3 | Planning |
+| `anke` | Anke | Previous Registry carrier / Libro 2 hook — debut Cap 45, reveal Cap 62-63 | Migrated |
+| `anton-reber` | Anton Reber | San Gotardo Combat instructor, no Domain — present unnamed since Cap 42, named Cap 45 | Active |
+| `mariana-vasconcelos` | Mariana Vasconcelos | BSA Arc 3 antagonista ambiguo, guardiana de A Saudade. Aparece cerca del cierre de Arc 4 como aliada, no amenaza. Aparece Cap 15 | Migrated (Cap 15) |
+| `bathory` | Báthory (Zoltán) | BSA Arc 3-4 antagonista principal, linaje húngaro, sobrevive Arc 3, antagonista real de Arc 4 | Migrated (Cap 18) |
+| `katalin-bathory` | Katalin Báthory | BSA Arc 4 aliada, prima de Zoltán, rama tradicionalista de la familia | Migrated (Cap 22) |
 | `henrique-salgado` | Doutor Henrique Salgado | BSA Arc 3 científico AMAT-PT, mentor de Odem, vehículo de exposición | Migrated (Caps 14-15) |
 | `yusuf` | Yusuf | Densidad Domain Nivel 3, Centro Valais — retirado, solo instructor. No aparece en BSA | Migrated |
 | `duarte-ferreira` | Comandante Duarte Ferreira | BSA Arc 3 líder equipo AMAT-PT, Rango 2, Domain Fio (filamentos de Odem) | Migrated (Caps 14-15) |
 | `equipo-amat-pt` | Equipo AMAT-PT | Costa, Bruno, Vitória, Rui, Dona Filipa — roster completo BSA Arc 3 Cap 15 | Migrated (Cap 15) |
 | `mariana-aliados` | Aliados de Mariana | Submundo del Odem de Lisboa — Inês (fado), Zé (pescador), despertado involuntario | Planning |
-| `bathory-aliados` | Aliados de Báthory | Despertados forzados, teniente húngaro leal — hilo hacia Arc 4 | Planning |
+| `bathory-aliados` | Aliados de Báthory | Despertados forzados, Tamás (lugarteniente), recluta de Lisboa superviviente — activos en Arc 4 | Migrated (Cap 19) |
+| `claudia-ferrer` | Claudia Ferrer | Cabeza de AMAT-Caribe (Venezuela), superior de Park en BSA Arc 5, ya nombrada en LoD Cap 19 | Planning |
+| `casimira-blanco` | Casimira Blanco | Banco veterana de Sorte, guía espiritual de Park en Arc 5, percepción real del Odem sin vocabulario AMAT | Migrated (Cap 30) |
+| `dax-achterberg` | Dax Achterberg ("Milbestias") | Candidato militar San Gotardo, Domain Bestia, espejo de Oliver — Libro 2 | Planning |
+| `johanna-richter` | Johanna Richter | Candidata militar San Gotardo, sin Domain, reserva basal elevada, espejo de Pier/Asha, ancla histórica AMAT — Libro 2 | Planning |
+| `iker-zabala` | Iker Zabala | Candidato militar San Gotardo, Domain electromagnético autodidacta, espejo de Riku — Libro 2 | Planning |
+| `noa-shapira` | Noa Shapira ("Saphira") | Candidata militar San Gotardo, sin Domain, dinastía familiar AMAT, espejo de Petra/Nadia — Libro 2 | Planning |
+| `hana` | Hana Ibáñez | Coordinación AMAT-EU, presente desde Libro 1 Cap 15 (protocolo, logística), reasignada a San Gotardo con Maren en Libro 2 | Migrated |
