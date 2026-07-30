@@ -48,6 +48,21 @@ Sintió que el suelo se movía: no era su Domain. Era Voss reorganizando el edif
 
 **Canonical mechanic:** Tensión sobre suelo = uso ambiental efectivo pero vulnerable a cambios de geometría. Primera vez que un Domain externo deshace activamente su trabajo.
 
+## Libro 2, Cap 63 (El ejercicio grande) — escrito 2026-07-24
+
+<!-- canonical -->
+Simulacro de rappel multi-punto: baja la cordada sur (Dara, Petra). Cuando el anclaje de Petra falla, llega primero por radio ("¡Petra!", sin tiempo de servir de nada) y segundos después la asegura físicamente contra la pared mientras tierra prepara una cuerda nueva. Articula después el contraste de liderazgo con Pier sin resolverlo del todo: "dos formas de leer el mismo momento. Ella paró todo. Tú seguiste." Su liderazgo de gesto/silencio puesto a prueba de verdad frente al de Johanna, no en abstracto.
+
+## Libro 2, Cap 56 — investigación del club de pelea
+
+<!-- canonical -->
+Tras la golpiza a Riku (Cap53), investiga sin violencia ni confrontación — usa su propia posición ascendente en el tablero para hablar de igual a igual con candidatos de más tiempo en el centro, repartido en varios días (sesión de archivo, comedor, un instructor de Val Bedretto). Johanna le da el trasfondo más completo: Yegor fue #1 hasta que Dax y Johanna llegaron; Milan fue top diez una vez; Iker es distinto, le importa más Dax que el grupo. Presenta los hallazgos al grupo Valais completo en el cuarto de Oliver — Pier y Petra aportan info propia recogida por su cuenta (el club existe desde años antes de Dax, tolerado a propósito por instructores; funciona como refugio para cualquiera que "perdió algo" en el tablero, no solo por Riku).
+
+## Libro 2, Cap 57 (Val Tremola)
+
+<!-- canonical -->
+Diseña la estrategia completa del grupo para el ejercicio "captura la bandera" usando la info que reunió en Cap56: contra Milan (impaciente, predecible), afloja con Tensión el puente de troncos que él tiene que cruzar — lo deja caer al agua sin acercarse a un cruce físico. "Físicamente me habría destrozado. Por eso no dejé que la pelea fuera física." Tablero: #31→#27 (+4).
+
 ## Narrative function
 
 - Primer Domain que Oliver copia — establece la mecánica central de la serie.

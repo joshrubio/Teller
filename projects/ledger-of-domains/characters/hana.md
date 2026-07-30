@@ -38,6 +38,11 @@ Precisa, terse, sin preámbulo — "no agradeció el espacio, lo usó" (Cap 15).
 
 **Importante:** Oliver YA la conoce bien al llegar a San Gotardo (Libro 2). No es un personaje nuevo — es continuidad de Libro 1, ahora con rol ampliado.
 
+## Libro 2, Cap 66 — Otro ángulo (escrito 2026-07-25)
+
+<!-- canonical -->
+**Nuevo dato de canon:** su madre tiene asiento en el consejo de AMAT-EU, rama española — nunca mencionado en seis años de trabajo con Voss, revelado aquí por primera vez. Pide tres días de permiso en San Gotardo (solo Maren lo sabe, la cubre) y viaja a Ginebra por su cuenta — sorpresa real para Voss, que nunca la había visto fuera de contexto operativo. Le consigue una reunión en persona con su madre para el caso Valais. Razón que da, sin cambiar de registro: quería ver a su madre de todos modos, y "un amigo necesitaba apoyo" — primera vez que se refiere a Voss en términos personales, no operativos. Llamada de cierre esa misma noche: pregunta directamente si está bien — primera vez en seis años que sale del registro puramente operativo con él.
+
 ## Key relations
 
 | Person | Dynamic |

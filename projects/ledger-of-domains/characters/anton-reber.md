@@ -28,7 +28,11 @@ Duro, económico con las palabras — nunca dice una frase de más, nunca ofrece
 
 ## Función narrativa
 
-Encarna en carne propia el tema que Oliver empieza a tocar en Cap 44 — control puro de Odem sin Domain, ventaja construida a base de años, no de atajo. De hecho entrenó personalmente a la candidata del grupo de Johanna que enfrenta a Oliver en ese capítulo — dato que puede salir más adelante sin forzarlo, quizás cuando Oliver le pregunte directamente. Lleva la pata Combate del tablero general (Cap 47, 48, 52, 57).
+Encarna en carne propia el tema que Oliver empieza a tocar en Cap 44 — control puro de Odem sin Domain, ventaja construida a base de años, no de atajo. De hecho entrenó personalmente a la candidata del grupo de Johanna que enfrenta a Oliver en ese capítulo — dato que puede salir más adelante sin forzarlo, quizás cuando Oliver le pregunte directamente. Lleva la pata Combate del tablero general (Cap 47, 48, 52, 57, 58, 63, 67).
+
+**Cap 67 (verificado 2026-07-26):** reúne a todo San Gotardo tras la repetición de peso muerto — anuncia que se cumple el mes, que el ejercicio de esa mañana era uno más, y que hay un día libre antes de la evaluación final real de campo, pasado mañana (mini-arco de Milán, Arc2). No da detalles del tipo de evaluación ni de qué pasa con quien no clasifique — la vaguedad es forma de proteger la información hasta que haga falta tenerla.
+
+**Arc2 — instructor cazador en Milán (Cap68-77):** uno de los tres instructores que cazan activamente a los candidatos durante la semana de examen final, junto a Anka y el nuevo Padre Andrea Conti (AMAT-Italia). Su amenaza es física pura, sin Domain — el que atrapa por habilidad de combate cruda, sin trucos de Odem que leer.
 
 ## Relación con Anke
 

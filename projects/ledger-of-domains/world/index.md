@@ -28,3 +28,4 @@ updated: 2026-07-02
 | `world/entities/lidercz-danubio` | Lidérc — Principado del Danubio | Principado de Budapest, Gran Inundación de Pest 1838, Grillete del Vado, BSA Arc 4 | Active |
 | `amat-caribe` | AMAT-Caribe | Rama caribeña (Venezuela), principio ontológico identidad narrativa colectiva (cortes de María Lionza), contexto Tren de Aragua/Cártel de los Soles, BSA Arc 5 | Planning |
 | `world/entities/maria-lionza` | María Lionza | Principado de Sorte, primera entidad sentiente de la serie, fase infantil, nacida de sacrificio ritual forzado, BSA Arc 5 | Planning |
+| `san-gotardo` | San Gotardo — El Reducto | Instalación militarizada AMAT (Libro 2) — tablero general (posiciones actualizadas), roster del club de pelea informal | Active |

@@ -26,9 +26,9 @@ Borrador de trabajo mientras planeamos. No es canon todavía — mover lo confir
 | **8 junio** | **M7.8 Filipinas** (Sarangani/General Santos) | 61+ muertos, tsunami pequeño | **Candidato fuerte — aviso perdido, dos semanas antes del Doblete** |
 | 24-25 junio | El Doblete del Pacífico | Venezuela M7.2/M7.5 (ya en Cap 38-39), Japón M7.2 Iwate + M6.9 Kuji, réplica M6.5 Filipinas | Ya integrado en la trama |
 | 1 julio | Réplica M6.0, Iwate | Japón sigue temblando después del evento principal | Puede usarse en Arc 2 (misión ya en Japón) |
-| Esta semana (~8-10 julio) | Sichuan M5.0 + réplicas (Yibin), tornados Hubei | Falla superficial real, zona de Wenchuan 2008 | **Candidato fuerte — Cap 60 "Se mueve otra vez"** |
+| Esta semana (~8-10 julio) | Sichuan M5.0 + réplicas (Yibin), tornados Hubei | Falla superficial real, zona de Wenchuan 2008 | **Candidato fuerte — Cap 61 "Se mueve otra vez"** |
 
-**Idea grande:** la Convergencia no fue un solo día — fue el pico de una temporada que ya llevaba desde abril. Filipinas (8 junio) como aviso real que AMAT no conectó a tiempo. Sichuan (ahora mismo, en tiempo real) como el nuevo nodo activo ya planeado para Cap 60.
+**Idea grande:** la Convergencia no fue un solo día — fue el pico de una temporada que ya llevaba desde abril. Filipinas (8 junio) como aviso real que AMAT no conectó a tiempo. Sichuan (ahora mismo, en tiempo real) como el nuevo nodo activo ya planeado para Cap 61.
 
 ---
 
@@ -52,5 +52,5 @@ Fuente: `plot/timeline.md` (ya existente, Libro 1). Confirmando cómo encaja el 
 ## Pendiente de decidir
 
 - ¿Filipinas (8 junio) se menciona explícitamente en algún capítulo ya escrito, o se guarda para cuando convenga (Cap 41-44, Arc 2)?
-- ¿Sichuan se escribe como el Cap 60 real ("Se mueve otra vez") o como beat más temprano?
+- ¿Sichuan se escribe como el Cap 61 real ("Se mueve otra vez") o como beat más temprano?
 - Guangxi/Éufrates/Ghana — de momento sin gancho claro, quedan aparcados.

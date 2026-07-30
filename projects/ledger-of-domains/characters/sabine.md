@@ -58,6 +58,11 @@ Partida planificada. Cama hecha, tomó solo lo que necesitaba. Lev y Sabine part
 <!-- canonical -->
 En fuga con Lev, ~15-19 días desde la Irrupción. Su paranoia es disciplina, no pánico — lleva una libreta donde solo cuenta como "observado" lo que declara en voz alta, nunca una sospecha suelta; coherente con su Domain de contención/fijación, que exige precisión absoluta para no ser letal por accidente. Detecta el patrón de vigilancia (coche gris, tres veces en cuatro días) antes que Lev. Casi la detecta el equipo de Park tras el encuentro con Aurelio (contacto de recursos de la pareja) — escapan en tren. Dinámica de pareja mostrada por reparto táctico de tareas sin negociar en voz alta, no por gestos grandes.
 
+## Libro 2, Cap 59 (POV Park, vista externa)
+
+<!-- canonical -->
+Primer contacto físico real con el equipo de Park en un andén de carga — se separa de Lev deliberadamente (cada uno hacia un lado) para dividir cualquier persecución. Sofia la sigue; el roce con ella queda aclarado como no intencional (Sabine no la toca — un fragmento del contenedor que revienta Lev la hiere). Escapa junto con Lev, sin captura.
+
 ## Narrative function
 
 - Espejo de Oliver: llegó sin red, sin familia, sin negociación posible — encontró en el Centro algo que funciona. Eso no la hace ingenua; la hace pragmática de forma específica.

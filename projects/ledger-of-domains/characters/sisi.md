@@ -74,6 +74,11 @@ updated: 2026-06-17
 - Establece que el Domain de Oliver tiene un límite estructural que no resuelve el entrenamiento.
 - "Vuelve" sin respuesta — gancho Libro 2.
 
+## Libro 2 — Cap 65 (Colombia, POV Kaspar/excepción, escrito 2026-07-25)
+
+<!-- canonical -->
+Cuestiona el patrón de reclutamiento de Kaspar a través de preguntas genuinas, no politizadas — no está informada del contexto regional (disidencia armada post-acuerdo de paz), pero sus preguntas simples hacen brotar dudas reales en las respuestas de Kaspar sin que él las resuelva del todo. Presencia (o se entera) del episodio de Yesenia, la niña cuyo Domain se manifiesta en público, y conecta explícitamente su futuro con el de Camilo, el aliado adulto de Kaspar — "vas a acabar como Camilo... y ella no va a saber que hay otra forma de que esto termine." Kaspar admite sin rodeos que se aprovecha de la soledad de la gente que recluta; ella no tiene respuesta lista para eso.
+
 ## Libro 2 — Cap 51 (Práctica, POV Kaspar/excepción)
 
 Entrena Mente activamente bajo la guía de Kaspar, en espacios públicos, sobre desconocidos sin su consentimiento — un florista (corte de atención sostenido 5 minutos sin fisura, progreso real desde Book1) y dos guardias de banco a la vez (cortes en paralelo, mucho más difícil, solo 10 segundos de momento). Defiende el método frente a la objeción de Tomás con lógica fría ("no le he tocado nada de lo que le importa"). Pregunta directa a Kaspar sobre qué pasa si el perseguidor de verdad llega hasta ellos — no obtiene garantía, solo la respuesta de que Kaspar decidirá cuando pase. Primera vez que se le ve progresar con libertad real, sin la vigilancia que tenía en el Centro.

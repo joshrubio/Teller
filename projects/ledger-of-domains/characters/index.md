@@ -29,7 +29,7 @@ updated: 2026-07-08
 | `petra` | Petra | Canje Domain, Level 2 | Migrated |
 | `ji-ho` | Ji-ho | Park's uncle, Rango S | Migrated |
 | `cartwright` | Cartwright | AMAT-NA Director Regional, Rango 1 | Migrated |
-| `anke` | Anke | Previous Registry carrier / Libro 2 hook — debut Cap 45, reveal Cap 62-63 | Migrated |
+| `anke` | Anke | Previous Registry carrier / Libro 2 hook — debut Cap 45, reveal Cap 63-64 | Migrated |
 | `anton-reber` | Anton Reber | San Gotardo Combat instructor, no Domain — present unnamed since Cap 42, named Cap 45 | Active |
 | `mariana-vasconcelos` | Mariana Vasconcelos | BSA Arc 3 antagonista ambiguo, guardiana de A Saudade. Aparece cerca del cierre de Arc 4 como aliada, no amenaza. Aparece Cap 15 | Migrated (Cap 15) |
 | `bathory` | Báthory (Zoltán) | BSA Arc 3-4 antagonista principal, linaje húngaro, sobrevive Arc 3, antagonista real de Arc 4 | Migrated (Cap 18) |
@@ -47,3 +47,7 @@ updated: 2026-07-08
 | `iker-zabala` | Iker Zabala | Candidato militar San Gotardo, Domain electromagnético autodidacta, espejo de Riku — Libro 2 | Planning |
 | `noa-shapira` | Noa Shapira ("Saphira") | Candidata militar San Gotardo, sin Domain, dinastía familiar AMAT, espejo de Petra/Nadia — Libro 2 | Planning |
 | `hana` | Hana Ibáñez | Coordinación AMAT-EU, presente desde Libro 1 Cap 15 (protocolo, logística), reasignada a San Gotardo con Maren en Libro 2 | Migrated |
+| `yegor` | Yegor | Candidato militar San Gotardo, #7, sin Domain confirmado en texto todavía, antagonista frío — encabeza el bullying grupal contra Riku, Cap 53 | Active |
+| `milan-kovac` | Milan Kovač | Candidato militar San Gotardo, #8, núcleo original del club de pelea, sin escena propia todavía | Active |
+| `lukas-feldmann` | Lukas Feldmann | Candidato militar San Gotardo, #10, club de pelea — sujeta a Oliver Cap 53 (nombre no revelado en prosa todavía) | Active |
+| `rasmus-lindqvist` | Rasmus Lindqvist | Candidato militar San Gotardo, #11, club de pelea — sujeta a Oliver Cap 53 (nombre no revelado en prosa todavía) | Active |

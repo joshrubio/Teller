@@ -63,6 +63,11 @@ Ji-ho sabe lo que los Principados son en un nivel que el protocolo no contempla:
 
 Lo revela a Park oblicuamente en Cap 8 — no como teoría, como pregunta: *"¿Sabes cuánto tarda el sustrato en olvidar?"* — sabiendo que Park ya tiene la respuesta y solo necesita escucharse decirla.
 
+## Libro 2, Cap 66 — primera aparición física en LoD (escrito 2026-07-25)
+
+<!-- canonical -->
+Solo mencionado hasta ahora en esta trilogía (LoD) — Cap66 es su primer vistazo físico en pantalla, adelantado desde el plan original de Libro3, como cameo de fondo, sin diálogo ni interacción directa con Voss. Llega a Ginebra junto a (o coincidiendo con) un contingente que regresa de una operación de contención en Reykjanes, salida mal-luego-bien, seis heridos. Cruza el pasillo principal del ala operativa sin uniforme, sin prisa, hacia una sala de debrief de máxima discreción. Presión física de su Odem mostrada con el sistema universal ya establecido (`world/odem.md`): la respiración de Voss se corta a media inhalación, un vaso de agua sobre un mostrador tiembla sin que nadie lo toque. Un agente herido lo reconoce en voz baja ("eso tiene que ser él"). No se cruza con Voss más allá de la vista — la leyenda se construye sin gastarla.
+
 ## Notes
 
 <!-- canonical -->
