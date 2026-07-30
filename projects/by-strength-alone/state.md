@@ -23,10 +23,12 @@ updated: 2026-07-04
 
 | | |
 |---|---|
-| **Status** | En progreso — BSA Cap 15 completo |
-| **Last written** | BSA Cap 15 — Alfama |
-| **Next** | BSA Cap 16 — Escalada (Báthory se presenta como amenaza real) |
-| **Active arc** | Arc 3 — Lisboa (Caps 14-19), en curso |
+| **Status** | Completo — 35 caps, Arco 1 a Arco 5 (Bridge incluido) |
+| **Last written** | Cap 35 — Lo que queda enterrado |
+| **Next** | Spinoff cerrado. Ver plan de fusión Libro 1 (LoD + BSA) para reordenar caps en manuscrito final. |
+| **Active arc** | — (completo) |
+
+> Corrección 2026-07-27: este archivo estaba desactualizado — daba BSA como "Cap 15 completo, Arc 3 en curso" cuando en realidad los 35 caps (Arc1–Arc5) ya están escritos. Ver `Ledger of Domains - By Strength Alone/Capitulo 1.md` → `Capitulo 35.md`.
 
 ---
 

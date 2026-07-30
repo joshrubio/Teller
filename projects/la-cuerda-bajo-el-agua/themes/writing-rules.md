@@ -23,6 +23,15 @@ Load in every write task. These are constraints, not reference.
 - **Control vs. instinto:** Zeke construyó su identidad entera en medir y controlar; Sanne, en sentir y confiar en el cuerpo. El vínculo obliga a cada uno a operar con la herramienta del otro.
 - **Vulnerabilidad como riesgo profesional:** en un deporte de élite, admitir algo que no se puede explicar ni medir es un riesgo de carrera real, no solo emocional — especialmente para Sanne, mujer en un entorno que ya la lee como "inestable" con menos evidencia.
 - **Rivalidad como forma de intimidad:** ocho años de competir al máximo nivel uno contra el otro ya era una forma de conocimiento profundo, antes de que el vínculo lo hiciera literal.
+- **Fe como precedente de lo inmedible (nuevo, agregado 2026-07-04):** Zeke ya vive con una creencia central que no puede medir, probar ni controlar — su fe evangélica. El vínculo con Sanne es, estructuralmente, la segunda cosa así en su vida, y la única que lo aterra en vez de sostenerlo. La pregunta de fondo (nunca dicha en prosa): ¿por qué acepta sin pelear lo que no puede probar cuando se trata de Dios, y pelea tanto contra lo que no puede probar cuando se trata de Sanne? El libro no responde esto directamente — lo deja como textura que el lector arma solo.
+
+## Fe — reglas de tratamiento
+
+- **Abierta, no proselitista.** Zeke no oculta su fe ni la explica más de lo que explicaría cualquier otro hábito personal. No predica, no cita versículos en diálogo, no la usa como argumento moral contra nadie, incluida Sanne.
+- **Gesto, no discurso.** Se muestra en el persignarse antes de la salida, en apretar el crucifijo, en silencios de oración breve — nunca en monólogos internos largos sobre teología.
+- **Sin resolver la tensión católico/evangélico.** Zeke no analiza en voz alta por qué conserva gestos católicos (persignarse, crucifijo) siendo evangélico — es simplemente cómo reza él, sin doctrina consciente detrás. No convertir esto en un chiste ni en un conflicto identitario explícito; es textura de fe vivida, no de fe debatida.
+- **Sanne no tiene marco religioso formal** — su familia tiene folklore marino (ver `characters/sanne-devries.md`, "el mar presta y el mar cobra"), no fe institucional. El contraste entre la fe formal de Zeke y el folklore no-formal de la familia de Sanne puede generar textura (¿son la misma clase de creencia con distinto nombre?) pero no debe resolverse con una respuesta definitiva.
+- **No convertir la fe en explicación del vínculo.** Zeke nunca debe concluir "esto es una señal de Dios" ni nada que le dé un marco religioso explicativo al vínculo mismo — la ambigüedad del vínculo es estructural (ver Reglas duras) y la fe no debe cerrarla.
 
 ## Preguntas de exploración (textura, no respuestas)
 

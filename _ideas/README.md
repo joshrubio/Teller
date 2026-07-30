@@ -18,3 +18,4 @@ Each file here is a self-contained pitch: premise, genre, protagonists, structur
 | `ledger-of-domains/la-cuerda-bajo-el-agua.md` | Ledger of Domains (Odem, bond-between-living, no AMAT) | Sports drama / psychological | **Promoted** → `projects/la-cuerda-bajo-el-agua/` |
 | `ledger-of-domains/la-ultima-veta.md` | Ledger of Domains (Odem, scarcity-economy, no AMAT) | Heist / crime ensemble | Pitch — not started |
 | `ledger-of-domains/lo-que-no-se-asienta.md` | Ledger of Domains (Odem, oversaturation-hazard, no AMAT) | Folk horror / archaeological thriller | Pitch — not started |
+| `ledger-of-domains/con-man.md` | Ledger of Domains (Odem, new Domain: Mentira, AMAT peripheral) | Sátira / dark comedy / caper con acción | Pitch — not started |

@@ -12,12 +12,12 @@ updated: 2026-07-04
 
 **Narrador:** Tercera persona limitada, alternando POV por capítulo (Zeke impares, Sanne pares — ver `voice/style.md` de cada personaje para verbos y tics propios). No omnisciente — el narrador nunca sabe más que el POV del capítulo. Esto es deliberado: el lector arma el vínculo entre los dos antes de que ninguno de los dos personajes lo admita del todo.
 
-**Plataforma:** manuscrito standalone, no serial — no hay obligación de cliffhanger duro en cada capítulo, aunque cada cierre debe dejar una pregunta o giro activo, no una escena que simplemente termina.
+**Plataforma:** manuscrito standalone, no serial — pero adopta la misma disciplina de cierre que BSA/LoD: cada capítulo termina en cliffhanger, sin excepción.
 
 ## Rhythm rule
 
 - Capítulos entre 2.500 y 3.500 palabras.
-- Cada capítulo cierra con una información o giro emocional nuevo, nunca con resumen.
+- **Cliffhanger al final de cada capítulo, sin excepción.** No necesariamente físico (corriente, sanción) — puede ser emocional, informativo, o de decisión, pero debe dejar al lector con una pregunta activa que empuja al capítulo siguiente, nunca con una escena que se cierra sola o un resumen.
 - Las escenas de carrera son físicas y sensoriales primero, técnicas después — el dato viene a confirmar lo que el cuerpo ya sintió, no al revés.
 
 ## Tone

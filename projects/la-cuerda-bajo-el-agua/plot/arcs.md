@@ -20,11 +20,13 @@ updated: 2026-07-04
 
 | Acto | Función | Caps estimados |
 |---|---|---|
-| **I — La Brecha** | Establece rivalidad, primer indicio del vínculo, incidente que fuerza la confesión de Sanne | 1–8 |
-| **II — La Cuerda** | Investigación sin marco institucional, profundización del vínculo, presión externa, decisión de nadar juntos en privado | 9–17 |
-| **III — El Empate** | Prueba conjunta, campeonato final, resolución abierta sobre qué son el uno para el otro | 18–24 |
+| **I — La Brecha** | Establece rivalidad, primer indicio del vínculo, incidente que fuerza la confesión de Sanne | 1–11 |
+| **II — La Cuerda** | Investigación sin marco institucional, profundización del vínculo, presión externa, decisión de nadar juntos en privado | 12–25 |
+| **III — El Empate** | Prueba conjunta, campeonato final, resolución abierta sobre qué son el uno para el otro | 26–35 |
 
-**Total estimado: 24 capítulos / 60.000–84.000 palabras.**
+**Total estimado: 35 capítulos / 87.500–122.500 palabras.**
+
+Expandido de la versión original de 24 caps para dejar aire entre beats — respiración, calidez, vida fuera del vínculo, no solo escalada continua. Ver `plot/chapter-plan.md` para el detalle cap a cap, incluyendo los caps nuevos marcados "(NUEVO — respiración)". **Regla dura: cliffhanger al final de cada capítulo, sin excepción** (ver `voice/style.md`).
 
 ---
 

@@ -15,10 +15,12 @@ updated: 2026-07-24
 
 | | |
 |---|---|
-| **Status** | Libro 2, Arc 1, Fase B en curso |
-| **Last written** | Cap 67 — Peso muerto, otra vez (línea A, POV Riku) — cierre de Arc1 |
-| **Next** | Cap 68 — [título pendiente] (línea A) — abre Arc2, confrontación Anka |
-| **Active arc** | Libro 2, Arc 1 — San Gotardo (Cap 38-67) |
+| **Status** | Libro 1 complete (37 caps). Libro 2 en progreso — Arc1 cerrado (38–67), Arc2 (Milán) en curso hasta Cap75. |
+| **Last written** | Cap 75 — Patrón revelado (línea A) — pendiente de revisión, combate en reescritura |
+| **Next** | Cap 75 (rehacer combate) → Cap 76 — Clímax (día seis, Oliver/Conti) |
+| **Active arc** | Libro 2, Arc 2 — Milán (Cap 68-83) |
+
+> Corrección 2026-07-27: este archivo estaba desactualizado — daba Libro 2 como "planning phase, Cap38 planeado" cuando en realidad Caps 38–67 ya están escritos (manuscrito real, no stubs). Ver `Ledger of Domains/Capitulo 38.md` → `Capitulo 67.md`. Sesión 2026-07-30: Arc2 avanzó hasta Cap75 (ver `plot/chapter-plan-libro2.md` para el detalle capítulo a capítulo).
 
 ---
 
