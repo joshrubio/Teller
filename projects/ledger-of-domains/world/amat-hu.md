@@ -26,16 +26,14 @@ Esto da justificación cultural real para que un linaje moderno sistematice el d
 
 - **Turul:** ave mítica fundacional de la nación húngara, ligada al origen de la dinastía Árpád — capa de fundación nacional, equivalente funcional al mito de Ulisseia en Lisboa.
 - **Táltos:** ver Principio ontológico — humano marcado de nacimiento, chamán reconocido.
-- **Lidérc:** espíritu nocturno cambiante en folclore real, nace de huevo incubado, se presenta como amante falso de noche — categoría de entidad menor, sin desarrollar.
-- **Danubio:** río que divide Buda de Pest — eje geográfico potencial de entidades fluviales, paralelo urbano al mar portugués. Alberga el Principado de origen del linaje Báthory (ver abajo) — más allá de eso, sin desarrollar hasta escribir Arc 4.
+- **Lidérc:** espíritu nocturno cambiante en folclore real, nace de huevo incubado, se presenta como amante falso de noche, roba forma. Elevado a Principado del Danubio (confirmado 2026-07-08) — ver `world/entities/lidercz-danubio.md`.
+- **Danubio:** río que divide Buda de Pest — eje geográfico potencial de entidades fluviales, paralelo urbano al mar portugués. Alberga al Lidérc, Principado de origen del linaje Báthory (ver `world/entities/lidercz-danubio.md`).
 
 ## El linaje Báthory
 
 Ver `characters/bathory.md`. A diferencia de los Vasconcelos (cultivo generacional lento y ritual, duelo genuino), la familia Báthory industrializa el proceso de despertar — usa la legitimidad cultural del táltos como fachada para un ritual que drena/desestabiliza Odem ajeno para acelerar el propio. Eco reformulado de la leyenda real de Erzsébet Báthory, sin ser gratuito.
 
-**Origen del Dominio (aludido BSA Cap 18, a desarrollar en Arc 4):** igual que el Dominio de los Vasconcelos nace de generaciones de exposición ritual a A Saudade, el Dominio de los Báthory tiene un origen equivalente — algo bajo el Danubio, sin nombre confirmado todavía. AMAT-HU no comparte el detalle completo ni siquiera con otras ramas; lo que se revela en Cap 18 es solo la existencia de la conexión, no su naturaleza.
-
-**Oportunidad de lore (planificado 2026-07-08):** en Arc 3 (Lisboa) nunca se exploró a fondo a la familia Vasconcelos ni el origen exacto de A Saudade — quedó como telón de fondo. Arc 4 es la oportunidad de hacer ese mismo ejercicio con los Báthory y el Principado del Danubio, con más detalle del que tuvo su equivalente portugués. Reservar un capítulo de exposición dedicado (ver `by-strength-alone/plot/chapter-plan.md`, Arc 4) para el nombre, la naturaleza y la relación generacional del linaje con la entidad — a través de la rama tradicionalista de la familia, no de Zoltán.
+**Origen del Dominio (confirmado 2026-07-08):** ver ficha completa en `world/entities/lidercz-danubio.md`. El Dominio de los Báthory nace de generaciones canalizando la presión del Lidérc a través de un Guardián — no un pacto, una obligación heredada desde la Gran Inundación de Pest de 1838. Zoltán fue criado para ese rol y lo abandonó por una versión cruda e industrializada del mismo don.
 
 ## Rama tradicionalista de los Báthory — el otro lado de la familia (planificado 2026-07-08)
 

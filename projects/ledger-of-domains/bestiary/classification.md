@@ -35,4 +35,5 @@ AMAT operational name for the highest category. Taken from Pauline vocabulary or
 | # | Year | Location | Current status |
 |---|---|---|---|
 | 1 | 1952 | Hartford, Connecticut (USA) | Impregnated zone active. AMAT-NA perimeter under environmental remediation cover. Generates Nivel 3–4 Potestades periodically. Principado withdrew — destination unknown. |
-| 2–6 | TBD | TBD | Implicit canon — exist, have geopolitical consequences for AMAT. Reserved for future books/spinoffs. |
+| 2 | 1979 | Mar de Célebes (entre Filipinas e Indonesia) | Ver `bestiary/1979-cel-002.md`. Non-hostile, no repeat signature since 1980. Closed for lack of follow-up, not resolution. Adenda clasificada — ver `bestiary/clasificacion-erronea-angeles.md`. |
+| 3–6 | TBD | TBD | Implicit canon — exist, have geopolitical consequences for AMAT. Reserved for future books/spinoffs. |

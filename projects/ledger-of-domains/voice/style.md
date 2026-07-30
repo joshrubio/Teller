@@ -37,6 +37,13 @@ updated: 2026-06-19
 
 ---
 
+## Libro 2 (added 2026-07-07)
+
+- **Target length: ~2,500–3,000 words per chapter.** Standing rule, all chapters, no exceptions for "opening"/secondary-line chapters — check word count before considering a chapter done, same discipline as the cliffhanger rule below.
+- **Every chapter ends on a cliffhanger.** Standing rule for the whole book, same discipline as BSA. Not optional per-chapter — check this before considering a chapter done. Doesn't have to be action (Cap 40 closed on an unsigned text from Voss); a withheld piece of information, an unanswered call, or a reversal of what the scene just established all count, as long as the chapter doesn't land on a settled, resting beat.
+
+---
+
 ## AI detection — patterns to eliminate
 
 ### Eliminated in editorial review — do NOT reintroduce

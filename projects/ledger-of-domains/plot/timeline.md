@@ -37,8 +37,8 @@ In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 19 = January 2026 (Vene
 | ~1955 | Registro Caso 1: unnamed subject. Died during evaluation — forced copy on evaluation team. |
 | ~1982 | Registro Caso 2: Kaspar (~25–30 yrs). Copied Sustento Domain from Nivel 2 Potestad in AMAT custody. |
 | ~1983–84 | Kaspar disappears from custody (17 months after copying). AMAT file stays open. |
-| ~2003 | Registro Caso 3: Elise. Worked for AMAT Geneva 11 years. |
-| ~2014 | Elise retired from AMAT — "razones médicas no documentadas." Voss knew the outcome. |
+| ~2003 | Registro Caso 3: Anke. Worked for AMAT Geneva 11 years. |
+| ~2014 | Anke retired from AMAT — "razones médicas no documentadas." Voss knew the outcome. |
 | Pre-Cap 1 | Oliver at Grayhaven internship. Park at Rango 4, missions M1–M2 unknown. |
 
 ---
@@ -108,7 +108,7 @@ In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 19 = January 2026 (Vene
 ## Open chronology notes
 
 - Kaspar's 40-year timeline: 1982 (copy) → 1983 (escape) → 2025 (active near Centro). Exact movements undocumented.
-- Elise: worked AMAT Geneva ~2003–2014. Kaspar observed her during those 11 years. Current status unknown.
+- Anke: worked AMAT Geneva ~2003–2014. Kaspar observed her during those 11 years. Current status unknown.
 - Park M4 Hartford: autumn 2025, immediately following Grayhaven (GRH-094) — BSA Cap 1 references Grayhaven as freshly closed.
 - Park M5 Seoul (→ Rango 3): weeks after Hartford, still autumn 2025.
 - Park M6 Lisbon: begins "tres días después de la isla" (BSA Cap 14) — lands in autumn 2025. **Confirmed 2026-07-06:** the arc's climax (BSA Cap 18-19) falls on 1 November 2025 — Dia de Todos os Santos, 270th anniversary of the Lisboa earthquake, the Vigília das velas at the Carmo ruins.

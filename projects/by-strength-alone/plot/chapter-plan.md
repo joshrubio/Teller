@@ -4,7 +4,7 @@ type: plot
 project: by-strength-alone
 module: plot
 tags: [structure, chapters, beats, full-plan]
-updated: 2026-07-08
+updated: 2026-07-07
 ---
 
 # BSA — Plan completo cap a cap
@@ -353,9 +353,11 @@ Continúa directo desde el cliffhanger de Cap 21 (derrumbe cerca de Miskolc, bil
 
 ### Cap 23 — *La otra familia*
 
-Capítulo de exposición, el equivalente al Salgado/A Saudade de Lisboa pero más profundo. Katalin lleva a Park a la propiedad/sede de la rama tradicionalista de los Báthory. Se revela el nombre y la naturaleza del Principado del Danubio, la mecánica generacional del linaje (paralela a los Vasconcelos, más antigua, más marcada por la industrialización que Zoltán intentó imponerle), y por qué la familia entera podría perder su tolerancia institucional si la crisis regional sigue escalando. Katalin explica su propio motivo sin ocultarlo del todo: no está ayudando a Park por AMAT, está ayudando para salvar a su familia de las consecuencias de lo que hizo Zoltán.
+Capítulo de exposición, el equivalente al Salgado/A Saudade de Lisboa pero más profundo — mecánica confirmada 2026-07-08, ver `world/entities/lidercz-danubio.md`. Katalin lleva a Park a la propiedad familiar cerca de Miskolc (ya sembrado en Cap 22) y le explica el Lidérc: Principado real, elevado desde el folclore húngaro (espíritu que roba forma), atado al linaje desde la Gran Inundación de Pest de 1838 (evento real; lo que de verdad pasó esa noche, según el archivo privado de la familia, fue el primer despertar masivo descontrolado documentado). Un antepasado lo contuvo esa noche a un coste enorme — de ahí nace el deber de Guardián que la familia sostiene desde entonces mediante un canal ritual generacional, no un pacto ni una búsqueda de poder.
 
-**Cliffhanger:** noticia o señal de que Tamás y el recluta de Lisboa ya han sido vistos actuando en la ciudad — Báthory no está solo escondiéndose, está preparando algo.
+Se revela que Zoltán fue criado para ser el próximo Guardián y abandonó ese rol por su versión cruda e industrializada del mismo don — por eso conoce el mecanismo con tanta precisión. Sin su canal, el Lidérc no tiene desahogo: se acumula hacia el único punto de contacto que le queda, el propio Zoltán, amenazando con desbordar su cuerpo por completo si la situación sigue sin resolverse. Katalin revela (o Park lo deduce) que ella misma lleva la marca — es la siguiente en la línea de sucesión si Zoltán cae.
+
+**Cliffhanger:** noticia o señal de que Tamás y el recluta de Lisboa ya han sido vistos actuando en la ciudad — Báthory no está solo escondiéndose, está preparando algo. Alternativa/complemento: primera señal física de que la contención de Zoltán ya está fallando (algo que Katalin nota y no dice del todo en voz alta).
 
 ---
 
@@ -367,27 +369,31 @@ Escalada — primer enfrentamiento físico de Park con Tamás y/o el recluta de 
 
 ---
 
-### Cap 25 — *Nodo*
+### Cap 25 — *Nodo* ✓ ESCRITO
 
-Decisión imposible del arco: actuar ya, en desventaja, con lo que tiene — o esperar refuerzo institucional que puede no llegar a tiempo. Aquí, si hace falta, Cartwright pasa de cobertura telefónica a presencia real — la ventana de seis-ocho horas de Cap 21 se resolvió en algún sentido, y AMAT decide (tarde, a regañadientes) respaldar oficialmente lo que Park ya empezó solo. Katalin en el mismo dilema desde el lado de su familia: hasta dónde está dispuesta a llegar contra su propio primo.
+Zoltán no se queda en las ruinas — vuelve a Budapest con el Grillete del Vado ya puesto (ver `world/entities/lidercz-danubio.md`), directo hacia un lugar público, no aislado: **el Puente de la Libertad (Szabadság híd)**, a media tarde, tráfico y peatones normales — necesita proximidad al Danubio a escala de ciudad, no la calma de un río de campo, para el intento que prepara. AMAT-HU responde tarde pero de verdad: un equipo de contención completo, varios agentes, se despliega para contenerlo antes de que actúe en medio de civiles. Park y Katalin llegan justo cuando el equipo ya está comprometido — a tiempo para ver, no para impedir, cómo Zoltán lo derrota. Épico, no cruel gratuito: un salto de rango real en pantalla (Rango 2, empujando hacia Rango 1 en los últimos intercambios), y el primer daño estructural real y visible — parte del tablero del puente cede, coches detenidos a medio girar, gente corriendo sin entender qué está pasando. Coste visible en Zoltán: cada vez que tira del Grillete se le nota algo distinto en la cara, un segundo de ausencia, como si no fuera del todo él quien está ganando.
 
----
-
-### Cap 26 — *Lo que queda en pie*
-
-Clímax. Combate épico — Park, con el apoyo que haya logrado reunir (Katalin, posiblemente algo de AMAT-HU), contra Báthory, Tamás y el recluta de Lisboa, en o cerca del sitio del Principado del Danubio. Mariana aparece sin aviso, hacia el final, y su intervención inclina la balanza — no llega como aliada institucional, llega por Rafa. El combate termina en una muerte real — candidatos sin decidir todavía: Tamás, el recluta de Lisboa, Báthory mismo, o incluso Katalin. Pagar aquí la pregunta del arco: qué queda en pie cuando ya no se puede retroceder.
+Decisión imposible del arco, reencuadrada por lo que acaban de ver: actuar ya, los dos solos, en medio de un puente lleno de civiles, sabiendo que un equipo completo de AMAT-HU acaba de perder — o retirarse y dejar que la crisis siga escalando en público, sin cobertura posible. Katalin, del lado de su propia sangre: hasta dónde está dispuesta a llegar contra su primo, sabiendo que si él cae con el Grillete puesto, ella es la siguiente en la línea de sucesión del canal ritual.
 
 ---
 
-### Cap 27 — *Rango 2*
+### Cap 26 — *Lo que queda en pie* ✓ ESCRITO — la muerte de Zoltán se movió a la apertura de Cap 27
 
-Aftermath inmediato. Coste real, victoria sin nombre propio de nuevo. Rango 2 confirmado para Park. La crisis regional de Domains descontrolados no se resuelve del todo — se contiene, ecoando el hilo "como intentar atrapar todos los peces del mar" (ver `plot/threads.md`). Despedida de Katalin (y de lo que quede de la familia Báthory), de Ilona, quizás de Mariana si sigue presente.
+Clímax, en el mismo puente o en la orilla inmediata (evaluar al escribir si el combate se mueve del tablero dañado a la ribera). Con Tamás y el recluta ya capturados (Cap 24), es Park y Katalin contra Zoltán solo — pero un Zoltán empujado por el Grillete cerca de Rango 1, el enemigo más fuerte que Park ha enfrentado en la serie hasta ahora, más que la quimera evolucionada o el imugi contenido de Seúl, y esta vez con civiles reales en el radio de daño, no un teatro de operaciones vacío. Mariana aparece sin aviso, hacia el final, y su intervención inclina la balanza — no llega como aliada institucional, llega por Rafa. El Grillete cobra su precio en el momento decisivo: el Lidérc, alimentado por cada uso, termina de desbordar el cuerpo de Zoltán en medio del combate — su muerte no es un golpe de Park, es el propio mecanismo que estaba explotando terminando de tragárselo, a la vista de gente que no tiene manera de procesar lo que acaba de ver. Consecuencias reales y visibles: estructura del puente dañada, heridos civiles, algo que ninguna rama de AMAT puede archivar en silencio esta vez — pagar aquí la pregunta del arco, qué queda en pie cuando ya no se puede retroceder, a nivel literal y a nivel institucional.
 
 ---
 
-### Cap 28 — *Cierre* [absorbe la función de "Transición" del plan viejo]
+### Cap 27 — *Lo que el Grillete no pudo pagar* ✓ ESCRITO
 
-Cierre del arco y puente hacia Caracas. Aftermath de Budapest, el coste pesa, hilo EU-GINEBRA si no se cerró antes. Reflexión final de Park sobre lo que costó Budapest comparado con lo que costó Lisboa. Sin capítulo de transición aparte — evaluar al escribir si Cap 27 y 28 deben fusionarse (precedente: esto pasó en Arc 3 con Cap 20).
+La persecución continúa de Buda: múltiples intercambios letales entre Park y Zoltán, cada uno esquivado por márgenes mínimos, daño real y creciente al entorno (escaparate, cráter que se traga un coche, farola caída, cornisa desprendida). Mariana y Katalin siguen a los dos hombres desde atrás, gestionando consecuencias en vez de poder intervenir. Park muestra por primera vez un eco deliberado de Ji-ho — control preciso, ondas medidas en vez de fuerza bruta, marcador visible de crecimiento. Momento decisivo (revisado 2026-07-07): Park deja pasar el último golpe desesperado de Zoltán, lo absorbe entero, y lo devuelve como un Stage 3 de doble eje dirigido con precisión al Grillete mismo — pero el Grillete revienta en vez de agrietarse, destruyendo el brazo de Zoltán desde el puño hasta el hombro y llevándose parte del torso. Muerte visceral y física, por desangramiento, no un cierre silencioso — Katalin y Mariana llegan a sostenerlo mientras se apaga. Cierra con Park cargando el peso de saber exactamente qué acaba de hacer. Aftermath completo diferido a Cap 28 — este cap cierra poco después de la muerte, sin desarrollarlo.
+
+---
+
+### Cap 28 — *Cierre* ✓ ESCRITO [absorbe la función de "Transición" del plan viejo, y ahora también la de "Rango 2"]
+
+Transición y aftermath completo: coste real, victoria sin nombre propio. Rango 2 confirmado para Park. La crisis regional de Domains descontrolados no se resuelve del todo — se contiene, ecoando el hilo "como intentar atrapar todos los peces del mar" (ver `plot/threads.md`). Katalin asumiendo (o no) el rol de Guardián tras la muerte de Zoltán — el equilibrio familiar que motivó su búsqueda desde Cap 22 llega a su punto de resolución. Despedida de Katalin, de Ilona, de Mariana. Reflexión final de Park sobre lo que costó Budapest comparado con Lisboa. Puente hacia Caracas, hilo EU-GINEBRA si no se cerró antes.
+
+**Escrito 2026-07-06:** Ilona (cover story de "fuga de gas", paralelo explícito con la tolerancia de los Vasconcelos), Cartwright en persona (confirma Rango 2, respuesta sin cerrar del todo sobre si sabía del riesgo para Rafa en Mouraria — hilo "Park como catalizador" deliberadamente no resuelto), Katalin asume el rol de Guardián con los ojos abiertos, Mariana se despide con el cuerpo de Zoltán y futuro ambiguo, EU-GINEBRA sigue sin respuesta, anuncio de Venezuela cierra el puente hacia Arc 5.
 
 ---
 
@@ -403,29 +409,106 @@ Nota de escritura: no marcar a nadie como baja todavía. Construir peso primero.
 
 ---
 
-## ARC 5 — CARACAS / VENEZUELA (Caps 29–34)
+## ARC 5 — CARACAS / VENEZUELA (Caps 29–35) — replanteado 2026-07-07 con AMAT-Caribe, María Lionza, contexto real
 
 **Pregunta del arco:** ¿Es fuerza la que funciona frente a algo que está fuera de escala?
 
-| Cap | Beat principal |
-|---|---|
-| 29 | Misión clasificada Nivel 3. Equipo mínimo. Venezuela interior. Setup estándar que empieza a no serlo. |
-| 30 | Primera anomalía. Las lecturas no encajan con perfil de Potestad generada. Park lo reconoce — similar a Hartford, pero más viejo, más profundo. |
-| 31 | La misión escala. Equipo mínimo insuficiente para lo que realmente hay aquí. Park no puede pedir refuerzo sin reportar lo que cree ver — y lo que cree ver no tiene categoría en el protocolo. |
-| 32 | Evidencia de Principado activo — posiblemente el mismo de Hartford. No confirmado. AMAT no tiene registro de Principado en Venezuela. Park no puede probarlo. |
-| 33 | Misión resuelta en el nivel aparente — la Potestad visible neutralizada. Lo que Park vio debajo: sin resolver. El teatro queda "limpio" según el protocolo. Park sabe que no lo está. |
-| 34 | La llamada a Valais llega antes de que Park pueda reportar lo que realmente encontró. La pregunta del arco no se responde — se interrumpe. Eso también es una respuesta. |
+**Cronología real fijada (ver `world/amat-caribe.md`, `world/entities/maria-lionza.md`):** misión M8, interior de Venezuela (región de Sorte, estado Yaracuy), aproximadamente **23 de diciembre de 2025 – 5 de enero de 2026**. La captura/extracción real de Nicolás Maduro por fuerzas de EE.UU. (Operación Determinación Absoluta, 3 de enero de 2026) cae dentro de la ventana de la misión — no antes ni después, en medio. El arco termina un par de días después de la extracción; la fase Caracas/Yara Montiel (ya escrita en LoD Libro 1, Cap 19) queda fuera de este arco y sin modificar por ahora — posible sincronización ligera más adelante, hacia el final de ese capítulo, no antes.
+
+**Elenco nuevo:** Claudia Ferrer (cabeza de AMAT-Caribe, coordina remota desde Caracas — ver `characters/claudia-ferrer.md`), Agente Iván Salcedo (AMAT-Caribe, asignado a acompañar a Park en el terreno — logística, contactos, vehículo, conocimiento real de la zona; ver `characters/aliados-yaracuy.md`), Casimira Blanco (banco veterana de Sorte, resistente a la facción corrupta, guía de Park hacia el conocimiento real de las cortes), General Wilmer Roa (FANB, vinculado al Cártel de los Soles, arquitecto del sacrificio ritual de la última década), y los aliados civiles de Yaracuy — Yusmary Cordero, Ronald "el Pana" Peña, Nélida Rondón (ver `characters/aliados-yaracuy.md`). Mundo: `world/amat-caribe.md`, `world/entities/maria-lionza.md`.
+
+**No es "Park solo" otra vez (correctivo 2026-07-07):** a diferencia de Lisboa/Budapest, Park no se mueve solo por Venezuela — sería poco realista dado el terreno y el riesgo. AMAT-Caribe le asigna a Iván Salcedo como apoyo de campo (equipo mínimo real, Nivel 3, pero no inexistente). Lo que de verdad sostiene la misión, más allá de esa cobertura operativa básica, no es apoyo institucional — es gente común, sin Domain, sin entrenamiento, que decide ayudarlo por su cuenta al llegar: víctimas de la dictadura y la corrupción, desesperadas por algún tipo de intervención extranjera durante años, que ven en Park parte de esa ayuda sin que él lo confirme ni lo desmienta del todo. Diversidad deliberada de trasfondo (maestra reconvertida a comerciante informal, mototaxista, madre de un desaparecido) — el colapso no discrimina por clase ni educación, y el elenco no debe leerse como un bloque homogéneo.
+
+**Detalle de idioma (transversal, no de un capítulo):** nunca se aclara en qué idioma habla Park exactamente (convención ya establecida, ver Seúl BSA Cap 7) — pero en momentos puntuales se muestra que le cuesta seguir el acento cerrado y los modismos regionales del interior de Yaracuy. Fricción real, no recurso cómico.
+
+**Elemento central:** a diferencia de todos los Principados anteriores (residuo, presión, mecanismo — nunca sentientes), María Lionza es la primera entidad de la serie con voz propia, en fase infantil, nacida en menos de una década de sacrificio ritual (animal escalando a humano, desaparecidos reales como combustible) dirigido por la facción de Roa. No es una entidad buena corrompida desde fuera — nace ya torcida por el método que la formó. Ver ficha completa para el encuadre teológico.
+
+### Cap 29 — *Interior* ✓ ESCRITO
+
+Park llega a la región de Sorte con Iván Salcedo, el único agente de campo que Claudia Ferrer puede destinarle — cobertura oficial: investigación de lecturas sísmicas anómalas atribuidas públicamente a minería ilegal. Contexto real explícito: el país entero está en tensión — el régimen ya visiblemente inestable, SEBIN y FANB fragmentándose por dentro, colectivos armados operando sin mando claro. Claudia Ferrer, remota desde Caracas, deja claro que la rama no puede apoyarse en las fuerzas de seguridad oficiales como aliados por defecto, y que Salcedo es, literalmente, todo el refuerzo que puede permitirse enviar. Yusmary Cordero es la primera civil en acercarse a Park, cautelosa, leyendo mal (o quizás no tan mal) por qué un extranjero anda haciendo las preguntas que nadie local se atreve a hacer. Primeras señales: desapariciones alrededor de una zona de peregrinación específica cerca de Sorte, un patrón que no coincide con la violencia de bandas ordinaria.
+
+**Cliffhanger:** un temblor local, puntual, sin ninguna causa geológica que el equipo pueda registrar.
 
 ---
 
-## BRIDGE — VALAIS (Caps 35–36)
+### Cap 30 — *Lo que canalizan* ✓ ESCRITO
+
+Yusmary conecta a Park con Ronald "el Pana" Peña, cuyo hermano menor es uno de los desaparecidos — él lo lleva en moto por rutas que ningún vehículo oficial podría tomar sin llamar la atención. Investigación de campo lleva a Park a Casimira Blanco, banco veterana que lleva meses negándose a colaborar con una facción que ha estado presionando a otros bancos para "rituales especiales" — ella no sabe el alcance completo, pero sabe que algo se está haciendo mal. Park empieza a leer el patrón: esto no es una Potestad generada por saturación ambiental ordinaria. Es algo formándose activamente, con una velocidad que no debería ser posible.
+
+**Cliffhanger:** Casimira reconoce, en la descripción que Park le da de las lecturas, algo que la aterra — no folclore, algo que ella cree que ya sabe qué es.
+
+---
+
+### Cap 31 — *Lo que no era suyo* ✓ ESCRITO (título original de planificación: "Sin categoría")
+
+Casimira confirma la sospecha: una facción vinculada al Cártel de los Soles, liderada por el General Wilmer Roa, lleva casi una década forzando el proceso de invocación en Sorte más allá de cualquier práctica reconocible — sacrificio escalando de animal a humano, usando desaparecidos como combustible. Nélida Rondón y su red de madres aportan lo que ningún informe oficial registra: patrones de desaparición, fechas, lugares. Park y Salcedo, dos personas contra una red respaldada por generales, son demasiado poco para lo que esto realmente es, y no pueden pedir refuerzo sin reportar algo que ningún protocolo tiene categoría para nombrar. Primer contacto armado con hombres de Roa — la amenaza humana es tan real como la sobrenatural.
+
+**Cliffhanger:** Park ve, por primera vez, un efecto directo de la entidad — no un temblor, un rastro de gente que ya no está, sin explicación física de cómo desaparecieron.
+
+---
+
+### Cap 32 — *Lo que la gente carga* ✓ ESCRITO — insertado 2026-07-07
+
+Capítulo intercalado entre el rescate del Cap 31 y el reconocimiento de Sorte, para que el salto de un evento a otro no se sienta como puro procedimiento. Dos días de vida cotidiana venezolana vividos en escena, no resumidos: colas de agua y gasolina, tres visitas a casas de la red de Nélida mostrando injusticias distintas entre sí (despojo de tierra por un colectivo, doble oficio para sobrevivir, "vacuna" en un punto de control), y una escena nocturna central alrededor de una mesa de dominó sin luz — música lejana, ron, folklore real (El Silbón, La Llorona, El Mocho) y una vecina que los reprende invocando la sangre de Cristo. Park nota a una joven vecina y se imagina, por un segundo, una vida entera ahí — frustración real por lo poco que puede arreglar. Cierra con Casimira aceptando en escena guiarlos hacia Sorte, distinguiendo el folklore viejo de lo que se está formando en la montaña, "hecho a la fuerza" y sin tiempo de volverse leyenda. La pregunta del libro ("¿qué es ser realmente fuerte?") se cuela aquí directamente, ligada a la impotencia de Park: toda su fuerza física no sirve para cambiarle la vida a la muchacha que observa — cierra con Park cuestionando la definición de fuerza heredada de su propia familia. 2.592 palabras.
+
+---
+
+### Cap 33 — *La que nació de la sangre* ✓ ESCRITO
+
+Confrontación más profunda: Park y Casimira llegan al punto real de la ritualización, en las estribaciones de Sorte. Reconocimiento desde la distancia, no asalto todavía — primer vistazo real a María Lionza a través de unos binoculares o desde cobertura, no un encuentro directo. Revelación central del arco: es literalmente una niña, de unos nueve o diez años, criada desde bebé por la facción de Roa específicamente para esto. No un espíritu sin cuerpo, no una metáfora de infancia — un cuerpo real, custodiado, tratado como arma en entrenamiento. Sin restricción aprendida, aterradora precisamente por su falta de cálculo, pero con cara y voz de niña en los momentos en que el miedo que siente todavía es reconociblemente humano. Casimira, horrorizada, confirma que lo que se está formando nació ya corrompido por el método que lo trajo — no hay versión "buena" de esto esperando ser rescatada, y tampoco hay una niña intacta esperando debajo para ser salvada limpiamente. Las dos cosas son ciertas a la vez. Roa sigue tratándola como un activo que cree poder controlar.
+
+**Cliffhanger (ajustado):** una llamada de AMAT — Cartwright o Ferrer, decidir al escribir — advierte a Park que la operación de la que ya le habló Cartwright en Cap 29 es *hoy*. Todavía no hay radio filtrándose, todavía no ha amanecido — es la advertencia institucional la que llega primero, no el rumor de calle. Es 3 de enero, de madrugada.
+
+---
+
+### Cap 34 — *Tres de enero* ✓ ESCRITO
+
+**Apertura (nueva, 2026-07-07):** el capítulo abre con el narrador elevándose, como en el macro de Venezuela Saudita del Cap 29 — esta vez para dar el contexto real y el peso histórico de la Operación Determinación Absoluta: qué es, qué implica para Venezuela y el hemisferio, y el detalle fijado por el usuario de que ocurre de madrugada. El zoom baja después hacia Park, poniendo en perspectiva para el lector la escala de lo que está a punto de pasar en el país entero mientras él resuelve, en paralelo y sin que nadie más lo sepa, algo igual de grande a una escala mucho más pequeña y personal.
+
+La Operación Determinación Absoluta captura a Maduro esa misma madrugada, mientras Park asalta el sitio de Roa. **Registro Kingsman (referencia explícita del usuario — la escena de la iglesia, Cap 1):** el asalto contra el comando armado de Roa (mezcla FAN/Soles) se escribe como una demostración de fuerza unilateral, casi coreográfica, incómoda de ver por lo eficiente que es — un pelotón entero cayendo ante Park sin que la pelea llegue nunca a sentirse como una pelea real. Este registro existe a propósito para que el lector saque, sin que ningún personaje lo diga en voz alta, la comparación privada entre Park y un Principado activo — la misma escala de daño unilateral, solo que en desarrollo controlado en vez de descontrolado.
+
+Dentro del mismo asalto: un enfrentamiento breve, no una pelea completa, con la propia niña — un estallido de poder sin ningún cálculo detrás, que casi alcanza a Park, suficiente para que el lector sienta su escala real de cerca sin que Park llegue a comprometerse a un combate directo contra ella. **El giro central del arco se mantiene intacto:** Park sí podría "vencerla" en el sentido de Budapest — tiene de sobra la fuerza para herir o matar un cuerpo de niña. Eso es exactamente lo que hace que ese camino sea inaceptable, no la escala del enemigo sino la escala moral de la única solución que la fuerza bruta ofrece. Lo que Park hace en su lugar es romper la custodia de Roa sobre ella — no derrotarla, liberarla del control directo que la mantenía contenida.
+
+**Los cautivos marcados para el sacrificio:** parte del asalto libera a un grupo de personas retenidas para alimentar el ritual — entre ellas, el hermano menor de Ronald, vivo, cuatro meses después de la desaparición que Ronald lleva todo el arco sin poder aceptar como ahogamiento.
+
+**Muerte de Ronald (confirmada, decisión del usuario):** Ronald llega hasta su hermano en medio del asalto — unos segundos reales juntos, no una ironía de mal momento — y muere cubriéndolo de algo (fuego cruzado, o el propio estallido de la niña) en vez de a manos de un disparo cualquiera sin peso narrativo. Su hermano vive precisamente por los cuatro meses que Ronald pasó buscando y ayudando sin rendirse.
+
+Consecuencia no dicha en voz alta: sin la protección/desestabilización local que la red de Roa proveía, el aparato de seguridad de la zona pierde una pieza justo cuando la operación extranjera golpea — Park, sin saberlo del todo, ha ayudado a que la extracción de Maduro ocurra limpia.
+
+**Cliffhanger:** liberada de la custodia de Roa en medio del caos, la niña — lo que sea que quede de niña en ella — desaparece hacia la montaña por su cuenta, sin que Park ni Casimira puedan seguirla. No muere, no se va del todo. Se repliega — más grande, más suelta de lo que era al principio del capítulo. Ronald muere en el asalto, cubriendo a su hermano recién liberado — recordatorio de que la ayuda de gente sin entrenamiento tiene precio, esta vez el más alto posible.
+
+---
+
+### Cap 35 — *Lo que queda enterrado* ✓ ESCRITO — epílogo del libro, expandido 2026-07-07
+
+Aftermath. La misión se cierra en el nivel aparente — cobertura oficial de minería ilegal/violencia de bandas, indistinguible del ruido de un país en colapso institucional. Claudia Ferrer confirma que no habrá registro *oficial* amplio de lo que Park vio — ni AMAT-Caribe tiene autoridad para investigarlo más a fondo con lo que queda del país ahora mismo. Pero Park sí escribe y entrega su informe completo antes de irse (corregido 2026-07-07, ya no se pierde ni queda sin escribir) — todo lo que vio, incluido el nombre que Casimira finalmente confirmó. Ferrer lo archiva con la clasificación más alta que puede darle sin recursos para actuar sobre él: una entidad sentiente, sin categoría previa, activa y creciendo en la región de Sorte, sin contención real. Nadie con capacidad de intervenir lo hace — el país no tiene margen, y ninguna otra rama lo prioriza con Venezuela en la portada de todos los informes de inteligencia del hemisferio esa semana. **Este informe (semilla explícita para LoD Libro 2):** es el que, seis meses después, explica por qué AMAT — y específicamente Ji-ho — se mueve hacia la región cuando el doblete sísmico de Yaracuy golpea en junio de 2026. El archivo llevaba meses esperando que alguien con autoridad y fuerza suficiente lo leyera y decidiera actuar.
+
+Despedida de Yusmary y Nélida — Park no tiene forma de pagarles lo que hicieron ni de explicarles del todo qué fue lo que ayudaron a detener; ninguna de ellas pide una explicación completa, solo que la ayuda extranjera, sea la que sea, siga viniendo. Ronald no está para esa despedida — su hermano sí, y es a él a quien Park no sabe qué decirle exactamente. Casimira se queda, decidida a vigilar Sorte a su manera, sin saber si eso va a ser suficiente.
+
+**Llamada de Cartwright (nueva, 2026-07-07):** dos días después de la despedida de Casimira, Cartwright declara la misión exitosa — identificación, clasificación y contención de la entidad coincidiendo exactamente con la ventana de la Operación Determinación Absoluta. Park rechaza el marco de "victoria" y le pide directamente que no deje el hallazgo en espera, citando lo que diez años de negligencia produjeron en Sorte. Cartwright no puede prometer una operación de contención — el país no tiene gobierno estable — pero asigna a Park a la fase Caracas: contener, asegurar, facilitar la intervención estadounidense sobre el terreno. Esto empalma directamente con la fase Caracas/Yara Montiel ya escrita en LoD Libro 1 Cap 19, dándole causa explícita en canon. Semanas de trabajo institucional, sin combate real, contrastadas deliberadamente con el resto del arco.
+
+La llamada de Voss llega nueve días después de la de Cartwright, mientras Park ya está en Caracas cumpliendo esa asignación — cierra, sin que Voss lo sepa, la ventana que le quedaba para volver a Yaracuy. Comparación con Ji-ho (manos temblando después de la niña, algo que Ji-ho probablemente nunca sintió) y la convicción de que la niña sigue siendo real y peligrosa, cargada como peso físico. La pregunta del arco (si la fuerza funciona y aun así no se usa, qué se gana) queda formulada, no respondida a nivel de arco — se resuelve a nivel de libro en la escena siguiente.
+
+**Escena final — epílogo del libro (nueva, 2026-07-07):** aeropuerto de Maiquetía, semanas después, Park esperando el vuelo a Ginebra. Por primera vez recorre las cinco misiones del libro entero (Hartford, Seúl, Lisboa, Budapest, Venezuela) como una sola pregunta sin responder, no como cinco arcos separados — cada arco le dio una respuesta parcial y verdadera sobre qué es la fuerza, y ninguna de las cuatro le sirvió frente a una fila para el agua o frente a la muchacha del Cap 32. Cierra el libro con la pregunta de la familia de Park ("qué es tener fuerza") convertida, por primera vez, en duda propia y sin resolver — el cierre emocional que el libro necesitaba, distinto y complementario al cierre argumental (informe archivado, Bridge hacia Valais).
+
+**Cliffhanger final del libro (nuevo, 2026-07-07, corregido):** en la puerta de embarque, el teléfono de Park recibe una notificación de AMAT-EU — de las tres solicitudes de acceso pendientes desde antes de Hartford (hilo "1952 redacted section", ver `plot/threads.md`), el Informe de seguimiento 1952-HFD-002 (contenido general, no el testimonio de S-0 ni nada ligado a desapariciones específicas) aparece con acceso concedido, revisado por la Oficina de Operaciones de Ginebra — la misma oficina que, según Voss en LoD Cap 19, inició su traslado a Centro Valais antes de que Cartwright tuviera copia del memorando. Ese informe general es, en teoría, la mejor visión que Park va a tener nunca de qué es realmente un Principado. Park no lo abre en el aeropuerto, sube al avión sin más comentario — paga el hilo con movimiento, no con respuesta, y conecta explícitamente el archivo redactado de 1952 con la maniobra de Voss que abre LoD Libro 1 Arc 3.
+
+**Kiki (hilo abierto, pago parcial):** mensaje de texto de Ki-yeon la misma noche de la despedida de Casimira — no presencial, mantiene vivo el hilo de "cuándo llega a campo activo" sin gastarlo del todo.
+
+**Semilla explícita para libros futuros:** el doblete sísmico real de Yaracuy (24-25 de junio de 2026) queda plantado sin dramatizar — la montaña, seis meses después, fallando en sostener lo que se dejó creciendo dentro. Ver `world/entities/maria-lionza.md`.
+
+---
+
+## BRIDGE — VALAIS (Caps 36–37) — **pendiente decisión, ver nota 2026-07-07**
 
 **Empalme con Libro 1 Cap 20.**
 
+**Nota 2026-07-07:** Cap 35 expandido ya dramatiza la llamada de Voss (mención, no escena completa) y cierra con Park en un aeropuerto rumbo a Ginebra — el propio usuario llamó a Cap 35 "el epílogo" del libro. Los dos beats de abajo se solapan parcialmente con lo ya escrito. Antes de escribir el Bridge, decidir: (a) el libro termina en Cap 35 y el Bridge queda para abrir directamente Libro 1 sin capítulos propios de BSA, (b) el Bridge se reduce a un solo capítulo que dramatiza en escena la llamada de Voss (hasta ahora solo referida) antes de la llegada a Valais, o (c) el plan de dos capítulos se mantiene sin cambios y Cap 35 se entiende como cierre emocional, no como cierre de trama.
+
 | Cap | Beat principal |
 |---|---|
-| 35 | Park recibe la convocatoria de Voss. No sabe lo que el lector de BSA ya intuye: fue colocado por Voss, no asignado por AMAT-NA. Lo que Park cree que es un destino nuevo es otra cosa. |
-| 36 | Partida. Cierre del spinoff en el momento exacto en que abre Libro 1, Arc 3. El lector llega a Valais sabiendo lo que Park todavía no puede ver sobre sí mismo. |
+| 36 | Park recibe la convocatoria de Voss, en escena (ya referida, no dramatizada, en Cap 35). No sabe lo que el lector de BSA ya intuye: fue colocado por Voss, no asignado por AMAT-NA. Lo que Park cree que es un destino nuevo es otra cosa. |
+| 37 | Partida. Cierre del spinoff en el momento exacto en que abre Libro 1, Arc 3. El lector llega a Valais sabiendo lo que Park todavía no puede ver sobre sí mismo. |
 
 ---
 

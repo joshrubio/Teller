@@ -68,6 +68,8 @@ Advierte a Park directamente: "en esta ciudad la fuerza no sirve de mucho." Prim
 
 **Función temática:** Park como catalizador involuntario — cada arco que "resuelve" deja algo peor detrás, pero esa consecuencia no siempre llega dentro del mismo arco. Lo que Park ve de Mariana en Budapest es alguien todavía del lado correcto de esa línea, aunque más cerca de cruzarla que en Lisboa.
 
+**Cierre de Arc 4 — BSA Cap 28 (escrito, corregido 2026-07-07):** el cuerpo de Zoltán va con Katalin, no con ella — es sangre de los Báthory, le corresponde a la familia, no a una ex pareja de otro país. Mariana se queda atrás cuando se llevan el cuerpo: "ya tuve mi despedida, ahí, en el suelo, con él todavía mirándome. No necesito otra en un cementerio de gente que ni siquiera sabe mi nombre." Despedida deliberadamente ambigua sobre su propio futuro: no sabe si vuelve a Mouraria, ni qué parte de ella quedó en Budapest. Última línea a Park, eco directo del tema del arco: "ninguno de nosotros sabe todavía cómo se hace esto bien — guardar algo peligroso sin volverse tú mismo peligroso guardándolo. Zoltán falló esa prueba. Yo todavía no sé si voy a pasarla." El "hereda su lugar como amenaza" sigue sin dramatizarse — sembrado, no resuelto.
+
 ## Notes
 
 <!-- canonical -->

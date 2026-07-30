@@ -3,7 +3,7 @@ id: kaspar-note
 type: plot-document
 project: ledger-of-domains
 module: plot
-tags: [kaspar, oliver, elise, libro-2-hook, physical-object]
+tags: [kaspar, oliver, anke, libro-2-hook, physical-object]
 load-with: [characters/kaspar, characters/oliver]
 updated: 2026-06-17
 ---
@@ -14,7 +14,7 @@ Found on Oliver's desk the night of the irruption. Written in English — neithe
 
 ---
 
-> *There was one before you. Her name was Elise. She made the same choice you made tonight, for reasons that were also good. I watched what happened to her over eleven years.*
+> *There was one before you. Her name was Anke. She made the same choice you made tonight, for reasons that were also good. I watched what happened to her over eleven years.*
 >
 > *When you need to know what comes next, you know how to find me.*
 >
@@ -33,9 +33,9 @@ Found on Oliver's desk the night of the irruption. Written in English — neithe
 
 ## What Oliver tells Voss (Cap 37)
 
-Oliver tells Voss the *content*: Elise, eleven years. He does not tell Voss the *when* — 9 days before the irruption (the plaza meeting as "Martin"). Voss does not know about the 9 days.
+Oliver tells Voss the *content*: Anke, eleven years. He does not tell Voss the *when* — 9 days before the irruption (the plaza meeting as "Martin"). Voss does not know about the 9 days.
 
-Voss already knows the outcome of Elise's eleven years. Oliver does not know that Voss knows.
+Voss already knows the outcome of Anke's eleven years. Oliver does not know that Voss knows.
 
 ## Libro 2 weight
 

@@ -4,7 +4,7 @@ type: plot-threads
 project: by-strength-alone
 module: plot
 tags: [open-threads, mysteries, bsa]
-updated: 2026-07-08
+updated: 2026-07-07
 ---
 
 # BSA — Open Threads
@@ -101,7 +101,7 @@ Si Báthory también muere eventualmente (en Arc 3 tarde, o en Arc 4), la muerte
 - ¿Esto resuelve o complica la pregunta de Arc 1 (¿es fuerza saber cuándo el protocolo está equivocado y actuar de todas formas?) — actuar contra protocolo tuvo consecuencia real, no solo institucional.
 - ¿Cuándo y cómo empieza a notarse, aunque sea de lejos, que Mariana se está acercando a convertirse en la amenaza que el linaje predice? ¿Se insinúa en Arc 4 sin dramatizarse, o queda completamente fuera de BSA?
 
-**Status:** disparador cumplido en prosa (Cap 20). Báthory sobrevive el arco, huye a Budapest en clara desventaja — ver plan completo de Arc 4 en `plot/chapter-plan.md` (replanteado 2026-07-08: Báthory es el antagonista real, no Mariana; Mariana aparece solo cerca del cierre, como aliada).
+**Status:** disparador cumplido en prosa (Cap 20). Báthory muere en Cap 27 (Budapest), no un golpe de Park — el propio Grillete del Vado lo mata. Mariana aparece cerca del cierre como aliada, se lleva su cuerpo a Lisboa, futuro deliberadamente ambiguo (Cap 28). La pregunta abierta sobre si Park llega a saber que Mouraria contribuyó a poner a Rafa en la mira **sigue sin resolver a propósito** — Cartwright, confrontado directamente en Cap 28, da una respuesta incómoda pero no concluyente ("si alguna vez sé que sí lo sabía, se lo voy a decir a la cara"). Mantener abierto para libros futuros.
 
 ---
 
@@ -113,7 +113,7 @@ Si Báthory también muere eventualmente (en Arc 3 tarde, o en Arc 4), la muerte
 
 **Función:** abre la puerta a futuras historias donde AMAT no sea el centro — el mundo del Odem excede la institución.
 
-**Status:** sembrar en Arc 3, pagar en Arc 4. No confirmar en prosa hasta escribir.
+**Status:** pagado en prosa, Cap 28 — Ilona lo articula casi textualmente ("llevamos setenta años intentando pescar en un mar que resultó tener más peces de los que jamás pudimos contar... nadie controla el mar entero"). La crisis regional de Budapest no se resuelve, solo se contiene. Hilo permanece abierto para futuras historias fuera del radar de AMAT.
 
 ---
 
@@ -127,4 +127,24 @@ Hartford file pages 74+: 43 pages classified under EU-Ginebra. Park has 3 pendin
 
 Note: Holt has clearance for this section but filed a review request 12 years ago — never processed.
 
-**Status:** requests pending. Unresolved through BSA Cap 1.
+**Status:** requests pending through most of the book. Callback in Cap 28 (Arc 4 close, Budapest): Park checks his phone during the aftermath — all three requests still sitting exactly where he left them before Hartford. **First movement, Cap 35 (2026-07-07, book's closing cliffhanger):** at the Maiquetía boarding gate, request #1 (Informe de seguimiento 1952-HFD-002 — general follow-up report on 1952, not a specific testimony) shows access granted, reviewed by the Geneva Operations Office — the same office that, per Voss in LoD Cap 19, initiated Park's cross-branch transfer to Centro Valais before Cartwright had a copy of the memo. Chosen deliberately over request #2 (S-0's testimony) because it gives Park general insight into what a Principado actually is, not disappearance-specific detail. Park doesn't open it at the gate, boards the plane. Requests #2 and #3 remain untouched. Deliberately still not resolved — the movement is the hook, not an answer.
+
+---
+
+## Thread: María Lionza — Sorte, replegada no derrotada (planificado 2026-07-07)
+
+**Premise:** BSA Arc 5 (Caps 29-35) introduce a María Lionza — primera entidad sentiente de la serie, encarnada literalmente en el cuerpo de una niña de unos nueve o diez años criada desde bebé para esto (Cártel de los Soles, ver `world/entities/maria-lionza.md`). Park interrumpe la custodia de Roa sobre ella (coincidiendo con la extracción real de Maduro el 3 de enero de 2026) pero no la "derrota" — podría hacerlo con fuerza bruta (tiene de sobra para herir o matar un cuerpo de niña), y es exactamente esa posibilidad la que hace que ese camino sea inaceptable, no una cuestión de escala física. Desaparece hacia la montaña, más suelta que al principio del arco, sin resolución limpia.
+
+**Confirmado explícitamente:** NO es el mismo Principado de Hartford (1952) — entidad completamente distinta. El destino del Principado de Hartford sigue abierto, sin relación con Venezuela.
+
+**Confirmado 2026-07-07 — LoD Libro 2 abre con el pago:** el doblete sísmico real de Yaracuy (24-25 junio 2026, M7.2/M7.5, epicentro en la región de Sorte) es consecuencia directa del enfrentamiento entre María Lionza (crecida) y Ji-ho, movilizado por el informe archivado de Park. Queda plantado sin dramatizar dentro de BSA (la ventana temporal de la serie termina antes de esa fecha), pero foreshadowed explícitamente en LoD Cap 28 ("Suelo") — llamada Cartwright-Park confirmando que "algo se mueve en Sorte" tras leerse el informe.
+
+**Confirmado 2026-07-07 — el informe de Park no se pierde:** Park entrega un informe completo a Ferrer antes de salir de Venezuela (Cap 35). Se archiva con la clasificación más alta posible sin recursos reales para actuar sobre él — nadie prioriza Venezuela esa semana con el país entero en la portada de la inteligencia del hemisferio. Ese archivo es, en LoD Libro 2, la justificación en canon de por qué AMAT — específicamente Ji-ho — se moviliza hacia la región cuando ocurre el doblete sísmico. No es que nadie supiera. Es que nadie actuó a tiempo.
+
+**Open questions:**
+- ¿Quién, si alguien, sigue buscando o vigilando a la niña tras el colapso del régimen y la operación de Roa?
+- ¿Casimira Blanco sobrevive para seguir vigilando, y con qué autoridad si AMAT-Caribe no puede/quiere involucrarse más?
+- ¿Tenía nombre antes de esto? ¿Llega Park a saberlo?
+- ¿Llega Park a enterarse, en algún libro futuro, de que lo de Yaracuy en junio de 2026 es consecuencia directa del informe que él mismo escribió y que nadie leyó a tiempo?
+
+**Status:** escrito (Caps 29-35, Arc 5 completo 2026-07-07).

@@ -39,6 +39,15 @@ Extrae calor de todo en radio → concentra o dispersa. Parece generar frío/cal
 
 **Advanced use (NOT documented by AMAT):** puede extraer del Odem de un objeto, consumiendo la sustancia que lo mantiene existiendo — produce calor real desde la nada; el objeto pierde Odem y se desancla. Efectos similares al Borrado de la Potestad de Grayhaven. Irreversible. **AMAT no sabe esto.** Esta es la razón por la que no cede visibilidad.
 
+## Libro 2 — contra-rastreo (Cap 41+)
+
+<!-- canonical -->
+En fuga, Lev usa su extracción avanzada de Odem (ya establecida — "extrae del Odem de un objeto... el objeto pierde Odem y se desancla") para alisar deliberadamente la perturbación de densidad ambiental que él y Sabine dejarían al pasar — contra directo del Domain Rastro de Elena Krauss (equipo de Park). Domain distinto al de Elena (extracción de Odem, no lectura de densidad residual) — coinciden en el mismo terreno sin ser la misma habilidad. El equipo lo nota en Cap 41 (rastro "más débil de lo que debería, como alisado a propósito") sin saber todavía la causa exacta.
+
+**Cap 54 (POV Lev/Sabine, excepción):** mecánica aclarada en texto — sigue siendo su eje de Calor, no un poder de "extracción de Odem" genérico y desconectado. Concentra la extracción de calor de un objeto/espacio hasta un punto que va más allá de la temperatura, hasta la propia sustancia que lo sostiene — el objeto queda cubierto de una escarcha mate anómala, vaciado para siempre, ya no vuelve a acumular Odem. Coste real y visible: dolor sordo detrás de las cuencas, semanas sin bajar del todo. Practica primero en objetos pequeños (una taza) antes de aplicarlo a un piso entero. ~15-19 días en fuga desde la Irrupción a esta altura del libro (8 días en el piso actual, el más largo hasta ahora — dos anteriores no llegaron a la semana). Casi lo detecta el equipo de Park tras un encuentro con su contacto Aurelio — huyen en tren. **Importante:** Lev y Sabine NO conocen a Elena Krauss ni a nadie del equipo de Park por nombre — solo temen, en genérico, que AMAT tenga a alguien capaz de leer densidad residual de Odem. No nombrar agentes de AMAT en su POV salvo que los hayan visto o identificado en escena.
+
+**Cap 59 (POV Park) — arma de combate real, primera vez:** acorralado, extrae calor/densidad de un contenedor metálico hasta un extremo visible (escarcha avanzando en tiempo real, la estructura debilitándose) y libera todo lo extraído de golpe, invertido, como una ráfaga de calor violenta — el contenedor se abre por la costura, el aire se distorsiona por la temperatura. No premeditado: reacción defensiva de pánico, no arma preparada — Park lo deduce después por lo que Lev hace inmediatamente tras usarlo (corre hacia Sabine, no remata a nadie). Un fragmento del contenedor, no el ataque directo, hiere a Sofia. Primera vez que el equipo de Park ve el verdadero techo destructivo de su Domain, muy por encima de lo que el expediente documentaba.
+
 ## Departure (Cap 36)
 
 Oliver pasa delante de la habitación de Lev durante la irrupción. La puerta está entreabierta. La habitación, vacía. Se detiene dos pasos. Luego sigue.

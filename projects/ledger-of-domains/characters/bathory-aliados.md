@@ -6,7 +6,7 @@ module: characters
 tags: [bsa-arc3, bsa-arc4, budapest, bathory]
 relations: [characters/bathory]
 load-with: [characters/bathory]
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 
 # Aliados/instrumentos de Báthory
@@ -29,11 +29,15 @@ Uno de los cinco presentes en el mirador de Santa Catarina antes del incidente d
 
 ## Teniente húngaro — lugarteniente leal — nombre **Tamás** (asignado 2026-07-08)
 
-Vino con Báthory desde Budapest. Cree en la ideología de industrializar el despertar — no un instrumento forzado, un converso genuino. Peleó contra Ferreira en el Largo do Carmo (BSA Cap 19) — perdió fuerza en el brazo derecho tras el corte de Fio en el tendón, pero sobrevivió y volvió con Báthory a Budapest en el mismo vuelo. **Rol confirmado Arc 4:** presente junto a Báthory durante todo el arco — Báthory llega a Budapest en clara desventaja numérica (herido, sin el grupo que tenía en Lisboa), y Tamás es la única presencia constante que le queda, calculador y leal hasta el final. Candidato fuerte para ser quien muera en el clímax de Arc 4, o quien sobreviva como hilo de continuidad hacia libros futuros — sin decidir todavía.
+Vino con Báthory desde Budapest. Cree en la ideología de industrializar el despertar — no un instrumento forzado, un converso genuino. Peleó contra Ferreira en el Largo do Carmo (BSA Cap 19) — perdió fuerza en el brazo derecho tras el corte de Fio en el tendón, pero sobrevivió y volvió con Báthory a Budapest en el mismo vuelo.
+
+**BSA Cap 24 — capturado, no muerto:** peleó contra Park en la estación de bombeo de Pest usando principalmente el brazo izquierdo (compensando el derecho, ya dañado desde Lisboa), reforzando cada golpe con Presión cruda (mismo recurso visto contra Ferreira en Cap 19) y un manto delgado de Odem endureciendo la caja de herramientas que usó como escudo de aproximación — su único movimiento propio no reactivo. Se rinde en cuanto Katalin cierra la válvula que estaban manipulando — su objetivo real era solo ganar tiempo, no vencer. Revela que Báthory ya se había ido antes del enfrentamiento, hacia las ruinas de la casa original de la familia (anterior a 1838). Queda atado y entregado a la policía local — su destino final (sigue detenido, escapa, o reaparece en libros futuros) sin decidir todavía.
 
 ## Recluta de Lisboa superviviente (sin nombre todavía)
 
-De los dos "reclutados de Lisboa" vistos en el mirador de Santa Catarina (BSA Cap 18), uno cayó ante Costa y Rui en Rua Garrett (Cap 19, "no volvió a levantarse" — capturado o incapacitado, no confirmado muerto). El otro no aparece de nuevo en Lisboa — sigue con Báthory hacia Budapest. En Arc 4 es el tercer cuerpo del grupo de Báthory junto a Tamás: menos experimentado que él, más desesperado, la clase de converso que todavía no sabe del todo en qué se ha metido. Nombre y detalles pendientes de escribir.
+De los dos "reclutados de Lisboa" vistos en el mirador de Santa Catarina (BSA Cap 18), uno cayó ante Costa y Rui en Rua Garrett (Cap 19, "no volvió a levantarse" — capturado o incapacitado, no confirmado muerto). El otro no aparece de nuevo en Lisboa — sigue con Báthory hacia Budapest. En Arc 4 es el tercer cuerpo del grupo de Báthory junto a Tamás: menos experimentado que él, más desesperado, la clase de converso que todavía no sabe del todo en qué se ha metido.
+
+**BSA Cap 24:** intenta comprimir Odem ambiental en un punto contra Park en la estación de bombeo — un intento crudo e inestable, distinto del temblor de "el más joven" (Cap 18), para no confundirlo con esa identidad deliberadamente ambigua. Park lo lee como alguien "a quien le habían dicho que lo intentara", no un combatiente real. Neutralizado en el primer intercambio, sin heridas graves. Capturado junto a Tamás.
 
 ## Notas
 

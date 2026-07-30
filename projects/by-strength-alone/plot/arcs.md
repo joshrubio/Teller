@@ -5,7 +5,7 @@ project: by-strength-alone
 module: plot
 tags: [structure, arcs, beats, park]
 load-with: [shared-characters/park, shared-characters/ki-yeon, shared-characters/ji-ho]
-updated: 2026-06-20
+updated: 2026-07-07
 ---
 
 # Plot: Arcs — By Strength Alone
@@ -106,16 +106,22 @@ See `plot/chapter-plan.md` — cap a cap, beats, cliffhangers, crossover notes.
 
 ---
 
-## Arc 5 — Caracas / Venezuela
+## Arc 5 — Caracas / Venezuela — replanteado 2026-07-07, ver `plot/chapter-plan.md` para detalle cap a cap
 
-**Mission:** M8. Interior de Venezuela, semanas antes de Libro 1 Cap 19 (Yara Montiel). Lo que debería ser una Potestad estándar no lo es — las lecturas no encajan, el comportamiento no sigue ningún Nivel documentado.
+**Mission:** M8. Interior de Venezuela (región de Sorte, Yaracuy), ~23 dic 2025 – 5 ene 2026 — antes, durante y un par de días después de la captura real de Maduro (3 enero 2026). La fase Caracas/Yara Montiel (LoD Libro 1 Cap 19) queda fuera de este arco, sin cambios por ahora.
+
+**Elenco nuevo:** Claudia Ferrer (AMAT-Caribe), Agente Iván Salcedo (AMAT-Caribe, apoyo de campo — Park no se mueve solo por Venezuela, sería poco realista), Casimira Blanco (banco veterana, guía de Park), General Wilmer Roa (FANB, Cártel de los Soles, antagonista), aliados civiles de Yaracuy (Yusmary, Ronald, Nélida). Mundo: `world/amat-caribe.md`, `world/entities/maria-lionza.md`.
+
+**No es el Principado de Hartford.** Es distinto — María Lionza, primera entidad sentiente de la serie, encarnada literalmente en el cuerpo de una niña de unos nueve o diez años, criada desde bebé por la facción de Roa específicamente para esto. Nacida en menos de una década de sacrificio ritual (animal escalando a humano) forzado sobre el Odem devocional genuino acumulado en Sorte durante generaciones. No es buena y corrompida desde fuera — nace ya torcida por el método que la formó, y tampoco hay una niña intacta debajo esperando ser rescatada limpiamente. Las dos cosas son ciertas a la vez.
 
 **Key beats:**
-- Setup: misión clasificada como Nivel 3. Park llega con equipo mínimo.
-- Las anomalías no cuadran. Park empieza a leer el patrón real — esto no es una Potestad generada. Es algo que impregna.
-- Evidencia de Principado activo — posiblemente el mismo de Hartford. AMAT no lo confirma. Park no puede probarlo.
-- Cierre: misión resuelta en el nivel aparente. Lo que Park vio debajo: sin resolver. Teaser de la saga mayor.
-- La llamada a Valais llega antes de que pueda reportar lo que realmente encontró.
+- Setup: misión Nivel 3, prácticamente Park solo, país en colapso institucional visible. Aliados inesperados: gente común de Yaracuy que lo ayuda por su cuenta, viéndolo como parte de la intervención extranjera que llevan años esperando.
+- Casimira revela el patrón real: sacrificio dirigido, no folclore ni Potestad generada ordinaria.
+- Contacto armado con hombres de Roa — amenaza humana tan real como la sobrenatural.
+- Revelación central: María Lionza es una niña real, custodiada como arma en entrenamiento, no un espíritu sin cuerpo.
+- Clímax coincide exactamente con el 3 de enero: Park podría "vencerla" con fuerza bruta — tiene de sobra para herir o matar un cuerpo de niña — y esa posibilidad es exactamente lo inaceptable. Rompe la custodia de Roa sobre ella en vez de enfrentarla directamente. Sin saberlo del todo, ayuda a que la extracción de Maduro ocurra limpia.
+- Cierre: teatro "limpio" oficialmente, indistinguible del ruido de un país colapsando. La niña desaparece hacia la montaña, más suelta que antes, sin resolución limpia. Semilla explícita: el doblete sísmico real de Yaracuy, junio 2026, sin dramatizar.
+- La llamada a Valais llega antes de que Park pueda reportar lo que realmente encontró.
 
 **Dramatic arc question:** ¿Es fuerza la que funciona frente a algo que está fuera de escala?
 
@@ -131,7 +137,8 @@ Cierre del spinoff en el momento en que abre Libro 1, Arc 3.
 
 ## Open threads (seeded in BSA, unpaid)
 
-- El Principado de Hartford — destino desconocido desde 1952. ¿Qué hacía en Venezuela?
-- Ki-yeon: ¿cuándo llega a campo activo? ¿Qué pasa cuando Park y Kiki operan en el mismo teatro?
+- El Principado de Hartford — destino desconocido desde 1952. Confirmado 2026-07-07: NO es María Lionza ni tiene relación con Venezuela — su destino sigue completamente abierto para libros futuros.
+- Ki-yeon: ¿cuándo llega a campo activo? Pago parcial en Arc 5 (llamada/mensaje, sin presencia física) — la pregunta completa sigue abierta.
 - Cartwright: su agenda en Lisboa y Budapest. ¿Por qué sigue a Park?
-- Lo que Park vio en Caracas y no pudo reportar — abierto para Libro 2 / futura saga.
+- María Lionza en Sorte — replegada, no derrotada, sin registro oficial de AMAT. El doblete sísmico real de Yaracuy (junio 2026) queda plantado sin dramatizar como consecuencia futura. Ver `world/entities/maria-lionza.md`.
+- Lo que Park vio en Venezuela y no pudo reportar — abierto para Libro 2 / futura saga.

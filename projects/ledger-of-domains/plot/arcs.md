@@ -102,7 +102,7 @@ updated: 2026-06-17
 | 34 | Vecindad | Oliver/Sisi | Sisi confronta su régimen diferente. Oliver promete averiguar — retiene info de la plaza y no llama a Park. Ambas omisiones reconocidas como autojustificación |
 | 35 | Irrupción | Oliver/Tomás | Tomás penetra el muro norte. 5 frentes simultáneos. Kaspar a Oliver: oferta renovada. Oliver rechaza. Corre al ala residencial |
 | 36 | Decisión | Oliver/Sisi/Voss | Oliver entrega respuesta de Voss. Sisi ya sabe — usó el Domain. "Me quedo" → Sisi sale. Sisi/Kaspar: "¿Qué me pasa a mí?" / "No lo sé." Lucha colonia. "Todavía a tiempo." Oliver: "Vuelve." Sin respuesta. Sisi cruza |
-| 37 | Epílogo | Oliver | 47 minutos. 3 ausencias: Sisi (cruzó con Kaspar/Tomás), Lev y Sabine (partida planificada). Kaspar dejó nota en habitación de Oliver (Elise, 11 años). Voss: "falla de velocidad, no de seguridad." Oliver divulga qué pero omite cuándo. Centro sellado. Destino `[DESTINO]` — open. |
+| 37 | Epílogo | Oliver | 47 minutos. 3 ausencias: Sisi (cruzó con Kaspar/Tomás), Lev y Sabine (partida planificada). Kaspar dejó nota en habitación de Oliver (Anke, 11 años). Voss: "falla de velocidad, no de seguridad." Oliver divulga qué pero omite cuándo. Centro sellado. Destino `[DESTINO]` — open. |
 
 ---
 
@@ -114,7 +114,7 @@ updated: 2026-06-17
 - Transeúnte testigo del borrado parcial en Grayhaven — reaparece con lag (aliada potencial).
 - Consecuencias del apagón masivo de Grayhaven.
 - Los 5 Principados no documentados (Eventos 2–6).
-- Elise — qué le pasó en esos 11 años (Voss lo sabe; Oliver no).
+- Anke — qué le pasó en esos 11 años (Voss lo sabe; Oliver no).
 - Oliver omitió el cuándo de Kaspar a Voss — espacio entre verdad parcial y mentira.
 - "Vuelve" sin respuesta de Sisi — gancho Libro 2.
 - Park-Hartford spinoff (post Libro 1).
@@ -125,5 +125,5 @@ updated: 2026-06-17
 
 <!-- canonical -->
 - Voss a Park (Cap 12): "Los otros casos copiaron la amenaza. Oliver copió la curiosidad."
-- Elise = Caso 3. Voss la conoció. Kaspar la observó 11 años. Los números son los mismos. Oliver no sabe que Voss sabe el desenlace.
-- Oliver sostuvo verdad parcial con Voss en Cap 37: divulgó el contenido (Elise, 11 años) pero ocultó el cuándo (plaza, 9 días antes de la irrupción).
+- Anke = Caso 3. Voss la conoció. Kaspar la observó 11 años. Los números son los mismos. Oliver no sabe que Voss sabe el desenlace.
+- Oliver sostuvo verdad parcial con Voss en Cap 37: divulgó el contenido (Anke, 11 años) pero ocultó el cuándo (plaza, 9 días antes de la irrupción).

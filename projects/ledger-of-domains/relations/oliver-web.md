@@ -37,7 +37,7 @@ updated: 2026-06-17
 - Cap 12: "Los otros casos copiaron la amenaza. Oliver copió la curiosidad — copiará todo lo que encuentre interesante."
 - Cap 24: Voss's birthday. Oliver discovers the group has celebrated it since the first year (Pier's tradition). Voss arrives for twenty minutes, chooses Yusuf before the group — they laugh together, first time anyone sees either of them do it.
 - Cap 35: Oliver finds him in the administrative corridor. Voss gives the honest answer about Sisi's protocol — "Ahora mismo, no va a cambiar" — and adds without being asked: he's been pushing the Geneva group for nine months. Not a promise; a complete diagnosis.
-- Cap 37: Voss seals the Centro. Looks at Oliver like someone who just watched the system he designed fail. Asks "¿Qué te dijo esta noche?" Oliver shares the what (Elise, 11 years, same decision) but lets Voss assume contact was during the breach. Does not say when — does not say the plaza. Voss: "Eso es una clase de argumento." Requests "everything" for when they reach Sion, with Maren present.
+- Cap 37: Voss seals the Centro. Looks at Oliver like someone who just watched the system he designed fail. Asks "¿Qué te dijo esta noche?" Oliver shares the what (Anke, 11 years, same decision) but lets Voss assume contact was during the breach. Does not say when — does not say the plaza. Voss: "Eso es una clase de argumento." Requests "everything" for when they reach Sion, with Maren present.
 
 **Pending tension:** Oliver promised "everything" in Sion — but the plaza (9 days) is not in that everything. When Voss finds out, it changes what he thinks of Oliver's margin of error.
 
@@ -86,9 +86,9 @@ updated: 2026-06-17
 - Cap 33: meeting in the village plaza, post-mission. Kaspar presents as "Martin" (Appearance Domain: brown hair, ~35 years). Knows things he should not know about the cost of the Registro. Oliver does not report to Park. Nine days of secrecy.
 - Cap 35: Oliver recognizes Kaspar's signature in the north corridor — same as the plaza, the one he's carried nine days without depositing. Kaspar offers to leave with him. Oliver does not respond. Kaspar passes and continues toward the residential wing.
 - Cap 36: Kaspar already has Sisi ready to cross. Oliver arrives. "Todavía a tiempo." Oliver says "Vuelve" to Sisi. Kaspar does not interfere.
-- Cap 37: Kaspar left a note for Oliver on his desk. In English — deliberate distance. Elise: previous Registro carrier. Same decision as Oliver. Kaspar observed her eleven years. "Cuando necesites saber lo que viene, ya sabes cómo encontrarme." Oliver does not share it with AMAT. Keeps it in his jacket's outer pocket.
+- Cap 37: Kaspar left a note for Oliver on his desk. In English — deliberate distance. Anke: previous Registro carrier. Same decision as Oliver. Kaspar observed her eleven years. "Cuando necesites saber lo que viene, ya sabes cómo encontrarme." Oliver does not share it with AMAT. Keeps it in his jacket's outer pocket.
 
-**Elise (Book 2 hook):** first Registro carrier documented by Kaspar. Made the same decision as Oliver. Kaspar does not tell Oliver what happened to her — only that he observed her eleven years. Oliver shares the what with Voss (Voss: "Eso es una clase de argumento"). Omits the when.
+**Anke (Book 2 hook):** first Registro carrier documented by Kaspar. Made the same decision as Oliver. Kaspar does not tell Oliver what happened to her — only that he observed her eleven years. Oliver shares the what with Voss (Voss: "Eso es una clase de argumento"). Omits the when.
 
 ---
 
