@@ -47,6 +47,16 @@ No manifiesta Domain, pero su reserva de Odem es anormalmente alta — patrón d
 
 **Cap 56:** da a Asha, sin que se lo pida dos veces, el trasfondo real del club de pelea — lo llama sin rodeos "un puñado de matones que encontraron un sitio sin cámaras." Confirma que Yegor fue #1 del tablero hasta que ella y Dax llegaron, y que Milan fue top diez alguna vez. Nota aparte sobre Iker: le importa más Dax que el grupo de Yegor — "no está ahí por lo mismo que están los otros."
 
+## Libro 2, Arc 2 — Milán, Cap77 (Ronda Final, Parte 1, sincronizado 2026-08-01)
+
+<!-- canonical -->
+Último día del examen — pasa la tarde cazando con su grupo (31 placas entre los cinco, dos todavía fuera del top25) mientras nota un patrón deliberado detrás de la caída del tablero: alguien los está cazando en concreto. Decide zanjarlo ella misma, eligiendo un estadio cerrado como terreno propio y encendiendo las luces de golpe como baliza deliberada, visible desde toda la ciudad — atrae sin querer a los otros tres grupos finales (Valais, Lukas Feldmann/club de pelea, Yegor). #3 del tablero al llegar. El plan se rompe en cuanto Yegor provoca a Dax y estalla el enfrentamiento — pierde el control parcial de su propio grupo cuando varios rompen formación por su cuenta, atraídos hacia el centro.
+
+## Libro 2, Arc 2 — Milán, Cap79 (Ronda Final, Parte 3, sincronizado 2026-08-04)
+
+<!-- canonical -->
+Busca a Dax en cuanto el resto de grupos queda ocupado entre sí — duelo pendiente desde su empate en el foso. Pelea a la par con él varios intercambios, sin Domain, solo su reserva basal elevada. Pierde cuando Dax entra en Caza y, por primera vez, no lo corta a la mitad: la encierra en un agarre y muerde, drenando Odem y sangre real hasta dejarla inconsciente. Última aparición en pantalla del arco — cae con Dax todavía de pie, único ganador claro de su cruce.
+
 ## Spin-off hook
 
 El "camino no tomado" de AMAT — qué pasó con la fe original si nunca se hubiera vuelto secular. Conecta directo con la cronología ya escrita (1727→1755→WWII) sin inventar nada nuevo, solo mostrando el lado que la historia oficial de AMAT no cuenta.

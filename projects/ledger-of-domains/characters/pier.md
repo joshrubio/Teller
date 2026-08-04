@@ -37,6 +37,19 @@ El más veterano del Centro entre los sujetos. Once años le dieron vocabulario 
 - Reconoció inmediatamente la firma del Domain de Voss sobre la arquitectura: "Voss — dijo. No como pregunta."
 - Recalibró al nuevo volumen cuando el edificio cambió: "El edificio va a seguir cambiando. Trabajamos con lo que hay."
 
+## Lastre — su estilo de combate (nombrado 2026-07-30, Libro 2 Cap76)
+
+<!-- canonical -->
+Estilo propio con Peso, nombrado por el lastre de pesca — la misma paciencia de sus manos aplicada a un cuerpo. No dispara el peso como un golpe: lo aplica localizado y sostenido, casi siempre invisible hasta el momento exacto en que importa.
+
+**Usos específicos:**
+1. **Zona lastrada** — aumenta el peso sobre un área del suelo, no sobre una persona directamente — ralentiza a quien la pise, cierra una ruta sin tocar a nadie.
+2. **Autolastre** — peso extra en su propio golpe en el instante del impacto (más masa efectiva, sin más velocidad), o lo contrario — se aliviana para un movimiento puntual rápido.
+3. **Desestabilización dirigida** — peso repentino sobre una extremidad concreta del rival — un pie que pesa el triple a mitad de zancada, un brazo que se hunde a mitad de golpe. Tumba por sorpresa física, no por fuerza bruta.
+4. **Trampa de cierre** — deja que el rival haga el trabajo (cavar, romper, concentrar algo en el suelo) y aumenta el peso justo cuando ese esfuerzo lo vuelve vulnerable, atrapándolo en su propia obra — ya visto en Cap57 (Dax) y Cap76 (aparcamiento de Sant'Ambrogio).
+
+**Filosofía:** la misma paciencia de pescador aplicada a un cuerpo — "las manos aprenden el mismo tipo de paciencia sea cual sea el objeto." No impone el peso de golpe. Espera el momento en que ya cuenta el doble.
+
 ## Cap 18 agreement
 
 Organizó la reunión secreta (Pier/Sabine/Petra/Asha/Oliver). Dio el framing: "no te pedimos que te pongas en contra del Centro. Te pedimos que, si puedes ver algo útil, nos lo digas a nosotros antes de que AMAT decida qué hacer con ello."

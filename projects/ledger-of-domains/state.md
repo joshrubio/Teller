@@ -2,7 +2,7 @@
 id: state
 type: project-state
 project: ledger-of-domains
-updated: 2026-07-24
+updated: 2026-08-04
 ---
 
 # Project State — Ledger of Domains
@@ -15,10 +15,10 @@ updated: 2026-07-24
 
 | | |
 |---|---|
-| **Status** | Libro 2, Arc 1, Fase B en curso |
-| **Last written** | Cap 67 — Peso muerto, otra vez (línea A, POV Riku) — cierre de Arc1 |
-| **Next** | Cap 68 — [título pendiente] (línea A) — abre Arc2, confrontación Anka |
-| **Active arc** | Libro 2, Arc 1 — San Gotardo (Cap 38-67) |
+| **Status** | Libro 2, Arc 2 (Milán) en curso — ronda final del examen a medias |
+| **Last written** | Cap 79 — Ronda Final, Parte 3 (línea A, POV Dax) |
+| **Next** | Cap 80 — cierre de la ronda final (línea A) — queda Oliver solo frente a Dax, "quedaban los dos" |
+| **Active arc** | Libro 2, Arc 2 — Milán (Cap 68-83+, numeración abierta hasta que la ronda final termine) |
 
 ---
 
@@ -51,6 +51,8 @@ Reloj absoluto del libro: ~24-25 abril 2026 (Irrupción) → ~24-25 junio 2026 (
 **Ajustado 2026-07-25 — timeline apretado a propósito para dar margen real a Arc2 (revisadas varias menciones vagas de "semanas" en Cap61/63/66 a cifras más ceñidas):** Cap67 (cierre de Arc1) ≈ día 30-35 post-Irrupción, ~24-29 mayo 2026. Deja ~26-32 días hasta la Convergencia (24-25 junio) para Arc2 completo. El terremoto de Filipinas (fecha fija, 8 de junio) cae ~10-15 días dentro de Arc2 — ni al principio ni pegado al cierre, hueco natural para usarlo como operación de campo real de la Clasificación (en vez de solo noticia de fondo en Cap83 como estaba planeado antes). Usar este reloj ajustado para chequear consistencia entre líneas a partir de Cap68.
 
 Regla activa: toda actualización de tablero general debe llevar cifras exactas (posición antes→después). Tracking completo en `characters/oliver.md`.
+
+**Arc 2 — Milán (Cap68-77, sincronizado 2026-08-01):** examen final de campo, siete días, 25 de ~213 pasan. Cap68 (Día libre) — Oliver enfrenta a Yegor, revela Arsenal; primer uso de Canje. Cap69 (Llegada/reglas) — Milán, dogtags=expediente, Padre Andrea Conti presentado. Cap70 (Cazador y Presa) — noche 1, Oliver+Riku roban 4 placas en el caos Dax/Iker/club de pelea; Iker eliminado. Cap71 (Localizados, línea D) — Park encuentra a Lev/Sabine, elige protocolo, escapan igual. Cap72 (El relámpago, línea B) — Yusuf se infiltra en la vereda de Kaspar, avisa a Sisi, manda aviso a AMAT — cliffhanger sin confirmar su destino. Cap73 (Tablero) — día 3, golpe de más de Oliver contra un débil, Conti pide encontrarlo él mismo. Cap74 (La cuenta imposible) — Oliver se va solo, roba 5 placas. Cap75 (Patrón revelado) — días 4-5 solo, +7 más, revela Milan/Hilo en Scalo Farini, 17 total. Cap76 (Caída libre) — día 6, Conti confronta a Oliver en caída libre y lo suelta, sobrevive con Inercia (eco Park); Dax rechaza revancha; total 21, puesto 4/71. Valais rompe su plan pasivo, ataca un grupo de 12 en un parking — debutan EM Boxing (Riku) y Lastre (Pier); cierran con 24. Cap77 (Ronda Final, Parte 1) — día 7, última noche, baliza en un estadio, convergen Johanna/Valais/Lukas Feldmann/Yegor; Yegor provoca a Dax, estalla el combate final, Dax usa Caza sin cortarla por primera vez, el puesto uno cambia de dueño en plena pelea. Cap78 (Ronda Final, Parte 2) — Yegor ataca el estadio entero con Arsenal (lluvia de escombros), Oliver salva a varios con Canje masivo ("no alcanzó para todos"); asalto conjunto de Valais contra Dax (primeras heridas visibles reales, Dax los derrota a todos salvo a Oliver); Yegor+Lukas hacen equipo contra los restos de Valais (Pier inmovilizado, Nadia pierde el último brazo); Oliver y Riku rematan a Lukas y Yegor con Canje persona-a-persona (autointercambios con golpe preparado). Quedan solo Oliver y Dax en pie. Cap79 (Ronda Final, Parte 3, POV Dax) — Dax, lanzado por el golpe de Oliver, ve el resto del campo a mitad de resolverse; Johanna lo busca para saldar el empate del foso. Duelo parejo pese a que ella no tiene Domain. Dax entra en Caza y no lo corta esta vez — la encierra en un agarre y muerde, drenando Odem y sangre real hasta dejarla inconsciente (primer mordisco real en pantalla, reformulado el concepto de Vampirismo — ver `bestiary/vampirismo.md` y `characters/dax-achterberg.md`, sincronizado 2026-08-04: ya no es Domain "Bestia" con modos exclusivos, es la condición Vampirismo con habilidades simultáneas + estado Caza como pico). Cierra con Dax roto emocionalmente por lo que acaba de hacer. **Pendiente:** escribir el cierre Oliver vs. Dax y resync de numeración total del libro una vez la ronda final termine (afecta cuántos capítulos quedan hasta Resultados/despedida/Anke, ver `plot/chapter-plan-libro2.md`).
 
 ---
 

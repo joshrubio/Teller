@@ -45,6 +45,24 @@ Preciso sin ser pedante — corrige terminología porque le importa la exactitud
 
 **Asimetría izquierda:** origen del Domain en mano/brazo izquierdo. Establecida Caps 14–15. Solo mencionarla cuando sea narrativamente relevante.
 
+## EM Boxing (nombrado 2026-07-30, Libro 2 Cap76)
+
+<!-- canonical -->
+Estilo de combate cuerpo a cuerpo con Estática, originado por Iker Zabala (autodidacta, ver `characters/iker-zabala.md`), heredado por Riku como pago final del arco de resentimiento sembrado en Cap48→53 — primer uso real en Cap76 (Milán, aparcamiento de Sant'Ambrogio), contra un rival con Domain de vibración/resonancia.
+
+**Principio central:** no proyectar el campo hacia afuera (el techo viejo de Riku — interferencia de radio amplio, "todo falla igual" dentro del área, sin modulación de señal). La carga se mete en el punto exacto de contacto físico — piel contra piel, pie contra suelo — en el instante mismo del impacto. Point-based, no radio-based: esquiva por completo la limitación de modulación que Riku todavía no domina en Etapa 2.
+
+**Usos específicos:**
+1. **Golpe cargado** — descarga liberada en el instante del contacto, puño o palma. Escala con la intención del golpe: hormigueo/entumecimiento localizado (contacto ligero) → espasmo que bloquea un miembro entero (golpe medio) → descarga completa que contrae todo el torso y tumba de un solo toque (golpe comprometido a fondo).
+2. **Impulso de apoyo** — pulso contra el suelo en el instante exacto en que el pie planta, dando propulsión extra que el cuerpo solo no generaría — pasos laterales "imposibles", cierre de distancia más rápido de lo esperado.
+3. **Recepción activa** — en vez de esquivar, atrapar el golpe con la palma abierta y descargar en el mismo punto de contacto — convierte la defensa en el vector de ataque.
+4. **Campo detector** — extender el campo EM en radio amplio para sentir posición y movimiento de objetivos dentro de él, como un radar improvisado — útil en oscuridad, contra sigilo, o para no perder de vista a varios enemigos a la vez.
+5. **Interferencia dirigida** — el mismo campo usado para sabotear dispositivos electrónicos ajenos dentro del radio — alarmas, luces, cámaras, radios, cualquier circuito cercano, y usarlo a favor del usuario durante el combate.
+6. **Explosión envolvente** — en vez de dirigir la carga a un punto de contacto, soltarla entera alrededor del propio cuerpo — estallido de corto alcance que golpea todo lo que esté demasiado cerca, sacrificando precisión por daño de área instantáneo.
+7. **Carga residual transferida** — imbuir un objeto metálico (arma, fragmento, baranda) con la carga para que descargue al contacto sin que el usuario tenga que tocarlo directamente — extiende el alcance del golpe cargado más allá del propio cuerpo.
+
+**Filosofía (cita de Iker, Cap53):** *"Yo no sé pelear con la cabeza. Sé pelear con lo que tengo."* — no hay lectura ni estrategia previa, solo Foco llevado al límite físico de cada contacto.
+
 ## Relationship with Oliver
 
 Oliver puede ver el campo EM de Riku en tiempo real — nodos, propagación, asimetría. Riku recibe visibilidad exacta sobre su propio Domain activo que nadie le había dado antes.
