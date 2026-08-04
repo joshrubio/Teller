@@ -24,6 +24,11 @@ updated: 2026-07-24
 
 Hombre robusto, ocupa el doble de espacio del que necesita sin proponérselo. Presente en el club de pelea cuando Yegor presiona a Iker para golpear a Riku otra vez ya derrotado — parte del grupo cuya sola presencia/mirada empuja a Iker a ceder.
 
+## Libro 2, Arc 2 — Milán, Cap77 (Ronda Final, Parte 1, sincronizado 2026-08-01)
+
+<!-- canonical -->
+Último día del examen — lidera el tercer grupo final, más numeroso que el de Johanna o Valais, con el que llega al estadio tras ver la baliza. #6 del tablero (subido desde el #10 original de San Gotardo). Cuando estalla el enfrentamiento contra Dax, pierde el control parcial de su grupo — varios rompen formación por su cuenta. Encierra personalmente a Dax en una llave desde atrás durante el pico de la pelea; Dax lo usa después como mayal improvisado contra otros cinco al romper el cerco.
+
 ## Key relations
 
 | Person | Dynamic |
