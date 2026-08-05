@@ -15,12 +15,12 @@ updated: 2026-08-04
 
 | | |
 |---|---|
-| **Status** | Libro 2, Arc 2 (Milán) casi cerrado — Ronda Final resuelta, Cap80 en progreso |
-| **Last written** | Cap 80 — Medianoche (línea A, POV Oliver) — en progreso, ~1290 palabras |
-| **Next** | Terminar Cap80 (si falta algo) → Cap81 — Otra puerta (línea C, cierre Voss/Ginebra) |
-| **Active arc** | Libro 2, Arc 2 — Milán (Cap 68-80). Libro2 completo queda en Cap38-85 (48 caps); Libro3 arranca en Cap86. |
+| **Status** | Libro 2, Arc 2 (Milán) casi cerrado — Ronda Final resuelta, Cap114 en progreso |
+| **Last written** | Cap 114 — Medianoche (línea A, POV Oliver) — en progreso, ~1290 palabras |
+| **Next** | Terminar Cap114 (si falta algo) → Cap115 — Otra puerta (línea C, cierre Voss/Ginebra) |
+| **Active arc** | Libro 2, Arc 2 — Milán (Cap 102-114). Libro2 completo queda en Cap54-119 (numeración fusionada); Libro3 arranca en Cap120. |
 
-> Corrección 2026-07-27: este archivo estaba desactualizado — daba Libro 2 como "planning phase, Cap38 planeado" cuando en realidad Caps 38–67 ya están escritos (manuscrito real, no stubs). Ver `Ledger of Domains/Capitulo 38.md` → `Capitulo 67.md`. Sesión 2026-08-04: Arc2 avanzó hasta Cap79 (ver `plot/chapter-plan-libro2.md` para el detalle capítulo a capítulo).
+> Corrección 2026-07-27: este archivo estaba desactualizado — daba Libro 2 como "planning phase, Cap38 planeado" cuando en realidad ya estaba escrito (manuscrito real, no stubs). **Nota 2026-08-05:** toda la numeración de este archivo es la fusionada post-LoD+BSA (y post-retirada de Cap24) — ver `chapters/index.md` para la tabla completa. El resto de este documento (sección "Where we are" abajo) todavía narra la sesión en numeración vieja pre-fusión en varios tramos — se deja como registro histórico, no se retroconvierte.
 
 ---
 
