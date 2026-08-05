@@ -10,6 +10,8 @@ updated: 2026-06-17
 
 # Plot: Arcs — Libro 1
 
+> Numeración de este documento: absoluta de LoD **pre-fusión** (Cap1-37, la trilogía original antes de intercalar BSA). No coincide con el manuscrito fusionado actual — para la numeración real de archivo, ver `chapters/index.md` (Libro1-fusionado = Cap1-53, con estos mismos 37 capítulos LoD intercalados entre los 35 de BSA).
+
 ## Structure
 
 | Arc | Caps | Status | Thematic axis |
@@ -33,7 +35,7 @@ updated: 2026-06-17
 
 ---
 
-## Arc 2 — Evaluación (Caps 7–55)
+## Arc 2 — Evaluación (Caps 7–20)
 
 | Cap | Title | POV | Key beat |
 |---|---|---|---|
@@ -54,7 +56,7 @@ updated: 2026-06-17
 
 ---
 
-## Arc 3 — Campo (Caps 56–72)
+## Arc 3 — Campo (Caps 21–37)
 
 ### Four simultaneous layers
 - **Táctica:** proto-equipo evoluciona → primera operación real.
@@ -62,7 +64,7 @@ updated: 2026-06-17
 - **Romance:** Sisi llega. Oliver no puede leer su Domain. Se compromete. No puede.
 - **Kaspar:** se mueve. Voss y Park rastrean sin saber quién es. Irrupción → desaparición de Sisi.
 
-### Phase 1 — Establecimiento (Caps 56–60)
+### Phase 1 — Establecimiento (Caps 21–25)
 
 | Cap | Title | POV | Key beat |
 |---|---|---|---|
@@ -72,7 +74,7 @@ updated: 2026-06-17
 | 24 | Calidez | Omniscient | Cumpleaños Voss. Juego de Dominios: copia accidental de Ancla. Sisi observa el instante anterior. Pier: "El Odem no empieza en la piel" |
 | 25 | Frecuencia Propia | Oliver | Oliver encuentra su propio Odem. Maren: umbral de procesamiento pasivo cruzó punto de no retorno |
 
-### Arc of cost (caps 60–68, woven)
+### Arc of cost (caps 25–33, woven)
 
 | Cap | Function |
 |---|---|
@@ -82,7 +84,7 @@ updated: 2026-06-17
 | 32 | Techo documentado: 14 minutos sostenidos → colapso. |
 | 33+ | Atención selectiva como necesidad. |
 
-### Phase 2 — Desarrollo (Caps 61–65)
+### Phase 2 — Desarrollo (Caps 26–30)
 
 | Cap | Title | POV | Key beat |
 |---|---|---|---|
@@ -92,7 +94,7 @@ updated: 2026-06-17
 | 29 | Inercia | Oliver | Copia Fuerza/Inercia de Park — primer coste físico real. "Un paso, despacio." |
 | 30 | Patrón | Voss/Park | Voss/Park convergen independientemente: 40 años de práctica, Domain de supervivencia. Voss no revela el nombre |
 
-### Phase 3 — Escalada y Clímax (Caps 66–72)
+### Phase 3 — Escalada y Clímax (Caps 31–37)
 
 | Cap | Title | POV | Key beat |
 |---|---|---|---|
@@ -124,6 +126,6 @@ updated: 2026-06-17
 ## Notes
 
 <!-- canonical -->
-- Voss a Park (Cap 24): "Los otros casos copiaron la amenaza. Oliver copió la curiosidad."
+- Voss a Park (Cap 12, "Altitud"): "Los otros casos copiaron la amenaza. Oliver copió la curiosidad."
 - Anke = Caso 3. Voss la conoció. Kaspar la observó 11 años. Los números son los mismos. Oliver no sabe que Voss sabe el desenlace.
-- Oliver sostuvo verdad parcial con Voss en Cap 71: divulgó el contenido (Anke, 11 años) pero ocultó el cuándo (plaza, 9 días antes de la irrupción).
+- Oliver sostuvo verdad parcial con Voss en Cap 37 ("Cuarenta y siete minutos"): divulgó el contenido (Anke, 11 años) pero ocultó el cuándo (plaza, 9 días antes de la irrupción).
