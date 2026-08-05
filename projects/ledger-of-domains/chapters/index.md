@@ -104,7 +104,7 @@ Sin más intercalado BSA — a partir de aquí es LoD puro (Arc3 de la trilogía
 | 69 | Vecindad | `Capitulo 69.md` | LoD 34 | Oliver/Sisi | Oliver, Sisi | Sisi confronta su régimen. Oliver promete — retiene la plaza y no llama a Park. **2768 palabras.** |
 | 70 | Irrupción | `Capitulo 70.md` | LoD 35 | Oliver/Tomás | Oliver, Tomás, Kaspar, Park, Riku | Tomás penetra el muro norte. 5 frentes. Kaspar ofrece salida. Oliver rechaza. **2852 palabras.** |
 | 71 | Decisión | `Capitulo 71.md` | LoD 36 | Oliver/Sisi/Voss | Oliver, Sisi, Kaspar, Voss, Pier, Asha, Dara, Nadia, Petra, Lev, Sabine | "Me quedo." Sisi sale. Lucha colonia. "Todavía a tiempo." "Vuelve." Sin respuesta. **2475 palabras.** |
-| 72 | Epílogo | `Capitulo 72.md` | LoD 37 | Oliver | Oliver, Voss, Maren, Park, Riku, Pier, Dara | 47 min. 3 ausencias: Sisi, Lev y Sabine. Nota de Kaspar a Oliver (Anke). Destino open. **Cierre de Arc3 LoD / trilogía original.** **3563 palabras.** |
+| 72 | Cuarenta y siete minutos | `Capitulo 72.md` | LoD 37 | Oliver | Oliver, Voss, Maren, Park, Riku, Pier, Dara | 47 min. 3 ausencias: Sisi, Lev y Sabine. Nota de Kaspar a Oliver (Anke). Destino open. **Cierre de Arc3 LoD / trilogía original.** **3563 palabras.** |
 
 ### San Gotardo — El Reducto (Cap 73–102)
 
