@@ -3,9 +3,11 @@ id: chapter-plan
 type: plot
 project: by-strength-alone
 module: plot
-tags: [structure, chapters, beats, full-plan]
-updated: 2026-07-07
+tags: [structure, chapters, beats, full-plan, obsolete]
+updated: 2026-08-05
 ---
+
+> **OBSOLETO (2026-08-05):** By Strength Alone se fusionó físicamente dentro del manuscrito de Ledger of Domains — los 35 capítulos de BSA ahora son Cap8-13, 16-22, 26-32, 36-43, 47-53 del índice fusionado. Ver `projects/ledger-of-domains/chapters/index.md` (autoridad real) y `projects/ledger-of-domains/plot/chapter-plan-libro2.md`. Este archivo queda solo como referencia histórica de planning pre-fusión — la numeración de abajo (1-36) es la vieja numeración interna de BSA, ya no corresponde a ningún archivo físico.
 
 # BSA — Plan completo cap a cap
 

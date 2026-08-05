@@ -3,8 +3,11 @@ id: chapters-index
 type: module-index
 module: chapters
 project: by-strength-alone
-updated: 2026-07-06
+tags: [obsolete]
+updated: 2026-08-05
 ---
+
+> **OBSOLETO (2026-08-05):** ver nota en `plot/chapter-plan.md` — BSA se fusionó dentro de Ledger of Domains. Índice real: `projects/ledger-of-domains/chapters/index.md`.
 
 # Chapters — By Strength Alone
 
