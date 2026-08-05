@@ -14,7 +14,7 @@ updated: 2026-06-19
 
 ## Voice and register
 
-- Omniscient narrator following one character's POV per chapter. POV shifts between chapters based on which narrative thread needs to breathe.
+- Omniscient narrator. Default is one character's POV per chapter, shifting between chapters based on which narrative thread needs to breathe — but a chapter may split POV between two characters when the scene needs it (a paired-character beat, a flashback belonging to a different character than the chapter's "present," a POV handoff at a reunion). Mark the shift clearly (scene break, time marker, or clear grammatical handoff) — never blend two POVs within the same unbroken scene.
 - Close third person, centered on sensory perception and contained thought.
 - Atmospheric and deliberate prose: short sentences in tension; longer paragraphs in observation.
 - Mix of technical language (nodos, logs, monolito) with body/ambient horror.
