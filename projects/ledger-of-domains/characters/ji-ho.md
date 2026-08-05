@@ -72,7 +72,7 @@ Solo mencionado hasta ahora en esta trilogía (LoD) — Cap100 es su primer vist
 
 <!-- canonical -->
 - Rango S ≠ posición administrativa. Sin cargo. Solo rendimiento.
-- Primera mención explícita en LoD: Cap 24 (manuscrito), mensaje encriptado canal no oficial.
+- Primera mención explícita en LoD: Cap 10 ("Firma"), mensaje encriptado canal no oficial.
 - BSA Cap 9: envía mensaje de 4 palabras a Park en canal no oficial durante o justo después del primer contacto con Saturación. Contenido: "No es solo Hartford." Sin contexto, sin firma. Park lo recibe; lo procesa en el drive-back de Cap 10 desde Grayhaven.
 - BSA Cap 13: Park relee el mensaje post-operación con el peso completo de lo que fue Hartford.
 - BSA Cap 16: mencionado por Kiki y por Park Taeho. Taeho confirma que Ji-ho siguió la operación de Hartford desde Seoul.

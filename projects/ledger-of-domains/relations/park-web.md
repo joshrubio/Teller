@@ -34,7 +34,7 @@ See `relations/oliver-web` — Oliver/Park section. The same relationship from P
 **Dynamic:** Ji-ho is Rango S — one of fewer than 10 in the world. The largest shadow Park operates under, larger than his father's because Ji-ho has no administrative role — only performance.
 
 **History:**
-- Cap 24: Ji-ho sends encrypted message via non-official channel: "GRH-094. Clasificación confirmada. Protocolo EU activo. Transferencia en 72h." Park processes it with the same calm — relationship is established, not surprising.
+- Cap 10 ("Firma"): Ji-ho sends encrypted message via non-official channel: "GRH-094. Clasificación confirmada. Protocolo EU activo. Transferencia en 72h." Park processes it with the same calm — relationship is established, not surprising.
 - M5 Seoul (spinoff): Ji-ho present directly or indirectly. Park earns Rango 3 under his shadow.
 
 ---

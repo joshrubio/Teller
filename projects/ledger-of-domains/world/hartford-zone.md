@@ -22,7 +22,7 @@ Hartford, Connecticut, USA. Four city blocks of historic district cordoned by AM
 
 Impregnated zone — entity neutralized (BSA Cap 12). Residual firma present: what remains is diffuse, incoherent, without active agency, but not zero. Equipo de deposición deployed to north sector. AMAT-NA perimeter under environmental remediation cover (ZONA DE RIESGO AMBIENTAL / ACCESO RESTRINGIDO). The Principado withdrew 1952 — destination unknown.
 
-## Physical description (from Cap 24)
+## Physical description (from Cap 9, "Contacto")
 
 - Perimeter fencing is generic and regularly replaced; the *line* hasn't moved since 1952.
 - Buildings inside still standing but unoccupied since 1952. Ground-floor businesses shuttered.
@@ -34,7 +34,7 @@ Impregnated zone — entity neutralized (BSA Cap 12). Residual firma present: wh
 | Sector | Character | Notes |
 |---|---|---|
 | **North** | Highest volatility | Odem readings less stable since construction approval nearby. Principado's 1952 radial pattern originates here. |
-| **South** | Highest passive saturation | Even Nivel 4 entities sustain effortlessly. Used as displacement target (Cap 24). |
+| **South** | Highest passive saturation | Even Nivel 4 entities sustain effortlessly. Used as displacement target (Cap 9). |
 
 ## AMAT-NA base
 
@@ -47,7 +47,7 @@ The operational base occupies the first two floors of a commercial brick buildin
 
 ## AMAT protocol
 
-Long-term perimeter monitoring. No containment attempt of the zone itself. Three-unit response per event: **Exploración** (locates entity, confirms influence radius, exits) → **Eliminación** (direct contact, neutralizes — Nivel 3 requires contact, no remote option) → **Disposición** (cleanup). 72-year unbroken record until Park's Cap 24 displacement.
+Long-term perimeter monitoring. No containment attempt of the zone itself. Three-unit response per event: **Exploración** (locates entity, confirms influence radius, exits) → **Eliminación** (direct contact, neutralizes — Nivel 3 requires contact, no remote option) → **Disposición** (cleanup). 72-year unbroken record until Park's Cap 9 displacement.
 
 **Alarm system:** internal base signal — not loud, doesn't need to be. Everyone knows the drill. Full mobilization within seconds. Canonical: activated end of BSA Cap 8, cause not confirmed by end of chapter.
 
@@ -58,7 +58,7 @@ Long-term perimeter monitoring. No containment attempt of the zone itself. Three
 - Park's M4 (Hartford, BSA Arc 1) takes place here — team operation under special zone classification. Credit shared; does not count as clean solo resolution.
 - The zone itself is the threat, not a single entity — a permanent scar.
 - Distorts Domain function for anyone operating inside.
-- Park reads the 1952 Hartford file immediately after receiving the M4 assignment (~1–2 weeks post-Grayhaven, before Cap 24). Pages 74+ classified under EU-Ginebra — inaccessible at his clearance level.
+- Park reads the 1952 Hartford file immediately after receiving the M4 assignment (~1–2 weeks post-Grayhaven, before Cap 9). Pages 74+ classified under EU-Ginebra — inaccessible at his clearance level.
 
 ## Connection to Kaspar
 

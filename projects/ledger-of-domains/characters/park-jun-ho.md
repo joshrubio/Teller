@@ -81,7 +81,7 @@ This layer never names the emotional state directly. It circles it until the rea
 | Person | Role | Narrative weight |
 |---|---|---|
 | **Father** | AMAT Korea Division Head | Direct authority over the division where Park earns Rango 3. Converts M5 into an impossible neutral test. |
-| **Ji-ho** (uncle) | Agente Rango S — strongest agent in AMAT | One of fewer than 10 in the world. No administrative role — pure performance. First text mention: Cap 24, encrypted non-official channel message. His shadow is larger than the father's. |
+| **Ji-ho** (uncle) | Agente Rango S — strongest agent in AMAT | One of fewer than 10 in the world. No administrative role — pure performance. First text mention: Cap 10 ("Firma"), encrypted non-official channel message. His shadow is larger than the father's. |
 | **Ki-yeon / Kiki** (half-sister) | Media-hermana, 17, mismo Domain eje masa | Same father, different mother. Evaluación AMAT activa. Mass control higher than Park's at 17. Present in Seoul (BSA Arc 2). Her existence is the pressure Park can't name. |
 
 > Seoul tension: Park earns rank inside family territory. The only answer to "did family pull strings?" is a result with no margin for doubt.

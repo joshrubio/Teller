@@ -31,7 +31,7 @@ Reyes describes the zone's saturation without alarm: *"Todo se mueve. Los edific
 
 Calibrating. Observes before speaking. Describes what he senses without dramatizing it — symptom-reporting register even under novel conditions. First Hartford assignment: processes the difference between briefings and first-hand zone exposure in real time without visible distress.
 
-## Canonical moments (BSA Cap 9 / Ledger Cap 24)
+## Canonical moments (Cap 9, "Contacto")
 
 <!-- canonical -->
 - Llega con equipo completo. Menos de 40 segundos en sector norte — ya recalibrando. Ajuste de peso de un pie al otro: Domain procesando señal excesiva del sustrato saturado.

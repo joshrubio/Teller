@@ -32,7 +32,7 @@ Burocrático-inquietante, calculado.
 
 - "ciento cuatro metros" del corredor AMAT-NA — Cap 15
 - "variable cuyo peso no había calculado todavía" — Cap 15
-- "calcular cuánto vale la respuesta" — Cap 24
+- "calcular cuánto vale la respuesta" — Cap 10 ("Firma")
 
 ## Watch for
 
