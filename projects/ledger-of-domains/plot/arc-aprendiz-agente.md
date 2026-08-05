@@ -14,7 +14,7 @@ updated: 2026-08-05
 
 **Concepto del arco:** tras el encuentro de Nodo Vacío (Cap1-6), Oliver y Park se separan — y el libro explora AMAT desde sus dos extremos a la vez. **Park**, agente ya formado, recorre el mundo real de la agencia: misiones, rango, protocolo, el costo de ser bueno en esto. **Oliver**, que acaba de descubrir que tiene un Domain sin precedente, explora la misma institución desde cero, como alguien común que todavía no sabe lo que es. Ninguna línea es secundaria de la otra — son la misma pregunta (¿qué es AMAT, y qué te hace cuando entras?) respondida desde ángulos opuestos. Se tocan solo a través de Voss, que gestiona a los dos sin que ellos lo sepan del todo, y cierran juntándose físicamente en Cap53/54.
 
-47 capítulos — 12 de línea Valais (Oliver), 35 de línea BSA (Park). Intercalados capítulo a capítulo, sin compartir escena hasta el cierre.
+47 capítulos — 12 de línea Valais (Oliver), 35 de línea BSA (Park). Intercalados capítulo a capítulo, sin compartir escena hasta el cierre. BSA es una **línea** dentro de este arco, no un arco propio — sus cinco tramos internos (Hartford/Seoul/Lisboa/Budapest/Venezuela) son subdivisiones de esa línea, igual que San Gotardo tiene sus fases A-D.
 
 ---
 
@@ -100,7 +100,7 @@ updated: 2026-08-05
 
 ---
 
-## Línea BSA — Park (35 capítulos, 5 sub-arcos)
+## Línea BSA — Park (35 capítulos, 5 tramos)
 
 Detalle beat-a-beat completo vive en el proyecto `by-strength-alone` (`plot/arcs.md`, `plot/chapter-plan.md`) — no duplicar aquí, solo sinopsis de enlace:
 

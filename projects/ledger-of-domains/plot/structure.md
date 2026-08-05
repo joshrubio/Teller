@@ -201,13 +201,13 @@ Apertura Ji-ho (Rango S) antes de retomar a Oliver y el resto del grupo. Ver `pl
 **Cambio 2026-08-05:** `chapter-plan-libro2.md` (mega-doc de todo Libro2) queda retirado como formato — reemplazado por **un archivo por arco** dentro de `plot/`, para cargar solo el contexto del arco relevante en vez del libro entero:
 
 - `plot/arc-nodo-vacio.md` (Cap1-6)
-- `plot/arc-aprendiz-agente.md` (Cap7-53, "El Aprendiz y el Agente" — fusiona línea Valais + línea BSA bajo un solo arco conceptual; detalle BSA completo sigue viviendo en `by-strength-alone/plot/arcs.md`)
-- Campo (Cap54-71) → el beat-a-beat ya vivía en `plot/arcs.md` (Arc 3 — Campo, ahí en numeración pre-fusión) desde antes de la fusión — no se creó archivo nuevo, no hacía falta.
+- `plot/arc-aprendiz-agente.md` (Cap7-53, "El Aprendiz y el Agente" — fusiona línea Valais + línea BSA bajo un solo arco conceptual; línea BSA es eso, una línea dentro de este arco, no un arco propio — detalle completo de esos capítulos sigue viviendo en `by-strength-alone/plot/arcs.md`)
+- `plot/arc-campo.md` (Cap54-71)
 - `plot/arc-san-gotardo.md` (Cap72-101)
 - `plot/arc-milan.md` (Cap102-114)
 - `plot/arc-cierre-lineas.md` (Cap115-119, planeado)
 
-**Regla general (desde 2026-08-05):** cada arco vive en su propio archivo `plot/arc-*.md` — un mega-doc compartido (`arcs.md`) queda solo como contenedor temporal para arcos todavía no migrados, no como destino final.
+**Regla general (desde 2026-08-05):** cada arco vive en su propio archivo `plot/arc-*.md`. `plot/arcs.md` está retirado — todos los arcos de la obra migraron a archivo propio.
 
 Cada uno lleva el beat-a-beat, hilos abiertos y decisiones pendientes de ESE arco únicamente. El rango de capítulos y la sinopsis de una línea ya están cubiertos arriba en este archivo — no repetir ahí.
 
@@ -217,4 +217,4 @@ Cada uno lleva el beat-a-beat, hilos abiertos y decisiones pendientes de ESE arc
 - **2026-08-05:** Mapa Maestro externo (`D:\Writting\...`) retirado — su contenido vive aquí ahora.
 - **2026-08-05:** `chapter-plan-libro2.md` dividido en archivos por arco (ver sección anterior).
 - Antes de la fusión, Libro2 (San Gotardo/Milán) vivió al menos tres reestructuraciones de límites de arco (inserciones de capítulos de línea B/C/D, expansión de "Ronda Final" de 1 a 4 partes) — el detalle completo de esas iteraciones, si hace falta consultarlo, vivía en el `chapter-plan-libro2.md` ahora retirado; lo esencial ya está reflejado en los rangos de arriba.
-- `plot/arcs.md` documenta Libro1 en numeración **pre-fusión** (Cap1-37, sin BSA intercalado) — útil para el detalle beat-a-beat de esa mitad, pero usar este archivo para la numeración real de archivo.
+- **2026-08-05:** `plot/arcs.md` retirado por completo — su contenido (Nodo Vacío, Evaluación/Aprendiz y Agente, Campo) migró a `plot/arc-nodo-vacio.md`, `plot/arc-aprendiz-agente.md`, `plot/arc-campo.md` respectivamente, todos en numeración fusionada real.

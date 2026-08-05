@@ -4,7 +4,7 @@ type: plot
 project: ledger-of-domains
 module: plot
 tags: [timeline, chronology, in-universe-dates]
-load-with: [plot/arcs]
+load-with: [plot/structure]
 updated: 2026-07-06
 ---
 
