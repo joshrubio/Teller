@@ -10,7 +10,7 @@ updated: 2026-08-05
 
 Manuscript root: `D:\Writting\Ledger of Domains\` — fusión física ejecutada 2026-08-05 (LoD+BSA intercalados, un solo `Capitulo N.md` por número). **Actualizado 2026-08-05:** se retiró el antiguo Cap24 ("Campo Libre", LoD11) — su contenido (Hartford + primer encuentro Park/Voss en Grayhaven) quedó duplicado por BSA Cap9 "Contacto" y Cap10 "Firma", escritos después con más detalle. Todo lo posterior se renumeró -1. Mapeo original (previo a esta retirada) en `D:\Writting\_merge_mapping.tsv`.
 
-**Nota de fidelidad:** los resúmenes largos de BSA (sobre todo Arc 4-5) se conservaron condensados respecto al índice original de `by-strength-alone/chapters/index.md` — para el detalle palabra por palabra, ese archivo sigue existiendo como histórico (ya no se actualiza). Algunas referencias cruzadas a "Cap N" *dentro* de los resúmenes pueden seguir citando numeración vieja de su libro de origen en casos aislados — la columna Cap/File de esta tabla es la autoridad real de navegación.
+**Nota de fidelidad:** los resúmenes largos de BSA (sobre todo Arc 4-5) se conservaron condensados respecto a su detalle original. Algunas referencias cruzadas a "Cap N" *dentro* de los resúmenes pueden seguir citando numeración vieja de su libro de origen en casos aislados — la columna Cap/File de esta tabla es la autoridad real de navegación.
 
 **Total 114 capítulos escritos** (Cap1-114), + 5 planeados (115-119, cierre de Libro2) antes de que arranque Libro3 en Cap120.
 

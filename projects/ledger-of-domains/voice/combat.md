@@ -3,7 +3,7 @@ id: combat
 type: voice-guide
 module: voice
 project: ledger-of-domains
-applies-to: [ledger-of-domains, by-strength-alone]
+applies-to: [ledger-of-domains]
 scope: universal — reusable across any project with physical/power-based combat
 updated: 2026-07-01
 ---

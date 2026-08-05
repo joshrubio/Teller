@@ -17,7 +17,7 @@ updated: 2026-07-06
 |---|---|
 | **Full name** | Zoltán Báthory (confirmado BSA Cap 30, archivo de AMAT-HU) |
 | **Family** | Linaje húngaro equivalente a los Vasconcelos — gestiona un residuo de Principado propio en Budapest, ver `world/amat-hu.md`. Rompió con la rama tradicionalista de su propia familia (ver Trasfondo) — no actúa con el respaldo del linaje entero. |
-| **Role in BSA** | Antagonista principal de Arc 3 (Lisboa) — la amenaza inmediata, no Mariana. Su muerte queda abierta (no confirmada, podría llegar en Arc 3 tardío o Arc 4 — ver `by-strength-alone/plot/threads.md`). |
+| **Role in BSA** | Antagonista principal de Arc 3 (Lisboa) — la amenaza inmediata, no Mariana. Su muerte queda abierta (no confirmada, podría llegar en Arc 3 tardío o Arc 4). |
 | **Domain** | Despertado por ritual acelerado — más avanzado que el proceso generacional lento de los Vasconcelos, a costa de terceros |
 | **Historial** | Ex-agente de AMAT-HU — ver Trasfondo |
 | **Edad** | ~30 (nacido ~1995). Mariana, similar edad, ~30 — corresponsales de la misma generación, no una brecha de mentor/discípula. Cronología ajustada 2026-07-06: BSA Arc 3 ocurre en 2025 (en paralelo con LoD, ver `ledger-of-domains/plot/timeline.md`), no 2026 — todas las fechas de este nodo recalculadas contra 2025. |
@@ -73,7 +73,7 @@ Al menos un miembro reconocible de la comunidad de Mariana (visto por Park jugan
 
 **Cierre del arco — BSA Cap 32:** no muere en Arc 3. Pelea contra Park en la sala de máquinas del elevador de Santa Justa, con Rafa a su lado por elección del propio Rafa, no coaccionado. Cuando la sala ya dañada estalla en una bola de fuego real (no una detonación de Odem contenida), Báthory se lanza hacia Rafa en vez de hacia la salida — el único movimiento suyo de toda la noche que no calculó primero — y el borde de la explosión lo alcanza también: quemaduras reales en un costado y en la cara, cojera visible. Sale de la sala solo, sin mirar atrás, incapaz de salvar a Rafa. Park lo ve un segundo bajo una farola en la calle, lo pierde de vista un momento entre gente huyendo, y al volver a mirar ya no está. Desaparece sin que nadie lo vea irse, herido, no ileso. Destino explícitamente abierto hacia Arc 4.
 
-**Semilla para Arc 4:** el disparador real de la escalada de Mariana hacia Budapest es la muerte de Rafa, no la de Báthory (ver `by-strength-alone/plot/threads.md`) — pero la escisión que él ya causó dentro de la comunidad de Mariana es la que deja el terreno preparado para esa escalada, independientemente de cuándo o si él muere.
+**Semilla para Arc 4:** el disparador real de la escalada de Mariana hacia Budapest es la muerte de Rafa, no la de Báthory — pero la escisión que él ya causó dentro de la comunidad de Mariana es la que deja el terreno preparado para esa escalada, independientemente de cuándo o si él muere.
 
 **Nombre:** eco directo de Erzsébet Báthory (la "Condesa Sangrienta") — leyenda húngara real, reconocible incluso sin contexto histórico, sirve como presagio del tono más oscuro/costoso de Arc 4. Nombre de pila **Zoltán** (confirmado BSA Cap 30, archivo de AMAT-HU) — evitar "Gáspár" u otro nombre que suene demasiado cerca de Kaspar (LoD), ya usado para un antagonista de perfil similar.
 

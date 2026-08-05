@@ -88,12 +88,6 @@ Open threads a mantener:
 
 ---
 
-## Spinoff
-
-Ver proyecto `by-strength-alone/` — estado independiente con `parent-project: ledger-of-domains`.
-
----
-
 ## How to use this file
 
 **Writing:** "escribe el cap 54" → load `bundles/write/index.md` + this file + relevant character nodes.

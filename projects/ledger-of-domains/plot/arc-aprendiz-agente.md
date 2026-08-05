@@ -102,7 +102,7 @@ updated: 2026-08-05
 
 ## Línea BSA — Park (35 capítulos, 5 tramos)
 
-Detalle beat-a-beat completo vive en el proyecto `by-strength-alone` (`plot/arcs.md`, `plot/chapter-plan.md`) — no duplicar aquí, solo sinopsis de enlace:
+Sinopsis de enlace por tramo (el proyecto `by-strength-alone` que tenía el detalle beat-a-beat completo ya no existe — esto es lo que queda documentado):
 
 - **Hartford (Cap8-13):** primer contacto real de Park con la Saturación — zona marcada por el Principado de 1952, que ya no está pero dejó el Odem local saturado. Park actúa contra el protocolo cuando este resulta equivocado; funciona, pero sin resolución limpia. Pregunta del arco: *¿es fuerza saber cuándo el protocolo está mal y actuar de todas formas?*
 - **Seoul / Isla Jeollanam-do (Cap16-22):** Park convocado junto a Ji-ho (su padre, Rango S) y Ki-yeon (17 años, mismo Domain). Ji-ho lo deja solo frente a una Potestad Nivel 3 — Park la resuelve, sube a Rango 3. Pregunta sin resolver: ¿confianza real, o Ji-ho ya sabía que Ki-yeon bastaba y quería ver qué hacía Park sin red?
@@ -122,10 +122,10 @@ Park recibe la llamada de Voss camino a Caracas — según el lector de BSA sabe
 
 - **Voss como arquitecto oculto:** gestiona a Park y a Oliver en paralelo sin que ninguno de los dos sepa hasta qué punto — pagado parcialmente a lo largo de Libro2 (Cap89, "treinta años sin contarlo a nadie" sobre Anke).
 - **El expediente de Oliver que Park lee en Cap53** — primer contacto de Park con quién es Oliver antes de conocerlo de nuevo en persona en Cap54.
-- **Rango de Park (3 → 2)** ganado a lo largo de este arco — coste narrado en detalle en `by-strength-alone/plot/arcs.md`.
-- **Hilos BSA sin pagar:** destino del Principado de Hartford, agenda real de Cartwright, María Lionza replegada en Sorte — todos abiertos para libros futuros, ver `by-strength-alone/plot/arcs.md` → Open threads.
+- **Rango de Park (3 → 2)** ganado a lo largo de este arco.
+- **Hilos BSA sin pagar:** destino del Principado de Hartford, agenda real de Cartwright, María Lionza replegada en Sorte — todos abiertos para libros futuros.
 
 ## Notas
 
 - Este arco reemplaza la sección "Arc 2 — Evaluación" que vivía en `plot/arcs.md` (retirada de ahí) — mismo movimiento que El Cobro/Training Arc/Final Exam/Cierre de líneas.
-- A diferencia de los demás arcos de este proyecto, este cruza dos proyectos (`ledger-of-domains` + `by-strength-alone`) — por diseño, ya que las dos líneas comparten arco conceptual pero no archivo de manuscrito de origen.
+- **2026-08-05:** el proyecto `by-strength-alone` fue retirado — su detalle beat-a-beat de la línea BSA ya no existe como archivo aparte. Este arco queda como único registro de esa línea dentro de la obra.

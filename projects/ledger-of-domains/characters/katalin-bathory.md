@@ -35,7 +35,7 @@ No quiere detener a Zoltán por lealtad institucional — quiere evitar que su m
 <!-- canonical -->
 - Nombre de trabajo confirmado en prosa (BSA Cap 37) — ya no es solo nombre de planificación.
 - Apariencia física: abrigo oscuro, española cuidada con acento marcado, treinta años aproximados. Resto pendiente de profundizar.
-- Candidata (sin decidir) para morir en el clímax de Arc 4 — ver `by-strength-alone/plot/chapter-plan.md`.
+- Candidata (sin decidir) para morir en el clímax de Arc 4.
 - Lleva la marca del Lidérc — siguiente en la línea de sucesión del canal ritual. Ver `world/entities/lidercz-danubio.md`.
 - **BSA Cap 41 (escrito):** se disloca el hombro derecho interponiéndose para proteger a Park de un panel de baranda lanzado por Zoltán — herida real, brazo inutilizado el resto del combate. Sigue consciente y activa, minimiza la herida frente a Park ("estoy bien", mintiendo).
 - **BSA Cap 42 (escrito, revisado 2026-07-07):** el golpe final de Park revienta el Grillete y destruye el brazo/hombro de Zoltán — muerte física, por desangramiento, no un mecanismo místico que ella intercepta. Katalin llega corriendo y se arrodilla en la sangre, intenta contener una herida que ya no tiene nada que contener, sostiene a su primo mientras muere. No hay contacto con el Grillete ni desvío de sobrecarga en esta versión — su papel aquí es puramente humano, no ritual.

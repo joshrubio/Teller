@@ -201,7 +201,7 @@ Apertura Ji-ho (Rango S) antes de retomar a Oliver y el resto del grupo. Ver `pl
 **Cambio 2026-08-05:** `chapter-plan-libro2.md` (mega-doc de todo Libro2) queda retirado como formato — reemplazado por **un archivo por arco** dentro de `plot/`, para cargar solo el contexto del arco relevante en vez del libro entero:
 
 - `plot/arc-el-cobro.md` (Cap1-6)
-- `plot/arc-aprendiz-agente.md` (Cap7-53, "El Aprendiz y el Agente" — fusiona línea Valais + línea BSA bajo un solo arco conceptual; línea BSA es eso, una línea dentro de este arco, no un arco propio — detalle completo de esos capítulos sigue viviendo en `by-strength-alone/plot/arcs.md`)
+- `plot/arc-aprendiz-agente.md` (Cap7-53, "El Aprendiz y el Agente" — fusiona línea Valais + línea BSA bajo un solo arco conceptual; línea BSA es eso, una línea dentro de este arco, no un arco propio)
 - `plot/arc-valais.md` (Cap54-71)
 - `plot/arc-training.md` (Cap72-101)
 - `plot/arc-final-exam.md` (Cap102-114)

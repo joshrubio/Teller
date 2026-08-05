@@ -17,7 +17,7 @@ updated: 2026-07-06
 | **AMAT designation** | EU-1755-PT |
 | **Level** | Principado |
 | **Origin** | Anterior al terremoto de Lisboa de 1755 — ligada a la capa mítica más antigua de la ciudad (fundación de Ulisseia). El terremoto fue síntoma de que se agitó, no su origen. |
-| **First contact (AMAT)** | 1755 — primer esfuerzo de documentación coordinada entre corresponsales, origen remoto del marco EU-GINEBRA (ver `by-strength-alone/plot/threads.md`) |
+| **First contact (AMAT)** | 1755 — primer esfuerzo de documentación coordinada entre corresponsales, origen remoto del marco EU-GINEBRA |
 | **Status** | Activa, gestionada por el linaje Vasconcelos con tolerancia institucional de AMAT-PT — ver hilo abierto |
 
 ## Nature
@@ -44,4 +44,4 @@ Tradición civil real de Lisboa: cada Dia de Todos os Santos, aniversario del te
 
 ## Catalog status
 
-Sin resolución — Principado activo, gestionado, no contenido. AMAT-PT toleró la actividad del linaje durante un periodo extenso; ya no la autoriza activamente pero tampoco la ha desmantelado. Ver hilo "AMAT tolerancia — linaje guardián de Lisboa" en `by-strength-alone/plot/threads.md`.
+Sin resolución — Principado activo, gestionado, no contenido. AMAT-PT toleró la actividad del linaje durante un periodo extenso; ya no la autoriza activamente pero tampoco la ha desmantelado.
