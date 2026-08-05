@@ -23,16 +23,16 @@ Dos líneas narrativas independientes intercaladas capítulo a capítulo — no 
 **Línea Valais** — Oliver Webb, Grayhaven, reclutamiento y evaluación en Centro Valais.
 **Línea BSA** — Park Jun-ho, historia independiente previa (Hartford → Seúl → Lisboa → Budapest → Venezuela).
 
-### Arcos — Línea Valais
+### Arcos — Libro 1
 
 | Arco | Cap | Sinopsis |
 |---|---|---|
 | El Cobro | 1–6 | El apagón de Grayhaven revela el Registro de Oliver; Park lo saca de la ciudad mientras la Potestad sigue activa. Termina con Oliver bajo custodia de AMAT. |
-| El Aprendiz y el Agente (línea Valais) | 7, 14–15, 23–24, 32–34, 43–45, 53 | Voss recluta a Oliver, lo traslada a Centro Valais y arma el grupo (Asha, Pier, Riku, Nadia, Dara, Petra, Lev, Sabine). Oliver copia sus primeros Domains bajo supervisión, con Park vigilando de cerca. Cierra con la asignación de Park a Venezuela. Arco fusionado con la línea BSA bajo un mismo nombre conceptual — ver `plot/arc-aprendiz-agente.md`. |
+| El Aprendiz y el Agente | 7–53 | Un solo arco, dos líneas del mismo peso: Oliver explora AMAT desde cero (línea Valais) mientras Park la recorre como agente ya formado (línea BSA). Cierra con la llamada de Voss a Park (Cap53), puente directo a Libro2. Detalle completo, incluidos los 5 tramos internos de la línea BSA, en `plot/arc-aprendiz-agente.md`. |
 
-### Arcos — Línea BSA
+**Tramos internos de la línea BSA** (dentro de "El Aprendiz y el Agente", no arcos propios — ver `plot/arc-aprendiz-agente.md` para el detalle beat-a-beat de cada uno):
 
-| Arco | Cap | Sinopsis |
+| Tramo | Cap | Sinopsis |
 |---|---|---|
 | Hartford | 8–13 | Park llega a la zona de anomalía activa desde 1952 — primer contacto real con la Saturación, primer encuentro con Voss en Grayhaven, primeras bajas del equipo, Cartwright lo transfiere a Corea. |
 | Seoul / Isla Jeollanam-do | 16–22 | Park conoce a Kiki y a Ji-ho en la base de AMAT-KR; combate escalado contra entidades del folclore coreano hasta enfrentar un imugi. Sube a Rango 3. |
@@ -42,61 +42,61 @@ Dos líneas narrativas independientes intercaladas capítulo a capítulo — no 
 
 ### Tabla — Libro 1
 
-| Cap | Título | Línea | Arco |
-|---|---|---|---|
-| 1 | El Cobro | Valais | El Cobro |
-| 2 | Propagación | Valais | El Cobro |
-| 3 | Líneas | Valais | El Cobro |
-| 4 | Registro | Valais | El Cobro |
-| 5 | Umbral | Valais | El Cobro |
-| 6 | Hartford | Valais | El Cobro |
-| 7 | El Expediente | Valais | El Aprendiz y el Agente |
-| 8 | 1952 | BSA | Hartford |
-| 9 | Contacto | BSA | Hartford |
-| 10 | Firma | BSA | Hartford |
-| 11 | Segundo Contacto | BSA | Hartford |
-| 12 | Forma | BSA | Hartford |
-| 13 | Limpieza | BSA | Hartford |
-| 14 | Contacto | Valais | El Aprendiz y el Agente |
-| 15 | Arquitectura | Valais | El Aprendiz y el Agente |
-| 16 | Seoul | BSA | Seoul / Isla |
-| 17 | La isla | BSA | Seoul / Isla |
-| 18 | Primer contacto | BSA | Seoul / Isla |
-| 19 | Kiki | BSA | Seoul / Isla |
-| 20 | Reserva | BSA | Seoul / Isla |
-| 21 | Filo | BSA | Seoul / Isla |
-| 22 | Cicatriz | BSA | Seoul / Isla |
-| 23 | Trato o Truco | Valais | El Aprendiz y el Agente |
-| 24 | Altitud | Valais | El Aprendiz y el Agente |
-| 25 | Lisboa | BSA | Lisboa |
-| 26 | Alfama | BSA | Lisboa |
-| 27 | Escalada | BSA | Lisboa |
-| 28 | Manto | BSA | Lisboa |
-| 29 | Expediente | BSA | Lisboa |
-| 30 | Lo que el suelo despertó | BSA | Lisboa |
-| 31 | Lo que la sala de máquinas se llevó | BSA | Lisboa |
-| 32 | Interferencia | Valais | El Aprendiz y el Agente |
-| 33 | Ruido | Valais | El Aprendiz y el Agente |
-| 34 | Frecuencia | Valais | El Aprendiz y el Agente |
-| 35 | Agente libre | BSA | Budapest |
-| 36 | Miskolc | BSA | Budapest |
-| 37 | La otra familia | BSA | Budapest |
-| 38 | Superados en número | BSA | Budapest |
-| 39 | Nodo | BSA | Budapest |
-| 40 | Lo que queda en pie | BSA | Budapest |
-| 41 | Lo que el Grillete no pudo pagar | BSA | Budapest |
-| 42 | Cierre | BSA | Budapest |
-| 43 | Acorde | Valais | El Aprendiz y el Agente |
-| 44 | Conducción | Valais | El Aprendiz y el Agente |
-| 45 | Tránsito | Valais | El Aprendiz y el Agente |
-| 46 | Interior | BSA | Venezuela |
-| 47 | Lo que canalizan | BSA | Venezuela |
-| 48 | Lo que no era suyo | BSA | Venezuela |
-| 49 | Lo que la gente carga | BSA | Venezuela |
-| 50 | La que nació de la sangre | BSA | Venezuela |
-| 51 | Tres de enero | BSA | Venezuela |
-| 52 | Lo que queda enterrado | BSA | Venezuela |
-| 53 | Asignación | Valais | El Aprendiz y el Agente (cierre Libro1) |
+| Cap | Título | Línea | Arco | Tramo (línea BSA) |
+|---|---|---|---|---|
+| 1 | El Cobro | Valais | El Cobro | — |
+| 2 | Propagación | Valais | El Cobro | — |
+| 3 | Líneas | Valais | El Cobro | — |
+| 4 | Registro | Valais | El Cobro | — |
+| 5 | Umbral | Valais | El Cobro | — |
+| 6 | Hartford | Valais | El Cobro | — |
+| 7 | El Expediente | Valais | El Aprendiz y el Agente | — |
+| 8 | 1952 | BSA | El Aprendiz y el Agente | Hartford |
+| 9 | Contacto | BSA | El Aprendiz y el Agente | Hartford |
+| 10 | Firma | BSA | El Aprendiz y el Agente | Hartford |
+| 11 | Segundo Contacto | BSA | El Aprendiz y el Agente | Hartford |
+| 12 | Forma | BSA | El Aprendiz y el Agente | Hartford |
+| 13 | Limpieza | BSA | El Aprendiz y el Agente | Hartford |
+| 14 | Contacto | Valais | El Aprendiz y el Agente | — |
+| 15 | Arquitectura | Valais | El Aprendiz y el Agente | — |
+| 16 | Seoul | BSA | El Aprendiz y el Agente | Seoul / Isla |
+| 17 | La isla | BSA | El Aprendiz y el Agente | Seoul / Isla |
+| 18 | Primer contacto | BSA | El Aprendiz y el Agente | Seoul / Isla |
+| 19 | Kiki | BSA | El Aprendiz y el Agente | Seoul / Isla |
+| 20 | Reserva | BSA | El Aprendiz y el Agente | Seoul / Isla |
+| 21 | Filo | BSA | El Aprendiz y el Agente | Seoul / Isla |
+| 22 | Cicatriz | BSA | El Aprendiz y el Agente | Seoul / Isla |
+| 23 | Trato o Truco | Valais | El Aprendiz y el Agente | — |
+| 24 | Altitud | Valais | El Aprendiz y el Agente | — |
+| 25 | Lisboa | BSA | El Aprendiz y el Agente | Lisboa |
+| 26 | Alfama | BSA | El Aprendiz y el Agente | Lisboa |
+| 27 | Escalada | BSA | El Aprendiz y el Agente | Lisboa |
+| 28 | Manto | BSA | El Aprendiz y el Agente | Lisboa |
+| 29 | Expediente | BSA | El Aprendiz y el Agente | Lisboa |
+| 30 | Lo que el suelo despertó | BSA | El Aprendiz y el Agente | Lisboa |
+| 31 | Lo que la sala de máquinas se llevó | BSA | El Aprendiz y el Agente | Lisboa |
+| 32 | Interferencia | Valais | El Aprendiz y el Agente | — |
+| 33 | Ruido | Valais | El Aprendiz y el Agente | — |
+| 34 | Frecuencia | Valais | El Aprendiz y el Agente | — |
+| 35 | Agente libre | BSA | El Aprendiz y el Agente | Budapest |
+| 36 | Miskolc | BSA | El Aprendiz y el Agente | Budapest |
+| 37 | La otra familia | BSA | El Aprendiz y el Agente | Budapest |
+| 38 | Superados en número | BSA | El Aprendiz y el Agente | Budapest |
+| 39 | Nodo | BSA | El Aprendiz y el Agente | Budapest |
+| 40 | Lo que queda en pie | BSA | El Aprendiz y el Agente | Budapest |
+| 41 | Lo que el Grillete no pudo pagar | BSA | El Aprendiz y el Agente | Budapest |
+| 42 | Cierre | BSA | El Aprendiz y el Agente | Budapest |
+| 43 | Acorde | Valais | El Aprendiz y el Agente | — |
+| 44 | Conducción | Valais | El Aprendiz y el Agente | — |
+| 45 | Tránsito | Valais | El Aprendiz y el Agente | — |
+| 46 | Interior | BSA | El Aprendiz y el Agente | Venezuela |
+| 47 | Lo que canalizan | BSA | El Aprendiz y el Agente | Venezuela |
+| 48 | Lo que no era suyo | BSA | El Aprendiz y el Agente | Venezuela |
+| 49 | Lo que la gente carga | BSA | El Aprendiz y el Agente | Venezuela |
+| 50 | La que nació de la sangre | BSA | El Aprendiz y el Agente | Venezuela |
+| 51 | Tres de enero | BSA | El Aprendiz y el Agente | Venezuela |
+| 52 | Lo que queda enterrado | BSA | El Aprendiz y el Agente | Venezuela |
+| 53 | Asignación | Valais | El Aprendiz y el Agente (cierre Libro1) | — |
 
 ---
 
@@ -119,8 +119,8 @@ Sin más intercalado BSA. Cuatro líneas propias: **A** (Oliver/Valais, columna 
 
 ### Tabla — Libro 2
 
-| Cap | Título | Línea | Arco |
-|---|---|---|---|
+| Cap | Título | Línea | Arco | Tramo (línea BSA) |
+|---|---|---|---|---|
 | 54 | Reconocimiento | A | Campo |
 | 55 | Carga | C | Campo |
 | 56 | Contornos | A | Campo |
@@ -219,3 +219,4 @@ Cada uno lleva el beat-a-beat, hilos abiertos y decisiones pendientes de ESE arc
 - Antes de la fusión, Libro2 (San Gotardo/Milán) vivió al menos tres reestructuraciones de límites de arco (inserciones de capítulos de línea B/C/D, expansión de "Ronda Final" de 1 a 4 partes) — el detalle completo de esas iteraciones, si hace falta consultarlo, vivía en el `chapter-plan-libro2.md` ahora retirado; lo esencial ya está reflejado en los rangos de arriba.
 - **2026-08-05:** `plot/arcs.md` retirado por completo — su contenido (El Cobro, Evaluación/Aprendiz y Agente, Campo) migró a `plot/arc-el-cobro.md`, `plot/arc-aprendiz-agente.md`, `plot/arc-campo.md` respectivamente, todos en numeración fusionada real.
 - **2026-08-05:** "Nodo Vacío" renombrado a "El Cobro" — el nombre anterior venía de un detalle técnico puntual del clímax (Cap4, "BLANK NODE RESOLVED"), no del hilo real del arco (la deuda/cobro que corre Cap1-6).
+- **2026-08-05:** Tabla — Libro 1 y sección "Arcos — Libro 1" reestructuradas: Hartford/Seoul/Lisboa/Budapest/Venezuela dejaron de listarse como arcos propios — son tramos internos de la línea BSA dentro de "El Aprendiz y el Agente". La columna "Arco" ahora dice "El Aprendiz y el Agente" para todo Cap7-53; una columna nueva "Tramo (línea BSA)" conserva esa subdivisión para navegación sin tratarla como arco de primer nivel.
