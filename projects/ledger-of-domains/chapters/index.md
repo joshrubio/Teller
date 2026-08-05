@@ -107,7 +107,7 @@ Sin más intercalado BSA — a partir de aquí es LoD puro (Arc3 de la trilogía
 
 ### San Gotardo — El Reducto (Cap 72–101)
 
-> Cuatro líneas: A (Oliver/grupo Valais), B (Yusuf/Kaspar), C (Voss/Ginebra), D (Park/Lev-Sabine). Mapa arco/libro completo en `plot/structure.md`; detalle capítulo a capítulo en `plot/arc-nodo-vacio.md`, `plot/arc-aprendiz-agente.md`, `plot/arc-campo.md`, `plot/arc-san-gotardo.md`, `plot/arc-milan.md`, `plot/arc-cierre-lineas.md`.
+> Cuatro líneas: A (Oliver/grupo Valais), B (Yusuf/Kaspar), C (Voss/Ginebra), D (Park/Lev-Sabine). Mapa arco/libro completo en `plot/structure.md`; detalle capítulo a capítulo en `plot/arc-el-cobro.md`, `plot/arc-aprendiz-agente.md`, `plot/arc-campo.md`, `plot/arc-san-gotardo.md`, `plot/arc-milan.md`, `plot/arc-cierre-lineas.md`.
 
 | Cap | Title | File | Origen | POV | Key characters | Summary |
 |---|---|---|---|---|---|---|

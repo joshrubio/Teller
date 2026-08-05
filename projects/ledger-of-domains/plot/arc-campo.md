@@ -117,4 +117,4 @@ Cierre del arco y de la trilogía original de LoD. Cuarenta y siete minutos de b
 - Voss a Park (numeración fusionada, dentro de "El Aprendiz y el Agente" Cap24 "Altitud"): "Los otros casos copiaron la amenaza. Oliver copió la curiosidad."
 - Anke = Caso 3. Voss la conoció. Kaspar la observó 11 años. Los números son los mismos. Oliver no sabe que Voss sabe el desenlace.
 - Cap62 tiene título pendiente de decidir en el archivo real (aparece como "Por definir") — la versión pre-fusión de este documento lo llamaba "Suelo"; no retitulado todavía en prosa, no asumir sin confirmar contra `Capitulo 62.md`.
-- Este arco reemplaza la sección "Arc 3 — Campo" que vivía en `plot/arcs.md` (retirada de ahí) — mismo movimiento que Nodo Vacío/Aprendiz y Agente/San Gotardo/Milán/Cierre de líneas. Con esto, todos los arcos de la obra tienen archivo propio.
+- Este arco reemplaza la sección "Arc 3 — Campo" que vivía en `plot/arcs.md` (retirada de ahí) — mismo movimiento que El Cobro/Aprendiz y Agente/San Gotardo/Milán/Cierre de líneas. Con esto, todos los arcos de la obra tienen archivo propio.

@@ -1,14 +1,14 @@
 ---
-id: arc-nodo-vacio
+id: arc-el-cobro
 type: plot
 project: ledger-of-domains
 module: plot
-tags: [libro-1, arc, nodo-vacio, apertura, linea-valais]
+tags: [libro-1, arc, el-cobro, apertura, linea-valais]
 load-with: [plot/structure.md, state.md, characters/oliver.md]
 updated: 2026-08-05
 ---
 
-# Arc — Nodo Vacío (Cap 1–6)
+# Arc — El Cobro (Cap 1–6)
 
 > Numeración: fusionada real (la de `Capitulo N.md`) — Cap1-6 no se ven afectados por la intercalación con BSA, coinciden con la numeración pre-fusión. Rango y sinopsis de una línea viven en `plot/structure.md` — no repetir aquí. Este archivo es el detalle beat-a-beat.
 
@@ -52,4 +52,5 @@ Llegada del equipo de custodia de AMAT. Interrogatorio de campo a Park por una a
 ## Notas
 
 - Título de Cap1 verificado contra el archivo real (`Capitulo 1.md` → "El Cobro"). `plot/arcs.md` tenía un título desactualizado ("El Fallo de Grayhaven") para este mismo capítulo — corregido.
-- Este arco reemplaza la sección "Arc 1 — Nodo Vacío" que vivía dentro de `plot/arcs.md` (retirada de ahí, ver nota en ese archivo) — mismo movimiento que ya se hizo con San Gotardo/Milán/Cierre de líneas: un archivo por arco, no un mega-doc compartido.
+- Este arco reemplaza la sección "Arc 1 — Nodo Vacío" que vivía dentro de `plot/arcs.md` — mismo movimiento que ya se hizo con San Gotardo/Milán/Cierre de líneas: un archivo por arco, no un mega-doc compartido.
+- **Renombrado 2026-08-05:** "Nodo Vacío" → "El Cobro". El nombre anterior venía de una sola línea de sistema en pantalla en el clímax del Cap4 ("BLANK NODE RESOLVED") — un detalle técnico puntual, no el hilo real del arco. El motivo que de verdad corre por los 6 capítulos es la deuda/cobro: Kessler y el Ledger (Cap1), la Potestad que literalmente "cobra" a quien deja de resistir (Cap3-4), y AMAT cobrándole respuestas a Oliver y a Park al cierre (Cap5-6). "El Cobro" es también el título real de Cap1 — ancla el arco a su propio capítulo de apertura.
