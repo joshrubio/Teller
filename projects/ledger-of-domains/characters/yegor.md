@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: characters
 tags: [san-gotardo, candidato-militar, antagonista, libro-2]
 relations: [riku, oliver, dara, iker-zabala]
-load-with: [plot/chapter-plan-libro2, characters/riku]
+load-with: [plot/structure, plot/arc-san-gotardo, plot/arc-milan, characters/riku]
 updated: 2026-07-24
 ---
 

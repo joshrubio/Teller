@@ -84,7 +84,7 @@ Open threads a mantener:
 - Voss: revisión de conducta formal abierta (audiencia en 3 semanas narrativas), suspendido del caso Valais — quién presenta en su lugar mientras tanto es hilo abierto. Secreto de Kaspar/Verhoeven sin resolver (qué dijo esa noche).
 - Park: aún no confirma que Voss lo colocó en el Centro (Libro 1) — sigue abierto.
 - Documento anómalo de Asha (Cap49): sin retomar todavía.
-- **Graduarse de San Gotardo ≠ estatus legal de agente** (nota añadida 2026-08-04): cuidado en la prosa de Cap79/80/Resultados con no confundir ambos — Voss sigue peleando el marco legal en Ginebra (Cap39), sin resolver hasta el capítulo "Otra puerta" (denegado). Ver nota en `plot/chapter-plan-libro2.md`.
+- **Graduarse de San Gotardo ≠ estatus legal de agente** (nota añadida 2026-08-04): cuidado en la prosa de Cap79/80/Resultados con no confundir ambos — Voss sigue peleando el marco legal en Ginebra (Cap39), sin resolver hasta el capítulo "Otra puerta" (denegado). Ver nota en `plot/arc-cierre-lineas.md`.
 
 ---
 
@@ -98,7 +98,7 @@ Ver proyecto `by-strength-alone/` — estado independiente con `parent-project: 
 
 **Writing:** "escribe el cap 54" → load `bundles/write/index.md` + this file + relevant character nodes.
 
-**Planning:** "planifiquemos el cap 54" → load `plot/chapter-plan-libro2.md` + this file + `relations/conflicts.md`.
+**Planning:** "planifiquemos el cap X" → load `plot/structure.md` (para ubicar arco/libro) + el `plot/arc-*.md` correspondiente + this file + `relations/conflicts.md`.
 
 **Reestructurar arcos/capítulos, o cualquier duda de "a qué arco/libro pertenece Cap N":** load `plot/structure.md` primero — es el mapa Libro→Arco→rango de capítulos, más rápido de consultar que `chapters/index.md` completo. Mantenerlo actualizado junto con este archivo.
 

@@ -38,7 +38,7 @@ She is that case. **Voss knows the outcome. Oliver does not.**
 **Corrected 2026-07-10:** the note originally implied Oliver would tell Voss "everything" about the plaza and Anke shortly after arriving at the new location. That conversation no longer happens at all — see `relations/conflicts.md` and LoD Cap 71. Oliver deliberately withholds it, indefinitely, choosing to hold what he knows for the next time he finds Kaspar himself rather than hand it to Voss. Voss still doesn't know that Oliver knows her name. That gap stays open — no forced resolution window anymore.
 
 <!-- canonical -->
-- **Reestructurado 2026-07-26:** ya no queda abierto. Arc1 cierra limpio en Cap101 (Riku/Oliver/peso muerto/salida de Petra), sin revelación de Anke. La confirmación de identidad se mueve a **Cap111**, dentro de Arc2 — cierre del mini-arco de la evaluación final en Milán, junto a los resultados del examen y la despedida de San Gotardo (el grupo no vuelve al Centro después de Milán). La confirmación llega a través de Oliver (confrontación directa), no de una declaración expositiva de nadie — ver Cap111 en `plot/chapter-plan-libro2.md`.
+- **Reestructurado 2026-07-26:** ya no queda abierto. Arc1 cierra limpio en Cap101 (Riku/Oliver/peso muerto/salida de Petra), sin revelación de Anke. La confirmación de identidad se mueve a **Cap111**, dentro de Arc2 — cierre del mini-arco de la evaluación final en Milán, junto a los resultados del examen y la despedida de San Gotardo (el grupo no vuelve al Centro después de Milán). La confirmación llega a través de Oliver (confrontación directa), no de una declaración expositiva de nadie — ver Cap111 en `plot/arc-milan.md`.
 
 ## Origen (canon nuevo, 2026-07-24 — ver `characters/voss.md` y Cap83/89)
 

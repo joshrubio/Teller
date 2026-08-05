@@ -10,7 +10,7 @@ updated: 2026-07-10
 
 # Libro 3 — Plan de arcos y capítulos (antes "Libro 2")
 
-> **Reetiquetado 2026-07-10:** este documento describía originalmente el arranque de "Libro 2." Tras la reestructura (ver `chapter-plan-libro2.md`, el documento nuevo), este material — Cap 72-75 ya escritos (Doblete del Pacífico, Réplicas, Superficie, Llegada) más todo lo planificado a partir de ahí — pasa a ser el arranque de **Libro 3**. Se conserva íntegro como referencia; la renumeración formal de los archivos de manuscrito (`Capitulo 72 - Libro 2.md` etc.) sigue pendiente hasta confirmación final. No se ha perdido ni modificado nada del trabajo ya escrito.
+> **Reetiquetado 2026-07-10:** este documento describía originalmente el arranque de "Libro 2." Tras la reestructura (ver `plot/structure.md`), este material — Cap 72-75 ya escritos (Doblete del Pacífico, Réplicas, Superficie, Llegada) más todo lo planificado a partir de ahí — pasa a ser el arranque de **Libro 3**. Se conserva íntegro como referencia; la renumeración formal de los archivos de manuscrito (`Capitulo 72 - Libro 2.md` etc.) sigue pendiente hasta confirmación final. No se ha perdido ni modificado nada del trabajo ya escrito.
 
 Consolida `plot/libro-3-setup.md` en formato capítulo a capítulo. Fuente de verdad para detalle — este documento es el resumen legible.
 

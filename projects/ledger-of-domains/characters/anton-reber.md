@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: characters
 tags: [san-gotardo, instructor, combate, libro-2, sin-domain]
 relations: [oliver, dax, anke]
-load-with: [plot/chapter-plan-libro2, characters/anke]
+load-with: [plot/structure, plot/arc-san-gotardo, characters/anke]
 updated: 2026-07-22
 ---
 

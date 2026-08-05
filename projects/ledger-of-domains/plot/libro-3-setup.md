@@ -10,7 +10,7 @@ updated: 2026-07-10
 
 # Libro 3 — Setup (antes "Libro 2", planificado desde cero 2026-07-07)
 
-> **Reetiquetado 2026-07-10:** todo este documento describe lo que ahora es **Libro 3**, no Libro 2 — ver nota equivalente en `chapter-plan-libro3.md`. El nuevo Libro 2 (San Gotardo, entrenamiento, Yusuf/Kaspar, Lev/Sabine) vive en `chapter-plan-libro2.md`. Contenido conservado íntegro, nada perdido.
+> **Reetiquetado 2026-07-10:** todo este documento describe lo que ahora es **Libro 3**, no Libro 2 — ver nota equivalente en `chapter-plan-libro3.md`. El nuevo Libro 2 (San Gotardo, entrenamiento, Yusuf/Kaspar, Lev/Sabine) vive en `plot/structure.md` + `plot/arc-san-gotardo.md` / `plot/arc-milan.md` / `plot/arc-cierre-lineas.md`. Contenido conservado íntegro, nada perdido.
 
 Reemplaza cualquier esbozo de arcos anterior en este documento — no existía un setup real de este libro antes de esta sesión, solo hilos abiertos en `state.md`/`arcs.md` (Libro 1) y lo sembrado en BSA Arc 5.
 

@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: characters
 tags: [san-gotardo, candidato-militar, libro-2, pier-asha-mirror, valdenses, reserva-basal-elevada, sin-domain]
 relations: [pier, asha, voss]
-load-with: [system/domains, world/instalacion-ginebra, plot/chapter-plan-libro2]
+load-with: [system/domains, world/instalacion-ginebra, plot/structure, plot/arc-san-gotardo, plot/arc-milan]
 updated: 2026-07-14
 ---
 
@@ -39,7 +39,7 @@ No manifiesta Domain, pero su reserva de Odem es anormalmente alta — patrón d
 
 **Liderazgo (espejo de Pier/Asha):** no manda por rango entregado ni por haber sobrevivido algo — manda porque tuvo que ganárselo fuera de una tradición que se lo negaba. Modelo de mando distinto a ambos: ni la paciencia de tiempo largo de Pier, ni el silencio/gesto de Asha — autoridad forjada contra una negación específica y personal.
 
-**Ancla histórica de AMAT:** presente en la lección de lore en escena — Cap 84 (1727, Zinzendorf: gana el ejercicio de archivo a tres bandas para su grupo, arma el patrón completo primero gracias a conocer la historia desde dentro), impartida formalmente por Anke (`characters/anke.md`) — interviene desde dentro, con el peso real de venir de la rama que nunca se secularizó. No sustituye a la instructora, la complementa: Anke tiene el archivo institucional, Johanna tiene la memoria familiar viva que ningún archivo captura. (Nota: el beat de Cap87/1754-Lisboa planeado originalmente fue descartado por repetitivo — ver `plot/chapter-plan-libro2.md`, contenido reservado para reutilizar en otro punto.)
+**Ancla histórica de AMAT:** presente en la lección de lore en escena — Cap 84 (1727, Zinzendorf: gana el ejercicio de archivo a tres bandas para su grupo, arma el patrón completo primero gracias a conocer la historia desde dentro), impartida formalmente por Anke (`characters/anke.md`) — interviene desde dentro, con el peso real de venir de la rama que nunca se secularizó. No sustituye a la instructora, la complementa: Anke tiene el archivo institucional, Johanna tiene la memoria familiar viva que ningún archivo captura. (Nota: el beat de Cap87/1754-Lisboa planeado originalmente fue descartado por repetitivo — ver `plot/arc-san-gotardo.md`, contenido reservado para reutilizar en otro punto.)
 
 **Cap 95 (mención, escrito 2026-07-24):** citada por Anka como referencia durante el ejercicio de Presión de Valais (carillones a 3/5/7/10m) — una de los pocos nombres que ha hecho sonar la fila de 10m, tras más de un año de práctica. No aparece en escena, solo referida — refuerza su reserva basal elevada ya establecida sin repetir la mecánica en pantalla.
 

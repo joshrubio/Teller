@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: characters
 tags: [bestia-domain, caza-domain, vampirismo, san-gotardo, candidato-militar, libro-2, oliver-mirror, serbia]
 relations: [oliver, iker-zabala]
-load-with: [system/domains, bestiary/vampirismo, plot/chapter-plan-libro2]
+load-with: [system/domains, bestiary/vampirismo, plot/structure, plot/arc-milan]
 updated: 2026-08-04
 ---
 
