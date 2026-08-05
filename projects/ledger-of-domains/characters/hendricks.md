@@ -36,7 +36,7 @@ Cedes arguments he's going to lose before finishing them. Calculates the cost of
 - Reports facts before assessments.
 - Shrugs more than he speaks when no words will help.
 
-## Canonical gestures / behaviors (Cap 11)
+## Canonical gestures / behaviors (Cap 20)
 
 <!-- canonical -->
 - Consults the localizador without looking up when answering secondary questions — focus stays on primary task.
@@ -44,7 +44,7 @@ Cedes arguments he's going to lose before finishing them. Calculates the cost of
 
 ## Narrative function in BSA
 
-Arc 1 (Hartford). Protocol counterweight to Park. Not a villain of the situation — a rational actor defending a system that works under most conditions. The disagreement in Cap 11 (termination vs displacement) lands correctly because Hendricks is right about the protocol and Park is right about the entity. Both things are true.
+Arc 1 (Hartford). Protocol counterweight to Park. Not a villain of the situation — a rational actor defending a system that works under most conditions. The disagreement in Cap 20 (termination vs displacement) lands correctly because Hendricks is right about the protocol and Park is right about the entity. Both things are true.
 
 ## Key relations
 
@@ -61,5 +61,5 @@ Arc 1 (Hartford). Protocol counterweight to Park. Not a villain of the situation
 - The field suppresses active channeling, not accumulated passive Odem. This is why it stopped the Saturación entity's spatial phasing (active channeling) but not her force output on existing strikes (passively accumulated).
 - Has never been transferred despite opportunities. Chose Hartford because the work is contained, consistent, and doesn't require improvisation on most nights.
 - Tactical vulnerability: if the field drops because he loses concentration or is directly attacked, everything it was suppressing reactivates immediately.
-- BSA Cap 5: extended suppression field beyond standard radius during the north sector climax — visible physical cost (posture of an agent past the point where the Domain responds without cost). Chose to absorb it. Did not mention it in the report.
-- BSA Cap 6: provided full witness account to Cartwright two days after the operation. Cartwright took charge of writing the final after-action report — Hendricks provided input, did not author the document. The report attributes "firma de dispersión" as a new detection category with no attribution to who identified it or what Park executed.
+- BSA Cap 12: extended suppression field beyond standard radius during the north sector climax — visible physical cost (posture of an agent past the point where the Domain responds without cost). Chose to absorb it. Did not mention it in the report.
+- BSA Cap 13: provided full witness account to Cartwright two days after the operation. Cartwright took charge of writing the final after-action report — Hendricks provided input, did not author the document. The report attributes "firma de dispersión" as a new detection category with no attribution to who identified it or what Park executed.

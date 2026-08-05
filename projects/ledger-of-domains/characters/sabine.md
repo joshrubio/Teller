@@ -21,7 +21,7 @@ updated: 2026-06-17
 | **Origin** | Huérfana desde pequeña. Creció en sistema institucional. |
 | **Domain** | Ancla — fija objetos o personas en el espacio, inamovibles sin importar la fuerza aplicada. A máxima intensidad: fisiológicamente letal. |
 | **Level** | 1 (crítico) |
-| **Status** | **DEPARTED** — planificada durante irrupción Cap 35 |
+| **Status** | **DEPARTED** — planificada durante irrupción Cap 70 |
 
 ## Arrival
 
@@ -39,26 +39,26 @@ Fija objetos o personas — inamovibles sin importar la fuerza. No puede moverse
 
 **At maximum intensity:** fijar el sistema cardiovascular de una persona = letal. AMAT usa esto para contención de emergencia. El coste psicológico de tener ese umbral no está explorado todavía.
 
-## Cap 18 agreement
+## Cap 46 agreement
 
 Sus reservas no eran sobre el proceso — sino sobre la mecánica de información: "si puedes ver lo que hace mi Domain, Maren también puede leer lo que tú reportas. No te estoy acusando de nada. Te estoy diciendo la mecánica." Pragmatismo aprendido en sistemas institucionales.
 
-## Cap 24 — Juego de Dominios
+## Cap 59 — Juego de Dominios
 
 Oliver pierde contra Ancla en primera ronda. En la tercera ronda copia el Ancla de Sabine de forma accidental — la deja fijada. Sabine verifica los pies, confirma. Oliver suelta el Ancla de inmediato. Pier: "Bien. Eso es distinto." Primera copia de Oliver bajo condición no-sesión.
 
-## Departure (Cap 36)
+## Departure (Cap 71)
 
 Partida planificada. Cama hecha, tomó solo lo que necesitaba. Lev y Sabine partieron juntos.
 
-**Oliver post-partida:** lleva el Domain de Ancla en el cuerpo — integración estable. La copia no desaparece cuando la portadora se va. Cap 37: Riku: "Sabine." Oliver: "Ya." Sin elaborar.
+**Oliver post-partida:** lleva el Domain de Ancla en el cuerpo — integración estable. La copia no desaparece cuando la portadora se va. Cap 72: Riku: "Sabine." Oliver: "Ya." Sin elaborar.
 
-## Libro 2, Cap 54 (POV, excepción — junto con Lev)
+## Libro 2, Cap 89 (POV, excepción — junto con Lev)
 
 <!-- canonical -->
 En fuga con Lev, ~15-19 días desde la Irrupción. Su paranoia es disciplina, no pánico — lleva una libreta donde solo cuenta como "observado" lo que declara en voz alta, nunca una sospecha suelta; coherente con su Domain de contención/fijación, que exige precisión absoluta para no ser letal por accidente. Detecta el patrón de vigilancia (coche gris, tres veces en cuatro días) antes que Lev. Casi la detecta el equipo de Park tras el encuentro con Aurelio (contacto de recursos de la pareja) — escapan en tren. Dinámica de pareja mostrada por reparto táctico de tareas sin negociar en voz alta, no por gestos grandes.
 
-## Libro 2, Cap 59 (POV Park, vista externa)
+## Libro 2, Cap 94 (POV Park, vista externa)
 
 <!-- canonical -->
 Primer contacto físico real con el equipo de Park en un andén de carga — se separa de Lev deliberadamente (cada uno hacia un lado) para dividir cualquier persecución. Sofia la sigue; el roce con ella queda aclarado como no intencional (Sabine no la toca — un fragmento del contenedor que revienta Lev la hiere). Escapa junto con Lev, sin captura.
@@ -72,6 +72,6 @@ Primer contacto físico real con el equipo de Park en un andén de carga — se 
 
 | Person | Dynamic |
 |---|---|
-| Oliver | Parte del acuerdo Cap 18. La mecánica de información fue su reserva explícita — Oliver la recibió sin argumentar. |
+| Oliver | Parte del acuerdo Cap 46. La mecánica de información fue su reserva explícita — Oliver la recibió sin argumentar. |
 | Lev | Opuestos en relación con la institución. Él le mostró que existe algo fuera; ella lo ancló más tiempo del que habría aguantado solo. |
 | Pier / Petra | Solidaridad de colaboración formal. |

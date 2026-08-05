@@ -10,7 +10,7 @@ updated: 2026-07-06
 
 # Timeline — Ledger of Domains, Libro 1
 
-In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 19 = January 2026 (Venezuela).
+In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 54 = January 2026 (Venezuela).
 
 ---
 
@@ -86,7 +86,7 @@ In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 19 = January 2026 (Vene
 | First exterior operation — Potestad colonia, 46 km | 31 | Week ~30 |
 | Riku Stage 3 Estática — colony decoordinated | 32 | |
 | Oliver meets Kaspar/"Martin" in the plaza | 33 | **Start of 9-day silence** |
-| Sisi confronts her different regime; Oliver promises to ask Voss | 34 | 9 days after Cap 33 |
+| Sisi confronts her different regime; Oliver promises to ask Voss | 34 | 9 days after Cap 68 |
 | Kaspar's irruption — Tomás penetrates north wall | 35 | Day 9 of silence |
 | Sisi departs with Kaspar and Tomás | 36 | |
 | Aftermath — Centro sealed; group departs | 37 | 47 min after irruption. Sabine + Lev: planned departure confirmed. Destino probable: El Quai (Centro Lemán). `[DESTINO]` open in ms. |
@@ -99,9 +99,9 @@ In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 19 = January 2026 (Vene
 |---|---|
 | Arrives Centro Valais | Week 1 |
 | First deliberate copy (Estática) | Week 13 |
-| Cap 21 (Park arrives) | Week 17 |
+| Cap 56 (Park arrives) | Week 17 |
 | First exterior operation | Week ~30 |
-| Irrupción (Cap 35–36) | Week ~34–35 |
+| Irrupción (Cap 70–71) | Week ~34–35 |
 
 ---
 
@@ -109,8 +109,8 @@ In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 19 = January 2026 (Vene
 
 - Kaspar's 40-year timeline: 1982 (copy) → 1983 (escape) → 2025 (active near Centro). Exact movements undocumented.
 - Anke: worked AMAT Geneva ~2003–2014. Kaspar observed her during those 11 years. Current status unknown.
-- Park M4 Hartford: autumn 2025, immediately following Grayhaven (GRH-094) — BSA Cap 1 references Grayhaven as freshly closed.
+- Park M4 Hartford: autumn 2025, immediately following Grayhaven (GRH-094) — BSA Cap 8 references Grayhaven as freshly closed.
 - Park M5 Seoul (→ Rango 3): weeks after Hartford, still autumn 2025.
-- Park M6 Lisbon: begins "tres días después de la isla" (BSA Cap 14) — lands in autumn 2025. **Confirmed 2026-07-06:** the arc's climax (BSA Cap 18-19) falls on 1 November 2025 — Dia de Todos os Santos, 270th anniversary of the Lisboa earthquake, the Vigília das velas at the Carmo ruins.
-- Park M7 Budapest: after Lisbon, before January 2026 (Venezuela M8/LoD Cap 19) — exact dates still open canon.
+- Park M6 Lisbon: begins "tres días después de la isla" (BSA Cap 26) — lands in autumn 2025. **Confirmed 2026-07-06:** the arc's climax (BSA Cap 30-31) falls on 1 November 2025 — Dia de Todos os Santos, 270th anniversary of the Lisboa earthquake, the Vigília das velas at the Carmo ruins.
+- Park M7 Budapest: after Lisbon, before January 2026 (Venezuela M8/LoD Cap 54) — exact dates still open canon.
 - Hartford zone: active anomaly since 1952. Park's M4 (Hartford) = connected but not resolved.

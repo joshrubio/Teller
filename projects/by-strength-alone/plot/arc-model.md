@@ -48,7 +48,7 @@ Documento vivo. Cada arco cerrado añade una sección de variación. Úsalo como
 
 **combat.md nació a mitad de arco.** Arc 1 no necesitó un framework formal de coreografía — los combates eran más cortos y menos frecuentes. Arc 2 sí, porque el combate pasó a ser el vehículo principal de varios capítulos completos.
 
-**La pregunta del arco se resolvió con una no-respuesta explícita, no con atmósfera.** Ji-ho literalmente esquiva la pregunta de Park en diálogo directo (Cap 13) en vez de que quede flotando sin nombrarse. Más directo que el método de Arc 1, mismo efecto de no-resolución.
+**La pregunta del arco se resolvió con una no-respuesta explícita, no con atmósfera.** Ji-ho literalmente esquiva la pregunta de Park en diálogo directo (Cap 22) en vez de que quede flotando sin nombrarse. Más directo que el método de Arc 1, mismo efecto de no-resolución.
 
 ---
 

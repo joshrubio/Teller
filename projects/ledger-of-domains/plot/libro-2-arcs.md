@@ -14,10 +14,10 @@ updated: 2026-06-25
 
 | Fecha | Evento |
 |---|---|
-| Mar–abr 2026 | Ledger Libro 1 Cap 37 — Centro Valais sellado. Oliver elige quedarse. |
+| Mar–abr 2026 | Ledger Libro 1 Cap 72 — Centro Valais sellado. Oliver elige quedarse. |
 | Abr–jun 2026 | Grupo en El Quai (interlude). Calma. Tiempo para conectar. |
 | **24 jun 2026** | **Evento global — despertar de Principados. Múltiples teatros simultáneos.** |
-| ~jul 2026 | Libro 2 Cap 38 — apertura Ji-ho POV. |
+| ~jul 2026 | Libro 2 Cap 73 — apertura Ji-ho POV. |
 | ~ago 2026 | Reclutamiento excepcional. Campamento Centro Marado — inicio. |
 | ~feb 2027 | Deadline del campamento. Fin de Libro 2. |
 
@@ -51,15 +51,15 @@ Espejos de la pregunta: **Kaspar** (el poder debe ser libre) · **Elise** (eligi
 
 ## Estructura macro
 
-### El Quai — interlude (pre-Cap 38)
+### El Quai — interlude (pre-Cap 73)
 
-El grupo lleva semanas en El Quai cuando el evento llega. Primer cap de Libro 2 no empieza en Oliver — empieza en Ji-ho. El lector llega al grupo de Oliver en cap 39 o 40, cuando la convocatoria excepcional ya ha llegado.
+El grupo lleva semanas en El Quai cuando el evento llega. Primer cap de Libro 2 no empieza en Oliver — empieza en Ji-ho. El lector llega al grupo de Oliver en cap 74 o 40, cuando la convocatoria excepcional ya ha llegado.
 
 El Quai en el momento del evento: las noticias llegan por distintas vías de comunicación. El orden en que los personajes se enteran importa — quién recibe qué primero.
 
 ---
 
-### Cap 38 — Ji-ho POV (24 jun 2026)
+### Cap 73 — Ji-ho POV (24 jun 2026)
 
 Primer capítulo de Libro 2. POV externo al grupo de Oliver — primera vez que Ledger usa un POV fuera del Centro Valais.
 

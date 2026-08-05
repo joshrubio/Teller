@@ -29,7 +29,7 @@ Ha ayudado informalmente a agentes con Domains discretos/sutiles (no de fuerza b
 
 Yusuf (Domain Densidad, Nivel 3 — ver `system/domains.md`) está retirado de campo activo mucho antes de estos eventos; LoD lo reincorpora solo como instructor. No aparece físicamente en BSA. Salgado puede mencionarlo como referencia de tercero al explicar su propia filosofía — el ejemplo de un usuario que pelea más con el Odem aplicado con precisión que con el Domain en sí — sin que Yusuf esté presente en la escena.
 
-## Canon — BSA Caps 14-15
+## Canon — BSA Caps 26-27
 
 <!-- canonical -->
 - Quince años catalogando cada marca que el linaje Vasconcelos deja en la ciudad — reconoce al instante que la marca de Alfama no es de ellos ("la técnica es distinta, más agresiva").

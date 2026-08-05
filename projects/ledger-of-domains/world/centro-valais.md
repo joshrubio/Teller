@@ -21,14 +21,14 @@ Canton of Valais, Switzerland. ~1,400m altitude. Stone building converted in an 
 | **Oliver** | Registro | S (estimated) | Copies Domains by observing active Odem | Copy without conditions; copy without direct vision; copy Mente | Active evaluation |
 | **Dara** | Doble | 3 | Creates a temporary solid physical copy of herself | Maintain it more than minutes. Double cannot use her Domain | Active evaluation |
 | **Riku** | Estática | 3 | Generates EM interference in variable radius | Cannot aim or filter — everything fails equally. Low control; occurs involuntarily. | Active evaluation |
-| **Sisi** | Mente | — | Operates inside others' perception/cognition | Activate without direct supervision. No exterior Odem expression | Arrived Cap 22. |
+| **Sisi** | Mente | — | Operates inside others' perception/cognition | Activate without direct supervision. No exterior Odem expression | Arrived Cap 57. |
 | **Asha** | Tensión | 2 | Controls tension in objects, zones, structures — tightens or loosens | — | Functional integration |
 | **Lev** | Calor | 2 | Extracts heat from everything in radius and concentrates or disperses it | Thermally uniform environments weaken him. Intensive use affects allies in radius | Functional integration |
 | **Nadia** | Impulso | 2 | Generates directed force without physical contact | Straight line only — cannot curve the impulse | Functional integration |
 | **Pier** | Peso | 1 | Controls local gravity — levitation, extreme weight, near-weightlessness | — | Formal collaboration |
-| **Sabine** | Ancla | 1 | Fixes objects or people in space — immovable. At maximum: physiologically lethal | Move herself while maintaining multiple simultaneous anchors | **Departed Cap 36** |
+| **Sabine** | Ancla | 1 | Fixes objects or people in space — immovable. At maximum: physiologically lethal | Move herself while maintaining multiple simultaneous anchors | **Departed Cap 71** |
 | **Petra** | Canje | 2 | Swaps the position of two targets instantly within visual range | Targets with very different mass; requires direct vision | Active |
-| **Tomás** | Tránsito | 2 | Passes through inorganic matter (stone, metal, glass, plastic) | Pass through living beings — Odem makes them impermeable. Containment: dense organic matter (wood, biological compounds) | **External assignment Cap 18 / Departed Cap 36** |
+| **Tomás** | Tránsito | 2 | Passes through inorganic matter (stone, metal, glass, plastic) | Pass through living beings — Odem makes them impermeable. Containment: dense organic matter (wood, biological compounds) | **External assignment Cap 46 / Departed Cap 71** |
 
 > *Scale: 4=minor · 3=moderate · 2=high · 1=critical · S=special. Level reflects estimated maximum potential, not current control.*
 
@@ -64,9 +64,9 @@ Canton of Valais, Switzerland. ~1,400m altitude. Stone building converted in an 
 |---|---|---|
 | **Maren Steiger** | Theory & Evaluation | AMAT-EU researcher, 6 years with Voss. Longitudinal evaluation, documentation, individual sessions. |
 | **Pier** | Domain Control (peer mentor) | Veteran subject, formal collaboration. Teaches from inside — key distinction. |
-| **Yusuf** | Physical conditioning & body-Domain integration | Former AMAT field agent. Densidad Domain (Nivel 3): concentrates Odem in body points for localized impact resistance. Does not use it in training. First visible activation: Cap 26, demonstration combat against Park. |
+| **Yusuf** | Physical conditioning & body-Domain integration | Former AMAT field agent. Densidad Domain (Nivel 3): concentrates Odem in body points for localized impact resistance. Does not use it in training. First visible activation: Cap 61, demonstration combat against Park. |
 | **Hana** | Protocols & AMAT operations | Young Geneva administrative. Knows the rules perfectly; no field experience. |
-| **Park** | Combat tactics & hand-to-hand | Placed at the Centro by Voss without Park knowing. Active since Cap 20. |
-| **Brenner** | Coordinator of Operational Assignments, AMAT-EU Geneva | Signs transfer orders. Deployment authority. First appearance Cap 18. |
+| **Park** | Combat tactics & hand-to-hand | Placed at the Centro by Voss without Park knowing. Active since Cap 55. |
+| **Brenner** | Coordinator of Operational Assignments, AMAT-EU Geneva | Signs transfer orders. Deployment authority. First appearance Cap 46. |
 
-> Tutor introduction caps: Pier — brief in Cap 13. Yusuf — Caps 14–15. Hana — Caps 15–16. Park — Cap 20.
+> Tutor introduction caps: Pier — brief in Cap 33. Yusuf — Caps 34–35. Hana — Caps 35–44. Park — Cap 55.

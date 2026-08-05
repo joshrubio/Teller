@@ -21,7 +21,7 @@ Espacio doméstico y ritual a la vez — no un templo separado de la vida famili
 
 ## Función narrativa (BSA Arc 3)
 
-Escenario probable para el Cap 17 (Nodo) — donde Park descubre la verdad completa sobre el linaje y A Saudade. Contraste deliberado con la sede AMAT-PT (institucional, moderna dentro de lo antiguo) — la Quinta es puramente familiar, sin la capa institucional encima.
+Escenario probable para el Cap 29 (Nodo) — donde Park descubre la verdad completa sobre el linaje y A Saudade. Contraste deliberado con la sede AMAT-PT (institucional, moderna dentro de lo antiguo) — la Quinta es puramente familiar, sin la capa institucional encima.
 
 ## Notas
 

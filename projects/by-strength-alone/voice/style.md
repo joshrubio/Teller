@@ -12,7 +12,7 @@ updated: 2026-06-20
 
 **Narrador:** Omnisciente-parcial. Sigue a Park como centro de gravedad, pero no está atrapado en su cabeza. Puede leer otros personajes, situaciones, contexto institucional, documentos, o el pasado cuando sirve a la narrativa. Park es el ancla — el narrador tiene radio más amplio.
 
-> Prueba canónica: el evento de 1952 narrado en detalle en Cap 1 — Park no estuvo ahí. El narrador accede al documento, a Hendricks tomando una decisión sola, al peso institucional de la escena. Todo eso es el narrador moviéndose alrededor de Park, no Park percibiendo.
+> Prueba canónica: el evento de 1952 narrado en detalle en Cap 8 — Park no estuvo ahí. El narrador accede al documento, a Hendricks tomando una decisión sola, al peso institucional de la escena. Todo eso es el narrador moviéndose alrededor de Park, no Park percibiendo.
 
 **POV de Park:** Park Jun-ho — Domain de Strength (F = ma, joint-axis). Sin acceso perceptivo al Odem. El mundo sobrenatural existe pero Park lo lee de segunda mano: rastros, comportamiento, consecuencia. Trabaja por inferencia acumulada.
 
@@ -35,7 +35,7 @@ updated: 2026-06-20
 Park has two distinct internal narration modes. Both are active; they alternate based on what the scene demands.
 
 ### Layer 1 — Physical/detective
-Anchors to what Park observes: angles, proportions, data, consequence. Arrives at conclusions through accumulated specifics. Already canonical in Cap 1.
+Anchors to what Park observes: angles, proportions, data, consequence. Arrives at conclusions through accumulated specifics. Already canonical in Cap 8.
 
 > *"El cristal no tenía el color correcto."*
 

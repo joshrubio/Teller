@@ -25,12 +25,12 @@ updated: 2026-06-17
 
 ## Analogies used
 
-- "variable de entrada / variable de salida / predecir la salida" — Cap 12
-- "resistencia del objeto antes de la estructura del Dominio" — Cap 16
-- "archivo que ha terminado de cargar" (Oliver describing her signature) — Cap 13
+- "variable de entrada / variable de salida / predecir la salida" — Cap 25
+- "resistencia del objeto antes de la estructura del Dominio" — Cap 44
+- "archivo que ha terminado de cargar" (Oliver describing her signature) — Cap 33
 
 ## Watch for
 
 <!-- canonical -->
-- **"la atención directa que Oliver había aprendido a reconocerle — no evaluativa, sino igualatoria"** — used verbatim in Cap 13. In later caps: NEVER repeat verbatim. Trust the reader knows her gaze.
+- **"la atención directa que Oliver había aprendido a reconocerle — no evaluativa, sino igualatoria"** — used verbatim in Cap 33. In later caps: NEVER repeat verbatim. Trust the reader knows her gaze.
 - "la atención X de alguien que Y" — globally eliminated. Do not reintroduce.

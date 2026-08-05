@@ -14,7 +14,7 @@ updated: 2026-06-17
 
 - Notes proportions and angles of space he enters.
 - Positions body calculating action angles before needing them.
-- **Slight head tilt before speaking** — minimal, not dramatic. Established Cap 24.
+- **Slight head tilt before speaking** — minimal, not dramatic. Established Cap 59.
 - Does not fill silences — uses them as information.
 
 ## Speech patterns

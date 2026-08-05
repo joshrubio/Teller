@@ -22,7 +22,7 @@ Control and its absence. Who chose what. Who had a choice and who didn't. Every 
 
 Processes situations as transactions — who got what, at what cost, with what leverage. His background (wealthy family, construction industry) gives him a fluency in deal structures that AMAT never anticipated. He can see the asymmetry in an arrangement before anyone else names it.
 
-Cap 26 (his POV chapter): Kaspar is described from the outside — old, precise, nothing that signals Domain. Tomás does not trust Kaspar, but he recognizes competence. His processing of "alguien en el Centro que pronto va a necesitar lo que nosotros sabemos" is not wonder — it's the calculation of someone who has learned to wait before reacting.
+Cap 61 (his POV chapter): Kaspar is described from the outside — old, precise, nothing that signals Domain. Tomás does not trust Kaspar, but he recognizes competence. His processing of "alguien en el Centro que pronto va a necesitar lo que nosotros sabemos" is not wonder — it's the calculation of someone who has learned to wait before reacting.
 
 ## Sensory priorities
 
@@ -39,7 +39,7 @@ Cap 26 (his POV chapter): Kaspar is described from the outside — old, precise,
 
 - Do not make his resistance sympathetic-soft. It's hard-edged and consistent. He is not looking to be understood; he already decided the system is what it is.
 - Do not use his wealth background to explain away his anger — the wealth is why they tried to buy their way out, which made it worse when they couldn't.
-- Do not let Kaspar charm him in narration — in Cap 26 Tomás is useful and knows it. The question of whether Kaspar is using him should remain uncomfortable, not resolved.
+- Do not let Kaspar charm him in narration — in Cap 61 Tomás is useful and knows it. The question of whether Kaspar is using him should remain uncomfortable, not resolved.
 
 ## Constraints
 

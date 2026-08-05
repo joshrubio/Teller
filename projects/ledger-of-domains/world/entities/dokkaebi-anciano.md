@@ -15,10 +15,10 @@ updated: 2026-07-02
 | | |
 |---|---|
 | **AMAT designation** | Sin ID formal — referenciado en campo como "el anciano" |
-| **Level** | 2 (confirmado BSA Cap 13, post-operación) |
+| **Level** | 2 (confirmado BSA Cap 22, post-operación) |
 | **Origin** | Dokkaebi de setenta años de antigüedad en la isla de Jeollanam-do, formado y sostenido por operaciones AMAT sucesivas sin disolución completa desde 1954 |
-| **First contact** | BSA Cap 10 (visto por primera vez orbitando el borde sur del claro) / BSA Cap 11 (combate directo, cuenco de los anclajes) |
-| **Status** | Herido gravemente / núcleo partido en Cap 12 — no confirmado disuelto en el momento del cierre de la operación |
+| **First contact** | BSA Cap 19 (visto por primera vez orbitando el borde sur del claro) / BSA Cap 20 (combate directo, cuenco de los anclajes) |
+| **Status** | Herido gravemente / núcleo partido en Cap 21 — no confirmado disuelto en el momento del cierre de la operación |
 
 ## Nature
 
@@ -36,12 +36,12 @@ Setenta años de exposición a operaciones AMAT sucesivas — sin resolución nu
 
 **Adaptación en combate:** cambia el vector de ataque a mitad de gesto cuando el oponente anticipa el punto de impacto — no lo hace por planificación, lo hace en tiempo real, dato que ningún dokkaebi anterior había mostrado.
 
-## Resolución (BSA Cap 11-12)
+## Resolución (BSA Cap 20-21)
 
-Park lo confronta primero en el cuenco de los anclajes de 1954 — combate extendido, primer golpe ofensivo completo de Domain de Park usado contra él (Cap 11). Kiki lo enfrenta con Zanma en Cap 12, el filo resolviendo el problema de la quemadura por contacto (alcance sin exposición prolongada de piel). Herido en tres intercambios reales — no una victoria limpia: el anciano estuvo cerca de incapacitarla dos veces (embestida de hombro, onda de presión del muñón).
+Park lo confronta primero en el cuenco de los anclajes de 1954 — combate extendido, primer golpe ofensivo completo de Domain de Park usado contra él (Cap 20). Kiki lo enfrenta con Zanma en Cap 21, el filo resolviendo el problema de la quemadura por contacto (alcance sin exposición prolongada de piel). Herido en tres intercambios reales — no una victoria limpia: el anciano estuvo cerca de incapacitarla dos veces (embestida de hombro, onda de presión del muñón).
 
 Rompe el eje del combate al sentir que pierde y carga hacia Park en vez de hacia Kiki — busca al agente ya herido, no al arma que lo corta. Park lo desvía tres grados sin gastar reserva; Kiki cierra con el corte final al núcleo. El núcleo se parte en dos mitades desiguales que no pierden coherencia del todo — estado ambiguo hasta el cierre de la operación, consistente con el principio "no mueren, esperan."
 
 ## Catalog status
 
-Clasificación oficial Nivel 2 confirmada por Park Taeho (Director AMAT-KR) en el reporte de cierre de operación, BSA Cap 13. Sin ID formal AMAT — primera instancia de esta escala y capacidad documentada en la rama.
+Clasificación oficial Nivel 2 confirmada por Park Taeho (Director AMAT-KR) en el reporte de cierre de operación, BSA Cap 22. Sin ID formal AMAT — primera instancia de esta escala y capacidad documentada en la rama.

@@ -45,12 +45,12 @@ Ji-ho is his brother-in-law or brother (Park family — exact relation TBD). The
 
 ## Relationship with Cartwright
 
-Friends since before Park Jun-ho was born. Called in a favor to arrange Park's transfer to Seoul (BSA Cap 6). Cartwright approved the transfer; the father designed the operational rationale.
+Friends since before Park Jun-ho was born. Called in a favor to arrange Park's transfer to Seoul (BSA Cap 13). Cartwright approved the transfer; the father designed the operational rationale.
 
 ## BSA Canon
 
 <!-- canonical -->
-- BSA Cap 7: first direct appearance with Park Jun-ho. Office, plant 14, AMAT-KR HQ Seoul, ~02:00. Just arrived from travel; working before unpacking.
+- BSA Cap 16: first direct appearance with Park Jun-ho. Office, plant 14, AMAT-KR HQ Seoul, ~02:00. Just arrived from travel; working before unpacking.
 - Opens with "Hartford" — not a question. Reads the absence of credit from the record, not the result of the operation.
 - Does NOT explain the Cartwright favor mechanism — announces the transfer as approved, the island operation as active in three weeks, Park's role as external agent with nominable resolution.
 - Notices the arm in cabestrillo; says nothing for one beat. Asks "¿Cuánto tiempo?" — operational framing only.

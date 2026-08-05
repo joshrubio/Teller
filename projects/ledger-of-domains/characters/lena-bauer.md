@@ -46,7 +46,7 @@ Arc 1 (Hartford). Secondary detection method when localizadores fail. Her grid r
 
 <!-- canonical -->
 - Five years in Hartford.
-- Cap 3: described as having developed a secondary detection method through Hartford's distorted grid.
-- Cap 3 constraint: cannot discharge above threshold that would agitate saturated field — limits her offensive capacity significantly in zone.
-- BSA Cap 4: discharged at sub-threshold. Arc reached entity's right shoulder; entity absorbed the impact. Ground lit up along buried conduits for two seconds.
-- BSA Cap 5 (north sector climax): crossed the Hartford discharge threshold for the first time in this operation — full grid response. The arc covered the entire north sector; the ground lit up at every asphalt joint, buried conduits mapping the block in white light. Entity absorbed part, redirected part, could not manage both simultaneously. This is the threshold she had been avoiding all operation. She crossed it when the plan needed it.
+- Cap 10: described as having developed a secondary detection method through Hartford's distorted grid.
+- Cap 10 constraint: cannot discharge above threshold that would agitate saturated field — limits her offensive capacity significantly in zone.
+- BSA Cap 11: discharged at sub-threshold. Arc reached entity's right shoulder; entity absorbed the impact. Ground lit up along buried conduits for two seconds.
+- BSA Cap 12 (north sector climax): crossed the Hartford discharge threshold for the first time in this operation — full grid response. The arc covered the entire north sector; the ground lit up at every asphalt joint, buried conduits mapping the block in white light. Entity absorbed part, redirected part, could not manage both simultaneously. This is the threshold she had been avoiding all operation. She crossed it when the plan needed it.

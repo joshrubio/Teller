@@ -15,9 +15,9 @@ updated: 2026-07-02
 | | |
 |---|---|
 | **AMAT designation** | Categoría regional estándar — sin ID individual, catalogadas por incidente/zona |
-| **Level** | 4 — confirmado BSA Cap 13, clasificación estándar para instancia individual sin evolución/absorción previa |
+| **Level** | 4 — confirmado BSA Cap 22, clasificación estándar para instancia individual sin evolución/absorción previa |
 | **Origin** | Espíritu de persona muerta con agravio sin resolver — trauma de guerra, desastre, muerte violenta |
-| **First contact (BSA)** | Cap 9 (POV Seo, sector 2) / Cap 10 (combate extendido, claro) |
+| **First contact (BSA)** | Cap 15 (POV Seo, sector 2) / Cap 23 (combate extendido, claro) |
 | **Status** | La Potestad más común en Korea — presencia continua, no un incidente cerrado |
 
 ## Nature
@@ -41,4 +41,4 @@ Absorción de inercia + redirección funciona limpio contra gwisin individuales 
 
 ## Catalog status
 
-Nivel 4 confirmado como clasificación estándar (BSA Cap 13, Park Taeho). Las lecturas de campo durante combate activo con múltiples gwisin simultáneos pueden oscilar por interferencia — la clasificación de Nivel 4 es el resultado post-operación de una instancia individual, no la lectura en tiempo real bajo combate.
+Nivel 4 confirmado como clasificación estándar (BSA Cap 22, Park Taeho). Las lecturas de campo durante combate activo con múltiples gwisin simultáneos pueden oscilar por interferencia — la clasificación de Nivel 4 es el resultado post-operación de una instancia individual, no la lectura en tiempo real bajo combate.

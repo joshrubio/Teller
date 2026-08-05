@@ -15,9 +15,9 @@ updated: 2026-07-02
 | | |
 |---|---|
 | **AMAT designation** | Categoría regional estándar — sin ID individual, catalogadas por incidente/zona |
-| **Level** | 4 — confirmado BSA Cap 13, clasificación estándar para instancia individual sin evolución/absorción previa |
+| **Level** | 4 — confirmado BSA Cap 22, clasificación estándar para instancia individual sin evolución/absorción previa |
 | **Origin** | Espíritu de lugar u objeto — no de persona. El sustrato construye un cuerpo con lo que tiene a mano cuando el Odem se acumula sin molde humano que copiar |
-| **First contact (BSA)** | Cap 10 (borde sur del claro, tres instancias + una cuarta) |
+| **First contact (BSA)** | Cap 23 (borde sur del claro, tres instancias + una cuarta) |
 | **Status** | Categoría activa en la isla de Jeollanam-do; instancias evolucionadas ver fichas dedicadas |
 
 ## Nature
@@ -38,4 +38,4 @@ Impacto distribuido (puño completo, palma abierta) no es suficiente — el dokk
 
 ## Catalog status
 
-Nivel 4 confirmado como clasificación estándar (BSA Cap 13, Park Taeho) para instancia individual sin absorción ni evolución. Instancias que exceden este baseline — mayor escala, capacidades no estándar, absorción activa — reciben ficha propia: ver `dokkaebi-anciano.md` y `quimera-evolucionada.md`.
+Nivel 4 confirmado como clasificación estándar (BSA Cap 22, Park Taeho) para instancia individual sin absorción ni evolución. Instancias que exceden este baseline — mayor escala, capacidades no estándar, absorción activa — reciben ficha propia: ver `dokkaebi-anciano.md` y `quimera-evolucionada.md`.

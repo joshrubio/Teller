@@ -30,7 +30,7 @@ Park Ji-ho (박지호) — ~47 — Rango S — hermano menor de Taeho
 - La familia Park operó en la costa occidental de la península durante generaciones antes de AMAT. Uno de los clanes suhoja fundacionales reunidos en Seoul en 1954.
 - El caso de Jeollanam-do (isla, Arc 2) es operación Park desde el cierre provisional de 1954 — continuidad directa de linaje a operación activa.
 - Taeho alcanzó Director (Rango 1 administrativo). Ji-ho alcanzó Rango S antes — inversión jerárquica que define la dinámica entre hermanos.
-- BSA Cap 13: Kiki alcanza Rango 2 en la misma operación en que Jun-ho alcanza Rango 3 — ella queda por encima de él, generacionalmente. Taeho lo declara explícitamente sin suavizarlo ("los rangos miden lo que cada agente resolvió, no lo que resolvieron juntos"). Ninguno de los tres hermanos lo procesa igual: Kiki intenta defender el mérito de Jun-ho ante el padre; Jun-ho no lo discute.
+- BSA Cap 22: Kiki alcanza Rango 2 en la misma operación en que Jun-ho alcanza Rango 3 — ella queda por encima de él, generacionalmente. Taeho lo declara explícitamente sin suavizarlo ("los rangos miden lo que cada agente resolvió, no lo que resolvieron juntos"). Ninguno de los tres hermanos lo procesa igual: Kiki intenta defender el mérito de Jun-ho ante el padre; Jun-ho no lo discute.
 
 ## Nombres completos
 
@@ -38,5 +38,5 @@ Park Ji-ho (박지호) — ~47 — Rango S — hermano menor de Taeho
 |---|---|---|---|
 | Park Taeho | 박태호 | ~52 | Director AMAT-KR, padre de Jun-ho y Kiki |
 | Park Ji-ho | 박지호 | ~47 | Rango S, tío de Jun-ho, hermano menor de Taeho |
-| Park Jun-ho | 박준호 | ~24 | Agente Rango 4→3 (BSA Cap 13), protagonista |
-| Park Ki-yeon (Kiki) | 박기연 | ~17 | Media-hermana de Jun-ho, Rango 2 confirmado BSA Cap 13 — supera el rango de Jun-ho en la misma operación |
+| Park Jun-ho | 박준호 | ~24 | Agente Rango 4→3 (BSA Cap 22), protagonista |
+| Park Ki-yeon (Kiki) | 박기연 | ~17 | Media-hermana de Jun-ho, Rango 2 confirmado BSA Cap 22 — supera el rango de Jun-ho en la misma operación |

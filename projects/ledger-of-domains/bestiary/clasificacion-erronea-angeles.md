@@ -30,10 +30,10 @@ Ni la red precursora ni la AMAT formal intentaron nunca resolver la pregunta de 
 
 **Regla dura de escritura:** ningún personaje de la serie afirma nunca, dentro de la ficción, que estos casos fueran o no fueran ángeles reales. El archivo se queda deliberadamente sin resolver — la pregunta le pertenece al lector, no al texto.
 
-## Hilo paralelo — los otros dos términos del versículo (Cap 50, Libro 2)
+## Hilo paralelo — los otros dos términos del versículo (Cap 85, Libro 2)
 
 <!-- canonical -->
-Efesios 6:12 tiene cuatro términos, no dos: "principados", "potestades", "gobernadores de las tinieblas de este siglo", "huestes espirituales de maldad". AMAT solo institucionalizó los dos primeros como vocabulario de clasificación (son sustantivos-categoría; los otros dos son frases descriptivas, no etiquetas). En Cap50, Johanna hace una **truth claim personal** —su tradición sí interpreta "gobernadores de las tinieblas" como influencia espiritual territorial real, con huella en fenómenos sociales (guerra, idolatría, etc.)— explícitamente marcada como creencia propia, no como hecho narrado. Anka no la contradice ni la confirma: responde con una pregunta filosófica genuina (¿cómo distinguirías esa influencia de una tendencia cultural sostenida? en la práctica, ambas se verían idénticas a cualquier instrumento). Mismo patrón de no-resolución que el resto de este archivo — ninguna de las dos posturas gana la escena.
+Efesios 6:12 tiene cuatro términos, no dos: "principados", "potestades", "gobernadores de las tinieblas de este siglo", "huestes espirituales de maldad". AMAT solo institucionalizó los dos primeros como vocabulario de clasificación (son sustantivos-categoría; los otros dos son frases descriptivas, no etiquetas). En Cap85, Johanna hace una **truth claim personal** —su tradición sí interpreta "gobernadores de las tinieblas" como influencia espiritual territorial real, con huella en fenómenos sociales (guerra, idolatría, etc.)— explícitamente marcada como creencia propia, no como hecho narrado. Anka no la contradice ni la confirma: responde con una pregunta filosófica genuina (¿cómo distinguirías esa influencia de una tendencia cultural sostenida? en la práctica, ambas se verían idénticas a cualquier instrumento). Mismo patrón de no-resolución que el resto de este archivo — ninguna de las dos posturas gana la escena.
 
 ## Por qué esto importa para la trama
 

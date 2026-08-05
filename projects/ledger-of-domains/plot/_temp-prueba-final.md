@@ -9,9 +9,9 @@ updated: 2026-07-26
 
 # Prueba final del Reducto — plan elegido (2026-07-26)
 
-> **Fusionado a canon 2026-07-26:** este plan ya vive, capítulo a capítulo con numeración real (Cap68-82), en `plot/chapter-plan-libro2.md` (sección Arc2). Este archivo queda como registro del brainstorming, no como fuente de verdad — usar el otro documento para cualquier referencia futura.
+> **Fusionado a canon 2026-07-26:** este plan ya vive, capítulo a capítulo con numeración real (Cap103-117), en `plot/chapter-plan-libro2.md` (sección Arc2). Este archivo queda como registro del brainstorming, no como fuente de verdad — usar el otro documento para cualquier referencia futura.
 
-Borrador de trabajo. No es canon todavía hasta escribirse. Contexto: Cap67 (Reber) anuncia día libre + evaluación final "pasado mañana", real y de campo, cierre real de Arc1 (Cap38-67+, se extiende más allá de Cap67 — mini-arco propio antes de Arc2). Petra ya se fue del Centro (confirmado Cap67) — no aparece en este mini-arco.
+Borrador de trabajo. No es canon todavía hasta escribirse. Contexto: Cap102 (Reber) anuncia día libre + evaluación final "pasado mañana", real y de campo, cierre real de Arc1 (Cap73-102+, se extiende más allá de Cap102 — mini-arco propio antes de Arc2). Petra ya se fue del Centro (confirmado Cap102) — no aparece en este mini-arco.
 
 **Formato:** estilo York Shin (HxH) — instructores cazando activamente a los candidatos.
 
@@ -28,11 +28,11 @@ Borrador de trabajo. No es canon todavía hasta escribirse. Contexto: Cap67 (Reb
 
 **El grupo, mientras tanto:** no se queda a la defensiva — caza activamente dogtags de otros candidatos junto con evadir instructores, como el resto del Reducto. Oliver se separa del grupo en algún punto de la semana, después de una discusión real (el grupo no está de acuerdo, o no del todo) para seguir su propio plan en solitario.
 
-**Punto de giro — Oliver se independiza:** ante esa cuenta imposible, Oliver decide una solución drástica por su cuenta, sin (o casi sin) consultarlo del todo con el grupo: **caza en solitario masiva**. Usa todo su arsenal de Domains copiados de forma deliberada y calculada — pago directo de la lección de Cap64 ("elegir con qué me quedo, no desperdiciar") — para acumular él solo suficientes dogtags/evasiones que cubran matemáticamente el déficit del grupo. Apuesta de todo o nada, lo aísla físicamente del resto (encaja con la regla de un solo eje de percepción) y lo pone en la trayectoria de cruzarse con los instructores, incluido Conti — primer uso en pantalla de Canje, contra un oponente que lo supera en potencia por completo (Rango S). Gana por listeza, no por fuerza, mismo patrón ya establecido con Yegor/Dax.
+**Punto de giro — Oliver se independiza:** ante esa cuenta imposible, Oliver decide una solución drástica por su cuenta, sin (o casi sin) consultarlo del todo con el grupo: **caza en solitario masiva**. Usa todo su arsenal de Domains copiados de forma deliberada y calculada — pago directo de la lección de Cap99 ("elegir con qué me quedo, no desperdiciar") — para acumular él solo suficientes dogtags/evasiones que cubran matemáticamente el déficit del grupo. Apuesta de todo o nada, lo aísla físicamente del resto (encaja con la regla de un solo eje de percepción) y lo pone en la trayectoria de cruzarse con los instructores, incluido Conti — primer uso en pantalla de Canje, contra un oponente que lo supera en potencia por completo (Rango S). Gana por listeza, no por fuerza, mismo patrón ya establecido con Yegor/Dax.
 
 ## Estructura macro — ESTE MINI-ARCO ES ARC2 (revisado 2026-07-26)
 
-**Decisión mayor:** el mini-arco de Milán ya no es una extensión de Arc1 — **es Arc2 entero**. Arc1 cierra limpio en Cap67. Arc2 = Milán (7-8 caps) + resto de líneas B/C/D drásticamente comprimidas y aceleradas hacia el cierre del libro.
+**Decisión mayor:** el mini-arco de Milán ya no es una extensión de Arc1 — **es Arc2 entero**. Arc1 cierra limpio en Cap102. Arc2 = Milán (7-8 caps) + resto de líneas B/C/D drásticamente comprimidas y aceleradas hacia el cierre del libro.
 
 **Líneas B/C/D comprimidas:**
 - **Línea B (Yusuf/Kaspar) — 1 capítulo, todo junto:** acercamiento + fragmento de lo que Kaspar quería + muerte de Yusuf, comprimido en un solo capítulo brutal. Puede intercalarse cronológicamente durante la semana de Milán (POV Yusuf, en paralelo) — **el grupo de Oliver NO se entera de su muerte hasta después del examen final**, no en tiempo real.
@@ -52,11 +52,11 @@ Borrador de trabajo. No es canon todavía hasta escribirse. Contexto: Cap67 (Reb
 
 ## Beats capítulo a capítulo — mini-arco de Milán (8 capítulos con el día libre, confirmados 2026-07-26)
 
-**0. Día libre.** Establecido en Cap67 (Reber: "mañana, libre"). Pendiente de planear en detalle — probablemente el último respiro real del grupo antes de todo lo que sigue.
+**0. Día libre.** Establecido en Cap102 (Reber: "mañana, libre"). Pendiente de planear en detalle — probablemente el último respiro real del grupo antes de todo lo que sigue.
 
 **1. Llegada / reglas del juego.** Soltados en Milán, briefing de reglas (dogtags, semana, 25 plazas — Johanna: "el año pasado fueron 50"), primer roce con la caza esa misma noche/día 1. En algún punto, discusión de estrategias posibles para ganar el juego — sombra de la imposibilidad de que todo Valais supere el examen ya visible aquí, antes de que se confirme con números en el Cap3. Se ve o se menciona qué approach toman otros candidatos: Dax, Johanna, Noa, Iker y el resto del club de pelea.
 
-**2. Días intermedios — el grupo caza en serio.** Valais funciona como en la operación contra la colonia (Libro1, Cap31/32) — Oliver como organizador por sus habilidades sensoriales, eco directo de cómo se organizan los propios instructores con Anka como organizadora. Pero Oliver ha crecido desde entonces, y le frustra saber que podría hacer más (eco directo de la conversación con Maren/Anke, Cap64). A mitad de una caza, algo sale mal — la estrategia del grupo deja escapar a alguien, y Oliver usa fuerza innecesaria contra un sujeto mucho más abajo en la tabla general.
+**2. Días intermedios — el grupo caza en serio.** Valais funciona como en la operación contra la colonia (Libro1, Cap66/67) — Oliver como organizador por sus habilidades sensoriales, eco directo de cómo se organizan los propios instructores con Anka como organizadora. Pero Oliver ha crecido desde entonces, y le frustra saber que podría hacer más (eco directo de la conversación con Maren/Anke, Cap99). A mitad de una caza, algo sale mal — la estrategia del grupo deja escapar a alguien, y Oliver usa fuerza innecesaria contra un sujeto mucho más abajo en la tabla general.
 
 **3. La cuenta imposible / la discusión.** Oliver sugiere separarse — la caza sería más rápida. El grupo no está de acuerdo, prefieren quedarse juntos. Oliver se enoja y decide irse — su decisión parece irracional, basada en la frustración, objetivamente menos probable que consiga más puntos solo. El equipo de Valais se queda sin sus "ojos" en el campo (pierde la ventaja sensorial de Oliver).
 
@@ -70,6 +70,6 @@ Borrador de trabajo. No es canon todavía hasta escribirse. Contexto: Cap67 (Reb
 
 ## Notas pendientes
 
-- Reykjanes (Islandia) sigue siendo canon de fondo independiente de este plan — es el sitio de la operación de la que volvió Ji-ho (Cap66, ya sincronizado). No se reutiliza como sitio de esta prueba final, pero no se revierte.
+- Reykjanes (Islandia) sigue siendo canon de fondo independiente de este plan — es el sitio de la operación de la que volvió Ji-ho (Cap101, ya sincronizado). No se reutiliza como sitio de esta prueba final, pero no se revierte.
 - Nombre/apariencia física de Padre Andrea Conti — pendiente de detallar.
 - Restricción exacta del rango de Omnipresencia (ligado al alcance de Odem) — pendiente de cifra o descripción concreta al escribir.

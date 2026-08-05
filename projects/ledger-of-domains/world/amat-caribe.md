@@ -13,9 +13,9 @@ updated: 2026-07-07
 
 ## La rama
 
-Venezuela (~28M habitantes), sede en Caracas. Nombre ya establecido en canon de Ledger of Domains (`Capitulo 19.md`, LoD Libro 1) — contacto conocido: **Claudia Ferrer**. A diferencia de las ramas europeas (Portugal, Hungría), AMAT-Caribe no opera con la cobertura institucional de un estado funcional detrás — funciona en los márgenes de un "mafia state" real, donde los cuerpos de seguridad oficiales (SEBIN, FANB) están ellos mismos cooptados por estructuras criminales (Tren de Aragua, Cártel de los Soles). La rama no puede confiar en la policía ni en el ejército como aliados por defecto — a menudo son parte del problema.
+Venezuela (~28M habitantes), sede en Caracas. Nombre ya establecido en canon de Ledger of Domains (`Capitulo 54.md`, LoD Libro 1) — contacto conocido: **Claudia Ferrer**. A diferencia de las ramas europeas (Portugal, Hungría), AMAT-Caribe no opera con la cobertura institucional de un estado funcional detrás — funciona en los márgenes de un "mafia state" real, donde los cuerpos de seguridad oficiales (SEBIN, FANB) están ellos mismos cooptados por estructuras criminales (Tren de Aragua, Cártel de los Soles). La rama no puede confiar en la policía ni en el ejército como aliados por defecto — a menudo son parte del problema.
 
-BSA Arc 5 (Caps 29-34) ocurre en un momento de colapso institucional agudo: la operación extranjera que captura y extrae a Nicolás Maduro de Venezuela (2:01 AM hora local, 3 de enero de 2026 — hora real confirmada, ver `chapter-plan.md`) parte por la mitad la ya frágil cadena de mando de seguridad del país durante la propia misión de Park, que asalta el sitio de Roa esa misma madrugada.
+BSA Arc 5 (Caps 47-52) ocurre en un momento de colapso institucional agudo: la operación extranjera que captura y extrae a Nicolás Maduro de Venezuela (2:01 AM hora local, 3 de enero de 2026 — hora real confirmada, ver `chapter-plan.md`) parte por la mitad la ya frágil cadena de mando de seguridad del país durante la propia misión de Park, que asalta el sitio de Roa esa misma madrugada.
 
 ## Principio ontológico — identidad narrativa colectiva
 
@@ -46,7 +46,7 @@ A diferencia de Budapest (un solo linaje desestabilizando la tasa de despertares
 ## Notas
 
 <!-- canonical -->
-- BSA Arc 5: primera aparición de AMAT-Caribe en la serie (nombre y contacto — Claudia Ferrer — ya establecidos en LoD Libro 1, Cap 19). Primera rama donde el colapso del propio Estado, no solo la tolerancia institucional de AMAT, es parte activa del contexto operativo.
+- BSA Arc 5: primera aparición de AMAT-Caribe en la serie (nombre y contacto — Claudia Ferrer — ya establecidos en LoD Libro 1, Cap 54). Primera rama donde el colapso del propio Estado, no solo la tolerancia institucional de AMAT, es parte activa del contexto operativo.
 - Primera rama que trata el conocimiento popular/folklórico como epistemológicamente superior al protocolo AMAT en su dominio — contraste deliberado con el resto de la serie.
-- **Escrito Cap 29:** el colapso del país no se presenta como puramente político/económico — se insinúa explícitamente (narrador macro + Cartwright) que más de una facción dentro del propio aparato de poder ha buscado atajos en sitios que ningún funcionario debería mirar, no solo la de Roa. No se detalla más todavía — reservado para desarrollar si la trama lo requiere en libros futuros.
+- **Escrito Cap 47:** el colapso del país no se presenta como puramente político/económico — se insinúa explícitamente (narrador macro + Cartwright) que más de una facción dentro del propio aparato de poder ha buscado atajos en sitios que ningún funcionario debería mirar, no solo la de Roa. No se detalla más todavía — reservado para desarrollar si la trama lo requiere en libros futuros.
 - Cartwright confirma que AMAT-NA no sabía, antes de la llamada de Ferrer, que algo llevaba una década formándose en Sorte — refuerza el tema de "mundo del Odem fuera de AMAT" a escala institucional, no solo popular.

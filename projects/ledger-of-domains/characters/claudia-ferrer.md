@@ -15,8 +15,8 @@ updated: 2026-07-07
 
 | | |
 |---|---|
-| **Role** | Cabeza de la rama caribeña (AMAT-Caribe), sede Caracas. Nombre ya confirmado en canon — ver `Ledger of Domains/Capitulo 19.md` (Libro 1): es quien coordina el contacto de seguimiento para Yara Montiel tras el cierre de la misión M8. |
-| **Role in BSA Arc 5** | Superior directa de Park durante la misión del interior de Venezuela (Caps 29-34) — antes de la fase Caracas/Yara Montiel, que permanece sin cambios en LoD. |
+| **Role** | Cabeza de la rama caribeña (AMAT-Caribe), sede Caracas. Nombre ya confirmado en canon — ver `Ledger of Domains/Capitulo 54.md` (Libro 1): es quien coordina el contacto de seguimiento para Yara Montiel tras el cierre de la misión M8. |
+| **Role in BSA Arc 5** | Superior directa de Park durante la misión del interior de Venezuela (Caps 47-52) — antes de la fase Caracas/Yara Montiel, que permanece sin cambios en LoD. |
 
 ## Notes
 

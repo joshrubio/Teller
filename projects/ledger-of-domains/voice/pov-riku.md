@@ -14,9 +14,9 @@ updated: 2026-06-17
 
 - Looks at his own hands, especially the left — origin of the Domain.
   - **Available variants:** touches base of thumb / flexes fingers / opens hand palm up.
-  - Caps 14 and 15 used "miró sus propias manos" — in later caps use a DIFFERENT variant.
+  - Caps 34 and 15 used "miró sus propias manos" — in later caps use a DIFFERENT variant.
 - Speaks toward the floor when unsure of what he's about to say.
-- Sits on the floor without warning when the conversation matters — established Cap 15.
+- Sits on the floor without warning when the conversation matters — established Cap 35.
 
 ## Speech patterns
 
@@ -26,7 +26,7 @@ updated: 2026-06-17
 
 ## Analogies used
 
-- "buscar algo en una habitación oscura sabiendo que está ahí pero sin tener claro dónde" — Cap 15
+- "buscar algo en una habitación oscura sabiendo que está ahí pero sin tener claro dónde" — Cap 35
 
 ## Watch for
 

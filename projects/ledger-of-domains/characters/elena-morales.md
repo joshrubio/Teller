@@ -48,5 +48,5 @@ Arc 1 (Hartford). The operational pair with Brandt. Her Domain is the reason Hen
 
 <!-- canonical -->
 - Works in fixed operational pairs with Clara Brandt. Eleven years together at Hartford.
-- Described in Cap 2 as one of two "veteranas" Hendricks calls without instruction — shorthand established by eleven years of shared field work.
+- Described in Cap 9 as one of two "veteranas" Hendricks calls without instruction — shorthand established by eleven years of shared field work.
 - Does not shake hands. Habitual — after eleven years of knowing what her contact does, it became automatic.

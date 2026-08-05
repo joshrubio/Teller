@@ -30,9 +30,9 @@ Must sound **theoretical**, not intuitive. (Park = intuitive. They must never co
 
 ## Analogies used
 
-- "saber exactamente dónde está la gravedad en cada momento y decidir ir con ella" — Cap 14
-- Movement "elegido", each weight shift "calculado, no con esfuerzo sino con conciencia" — Cap 14
-- "no desperdiciaría ni un milímetro de distancia" — Cap 14
+- "saber exactamente dónde está la gravedad en cada momento y decidir ir con ella" — Cap 34
+- Movement "elegido", each weight shift "calculado, no con esfuerzo sino con conciencia" — Cap 34
+- "no desperdiciaría ni un milímetro de distancia" — Cap 34
 
 ## Watch for
 

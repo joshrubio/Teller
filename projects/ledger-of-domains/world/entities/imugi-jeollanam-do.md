@@ -15,10 +15,10 @@ updated: 2026-07-02
 | | |
 |---|---|
 | **AMAT designation** | Archivado administrativamente como "acumulador de umbral" |
-| **Level** | 1 — confirmado BSA Cap 13, el más alto registrado en la rama AMAT-KR |
+| **Level** | 1 — confirmado BSA Cap 22, el más alto registrado en la rama AMAT-KR |
 | **Origin** | Proto-dragón de la mitología coreana, transformación interrumpida por falta de yeouiju (orbe de dragón). Contenido en la isla desde el cierre provisional de 1954 |
-| **First contact** | BSA Cap 10 (POV de la entidad, reconoce el residuo de Odem de Hartford en Park sin acercarse) / BSA Cap 13 (emerge en pantalla por primera vez) |
-| **Status** | Disperso, no destruido — BSA Cap 13, un solo golpe de Ji-ho |
+| **First contact** | BSA Cap 19 (POV de la entidad, reconoce el residuo de Odem de Hartford en Park sin acercarse) / BSA Cap 22 (emerge en pantalla por primera vez) |
+| **Status** | Disperso, no destruido — BSA Cap 22, un solo golpe de Ji-ho |
 
 ## Nature
 
@@ -34,11 +34,11 @@ No es un Principado en sentido estándar — es algo adyacente. No puede complet
 
 **Organización gravitacional:** su presencia da coherencia emergente a los gwisin del área — no los dirige, los organiza por proximidad, como un campo gravitacional organiza objetos sin moverse. Explica el comportamiento coordinado de gwisin documentado durante décadas de operaciones en la isla.
 
-**Excepción a la pasividad — reconocimiento de Odem:** la única capacidad activa documentada. BSA Cap 10: percibe el residuo de Odem de Hartford que Park lleva encima — "algo viejo, algo que pesaba como pesaba el fondo" — y lo reconoce como afín al suyo propio ("como dos piedras del mismo río"). Decide esperar, sin datos suficientes para que el encuentro tenga sentido. BSA Cap 13: el mismo residuo lo atrae fuera de la pasividad total — primera vez en setenta años que se desplaza de forma perceptible durante una operación activa.
+**Excepción a la pasividad — reconocimiento de Odem:** la única capacidad activa documentada. BSA Cap 19: percibe el residuo de Odem de Hartford que Park lleva encima — "algo viejo, algo que pesaba como pesaba el fondo" — y lo reconoce como afín al suyo propio ("como dos piedras del mismo río"). Decide esperar, sin datos suficientes para que el encuentro tenga sentido. BSA Cap 22: el mismo residuo lo atrae fuera de la pasividad total — primera vez en setenta años que se desplaza de forma perceptible durante una operación activa.
 
-**Escala como arma:** no ataca por técnica — su cuerpo entero es el peligro. Al erguirse durante el Cap 13, el desplazamiento de aire y Odem comprime el pecho de los presentes a treinta metros de distancia; los árboles en pie se doblan hacia adentro. Estar cerca de algo de esa escala no es combate, es geografía.
+**Escala como arma:** no ataca por técnica — su cuerpo entero es el peligro. Al erguirse durante el Cap 22, el desplazamiento de aire y Odem comprime el pecho de los presentes a treinta metros de distancia; los árboles en pie se doblan hacia adentro. Estar cerca de algo de esa escala no es combate, es geografía.
 
-## Resolución (BSA Cap 13)
+## Resolución (BSA Cap 22)
 
 Ji-ho lo despacha en un solo golpe — Domain de Fuerza sin gesto de carga visible, contraste directo con el coste estructural que el mismo principio le exige a Park en el mismo capítulo. El impacto genera una onda que arrasa un sector completo del bosque; la cicatriz resultante tiene forma de arco/media luna, visible desde reconocimiento satelital al amanecer.
 
@@ -46,4 +46,4 @@ El cuerpo no se disuelve del todo — se separa en segmentos, cada uno todavía 
 
 ## Catalog status
 
-Nivel 1 confirmado por Park Taeho en el reporte de cierre (BSA Cap 13) — el nivel más alto que la rama AMAT-KR ha registrado en su historia operativa. Ji-ho revela a Park, sin que se lo pregunte, que el imugi vino específicamente por él — por el residuo de Hartford, no por el ruido del combate. No explica cómo lo sabe. El reporte oficial no incluye este dato.
+Nivel 1 confirmado por Park Taeho en el reporte de cierre (BSA Cap 22) — el nivel más alto que la rama AMAT-KR ha registrado en su historia operativa. Ji-ho revela a Park, sin que se lo pregunte, que el imugi vino específicamente por él — por el residuo de Hartford, no por el ruido del combate. No explica cómo lo sabe. El reporte oficial no incluye este dato.

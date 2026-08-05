@@ -38,9 +38,9 @@ Personificación del concepto de saudade — anhelo por lo ausente. Ligada, en e
 
 Ver `characters/mariana-vasconcelos.md`. La familia no copia el Domain de A Saudade (no es un proceso tipo Registro) — la alimentan con duelo ritual generacional y reciben el excedente de Odem como retorno, un despertar lento de capacidad tipo Domain a lo largo de generaciones. Patrón ligado a la séptima generación (ver ficha de personaje).
 
-## Vigília das velas — 1 de noviembre (BSA Cap 18)
+## Vigília das velas — 1 de noviembre (BSA Cap 30)
 
-Tradición civil real de Lisboa: cada Dia de Todos os Santos, aniversario del terremoto de 1755, las campanas de la ciudad tocan a las nueve y cuarenta de la mañana (hora exacta en que empezó a temblar) y esa misma noche decenas de miles suben en procesión silenciosa, vela en mano, hasta las ruinas del convento do Carmo — dejadas sin techo a propósito desde 1755, como memorial. Es, sin que la ciudad lo sepa, el mayor evento de duelo colectivo sincronizado del año — exactamente el combustible del que se alimenta A Saudade, concentrado en una noche y en el punto exacto donde el terremoto empezó. Escenario del clímax de Arc 3 (BSA Cap 18-19): Báthory intenta explotar esta concentración a una escala que ni su propio origen de 2011 (rabia de una multitud, ver `characters/bathory.md`) ni ningún ensayo posterior alcanzó.
+Tradición civil real de Lisboa: cada Dia de Todos os Santos, aniversario del terremoto de 1755, las campanas de la ciudad tocan a las nueve y cuarenta de la mañana (hora exacta en que empezó a temblar) y esa misma noche decenas de miles suben en procesión silenciosa, vela en mano, hasta las ruinas del convento do Carmo — dejadas sin techo a propósito desde 1755, como memorial. Es, sin que la ciudad lo sepa, el mayor evento de duelo colectivo sincronizado del año — exactamente el combustible del que se alimenta A Saudade, concentrado en una noche y en el punto exacto donde el terremoto empezó. Escenario del clímax de Arc 3 (BSA Cap 30-31): Báthory intenta explotar esta concentración a una escala que ni su propio origen de 2011 (rabia de una multitud, ver `characters/bathory.md`) ni ningún ensayo posterior alcanzó.
 
 ## Catalog status
 

@@ -16,10 +16,10 @@ updated: 2026-06-19
 | | |
 |---|---|
 | **Full name** | Carlos Reyes |
-| **Age** | 22 (BSA timeline / Cap 11 timeline) |
+| **Age** | 22 (BSA timeline / Cap 20 timeline) |
 | **Rank** | Rango 4 |
 | **Domain** | Substrate — channels Odem through solid materials (earth, concrete, metal structures). Can displace, compress, and use the substrate as a weapon. Sensing is a byproduct: Odem extended through solids returns with approximate density/presence readings. Not precision mapping — proximity signal. Passive background noise in Hartford's saturated zone is overwhelming. |
-| **Assignment** | First Hartford assignment (Cap 11) |
+| **Assignment** | First Hartford assignment (Cap 20) |
 
 ## Domain in practice
 
@@ -31,7 +31,7 @@ Reyes describes the zone's saturation without alarm: *"Todo se mueve. Los edific
 
 Calibrating. Observes before speaking. Describes what he senses without dramatizing it — symptom-reporting register even under novel conditions. First Hartford assignment: processes the difference between briefings and first-hand zone exposure in real time without visible distress.
 
-## Canonical moments (BSA Cap 2 / Ledger Cap 11)
+## Canonical moments (BSA Cap 9 / Ledger Cap 24)
 
 <!-- canonical -->
 - Llega con equipo completo. Menos de 40 segundos en sector norte — ya recalibrando. Ajuste de peso de un pie al otro: Domain procesando señal excesiva del sustrato saturado.
@@ -40,7 +40,7 @@ Calibrating. Observes before speaking. Describes what he senses without dramatiz
 - Cierre de la operación: "Ya no la siento moverse." — confirma retirada de la entidad via cambio en densidad del sustrato.
 - Primer Hartford es su primera misión de campo en zona de Principado documentada.
 
-## Canonical moments (Cap 11)
+## Canonical moments (Cap 20)
 
 <!-- canonical -->
 - First view of the zone from the van: watches the windows with the color glass shouldn't have. Asks what happened here.
@@ -49,12 +49,12 @@ Calibrating. Observes before speaking. Describes what he senses without dramatiz
 
 ## Narrative function
 
-Cap 11 (Libro 1): third member of the Hartford team. Functional contrast — his Domain is about reading, not acting. Grounds the zone's strangeness through a new perspective without being the POV character.
+Cap 20 (Libro 1): third member of the Hartford team. Functional contrast — his Domain is about reading, not acting. Grounds the zone's strangeness through a new perspective without being the POV character.
 
 BSA Arc 1: may appear in earlier Hartford missions (M4). His arc within Hartford is adjustment — becoming the calibrated instrument Hendricks expects.
 
 ## Notes
 
 <!-- canonical -->
-- Age 22 at time of Cap 11 / M4.
+- Age 22 at time of Cap 20 / M4.
 - Does not appear to have prior experience with Principado imprint zones.

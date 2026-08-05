@@ -33,7 +33,7 @@ See `plot/chapter-plan.md` — cap a cap, beats, cliffhangers, crossover notes.
 | **3** | Lisboa — Cartwright aparece y se va, Park solo | ¿Es fuerza lo que demuestras cuando nadie mira? | 5–6 |
 | **4** | Budapest — Cartwright institucional, línea cruzada → Rango 2 | ¿Es fuerza lo que queda en pie cuando ya no puedes retroceder? | 5–6 |
 | **5** | Caracas/Venezuela — señales de Principado, teaser saga | ¿Es fuerza la que funciona frente a algo que está fuera de escala? | 5–6 |
-| **Bridge** | Convocatoria a Valais → empalme con Libro 1 Cap 20 | — | 2–3 |
+| **Bridge** | Convocatoria a Valais → empalme con Libro 1 Cap 55 | — | 2–3 |
 
 **Total estimado: 28–34 capítulos / 70.000–102.000 palabras**
 
@@ -70,7 +70,7 @@ See `plot/chapter-plan.md` — cap a cap, beats, cliffhangers, crossover notes.
 
 ---
 
-## Arc 3 — Lisboa (Caps 14-19) — replanteado 2026-07-02, ver `plot/chapter-plan.md` para detalle cap a cap
+## Arc 3 — Lisboa (Caps 26-31) — replanteado 2026-07-02, ver `plot/chapter-plan.md` para detalle cap a cap
 
 **Mission:** M6. Cartwright recoge a Park en Korea (helicóptero → avión privado), briefing en vuelo. AMAT-PT: rama pequeña, principio ontológico saudade — entidades que se desdibujan en vez de definirse. Prowess = precisión y comprensión del Odem, no escala de combate (contraste deliberado con Arc 2).
 
@@ -89,7 +89,7 @@ See `plot/chapter-plan.md` — cap a cap, beats, cliffhangers, crossover notes.
 
 ---
 
-## Arc 4 — Budapest (Caps 20-25) — replanteado 2026-07-02, ver `plot/chapter-plan.md` para detalle cap a cap
+## Arc 4 — Budapest (Caps 32-40) — replanteado 2026-07-02, ver `plot/chapter-plan.md` para detalle cap a cap
 
 **Mission:** M7 → Rango 2. Cartwright presente desde el inicio, autoridad operativa. AMAT-HU: rama robusta (trauma denso — ocupación otomana, Shoá, 1944-45, 1956), principio ontológico de marca de sangre (folclore táltos).
 
@@ -108,7 +108,7 @@ See `plot/chapter-plan.md` — cap a cap, beats, cliffhangers, crossover notes.
 
 ## Arc 5 — Caracas / Venezuela — replanteado 2026-07-07, ver `plot/chapter-plan.md` para detalle cap a cap
 
-**Mission:** M8. Interior de Venezuela (región de Sorte, Yaracuy), ~23 dic 2025 – 5 ene 2026 — antes, durante y un par de días después de la captura real de Maduro (3 enero 2026). La fase Caracas/Yara Montiel (LoD Libro 1 Cap 19) queda fuera de este arco, sin cambios por ahora.
+**Mission:** M8. Interior de Venezuela (región de Sorte, Yaracuy), ~23 dic 2025 – 5 ene 2026 — antes, durante y un par de días después de la captura real de Maduro (3 enero 2026). La fase Caracas/Yara Montiel (LoD Libro 1 Cap 54) queda fuera de este arco, sin cambios por ahora.
 
 **Elenco nuevo:** Claudia Ferrer (AMAT-Caribe), Agente Iván Salcedo (AMAT-Caribe, apoyo de campo — Park no se mueve solo por Venezuela, sería poco realista), Casimira Blanco (banco veterana, guía de Park), General Wilmer Roa (FANB, Cártel de los Soles, antagonista), aliados civiles de Yaracuy (Yusmary, Ronald, Nélida). Mundo: `world/amat-caribe.md`, `world/entities/maria-lionza.md`.
 
@@ -129,7 +129,7 @@ See `plot/chapter-plan.md` — cap a cap, beats, cliffhangers, crossover notes.
 
 ## Bridge — Convocatoria a Valais
 
-Empalme con Libro 1 Cap 20. Park recibe la llamada de Voss. El lector de BSA sabe lo que Park no sabe todavía: fue colocado por Voss, no asignado por AMAT-NA. Lo que Park cree que es un nuevo destino es otra cosa.
+Empalme con Libro 1 Cap 55. Park recibe la llamada de Voss. El lector de BSA sabe lo que Park no sabe todavía: fue colocado por Voss, no asignado por AMAT-NA. Lo que Park cree que es un nuevo destino es otra cosa.
 
 Cierre del spinoff en el momento en que abre Libro 1, Arc 3.
 

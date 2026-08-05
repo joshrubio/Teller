@@ -35,43 +35,43 @@ Académicamente inclinada, teóricamente sólida. La brecha entre saber el siste
 
 Fuerza dirigida sin contacto, línea recta únicamente. La limitación no es de potencia — es de geometría.
 
-**Tactical limit (Cap 36):** desplazó clúster sur contra la pared con impacto seco — tres unidades cayeron. Las demás se dividieron en cuatro fragmentos más pequeños y empezaron a reagruparse. "Siguen", dijo. Impulso en línea recta funciona para desplazamiento masivo, no para eliminación de hive mind.
+**Tactical limit (Cap 71):** desplazó clúster sur contra la pared con impacto seco — tres unidades cayeron. Las demás se dividieron en cuatro fragmentos más pequeños y empezaron a reagruparse. "Siguen", dijo. Impulso en línea recta funciona para desplazamiento masivo, no para eliminación de hive mind.
 
-## Cap 24 — Juego de Dominios
+## Cap 59 — Juego de Dominios
 
 Demostró el juego junto a Sabine antes de que Oliver participara. Ganó la primera ronda Sabine vs. Nadia. Cuando Oliver salió despedido un metro: "La próxima vez no te dejo intentarlo dos veces." Ante la copia de Oliver de Ancla: expresión "mitad irritación y mitad algo más difícil de nombrar."
 
 ## Oliver's Registry
 
-**Cap 35:** Oliver usó la copia de Impulso (ya integrada) en el corredor con Ancla — primera vez en combate real.
+**Cap 70:** Oliver usó la copia de Impulso (ya integrada) en el corredor con Ancla — primera vez en combate real.
 
 Copia deliberada pendiente de escritura en Arco 3 mid. Condiciones 0–3 completas; practicable en controladas.
 
-## Libro 2, Cap 44 (San Gotardo)
+## Libro 2, Cap 79 (San Gotardo)
 
 <!-- canonical -->
-Ejercicio de campo contra un candidato del grupo de Dax — el Impulso no basta, el candidato lee y neutraliza el patrón en tres intercambios. Nadia sale herida de verdad (clavícula fisurada, corte sobre la ceja) al golpear contra una estructura de contención sin acolchar; Petra la salva de un segundo impacto swapeándola con una caja de equipamiento (ver `characters/petra.md`). Delante del grupo finge estar bien ("ha sido peor el susto que el golpe"); a solas con Petra, en el pasillo de la enfermería, admite que el miedo real no fue el golpe — fue pensar, en el suelo, si quedarse valía lo que estaba costando, y no tener otro sitio adonde ir desde que su padre [hilo abierto, referencia a Cap 60 "El expediente de mi padre"].
+Ejercicio de campo contra un candidato del grupo de Dax — el Impulso no basta, el candidato lee y neutraliza el patrón en tres intercambios. Nadia sale herida de verdad (clavícula fisurada, corte sobre la ceja) al golpear contra una estructura de contención sin acolchar; Petra la salva de un segundo impacto swapeándola con una caja de equipamiento (ver `characters/petra.md`). Delante del grupo finge estar bien ("ha sido peor el susto que el golpe"); a solas con Petra, en el pasillo de la enfermería, admite que el miedo real no fue el golpe — fue pensar, en el suelo, si quedarse valía lo que estaba costando, y no tener otro sitio adonde ir desde que su padre [hilo abierto, referencia a Cap 95 "El expediente de mi padre"].
 
-## Libro 2, Cap 52 (Val Bedretto)
+## Libro 2, Cap 87 (Val Bedretto)
 
-Bajo mando de Asha (no lidera, pero decisiva): la ladera cede bajo su pie en terreno real, usa Impulso hacia dentro por primera vez (contra su propio cuerpo, no hacia un objetivo externo) para redistribuir peso y caer controlada en vez de al vacío. Tobillo lesionado, pero el "estoy bien" suena real por primera vez desde Cap44 — Asha no se lo discute, la deja marcar su propio ritmo el resto del ejercicio. Tablero: sube de #213 (última de 213) a #192 — el mayor salto de todo el equipo, sinergia de grupo reconocida explícitamente por Reber.
+Bajo mando de Asha (no lidera, pero decisiva): la ladera cede bajo su pie en terreno real, usa Impulso hacia dentro por primera vez (contra su propio cuerpo, no hacia un objetivo externo) para redistribuir peso y caer controlada en vez de al vacío. Tobillo lesionado, pero el "estoy bien" suena real por primera vez desde Cap79 — Asha no se lo discute, la deja marcar su propio ritmo el resto del ejercicio. Tablero: sube de #213 (última de 213) a #192 — el mayor salto de todo el equipo, sinergia de grupo reconocida explícitamente por Reber.
 
-## Libro 2, Cap 60 — El expediente de mi padre (escrito 2026-07-24)
+## Libro 2, Cap 95 — El expediente de mi padre (escrito 2026-07-24)
 
 <!-- canonical -->
-Sala de clasificación: reconoce en el diagrama de flujo de cinco pasos ("recepción, verificación cruzada, evaluación preliminar, asignación de rama, apertura de expediente") el mismo procedimiento que ha visto en la mesa de su padre los domingos. No hay monstruo — hay burocracia aburrida ejecutada por gente normal. Eso es peor de lo que esperaba sentir. Escena con Noa Shapira en la misma sala, esa tarde: Noa nota su reacción de la mañana, contrapone su propia falta de margen para dudar (generaciones enteras de su familia en AMAT, "cualquier grieta mía sería una grieta en algo mucho más grande que yo"). Nadia suelta "creo que tienes suerte" sin pensarlo. Noa NO reciproca la vulnerabilidad — marca distancia real, pero **corregido 2026-07-26** (tras Cap58, donde Nadia ya la ayudó tras el colapso del ejercicio de peso muerto): ya no es por desconocerse — Noa reconoce esa ayuda en voz alta, y la línea que traza es otra: no puede permitirse pensar en suerte ni en duda, con nadie, sin sentir que ya perdió algo que no puede permitirse perder. Cierre con Petra, eco del pasillo de la enfermería (Cap44): "no tengo otro sitio adonde ir desde que él me trajo aquí." Petra: "el origen de una puerta no decide lo que hay al cruzarla."
+Sala de clasificación: reconoce en el diagrama de flujo de cinco pasos ("recepción, verificación cruzada, evaluación preliminar, asignación de rama, apertura de expediente") el mismo procedimiento que ha visto en la mesa de su padre los domingos. No hay monstruo — hay burocracia aburrida ejecutada por gente normal. Eso es peor de lo que esperaba sentir. Escena con Noa Shapira en la misma sala, esa tarde: Noa nota su reacción de la mañana, contrapone su propia falta de margen para dudar (generaciones enteras de su familia en AMAT, "cualquier grieta mía sería una grieta en algo mucho más grande que yo"). Nadia suelta "creo que tienes suerte" sin pensarlo. Noa NO reciproca la vulnerabilidad — marca distancia real, pero **corregido 2026-07-26** (tras Cap93, donde Nadia ya la ayudó tras el colapso del ejercicio de peso muerto): ya no es por desconocerse — Noa reconoce esa ayuda en voz alta, y la línea que traza es otra: no puede permitirse pensar en suerte ni en duda, con nadie, sin sentir que ya perdió algo que no puede permitirse perder. Cierre con Petra, eco del pasillo de la enfermería (Cap79): "no tengo otro sitio adonde ir desde que él me trajo aquí." Petra: "el origen de una puerta no decide lo que hay al cruzarla."
 
-## Libro 2, Cap 61 — ejercicio de Presión (escrito 2026-07-24)
+## Libro 2, Cap 96 — ejercicio de Presión (escrito 2026-07-24)
 
 <!-- canonical -->
 Ejercicio grupal dirigido por Anka: hacer sonar, sin tocarlos, uno de cuatro carillones colgados a 3/5/7/10m usando Presión (Odem crudo hacia fuera, sin dirección ni objetivo). No lo consigue — su Impulso está construido enteramente sobre dirección y trayectoria en línea recta, y soltar Odem sin apuntar a nada la deja visiblemente incómoda. Anka lo nombra en voz alta sin suavizarlo: "no todos los Domains ayudan aquí. Algunos hasta estorban."
 
-## Libro 2, Cap 63 (El ejercicio grande) — escrito y corregido 2026-07-24
+## Libro 2, Cap 98 (El ejercicio grande) — escrito y corregido 2026-07-24
 
 <!-- canonical -->
-Simulacro de descenso en rappel multi-punto, cubriendo el punto medio junto a Oliver. Durante el tramo de aproximación, combina Impulso hacia fuera (empujándose lateralmente hasta el siguiente anclaje sin soltar del todo la cuerda) e Impulso hacia dentro (frenando el propio balanceo al llegar) en el mismo instante — primera vez que usa las dos direcciones a la vez, evolución directa del avance de Cap52. Le ahorra ~4 segundos por punto de reenvío; es la clave técnica de que Valais alcance al grupo de Johanna, que salía sesenta segundos por delante. **Corregido 2026-07-24:** no es ella quien sufre el accidente del anclaje (fue Petra, no Nadia — evita repetir lesión sobre el mismo personaje en el libro); su beat de Cap63 queda como demostración de habilidad bajo presión, no como rescate de sí misma.
+Simulacro de descenso en rappel multi-punto, cubriendo el punto medio junto a Oliver. Durante el tramo de aproximación, combina Impulso hacia fuera (empujándose lateralmente hasta el siguiente anclaje sin soltar del todo la cuerda) e Impulso hacia dentro (frenando el propio balanceo al llegar) en el mismo instante — primera vez que usa las dos direcciones a la vez, evolución directa del avance de Cap87. Le ahorra ~4 segundos por punto de reenvío; es la clave técnica de que Valais alcance al grupo de Johanna, que salía sesenta segundos por delante. **Corregido 2026-07-24:** no es ella quien sufre el accidente del anclaje (fue Petra, no Nadia — evita repetir lesión sobre el mismo personaje en el libro); su beat de Cap98 queda como demostración de habilidad bajo presión, no como rescate de sí misma.
 
-## Libro 2, Cap 57 (Val Tremola)
+## Libro 2, Cap 92 (Val Tremola)
 
 <!-- canonical -->
 Se enfrenta sola a Lukas (#10) en el ejercicio "captura la bandera" — usa Impulso en línea recta, sin contacto, dos veces (al pecho, luego a las rodillas) para desequilibrarlo sobre terreno irregular hasta tumbarlo. No necesita vencerlo cuerpo a cuerpo, solo que el terreno haga el resto. Resuelve el cruce completamente sola, sin ayuda. Tablero: #183→#170 (+13).
@@ -80,7 +80,7 @@ Se enfrenta sola a Lukas (#10) en el ejercicio "captura la bandera" — usa Impu
 
 - Personaje funcional en escenas de entrenamiento grupal.
 - La relación con su padre puede crear conflicto si el oficial tiene acceso a información sobre Oliver.
-- Libro 2: primera grieta visible entre lo que muestra al grupo y lo que siente — construye hacia Cap 60.
+- Libro 2: primera grieta visible entre lo que muestra al grupo y lo que siente — construye hacia Cap 95.
 
 ## Key relations
 

@@ -44,5 +44,5 @@ Arc 1 (Hartford). Containment layer once contact is established. His constraint 
 
 <!-- canonical -->
 - Three years at Hartford.
-- Cap 3: described as containment specialist brought for dispersal-route sealing, with narrow radius of operation due to Hartford's ambient saturation.
+- Cap 10: described as containment specialist brought for dispersal-route sealing, with narrow radius of operation due to Hartford's ambient saturation.
 - Key limitation: membranes cannot distinguish entity Odem from ambient — makes him dangerous to deploy broadly in Saturación's zone.

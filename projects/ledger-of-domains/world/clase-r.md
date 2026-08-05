@@ -54,5 +54,5 @@ Las operaciones de larga duración contra entidades de alta legibilidad generan 
 ## Canon BSA
 
 <!-- canonical -->
-- BSA Cap 9: primera aparición. Park equipado por médico de campo en la isla, brazo izquierdo + pierna derecha. Kiki: ambos brazos. Descripción de activación completa (translúcido → opaco).
+- BSA Cap 18: primera aparición. Park equipado por médico de campo en la isla, brazo izquierdo + pierna derecha. Kiki: ambos brazos. Descripción de activación completa (translúcido → opaco).
 - La nota "no te acostumbres — trabaja con lo que tienes" es de Kiki a Park, no del médico.
