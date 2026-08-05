@@ -24,14 +24,7 @@ updated: 2026-06-17
 
 ## Arc 1 — Nodo Vacío (Caps 1–6)
 
-| Cap | Title | POV | Key beat |
-|---|---|---|---|
-| 1 | El Fallo de Grayhaven | Oliver | Hook; apagón; "BLANK NODE RESOLVED" |
-| 2 | Propagación | Oliver | Potestad borra personas; Oliver la nombró; Oliver como variable activa |
-| 3 | Líneas | Oliver | Oliver lee el Odem; Park advierte que "no es solo ver" |
-| 4 | Registro | Oliver | Clímax; Park agotado; Oliver desvincula; colapso + hemorragia nasal |
-| 5 | Umbral | Park | Aftermath; Park informa incompleto; decisión de no retroceder |
-| 6 | Hartford | Park | Entrega; interrogatorio; "descansa"; Park a Hartford — mensaje implícito de AMAT |
+**Movido 2026-08-05** a `plot/arc-nodo-vacio.md` (archivo propio, con resúmenes completos por capítulo) — mismo patrón que San Gotardo/Milán/Cierre de líneas. No repetir aquí.
 
 ---
 
