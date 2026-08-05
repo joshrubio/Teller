@@ -18,9 +18,9 @@ updated: 2026-07-24
 | **Full name** | Rasmus Lindqvist |
 | **Nationality** | Escandinava (a precisar — provisional) |
 | **Tablero** | #11 de 213 |
-| **Rol narrativo** | Miembro del club de pelea informal — descrito solo por número/físico en el manuscrito (Cap88), nombre reservado para escena futura. |
+| **Rol narrativo** | Miembro del club de pelea informal — descrito solo por número/físico en el manuscrito (Cap87), nombre reservado para escena futura. |
 
-## Cap 88
+## Cap 87
 
 Más delgado que Lukas, quietud de quien no necesita moverse mucho para hacer lo que hace falta. Uno de los dos que le cierran el paso a Oliver, sin llegar a tocarlo, cuando intenta intervenir para parar el segundo golpe de Iker contra Riku ya derrotado.
 

@@ -24,7 +24,7 @@ updated: 2026-07-02
 | `amat-hu` | AMAT-HU | Rama húngara, principio ontológico marca de sangre (táltos), crisis de Domains descontrolados, BSA Arc 4 | Migrated |
 | `world/entities/a-saudade` | A Saudade | Principado de Lisboa, EU-1755-PT, drenaje ambiental de Odem, anterior al terremoto | Planning |
 | `amat-pt-hq` | Sede AMAT-PT | Baixa Pombalina, gaiola pombalina, sede de coordinación, BSA Arc 3 | Planning |
-| `quinta-vasconcelos` | Quinta dos Vasconcelos | Finca familiar del linaje guardián, escenario del Nodo Cap 29, BSA Arc 3 | Planning |
+| `quinta-vasconcelos` | Quinta dos Vasconcelos | Finca familiar del linaje guardián, escenario del Nodo Cap 28, BSA Arc 3 | Planning |
 | `world/entities/lidercz-danubio` | Lidérc — Principado del Danubio | Principado de Budapest, Gran Inundación de Pest 1838, Grillete del Vado, BSA Arc 4 | Active |
 | `amat-caribe` | AMAT-Caribe | Rama caribeña (Venezuela), principio ontológico identidad narrativa colectiva (cortes de María Lionza), contexto Tren de Aragua/Cártel de los Soles, BSA Arc 5 | Planning |
 | `world/entities/maria-lionza` | María Lionza | Principado de Sorte, primera entidad sentiente de la serie, fase infantil, nacida de sacrificio ritual forzado, BSA Arc 5 | Planning |

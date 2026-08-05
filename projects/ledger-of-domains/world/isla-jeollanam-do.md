@@ -18,7 +18,7 @@ Isla en la costa de la provincia de Jeollanam-do (전라남도), extremo sur de 
 |---|---|
 | **Actividad** | Operación de larga duración — continua desde 1954 |
 | **Fase actual** | BSA Arc 2 (2026) — 90% de limpieza confirmada tras Cap 22 |
-| **Limpieza acumulada** | ~80% al inicio de Arc 2 → 90% confirmado en el reporte oficial de Cap 33 |
+| **Limpieza acumulada** | ~80% al inicio de Arc 2 → 90% confirmado en el reporte oficial de Cap 32 |
 | **Restante post-Arc 2** | ~10% — reservado, sin cierre previsto en pantalla |
 
 El 10% restante post-BSA se limpia off-screen entre BSA y LoD. Para LoD Libro 3 la isla está completamente limpia — sin Potestades activas. La operación de larga duración queda cerrada fuera de cámara.
@@ -54,4 +54,4 @@ Caso fundacional de la familia Park como linaje suhoja. El cierre provisional de
 - Cap 14: base de operaciones descrita. 80% limpieza completada. Sector 2 activo al margen del briefing oficial.
 - Cap 7: mencionada por Park Taeho al anunciar el traslado — "isla operación activa en tres semanas."
 - Caps 15–25: operación de campo completa — sector 2, el claro, el cuenco con los anclajes de 1954, el sendero interior. Ver `amat-kr-branch.md` para catálogo de entidades encontradas (gwisin, dokkaebi anciano, quimera evolucionada, imugi).
-- Cap 33: 90% de limpieza confirmado en reporte oficial. Ji-ho despacha al imugi — primera aparición de la entidad fundacional de 1954 en pantalla. Cicatriz visible desde satélite como resultado.
+- Cap 32: 90% de limpieza confirmado en reporte oficial. Ji-ho despacha al imugi — primera aparición de la entidad fundacional de 1954 en pantalla. Cicatriz visible desde satélite como resultado.

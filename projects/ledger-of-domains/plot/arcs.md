@@ -124,6 +124,6 @@ updated: 2026-06-17
 ## Notes
 
 <!-- canonical -->
-- Voss a Park (Cap 25): "Los otros casos copiaron la amenaza. Oliver copió la curiosidad."
+- Voss a Park (Cap 24): "Los otros casos copiaron la amenaza. Oliver copió la curiosidad."
 - Anke = Caso 3. Voss la conoció. Kaspar la observó 11 años. Los números son los mismos. Oliver no sabe que Voss sabe el desenlace.
-- Oliver sostuvo verdad parcial con Voss en Cap 72: divulgó el contenido (Anke, 11 años) pero ocultó el cuándo (plaza, 9 días antes de la irrupción).
+- Oliver sostuvo verdad parcial con Voss en Cap 71: divulgó el contenido (Anke, 11 años) pero ocultó el cuándo (plaza, 9 días antes de la irrupción).

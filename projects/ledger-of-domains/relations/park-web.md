@@ -16,7 +16,7 @@ updated: 2026-06-17
 See `relations/oliver-web` — Oliver/Park section. The same relationship from Park's side:
 
 - Park almost let him die (Cap 4). That decision does not close.
-- "Once minutos" (Cap 55): Park's acknowledgment of the unpayable debt. No resolution.
+- "Once minutos" (Cap 54): Park's acknowledgment of the unpayable debt. No resolution.
 - Park uses more words with Oliver than with anyone else — not warmth, but specific trust.
 
 ---
@@ -25,7 +25,7 @@ See `relations/oliver-web` — Oliver/Park section. The same relationship from P
 
 **Dynamic:** Voss placed Park at the Centro without telling him the reason ("necesito saber si hay alguien prestando atención"). Park notes the protocol inversion (Geneva initiated, AMAT-NA has a copy) but does not ask.
 
-**Subplot:** both trace Kaspar independently from their angles. Pieces don't fit until Cap 64, when they compare notes.
+**Subplot:** both trace Kaspar independently from their angles. Pieces don't fit until Cap 63, when they compare notes.
 
 ---
 
@@ -49,7 +49,7 @@ See `relations/oliver-web` — Oliver/Park section. The same relationship from P
 
 **Dynamic:** close friends, unofficial tone. Same operational rank (Rango 1) — different institutional authority (Cartwright has administrative structure; Park operates under him in AMAT-NA).
 
-- Cap 62: Cartwright mentions Budapest. Conversation in unofficial register — established friendship.
+- Cap 61: Cartwright mentions Budapest. Conversation in unofficial register — established friendship.
 
 ---
 
@@ -57,7 +57,7 @@ See `relations/oliver-web` — Oliver/Park section. The same relationship from P
 
 **Dynamic:** two field agents with field experience, different roles at the Centro. Yusuf does not use his Domain in training by principle — Park respects this or questions it (define in writing).
 
-- Cap 63: spring night, east ridge — find more traces of Kaspar together.
+- Cap 62: spring night, east ridge — find more traces of Kaspar together.
 
 ---
 
@@ -71,4 +71,4 @@ See `relations/oliver-web` — Oliver/Park section. The same relationship from P
 
 - Oliver/Riku/Dara: generational core, most fluid natural dynamic.
 - Dara/Park: admiration/rivalry — Park without Domain surpasses her; Dara processes as technical problem to solve.
-- Oliver/Yusuf: Oliver reads Yusuf's Domain before Yusuf knows (Cap 34). Yusuf takes two steps instead of one (payoff Cap 55). Mutual respect without warmth yet.
+- Oliver/Yusuf: Oliver reads Yusuf's Domain before Yusuf knows (Cap 33). Yusuf takes two steps instead of one (payoff Cap 54). Mutual respect without warmth yet.

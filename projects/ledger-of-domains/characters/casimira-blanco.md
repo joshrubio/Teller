@@ -31,4 +31,4 @@ Yolanda dejó la casa y la práctica hace ocho años al convertirse. Vive cerca 
 
 <!-- canonical -->
 - Percepción real y genuina del Odem, sin vocabulario técnico de AMAT — describe lo que siente en términos espirituales/sensoriales (fuego, peso, temperatura), no en Niveles ni Rangos. Coherente con el principio ontológico de `world/amat-caribe.md`: el conocimiento popular aquí es, en su propio dominio, más preciso que el protocolo institucional.
-- Desarrollada a lo largo de Caps 49-53: escena de folklore y decisión de guiarlos en Cap 50 ("Lo que la gente carga"), reacción ante la revelación de que María Lionza es una niña real en Cap 51 ("La que nació de la sangre"), guía hasta el asalto en Cap 52, despedida en Cap 53.
+- Desarrollada a lo largo de Caps 49-53: escena de folklore y decisión de guiarlos en Cap 49 ("Lo que la gente carga"), reacción ante la revelación de que María Lionza es una niña real en Cap 50 ("La que nació de la sangre"), guía hasta el asalto en Cap 51, despedida en Cap 52.

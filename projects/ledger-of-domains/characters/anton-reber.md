@@ -20,19 +20,19 @@ updated: 2026-07-22
 | **Domain** | Ninguno — control de Odem puro, sin Domain, entrenado durante décadas |
 | **Edad** | ~60 |
 | **Origen** | Suizo, valle cercano al macizo de San Gotardo — reclutado joven por la red que precede a AMAT-EU formal |
-| **Aparición previa** | Ya presente sin nombrar en Cap 77 — es el "hombre de uniforme gris, más mayor que los instructores del foso" que da la charla de orientación ("tres cosas antes de nada") y el instructor del ejercicio del foso esa misma llegada. Se le nombra por primera vez en Cap 80. |
+| **Aparición previa** | Ya presente sin nombrar en Cap 76 — es el "hombre de uniforme gris, más mayor que los instructores del foso" que da la charla de orientación ("tres cosas antes de nada") y el instructor del ejercicio del foso esa misma llegada. Se le nombra por primera vez en Cap 79. |
 
 ## Personalidad
 
-Duro, económico con las palabras — nunca dice una frase de más, nunca ofrece consuelo que no se le pida. No es cruel: es indiferente a la diferencia entre cruel y amable cuando ninguna de las dos ayuda a que alguien sobreviva de verdad. Respeta la competencia, no el rango ni el origen — un candidato sin Domain que se deja la piel entrenando le importa más que uno con Domain que da todo por sentado. Su discurso de orientación (Cap 77) ya estableció su registro de voz: frases cortas, pausas calculadas, deja que el silencio haga el trabajo. No repite explicaciones. Corta reuniones a media frase cuando considera que ya se dijo lo necesario.
+Duro, económico con las palabras — nunca dice una frase de más, nunca ofrece consuelo que no se le pida. No es cruel: es indiferente a la diferencia entre cruel y amable cuando ninguna de las dos ayuda a que alguien sobreviva de verdad. Respeta la competencia, no el rango ni el origen — un candidato sin Domain que se deja la piel entrenando le importa más que uno con Domain que da todo por sentado. Su discurso de orientación (Cap 76) ya estableció su registro de voz: frases cortas, pausas calculadas, deja que el silencio haga el trabajo. No repite explicaciones. Corta reuniones a media frase cuando considera que ya se dijo lo necesario.
 
 ## Función narrativa
 
-Encarna en carne propia el tema que Oliver empieza a tocar en Cap 79 — control puro de Odem sin Domain, ventaja construida a base de años, no de atajo. De hecho entrenó personalmente a la candidata del grupo de Johanna que enfrenta a Oliver en ese capítulo — dato que puede salir más adelante sin forzarlo, quizás cuando Oliver le pregunte directamente. Lleva la pata Combate del tablero general (Cap 82, 83, 87, 92, 93, 98, 102).
+Encarna en carne propia el tema que Oliver empieza a tocar en Cap 78 — control puro de Odem sin Domain, ventaja construida a base de años, no de atajo. De hecho entrenó personalmente a la candidata del grupo de Johanna que enfrenta a Oliver en ese capítulo — dato que puede salir más adelante sin forzarlo, quizás cuando Oliver le pregunte directamente. Lleva la pata Combate del tablero general (Cap 81, 82, 86, 91, 92, 97, 101).
 
-**Cap 102 (verificado 2026-07-26):** reúne a todo San Gotardo tras la repetición de peso muerto — anuncia que se cumple el mes, que el ejercicio de esa mañana era uno más, y que hay un día libre antes de la evaluación final real de campo, pasado mañana (mini-arco de Milán, Arc2). No da detalles del tipo de evaluación ni de qué pasa con quien no clasifique — la vaguedad es forma de proteger la información hasta que haga falta tenerla.
+**Cap 101 (verificado 2026-07-26):** reúne a todo San Gotardo tras la repetición de peso muerto — anuncia que se cumple el mes, que el ejercicio de esa mañana era uno más, y que hay un día libre antes de la evaluación final real de campo, pasado mañana (mini-arco de Milán, Arc2). No da detalles del tipo de evaluación ni de qué pasa con quien no clasifique — la vaguedad es forma de proteger la información hasta que haga falta tenerla.
 
-**Arc2 — instructor cazador en Milán (Cap103-112):** uno de los tres instructores que cazan activamente a los candidatos durante la semana de examen final, junto a Anka y el nuevo Padre Andrea Conti (AMAT-Italia). Su amenaza es física pura, sin Domain — el que atrapa por habilidad de combate cruda, sin trucos de Odem que leer.
+**Arc2 — instructor cazador en Milán (Cap102-111):** uno de los tres instructores que cazan activamente a los candidatos durante la semana de examen final, junto a Anka y el nuevo Padre Andrea Conti (AMAT-Italia). Su amenaza es física pura, sin Domain — el que atrapa por habilidad de combate cruda, sin trucos de Odem que leer.
 
 ## Relación con Anke
 

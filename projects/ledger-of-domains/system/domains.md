@@ -26,7 +26,7 @@ updated: 2026-06-17
 | Sabine | **Ancla (Anchor)** | 1 | Fixes objects/people in space. At maximum intensity: lethal | Cannot move herself while maintaining multiple simultaneous anchors. |
 | Petra | **Canje (Swap)** | 2 | Swaps position of two targets instantly within visual range | Targets with very different mass; requires direct vision. |
 | Tomás | **Tránsito (Transit)** | 2 | Passes through inorganic matter | Cannot pass through living beings — Odem makes them impermeable. Containment: dense organic matter. |
-| Yusuf | **Densidad (Density)** | 3 | Concentrates Odem in specific body points — hands, forearms, ribs — increasing localized impact resistance without volume change | Does not use in training: considers masking impacts with Domain is learning less. First visible activation: Cap 61. |
+| Yusuf | **Densidad (Density)** | 3 | Concentrates Odem in specific body points — hands, forearms, ribs — increasing localized impact resistance without volume change | Does not use in training: considers masking impacts with Domain is learning less. First visible activation: Cap 60. |
 | Lev | **Calor (Heat)** | 2 | Extracts heat from everything in radius and concentrates or disperses it | Thermally uniform environments weaken him. |
 | Kaspar (copied) | **Sustento** | — | Extracts micro-Odem from living beings in radius, converts to own biological stasis | Nobody dies. Nobody notices. But things near him age slightly faster; animals leave; plants wither. 40 years of accumulated use. |
 
@@ -37,7 +37,7 @@ updated: 2026-06-17
 ## Riku progression
 
 1. Passive noise (initial state)
-2. Modulation (on/off, radius adjustment) → **REACHED** Cap 45 (with Oliver reading)
+2. Modulation (on/off, radius adjustment) → **REACHED** Cap 44 (with Oliver reading)
 3. EM Reading (feels currents, biological fields)
 4. Redirection (bends existing fields)
 5. Generation (electricity from Odem)

@@ -21,7 +21,7 @@ updated: 2026-06-17
 | **Origin** | Familia adinerada, industria constructora (ironía con Tránsito). |
 | **Domain** | Tránsito — atraviesa materia inorgánica (piedra, metal, vidrio, plástico) |
 | **Level** | 2 (alto) |
-| **Status** | Asignación externa desde Cap 46 |
+| **Status** | Asignación externa desde Cap 45 |
 
 ## Arrival
 
@@ -33,23 +33,23 @@ Domain manifestó cayendo a través de suelo de concreto — aterrizó ileso en 
 
 Resistente a la estructura institucional. Rabia sostenida como mecanismo — más fácil de sostener que el resto. El sistema tomó decisiones sobre su vida con la misma eficiencia que sobre cualquier otro recurso.
 
-## External assignment (Cap 46)
+## External assignment (Cap 45)
 
 Brenner llegó con la orden. Protocolo de colaboración formal variante externa: no elige cuándo lo usan ni para qué. No sabe adónde va.
 
-**Cap 46 epilogue — transport interrupted:** vehículo paró en tramo no previsto. Voces breves. Pasos — menos que los guardias estándar. Voz cerca: "Tranquilo." Sin nombre. Sin instrucción. Señal de anomalía llegó a Ginebra sin resolución. La línea quedó abierta.
+**Cap 45 epilogue — transport interrupted:** vehículo paró en tramo no previsto. Voces breves. Pasos — menos que los guardias estándar. Voz cerca: "Tranquilo." Sin nombre. Sin instrucción. Señal de anomalía llegó a Ginebra sin resolución. La línea quedó abierta.
 
 ## Arc 3
 
-- **Cap 61 (POV Tomás):** colabora con Kaspar en operación de baja visibilidad. Kaspar: viejo, calmado, preciso — nada sugiere Domain. Al final: "alguien en el Centro que pronto va a necesitar lo que nosotros sabemos."
-- **Cap 70:** pieza en la irrupción de Kaspar al Centro. Tres extensiones del Domain — visiblemente agotado al cruzar.
-- **Cap 71:** cruza la pared norte con Kaspar y Sisi. Sisi cierra la mano alrededor de su muñeca.
+- **Cap 60 (POV Tomás):** colabora con Kaspar en operación de baja visibilidad. Kaspar: viejo, calmado, preciso — nada sugiere Domain. Al final: "alguien en el Centro que pronto va a necesitar lo que nosotros sabemos."
+- **Cap 69:** pieza en la irrupción de Kaspar al Centro. Tres extensiones del Domain — visiblemente agotado al cruzar.
+- **Cap 70:** cruza la pared norte con Kaspar y Sisi. Sisi cierra la mano alrededor de su muñeca.
 
 **Key ambiguity:** Tomás no fue "rescatado" por bondad. Fue pieza en la operación de llegar a Oliver. Si lo sabe o no al colaborar: intencionalmente abierto.
 
 ## Narrative function
 
-Su asignación externa en Cap 46 es el catalizador de todo lo que sigue:
+Su asignación externa en Cap 45 es el catalizador de todo lo que sigue:
 - Activa la reunión secreta del núcleo.
 - El acuerdo de visibilidad existe porque su destino hizo la pregunta concreta.
 - Sisi ve en su propio régimen diferente el espejo de lo que le pasó a Tomás — eso acelera su decisión.
@@ -58,6 +58,6 @@ Su asignación externa en Cap 46 es el catalizador de todo lo que sigue:
 
 | Person | Dynamic |
 |---|---|
-| Oliver | No compartieron tiempo real. Su destino mueve el acuerdo de Cap 46. |
-| Kaspar | Colabora Arco 3. Kaspar lo necesitaba para llegar a Oliver — si Tomás lo sabe: abierto. Libro 2 Cap 86: sigue con el grupo, contrapeso moral real frente a Kaspar y Sisi — objeta abiertamente que Sisi practique Mente sobre desconocidos sin consentimiento, pregunta directo por el propósito real del entrenamiento sin obtener respuesta completa. Tensión sin resolver, no ruptura. |
+| Oliver | No compartieron tiempo real. Su destino mueve el acuerdo de Cap 45. |
+| Kaspar | Colabora Arco 3. Kaspar lo necesitaba para llegar a Oliver — si Tomás lo sabe: abierto. Libro 2 Cap 85: sigue con el grupo, contrapeso moral real frente a Kaspar y Sisi — objeta abiertamente que Sisi practique Mente sobre desconocidos sin consentimiento, pregunta directo por el propósito real del entrenamiento sin obtener respuesta completa. Tensión sin resolver, no ruptura. |
 | AMAT | Rabia sin resolución. El sistema nunca le ofreció lo que sí negociaron Pier, Sabine y Petra. |

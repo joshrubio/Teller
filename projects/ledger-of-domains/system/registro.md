@@ -34,7 +34,7 @@ Accumulates signature readings without Oliver deciding. If accumulation surpasse
 
 Registro activates through vision. Without sight: no reading, no copy. **Minimum effective AMAT containment:** blindfold in transport + unsupervised periods.
 
-## Movement reading (seed Cap 34)
+## Movement reading (seed Cap 33)
 
 Oliver can read the structure of a physical movement with the same mechanics as reading a Domain — layers, weight origin, sequence, anchor point. Reading ≠ reproducing; they are separate steps. *Does not require active Odem* — operates on pattern in physical information.
 
@@ -44,18 +44,18 @@ The Registro has been continuously active for weeks. The threshold between passi
 
 **Cost vector:** identity first (Arc 3) → memory → body.
 
-**Solution:** learn **selective attention** — seeing without reading. Prerequisite: knowing where one's own Odem is (seed planted by Park in Cap 58).
+**Solution:** learn **selective attention** — seeing without reading. Prerequisite: knowing where one's own Odem is (seed planted by Park in Cap 57).
 
 **Kaspar connection:** his signature is "composite, superimposed" because he has been in that gradient for 40 years. Oliver is in week seventeen. Kaspar is what lies at the end of the curve without intervention.
 
-## Atención selectiva — adquirida (Libro 1, Cap 60)
+## Atención selectiva — adquirida (Libro 1, Cap 59)
 
 <!-- canonical -->
-Maren nombra la técnica en Cap60 ("no apagarlo, sino elegir activamente dónde va la atención en cada momento") sin enseñarla formalmente. Esa misma noche, en un pasillo, Oliver la aplica de forma espontánea y por primera vez: pone la mano en la pared fría, deja que el frío y sus propios pasos ocupen la atención, y la firma de Riku que llegaba sin decidirlo baja de intensidad. Un solo uso en escena — nunca dramatizado de nuevo, nunca repetido como ritual explícito.
+Maren nombra la técnica en Cap59 ("no apagarlo, sino elegir activamente dónde va la atención en cada momento") sin enseñarla formalmente. Esa misma noche, en un pasillo, Oliver la aplica de forma espontánea y por primera vez: pone la mano en la pared fría, deja que el frío y sus propios pasos ocupen la atención, y la firma de Riku que llegaba sin decidirlo baja de intensidad. Un solo uso en escena — nunca dramatizado de nuevo, nunca repetido como ritual explícito.
 
 **Asumido desde entonces:** competencia de fondo, no vuelta a mencionar en el resto de Libro 1 ni en Libro 2. Explica por qué el arco de coste (identidad→memoria→cuerpo, Caps 59-66) no ha vuelto a generar fricción visible — Oliver ya gestiona el umbral pasivo/activo con esta herramienta, sin que el lector lo haya visto practicar de nuevo.
 
-**Relevancia para Foco ocular (ver abajo):** la técnica de Anke NO enseña atención selectiva desde cero — construye encima de una competencia que Oliver ya tiene. Lo nuevo es concentrar esa atención ya entrenada en un canal único (los ojos) en vez de dejarla repartida por todo el cuerpo. La dificultad inicial de Oliver en Cap99 no es aprender el concepto, es reconfigurar una habilidad asentada hacia un uso mucho más estrecho y caro.
+**Relevancia para Foco ocular (ver abajo):** la técnica de Anke NO enseña atención selectiva desde cero — construye encima de una competencia que Oliver ya tiene. Lo nuevo es concentrar esa atención ya entrenada en un canal único (los ojos) en vez de dejarla repartida por todo el cuerpo. La dificultad inicial de Oliver en Cap98 no es aprender el concepto, es reconfigurar una habilidad asentada hacia un uso mucho más estrecho y caro.
 
 ## Oliver's progression path
 
@@ -64,7 +64,7 @@ See Odem → read behavior → copy foreign Domain → cost per copy → degrada
 ## Foco ocular — técnica de Anke, NO desarrollada en Libro 2 (decisión 2026-07-24)
 
 <!-- canonical -->
-Documentada aquí como algo que Anke domina (ver debajo), pero el plan de enseñársela a Oliver se retiró del desarrollo de Libro2 por completo — no aparece en el planning de Cap99 ni en ningún capítulo posterior de este libro. No referenciar como hilo abierto de Oliver. Queda disponible como material reservado si algún libro futuro quiere retomarlo.
+Documentada aquí como algo que Anke domina (ver debajo), pero el plan de enseñársela a Oliver se retiró del desarrollo de Libro2 por completo — no aparece en el planning de Cap98 ni en ningún capítulo posterior de este libro. No referenciar como hilo abierto de Oliver. Queda disponible como material reservado si algún libro futuro quiere retomarlo.
 
 ## Foco ocular — técnica avanzada (referencia, vía Anke — ver characters/anke.md)
 
@@ -96,4 +96,4 @@ La visión base de Oliver (contornos, contraste, nodos vacíos) es conceptual, m
 
 **Anke's cost:** eleven years using this constantly, both eyes, without ever learning moderation — nobody at AMAT thought to ask, and she had no reference for what "too much" meant. At year 8 she discovered, by accident, that alternating a single eye at a time reduced the strain enormously — by then the damage in both eyes was already cumulative and permanent. She retired at year 11, once it was clear the vision loss wasn't going to reverse. Progressive, not sudden or total — she still manages short reads. Not corruption, not a moral cost: nobody taught her the discipline, because nobody at AMAT was tracking the cost of an axis they only used her for.
 
-**What she teaches Oliver (Libro 2, Cap 99):** the technique itself, and — unlike her own experience — the safeguard from day one: alternate eyes, deliberate rest, never sustain both at once past what's needed. She's giving him the discipline she only found after the damage was already done.
+**What she teaches Oliver (Libro 2, Cap 98):** the technique itself, and — unlike her own experience — the safeguard from day one: alternate eyes, deliberate rest, never sustain both at once past what's needed. She's giving him the discipline she only found after the damage was already done.

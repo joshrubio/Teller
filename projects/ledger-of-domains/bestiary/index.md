@@ -20,7 +20,7 @@ Ascending: **4 → 3 → 2 → 1 → S (Principado)**
 |---|---|---|---|
 | `classification` | Anomaly classification | Full scale + Principados protocol + Hartford documented event | Migrated |
 | `grh-001` | GRH-001 — El Borrador | Grayhaven entity, Nivel 3, neutralized Cap 4 | Migrated |
-| `vls-001` | VLS-001 — La Colonia | Centro Valais entity, Nivel 2, decoordinated Cap 67, Kaspar bond intact | Migrated |
+| `vls-001` | VLS-001 — La Colonia | Centro Valais entity, Nivel 2, decoordinated Cap 66, Kaspar bond intact | Migrated |
 | `kaspar-source` | AMAT-1982-S2 | Sustento Potestad Kaspar copied from — status unknown | Pending |
 | `world/entities/saturacion-hartford` | Saturación | Hartford entity, BSA Arc 1, self-organized 1952 Odem, Nivel 3 (evolving) | Active |
 | `world/entities/gwisin-baseline` | Gwisin (baseline) | Korea regional entity, Nivel 4, espíritu de persona, alta legibilidad | Active |

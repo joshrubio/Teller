@@ -43,8 +43,8 @@ When the Domain is active in her POV: the reader knows. Oliver's POV: nothing vi
 - Do not use words like "trusted" or "safe" in her interiority. She has working hypotheses, not trust.
 - Avoid lingering descriptions of her own appearance or clothing — she is not self-conscious in that way.
 
-## Tone shift: departure sequence (Cap 70–71)
+## Tone shift: departure sequence (Cap 69–70)
 
-The decision is already made before Cap 70 — she confirmed it with the Domain. What changes is not the decision but the texture of carrying it. Prose in this sequence: shorter sentences, fewer qualifications. She is in execution mode.
+The decision is already made before Cap 69 — she confirmed it with the Domain. What changes is not the decision but the texture of carrying it. Prose in this sequence: shorter sentences, fewer qualifications. She is in execution mode.
 
 The last exchange with Oliver: she has already left, emotionally. The physical crossing is confirmation, not choice.

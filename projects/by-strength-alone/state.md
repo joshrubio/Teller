@@ -24,11 +24,11 @@ updated: 2026-07-04
 | | |
 |---|---|
 | **Status** | Completo — 35 caps, Arco 1 a Arco 5 (Bridge incluido) |
-| **Last written** | Cap 53 — Lo que queda enterrado |
+| **Last written** | Cap 52 — Lo que queda enterrado |
 | **Next** | Spinoff cerrado. Ver plan de fusión Libro 1 (LoD + BSA) para reordenar caps en manuscrito final. |
 | **Active arc** | — (completo) |
 
-> Corrección 2026-07-27: este archivo estaba desactualizado — daba BSA como "Cap 27 completo, Arc 3 en curso" cuando en realidad los 35 caps (Arc1–Arc5) ya están escritos. Ver `Ledger of Domains - By Strength Alone/Capitulo 1.md` → `Capitulo 70.md`.
+> Corrección 2026-07-27: este archivo estaba desactualizado — daba BSA como "Cap 26 completo, Arc 3 en curso" cuando en realidad los 35 caps (Arc1–Arc5) ya están escritos. Ver `Ledger of Domains - By Strength Alone/Capitulo 1.md` → `Capitulo 69.md`.
 
 ---
 
@@ -36,9 +36,9 @@ updated: 2026-07-04
 
 Arc 2 cerrado en Cap 22. Arc 3 (Lisboa) arrancó con enfoque nuevo: prowess = precisión/comprensión del Odem, no escala de combate — proceso de escritura pasó a modo "discovery writing" (beats delgados en `chapter-plan.md`, fichas profundas solo cuando una escena las necesita, no antes).
 
-**Cap 26 ("Lisboa"):** Cartwright recoge a Park en Seúl (tres días tras la isla, Kiki visitándolo cada mañana), briefing en avión sobre EU-1755-PT. Llegada a AMAT-PT — rama pequeña, gaiola pombalina. Conoce a Ferreira y Salgado. Cliffhanger: marca ajena tallada en piedra fresca en Alfama, "de otro sitio."
+**Cap 25 ("Lisboa"):** Cartwright recoge a Park en Seúl (tres días tras la isla, Kiki visitándolo cada mañana), briefing en avión sobre EU-1755-PT. Llegada a AMAT-PT — rama pequeña, gaiola pombalina. Conoce a Ferreira y Salgado. Cliffhanger: marca ajena tallada en piedra fresca en Alfama, "de otro sitio."
 
-**Cap 27 ("Alfama"):** Investigación nocturna — la marca no es de A Saudade ni de los Vasconcelos. Park siente el sistema de percepción de Odem por primera vez (presión/peso, ver `world/odem.md` — sistema universal nuevo, análogo a Ki/Reiatsu, con capa específica de Domain opcional encima). Mariana Vasconcelos aparece, avisada por el submundo de Lisboa — confirma que la marca viene de otro sitio, advierte que la fuerza no sirve aquí. Resto del equipo AMAT-PT presentado por fricción/acción, no por fila de presentaciones (Costa, Bruno, Vitória, Rui, Dona Filipa — ver `characters/equipo-amat-pt.md`). Cartwright evalúa el **juicio** de Park (por qué no detuvo a Mariana, por qué no insistió) — sembrando que lo está considerando para algo relacionado con un Principado, sin decirlo.
+**Cap 26 ("Alfama"):** Investigación nocturna — la marca no es de A Saudade ni de los Vasconcelos. Park siente el sistema de percepción de Odem por primera vez (presión/peso, ver `world/odem.md` — sistema universal nuevo, análogo a Ki/Reiatsu, con capa específica de Domain opcional encima). Mariana Vasconcelos aparece, avisada por el submundo de Lisboa — confirma que la marca viene de otro sitio, advierte que la fuerza no sirve aquí. Resto del equipo AMAT-PT presentado por fricción/acción, no por fila de presentaciones (Costa, Bruno, Vitória, Rui, Dona Filipa — ver `characters/equipo-amat-pt.md`). Cartwright evalúa el **juicio** de Park (por qué no detuvo a Mariana, por qué no insistió) — sembrando que lo está considerando para algo relacionado con un Principado, sin decirlo.
 
 **Sistema nuevo de canon (`world/odem.md`):** percepción de Odem sin Registro = presión/peso, escalado por intensidad + proximidad + punto-vs-ambiente, con un tell físico (ej. respiración) como síntoma, no el mecanismo en sí. Reemplaza cualquier explicación ad-hoc anterior — usar esto por defecto en cualquier proyecto futuro.
 
@@ -52,13 +52,13 @@ Báthory se presenta como la amenaza real — más agresivo, menos cauteloso que
 
 Elementos de Arc 2 todavía abiertos, disponibles para libros futuros:
 - El imugi sigue "vivo" en sentido no-destruido — hilo abierto para LoD Libro 2.
-- Ruptura del techo de Domain de Park (dos strikes Stage 3 en una operación) — consecuencia física (nudillos abiertos) mencionada en Cap 26, sin desarrollo mayor todavía.
+- Ruptura del techo de Domain de Park (dos strikes Stage 3 en una operación) — consecuencia física (nudillos abiertos) mencionada en Cap 25, sin desarrollo mayor todavía.
 - Kiki por encima de Park en rango — tensión no resuelta para el resto del libro.
 
 Open threads Arc 3 activos:
 - Hilo "Park como catalizador" (Báthory muere Arc 3 → Mariana escala Arc 4) — ver `plot/threads.md`, no confirmar en prosa hasta que ocurra.
 - Hilo "mundo del Odem fuera de AMAT" — sembrado, pagar en Arc 4 (crisis de Domains descontrolados en Budapest).
-- Cartwright evaluando el juicio de Park para un caso con Principado — sembrado en Cap 27, sin nombrar todavía.
+- Cartwright evaluando el juicio de Park para un caso con Principado — sembrado en Cap 26, sin nombrar todavía.
 - Quién dejó la marca en Alfama (Báthory, no confirmado en prosa todavía).
 
 Open threads generales (heredados, sin resolver):
