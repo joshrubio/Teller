@@ -100,4 +100,6 @@ Ver proyecto `by-strength-alone/` — estado independiente con `parent-project: 
 
 **Planning:** "planifiquemos el cap 54" → load `plot/chapter-plan-libro2.md` + this file + `relations/conflicts.md`.
 
-**After finishing a chapter:** run `/session-close` — it will propose an update to this file as step 0.
+**Reestructurar arcos/capítulos, o cualquier duda de "a qué arco/libro pertenece Cap N":** load `plot/structure.md` primero — es el mapa Libro→Arco→rango de capítulos, más rápido de consultar que `chapters/index.md` completo. Mantenerlo actualizado junto con este archivo.
+
+**After finishing a chapter:** run `/session-close` — it will propose an update to this file as step 0. Si el capítulo cerró un arco o movió sus límites, actualizar también `plot/structure.md`.
