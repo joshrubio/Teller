@@ -28,7 +28,7 @@ Dos líneas narrativas independientes intercaladas capítulo a capítulo — no 
 | Arco | Cap | Sinopsis |
 |---|---|---|
 | Nodo Vacío | 1–6 | El apagón de Grayhaven revela el Registro de Oliver; Park lo saca de la ciudad mientras la Potestad sigue activa. Termina con Oliver bajo custodia de AMAT. |
-| Evaluación | 7, 14–15, 23–24, 32–34, 43–45, 53 | Voss recluta a Oliver, lo traslada a Centro Valais y arma el grupo (Asha, Pier, Riku, Nadia, Dara, Petra, Lev, Sabine). Oliver copia sus primeros Domains bajo supervisión, con Park vigilando de cerca. Cierra con la asignación de Park a Venezuela. |
+| El Aprendiz y el Agente (línea Valais) | 7, 14–15, 23–24, 32–34, 43–45, 53 | Voss recluta a Oliver, lo traslada a Centro Valais y arma el grupo (Asha, Pier, Riku, Nadia, Dara, Petra, Lev, Sabine). Oliver copia sus primeros Domains bajo supervisión, con Park vigilando de cerca. Cierra con la asignación de Park a Venezuela. Arco fusionado con la línea BSA bajo un mismo nombre conceptual — ver `plot/arc-aprendiz-agente.md`. |
 
 ### Arcos — Línea BSA
 
@@ -201,7 +201,7 @@ Apertura Ji-ho (Rango S) antes de retomar a Oliver y el resto del grupo. Ver `pl
 **Cambio 2026-08-05:** `chapter-plan-libro2.md` (mega-doc de todo Libro2) queda retirado como formato — reemplazado por **un archivo por arco** dentro de `plot/`, para cargar solo el contexto del arco relevante en vez del libro entero:
 
 - `plot/arc-nodo-vacio.md` (Cap1-6)
-- Evaluación (Cap7-53, línea Valais intercalada con BSA) y las 5 sub-arcos BSA (Hartford/Seoul/Lisboa/Budapest/Venezuela) → beat-a-beat sigue en `plot/arcs.md` (numeración pre-fusión) — pendiente de dividir en archivos propios si hace falta trabajar uno a la vez.
+- `plot/arc-aprendiz-agente.md` (Cap7-53, "El Aprendiz y el Agente" — fusiona línea Valais + línea BSA bajo un solo arco conceptual; detalle BSA completo sigue viviendo en `by-strength-alone/plot/arcs.md`)
 - Campo (Cap54-71) → el beat-a-beat ya vivía en `plot/arcs.md` (Arc 3 — Campo, ahí en numeración pre-fusión) desde antes de la fusión — no se creó archivo nuevo, no hacía falta.
 - `plot/arc-san-gotardo.md` (Cap72-101)
 - `plot/arc-milan.md` (Cap102-114)

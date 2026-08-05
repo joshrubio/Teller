@@ -30,22 +30,7 @@ updated: 2026-06-17
 
 ## Arc 2 — Evaluación (Caps 7–20)
 
-| Cap | Title | POV | Key beat |
-|---|---|---|---|
-| 7 | El Expediente | Voss | Tres casos históricos; Oliver = "sistema de adquisición sin techo clasificado" |
-| 8 | Contacto | Oliver | Voss da "Odem" y "desvinculación"; Oliver pregunta por Park antes que por sí mismo |
-| 9 | Arquitectura | Voss | 104m corredor medidos pasivamente (no repetir medida); negocia con Cartwright |
-| 10 | Trato o Truco | Oliver | Oliver acepta el traslado — distingue elegir de no tener alternativa |
-| 11 | Campo Libre | Park | Hartford, entidad Nivel 3; mensaje Ji-ho (Oliver en transferencia) |
-| 12 | Altitud | Oliver | Voss a Park: "copió la curiosidad" + colocó a Park por "alguien prestando atención". Salto 6 semanas → Centro Valais |
-| 13 | Interferencia | Oliver | Sesión Asha — copia involuntaria cruda; vidrio agrieta; Maren para la sesión |
-| 14 | Ruido | Oliver | Pier (involuntario como señal); Yusuf (lectura de movimiento); Riku (asimetría izquierda confirmada) |
-| 15 | Frecuencia | Oliver/Riku | Radio y precisión = variables independientes — invalida mediciones de Maren |
-| 16 | Acorde | Grupo | Sesión grupal multisigma; promesa de Oliver a Dara |
-| 17 | Conducción | Oliver/Voss | Primera copia deliberada (Estática). Maren rompe protocolo. Voss: 13 semanas adelantado |
-| 18 | Tránsito | Staff/Oliver | Brenner lleva a Tomás. Reunión secreta → acuerdo de visibilidad. Epílogo: transporte interrumpido — "Tranquilo" |
-| 19 | Asignación | Park | Venezuela, Yara Montiel. Voss: Centro Valais. Park lee expediente Oliver |
-| 20 | Reconocimiento | Oliver/Park | Park llega al Centro. Sesión táctica. 5 entradas. "Once minutos" sin resolución |
+**Renombrado y movido 2026-08-05** a `plot/arc-aprendiz-agente.md` ("El Aprendiz y el Agente", numeración fusionada Cap7-53) — el nombre "Evaluación" quedaba mislabeled: por rango numérico parecía un tramo casi todo BSA/Park, cuando en realidad son dos líneas paralelas del mismo peso (Oliver explorando AMAT desde cero, Park recorriéndola como agente formado). Ver ese archivo para el detalle completo. No repetir aquí.
 
 ---
 
