@@ -1,16 +1,18 @@
 ---
-id: arc-milan
+id: arc-final-exam
 type: plot
 project: ledger-of-domains
 module: plot
-tags: [libro-2, arc, milan, ronda-final]
+tags: [libro-2, arc, final-exam, milan, ronda-final]
 load-with: [plot/structure.md, state.md]
 updated: 2026-08-05
 ---
 
-# Arc — Milán, Ronda Final (Cap 102–114)
+# Arc — Final Exam (Cap 102–114)
 
 > Numeración: fusionada real. Rango y sinopsis de línea viven en `plot/structure.md`. Este archivo es el detalle beat-a-beat.
+>
+> **Renombrado 2026-08-05:** "Milán — Ronda Final" (nombre del arco) → "Final Exam". Milán sigue siendo la ciudad real donde ocurre en la ficción — lo que cambia es solo la etiqueta del arco narrativo.
 
 **Formato de la evaluación final:** estilo York Shin (HxH) — instructores cazando activamente a los candidatos en una ciudad real. Sueltan a los sujetos en Milán (riesgo real, civiles de verdad, cerca del corredor San Gotardo/Ticino). Sobreviven una semana. Solo 25 plazas para aprobados de entre todos los candidatos de San Gotardo (Johanna: el año pasado fueron 50 — recorte real, institucional). Cada candidato lleva un dogtag — si te lo roban, quedas eliminado. Puntuación sube por dogtags ajenos conseguidos + evasiones exitosas contra instructores. Instructores cazando: **Anka** (Odem-sensing — usar cualquier Domain activo delata posición), **Reber** (amenaza física pura, sin Domain), y **Padre Andrea Conti** (AMAT-Italia, viene de Roma, vínculo con la Iglesia aludido no confirmado, eco de Johanna desde el otro lado — Domain **Omnipresencia**: teletransporte dentro del alcance de su propio Odem o a cualquier sitio donde ya haya estado; reserva de Odem descomunal; Rango S, nivel Ji-ho).
 

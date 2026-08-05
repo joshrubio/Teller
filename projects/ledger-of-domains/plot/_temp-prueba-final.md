@@ -9,9 +9,9 @@ updated: 2026-07-26
 
 # Prueba final del Reducto — plan elegido (2026-07-26)
 
-> **Fusionado a canon 2026-07-26:** este plan ya vive, capítulo a capítulo con numeración real (Cap102-116), en `plot/chapter-plan-libro2.md` (sección Arc2). Este archivo queda como registro del brainstorming, no como fuente de verdad — usar el otro documento para cualquier referencia futura.
+> **Fusionado a canon 2026-07-26:** este plan ya vive, capítulo a capítulo con numeración real (Cap102-116), en `plot/arc-final-exam.md`. Este archivo queda como registro del brainstorming, no como fuente de verdad — usar el otro documento para cualquier referencia futura.
 
-Borrador de trabajo. No es canon todavía hasta escribirse. Contexto: Cap101 (Reber) anuncia día libre + evaluación final "pasado mañana", real y de campo, cierre real de Arc1 (Cap72-101+, se extiende más allá de Cap101 — mini-arco propio antes de Arc2). Petra ya se fue del Centro (confirmado Cap101) — no aparece en este mini-arco.
+Borrador de trabajo. No es canon todavía hasta escribirse. Contexto: Cap101 (Reber) anuncia día libre + evaluación final "pasado mañana", real y de campo, cierre real de Training Arc (Cap72-101+, se extiende más allá de Cap101 — mini-arco propio antes de Final Exam). Petra ya se fue del Centro (confirmado Cap101) — no aparece en este mini-arco.
 
 **Formato:** estilo York Shin (HxH) — instructores cazando activamente a los candidatos.
 
@@ -30,9 +30,9 @@ Borrador de trabajo. No es canon todavía hasta escribirse. Contexto: Cap101 (Re
 
 **Punto de giro — Oliver se independiza:** ante esa cuenta imposible, Oliver decide una solución drástica por su cuenta, sin (o casi sin) consultarlo del todo con el grupo: **caza en solitario masiva**. Usa todo su arsenal de Domains copiados de forma deliberada y calculada — pago directo de la lección de Cap98 ("elegir con qué me quedo, no desperdiciar") — para acumular él solo suficientes dogtags/evasiones que cubran matemáticamente el déficit del grupo. Apuesta de todo o nada, lo aísla físicamente del resto (encaja con la regla de un solo eje de percepción) y lo pone en la trayectoria de cruzarse con los instructores, incluido Conti — primer uso en pantalla de Canje, contra un oponente que lo supera en potencia por completo (Rango S). Gana por listeza, no por fuerza, mismo patrón ya establecido con Yegor/Dax.
 
-## Estructura macro — ESTE MINI-ARCO ES ARC2 (revisado 2026-07-26)
+## Estructura macro — ESTE MINI-ARCO ES FINAL EXAM (revisado 2026-07-26)
 
-**Decisión mayor:** el mini-arco de Milán ya no es una extensión de Arc1 — **es Arc2 entero**. Arc1 cierra limpio en Cap101. Arc2 = Milán (7-8 caps) + resto de líneas B/C/D drásticamente comprimidas y aceleradas hacia el cierre del libro.
+**Decisión mayor:** el mini-arco de Milán ya no es una extensión de Training Arc — **es Final Exam entero**. Training Arc cierra limpio en Cap101. Final Exam = Milán (7-8 caps) + resto de líneas B/C/D drásticamente comprimidas y aceleradas hacia el cierre del libro.
 
 **Líneas B/C/D comprimidas:**
 - **Línea B (Yusuf/Kaspar) — 1 capítulo, todo junto:** acercamiento + fragmento de lo que Kaspar quería + muerte de Yusuf, comprimido en un solo capítulo brutal. Puede intercalarse cronológicamente durante la semana de Milán (POV Yusuf, en paralelo) — **el grupo de Oliver NO se entera de su muerte hasta después del examen final**, no en tiempo real.
@@ -44,9 +44,9 @@ Borrador de trabajo. No es canon todavía hasta escribirse. Contexto: Cap101 (Re
 - **Aftermath de la captura de Lev/Sabine + revelación de la muerte de Yusuf al grupo — un solo capítulo combinado**, ya no dos escenas separadas.
 - **Filipinas (8 junio) — nunca sucede.** Cortado del todo del libro. (Nota: esto afecta el "reloj absoluto" en `state.md`, que usaba Filipinas como ancla — pendiente de resincronizar cuando se cierre esta reestructura.)
 - **Cierre del libro — un par de capítulos, Oliver vuelve a Grayhaven.** Bookend directo con la apertura de Libro1 (Cap1, el apagón de Grayhaven) — imagen de cierre fuerte, pendiente de desarrollar.
-- **Confrontación de identidad de Anke — resuelto:** se da al final de los exámenes de Milán, cuando se conocen los resultados — la revelación llega junto a la despedida de San Gotardo (el grupo no vuelve al Centro después de Milán, o esta es su última escena ahí). Se integra en el capítulo 6/7 del mini-arco (clímax + resultado + despedida), no en un capítulo aparte de Arc2.
+- **Confrontación de identidad de Anke — resuelto:** se da al final de los exámenes de Milán, cuando se conocen los resultados — la revelación llega junto a la despedida de San Gotardo (el grupo no vuelve al Centro después de Milán, o esta es su última escena ahí). Se integra en el capítulo 6/7 del mini-arco (clímax + resultado + despedida), no en un capítulo aparte de Final Exam.
 
-**Estimado de extensión total de Arc2:** Milán (7-8) + Yusuf (1) + Voss (1) + Park/Lev-Sabine (2) + aftermath combinado (1) + cierre Grayhaven (2) ≈ **14-15 capítulos**, frente a los 17 planeados originalmente — y mucho más concentrado en Milán como columna vertebral del arco.
+**Estimado de extensión total de Final Exam:** Milán (7-8) + Yusuf (1) + Voss (1) + Park/Lev-Sabine (2) + aftermath combinado (1) + cierre Grayhaven (2) ≈ **14-15 capítulos**, frente a los 17 planeados originalmente — y mucho más concentrado en Milán como columna vertebral del arco.
 
 ---
 

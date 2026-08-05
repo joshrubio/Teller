@@ -1,16 +1,18 @@
 ---
-id: arc-san-gotardo
+id: arc-training
 type: plot
 project: ledger-of-domains
 module: plot
-tags: [libro-2, arc, san-gotardo, el-reducto]
+tags: [libro-2, arc, training-arc, san-gotardo, el-reducto]
 load-with: [plot/structure.md, state.md]
 updated: 2026-08-05
 ---
 
-# Arc — San Gotardo, El Reducto (Cap 72–101)
+# Arc — Training Arc (Cap 72–101)
 
 > Numeración: fusionada real (la de `Capitulo N.md`). Rango y sinopsis de una línea viven en `plot/structure.md` — no repetir aquí. Este archivo es el detalle beat-a-beat.
+>
+> **Renombrado 2026-08-05:** "San Gotardo — El Reducto" (nombre del arco) → "Training Arc". San Gotardo y El Reducto siguen siendo el lugar y el programa reales dentro de la ficción (ver `world/san-gotardo.md`) — lo que cambia es solo la etiqueta del arco narrativo, no el nombre del sitio.
 
 30 capítulos. Aperturas de las cuatro líneas (Cap 72-80) + El Reducto completo (Fases A-D, Cap 81-101). Cierra en Cap101 con Riku observando a Oliver desde fuera — no una revelación de trama, un cierre emocional.
 

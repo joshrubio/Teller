@@ -46,11 +46,11 @@ Llegada del equipo de custodia de AMAT. Interrogatorio de campo a Park por una a
 
 - **El Ledger** — el dispositivo que Oliver robó a Kessler. Sigue en su poder (bolsillo de la chaqueta) al cierre del arco — no resuelto en este arco, hilo que Libro 1 retoma más adelante.
 - **Kessler** — prestamista al que Oliver debía dinero en secreto. Sin cierre en este arco — Oliver desaparece bajo custodia de AMAT sin que Kessler sepa qué pasó con él.
-- **La identidad de "lo que hizo" Oliver** — Registro no se nombra todavía como Domain en este arco; el término aparece formalmente en Libro1 Arc2 (Evaluación).
+- **La identidad de "lo que hizo" Oliver** — Registro no se nombra todavía como Domain en este arco; el término aparece formalmente en "El Aprendiz y el Agente" (`plot/arc-aprendiz-agente.md`).
 - **Park y su decisión consciente de no reportar** — sembrado aquí (Cap5), pagado a lo largo de todo Libro1 en la relación Park/Oliver.
 
 ## Notas
 
 - Título de Cap1 verificado contra el archivo real (`Capitulo 1.md` → "El Cobro"). `plot/arcs.md` tenía un título desactualizado ("El Fallo de Grayhaven") para este mismo capítulo — corregido.
-- Este arco reemplaza la sección "Arc 1 — Nodo Vacío" que vivía dentro de `plot/arcs.md` — mismo movimiento que ya se hizo con San Gotardo/Milán/Cierre de líneas: un archivo por arco, no un mega-doc compartido.
+- Este arco reemplaza la sección "Arc 1 — Nodo Vacío" que vivía dentro de `plot/arcs.md` — mismo movimiento que ya se hizo con Training Arc/Final Exam/Cierre de líneas: un archivo por arco, no un mega-doc compartido.
 - **Renombrado 2026-08-05:** "Nodo Vacío" → "El Cobro". El nombre anterior venía de una sola línea de sistema en pantalla en el clímax del Cap4 ("BLANK NODE RESOLVED") — un detalle técnico puntual, no el hilo real del arco. El motivo que de verdad corre por los 6 capítulos es la deuda/cobro: Kessler y el Ledger (Cap1), la Potestad que literalmente "cobra" a quien deja de resistir (Cap3-4), y AMAT cobrándole respuestas a Oliver y a Park al cierre (Cap5-6). "El Cobro" es también el título real de Cap1 — ancla el arco a su propio capítulo de apertura.

@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: characters
 tags: [san-gotardo, candidato-militar, libro-2, petra-nadia-mirror, sin-domain, dinastia-amat]
 relations: [petra, nadia]
-load-with: [system/domains, plot/structure, plot/arc-san-gotardo]
+load-with: [system/domains, plot/structure, plot/arc-training]
 updated: 2026-07-14
 ---
 

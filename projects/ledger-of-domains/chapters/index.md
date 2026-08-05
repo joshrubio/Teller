@@ -82,7 +82,7 @@ LoD1-19 (Grayhaven → Centro Valais, Arc1-2 de la trilogía original) intercala
 
 Sin más intercalado BSA — a partir de aquí es LoD puro (Arc3 de la trilogía original, LoD20-37, seguido directo por todo el Libro2 LoD, Cap38-80 en numeración de origen). Abre con Cap54 (LoD20, "Reconocimiento") — el encuentro real Oliver/Park.
 
-### Arc 3 LoD — Campo (Cap 54–71)
+### Valais (Cap 54–71)
 
 | Cap | Title | File | Origen | POV | Key characters | Summary |
 |---|---|---|---|---|---|---|
@@ -105,9 +105,9 @@ Sin más intercalado BSA — a partir de aquí es LoD puro (Arc3 de la trilogía
 | 70 | Decisión | `Capitulo 70.md` | LoD 36 | Oliver/Sisi/Voss | Oliver, Sisi, Kaspar, Voss, Pier, Asha, Dara, Nadia, Petra, Lev, Sabine | "Me quedo." Sisi sale. Lucha colonia. "Todavía a tiempo." "Vuelve." Sin respuesta. **2475 palabras.** |
 | 71 | Cuarenta y siete minutos | `Capitulo 71.md` | LoD 37 | Oliver | Oliver, Voss, Maren, Park, Riku, Pier, Dara | 47 min. 3 ausencias: Sisi, Lev y Sabine. Nota de Kaspar a Oliver (Anke). Destino open. **Cierre de Arc3 LoD / trilogía original.** **3563 palabras.** |
 
-### San Gotardo — El Reducto (Cap 72–101)
+### Training Arc (Cap 72–101)
 
-> Cuatro líneas: A (Oliver/grupo Valais), B (Yusuf/Kaspar), C (Voss/Ginebra), D (Park/Lev-Sabine). Mapa arco/libro completo en `plot/structure.md`; detalle capítulo a capítulo en `plot/arc-el-cobro.md`, `plot/arc-aprendiz-agente.md`, `plot/arc-campo.md`, `plot/arc-san-gotardo.md`, `plot/arc-milan.md`, `plot/arc-cierre-lineas.md`.
+> Cuatro líneas: A (Oliver/grupo Valais), B (Yusuf/Kaspar), C (Voss/Ginebra), D (Park/Lev-Sabine). Mapa arco/libro completo en `plot/structure.md`; detalle capítulo a capítulo en `plot/arc-el-cobro.md`, `plot/arc-aprendiz-agente.md`, `plot/arc-valais.md`, `plot/arc-training.md`, `plot/arc-final-exam.md`, `plot/arc-cierre-lineas.md`.
 
 | Cap | Title | File | Origen | POV | Key characters | Summary |
 |---|---|---|---|---|---|---|
@@ -140,9 +140,9 @@ Sin más intercalado BSA — a partir de aquí es LoD puro (Arc3 de la trilogía
 | 98 | Lo que se pudre | `Capitulo 98.md` | LoD 64 | Oliver | Oliver, Maren, Anka, Riku | Evaluación institucional formal — Oliver entiende que no es desbalance, es desperdicio. Anka: "lo intuí". **2987 palabras.** |
 | 99 | Don Martín | `Capitulo 99.md` | LoD 65 | Kaspar (excepción) | Kaspar, Sisi, Camilo, Yesenia | Catatumbo — Kaspar como "Don Martín". Yesenia manifiesta su Domain en público. Camilo, nuevo aliado. **2639 palabras.** |
 | 100 | Otro ángulo | `Capitulo 100.md` | LoD 66 | Voss | Voss, Maren, Hana, Urs Baumann, Marcus Hale, Ji-ho (cameo) | Hana revela que su madre tiene asiento en el consejo de AMAT-EU. Marcus Hale ofrece respaldo con precio pendiente. **2334 palabras.** |
-| 101 | Peso muerto, otra vez | `Capitulo 101.md` | LoD 67 | Riku | Riku, Oliver, Pier, Asha, Dara, Nadia, Reber | **Cierre real de Arc1 (El Reducto).** Oliver hace 15 repeticiones. Reber anuncia día libre + evaluación final de campo. Petra se ha ido, sin despedidas. **2533 palabras.** |
+| 101 | Peso muerto, otra vez | `Capitulo 101.md` | LoD 67 | Riku | Riku, Oliver, Pier, Asha, Dara, Nadia, Reber | **Cierre real de Training Arc.** Oliver hace 15 repeticiones. Reber anuncia día libre + evaluación final de campo. Petra se ha ido, sin despedidas. **2533 palabras.** |
 
-### Milán — Ronda Final (Cap 102–114, + planeados 115-119)
+### Final Exam (Cap 102–114, + planeados 115-119)
 
 | Cap | Title | File | Origen | POV | Key characters | Summary |
 |---|---|---|---|---|---|---|

@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: characters
 tags: [san-gotardo, candidato-militar, antagonista, libro-2]
 relations: [riku, oliver, dara, iker-zabala]
-load-with: [plot/structure, plot/arc-san-gotardo, plot/arc-milan, characters/riku]
+load-with: [plot/structure, plot/arc-training, plot/arc-final-exam, characters/riku]
 updated: 2026-07-24
 ---
 
@@ -34,7 +34,7 @@ Fue #1 del tablero general durante los primeros meses de San Gotardo, antes de q
 <!-- canonical -->
 Ejercicio "captura la bandera", cohorte mixta Valais vs. grupo de Dax. Se aleja del resto para cubrir un acceso secundario solo, sin saber que Dax lo ve un segundo (justo cuando Petra lo devuelve de golpe al punto más alto de su propio recorrido contra Pier/Petra) y decide no gritar ninguna advertencia. Se topa con Oliver, sin refuerzo visible, y lo confronta directamente ("Otra vez tú. Bien. Esta vez nadie te va a cerrar el paso."). Combate real, detallado, varios intercambios: jab de prueba, gancho real, dos golpes más — Oliver absorbe en vez de bloquear del todo. Oliver lee su tell (carga peso atrás antes de un golpe decisivo), le tiende una trampa bajando la guardia; Yegor carga un cruzado directo al hueco, Oliver gira usando el impulso absorbido y le rompe/disloca el brazo con un puñetazo concentrado al antebrazo extendido. No se rinde ni se retira todavía — con el brazo bueno empuja a Oliver contra un árbol, movimiento propio y desesperado, no solo reacción. Oliver responde con un impulso residual, mucho menor, que lo desequilibra. Un grito lejano interrumpe antes de que nadie decida nada con calma — Yegor huye físicamente, sujetándose el brazo, sin mirar atrás. Pequeña justicia poética tras la golpiza de Cap87, sin que se sienta gratuita — Oliver hiere de verdad y gana la ventaja estratégica, no una revancha limpia y total.
 
-## Libro 2, Arc 2 — Milán (Cap102-111, sincronizado 2026-08-01)
+## Libro 2, Final Exam (Cap102-111, sincronizado 2026-08-01)
 
 <!-- canonical -->
 **Domain: Arsenal**, revelado Cap102 (Día libre, enfrentamiento con Oliver) — carga con Odem cualquier objeto que toca, controla dirección/velocidad/peso tras soltarlo. Solo el vendaje (usado como látigo) corta de verdad; otros objetos (pelotas de tenis cargadas) causan contusiones, no cortes. Pierde ese combate contra Oliver (primer uso en pantalla de Canje).

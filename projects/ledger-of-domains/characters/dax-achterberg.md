@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: characters
 tags: [bestia-domain, caza-domain, vampirismo, san-gotardo, candidato-militar, libro-2, oliver-mirror, serbia]
 relations: [oliver, iker-zabala]
-load-with: [system/domains, bestiary/vampirismo, plot/structure, plot/arc-milan]
+load-with: [system/domains, bestiary/vampirismo, plot/structure, plot/arc-final-exam]
 updated: 2026-08-04
 ---
 
@@ -55,12 +55,12 @@ El coste es acumulativo por pelea, no por golpe; Caza desgasta más porque cuest
 
 **Cruce con Oliver:** no puede copiarlo (Registro no replica una fijación perceptual, solo estructura), pero sí puede leer el patrón de cambio de modo en tiempo real y anticipar qué viene — la versión práctica de usar Registro en combate real, no en laboratorio. Motor mecánico central de su función como espejo de Oliver.
 
-## Libro 2, Arc 2 — Milán, Cap111 (Ronda Final, Parte 1, sincronizado 2026-08-01)
+## Libro 2, Final Exam, Cap111 (Ronda Final, Parte 1, sincronizado 2026-08-01)
 
 <!-- canonical -->
 Último día del examen — se queda solo en el centro de un estadio (baliza de luces encendida a propósito por Johanna) mientras convergen los cuatro grupos finales. Yegor lo provoca sin tocar el tema de haberlo desplazado del #1 en San Gotardo; Dax lo ignora, y cuando Yegor cruza el campo furioso, lo manda volar de un movimiento casi invisible ni para el Registro de Oliver. Estalla el enfrentamiento: todos contra Dax. **Primera vez en pantalla que usa Caza sin cortar el cambio a la mitad** (contraste directo con el combate de Cap82 contra Oliver, donde nunca lo completaba) — drena a una rival del grupo de Lukas hasta dejarla consciente pero vaciada, cuerpos cayendo de formas distintas. Cuando varios lo inmovilizan a la vez (Lukas lo encierra en una llave desde atrás), rompe el agarre con una descarga de fuerza que hunde el terreno, usando el propio cuerpo de Lukas como mayal contra otros cinco a medio vuelo — pasa de defenderse a atacar, más rápido de lo que nadie le ha visto nunca. El puesto uno del tablero cambia de dueño en plena pelea.
 
-## Libro 2, Arc 2 — Milán, Cap112-113 (Ronda Final, Parte 2-3, sincronizado 2026-08-04)
+## Libro 2, Final Exam, Cap112-113 (Ronda Final, Parte 2-3, sincronizado 2026-08-04)
 
 <!-- canonical -->
 Resiste el asalto conjunto de Valais (Pier, Riku, Nadia, Asha, Dara, Oliver) sin caer, con primeras heridas visibles reales (ceja abierta, costillas). Después del enfrentamiento contra Yegor y Lukas (resuelto por Oliver aparte), se enfrenta a Johanna en un duelo que ambos llevaban evitando desde su empate del foso. Intercambio físico parejo al principio pese a que ella no tiene Domain — solo cantidad bruta de Odem. Entra en Caza y no lo corta: encierra a Johanna en un agarre y muerde, extrayendo sangre real junto al Odem — la primera vez que el drenaje se completa por mordisco en pantalla, no solo por golpe. La deja inconsciente. Reacción inmediata de asco/náusea hacia sí mismo, no hacia el resultado del combate — el apetito, otra vez confirmado después del hecho, nunca durante.

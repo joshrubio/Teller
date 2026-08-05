@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: characters
 tags: [san-gotardo, candidato-militar, libro-2, pier-asha-mirror, valdenses, reserva-basal-elevada, sin-domain]
 relations: [pier, asha, voss]
-load-with: [system/domains, world/instalacion-ginebra, plot/structure, plot/arc-san-gotardo, plot/arc-milan]
+load-with: [system/domains, world/instalacion-ginebra, plot/structure, plot/arc-training, plot/arc-final-exam]
 updated: 2026-07-14
 ---
 
@@ -39,7 +39,7 @@ No manifiesta Domain, pero su reserva de Odem es anormalmente alta — patrón d
 
 **Liderazgo (espejo de Pier/Asha):** no manda por rango entregado ni por haber sobrevivido algo — manda porque tuvo que ganárselo fuera de una tradición que se lo negaba. Modelo de mando distinto a ambos: ni la paciencia de tiempo largo de Pier, ni el silencio/gesto de Asha — autoridad forjada contra una negación específica y personal.
 
-**Ancla histórica de AMAT:** presente en la lección de lore en escena — Cap 84 (1727, Zinzendorf: gana el ejercicio de archivo a tres bandas para su grupo, arma el patrón completo primero gracias a conocer la historia desde dentro), impartida formalmente por Anke (`characters/anke.md`) — interviene desde dentro, con el peso real de venir de la rama que nunca se secularizó. No sustituye a la instructora, la complementa: Anke tiene el archivo institucional, Johanna tiene la memoria familiar viva que ningún archivo captura. (Nota: el beat de Cap87/1754-Lisboa planeado originalmente fue descartado por repetitivo — ver `plot/arc-san-gotardo.md`, contenido reservado para reutilizar en otro punto.)
+**Ancla histórica de AMAT:** presente en la lección de lore en escena — Cap 84 (1727, Zinzendorf: gana el ejercicio de archivo a tres bandas para su grupo, arma el patrón completo primero gracias a conocer la historia desde dentro), impartida formalmente por Anke (`characters/anke.md`) — interviene desde dentro, con el peso real de venir de la rama que nunca se secularizó. No sustituye a la instructora, la complementa: Anke tiene el archivo institucional, Johanna tiene la memoria familiar viva que ningún archivo captura. (Nota: el beat de Cap87/1754-Lisboa planeado originalmente fue descartado por repetitivo — ver `plot/arc-training.md`, contenido reservado para reutilizar en otro punto.)
 
 **Cap 95 (mención, escrito 2026-07-24):** citada por Anka como referencia durante el ejercicio de Presión de Valais (carillones a 3/5/7/10m) — una de los pocos nombres que ha hecho sonar la fila de 10m, tras más de un año de práctica. No aparece en escena, solo referida — refuerza su reserva basal elevada ya establecida sin repetir la mecánica en pantalla.
 
@@ -47,12 +47,12 @@ No manifiesta Domain, pero su reserva de Odem es anormalmente alta — patrón d
 
 **Cap 90:** da a Asha, sin que se lo pida dos veces, el trasfondo real del club de pelea — lo llama sin rodeos "un puñado de matones que encontraron un sitio sin cámaras." Confirma que Yegor fue #1 del tablero hasta que ella y Dax llegaron, y que Milan fue top diez alguna vez. Nota aparte sobre Iker: le importa más Dax que el grupo de Yegor — "no está ahí por lo mismo que están los otros."
 
-## Libro 2, Arc 2 — Milán, Cap111 (Ronda Final, Parte 1, sincronizado 2026-08-01)
+## Libro 2, Final Exam, Cap111 (Ronda Final, Parte 1, sincronizado 2026-08-01)
 
 <!-- canonical -->
 Último día del examen — pasa la tarde cazando con su grupo (31 placas entre los cinco, dos todavía fuera del top25) mientras nota un patrón deliberado detrás de la caída del tablero: alguien los está cazando en concreto. Decide zanjarlo ella misma, eligiendo un estadio cerrado como terreno propio y encendiendo las luces de golpe como baliza deliberada, visible desde toda la ciudad — atrae sin querer a los otros tres grupos finales (Valais, Lukas Feldmann/club de pelea, Yegor). #3 del tablero al llegar. El plan se rompe en cuanto Yegor provoca a Dax y estalla el enfrentamiento — pierde el control parcial de su propio grupo cuando varios rompen formación por su cuenta, atraídos hacia el centro.
 
-## Libro 2, Arc 2 — Milán, Cap113 (Ronda Final, Parte 3, sincronizado 2026-08-04)
+## Libro 2, Final Exam, Cap113 (Ronda Final, Parte 3, sincronizado 2026-08-04)
 
 <!-- canonical -->
 Busca a Dax en cuanto el resto de grupos queda ocupado entre sí — duelo pendiente desde su empate en el foso. Pelea a la par con él varios intercambios, sin Domain, solo su reserva basal elevada. Pierde cuando Dax entra en Caza y, por primera vez, no lo corta a la mitad: la encierra en un agarre y muerde, drenando Odem y sangre real hasta dejarla inconsciente. Última aparición en pantalla del arco — cae con Dax todavía de pie, único ganador claro de su cruce.

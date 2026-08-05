@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: characters
 tags: [san-gotardo, instructor, combate, libro-2, sin-domain]
 relations: [oliver, dax, anke]
-load-with: [plot/structure, plot/arc-san-gotardo, characters/anke]
+load-with: [plot/structure, plot/arc-training, characters/anke]
 updated: 2026-07-22
 ---
 
@@ -30,9 +30,9 @@ Duro, económico con las palabras — nunca dice una frase de más, nunca ofrece
 
 Encarna en carne propia el tema que Oliver empieza a tocar en Cap 78 — control puro de Odem sin Domain, ventaja construida a base de años, no de atajo. De hecho entrenó personalmente a la candidata del grupo de Johanna que enfrenta a Oliver en ese capítulo — dato que puede salir más adelante sin forzarlo, quizás cuando Oliver le pregunte directamente. Lleva la pata Combate del tablero general (Cap 81, 82, 86, 91, 92, 97, 101).
 
-**Cap 101 (verificado 2026-07-26):** reúne a todo San Gotardo tras la repetición de peso muerto — anuncia que se cumple el mes, que el ejercicio de esa mañana era uno más, y que hay un día libre antes de la evaluación final real de campo, pasado mañana (mini-arco de Milán, Arc2). No da detalles del tipo de evaluación ni de qué pasa con quien no clasifique — la vaguedad es forma de proteger la información hasta que haga falta tenerla.
+**Cap 101 (verificado 2026-07-26):** reúne a todo San Gotardo tras la repetición de peso muerto — anuncia que se cumple el mes, que el ejercicio de esa mañana era uno más, y que hay un día libre antes de la evaluación final real de campo, pasado mañana (mini-arco de Milán, Final Exam). No da detalles del tipo de evaluación ni de qué pasa con quien no clasifique — la vaguedad es forma de proteger la información hasta que haga falta tenerla.
 
-**Arc2 — instructor cazador en Milán (Cap102-111):** uno de los tres instructores que cazan activamente a los candidatos durante la semana de examen final, junto a Anka y el nuevo Padre Andrea Conti (AMAT-Italia). Su amenaza es física pura, sin Domain — el que atrapa por habilidad de combate cruda, sin trucos de Odem que leer.
+**Final Exam — instructor cazador en Milán (Cap102-111):** uno de los tres instructores que cazan activamente a los candidatos durante la semana de examen final, junto a Anka y el nuevo Padre Andrea Conti (AMAT-Italia). Su amenaza es física pura, sin Domain — el que atrapa por habilidad de combate cruda, sin trucos de Odem que leer.
 
 ## Relación con Anke
 

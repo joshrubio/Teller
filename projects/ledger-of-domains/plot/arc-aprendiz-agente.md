@@ -127,5 +127,5 @@ Park recibe la llamada de Voss camino a Caracas — según el lector de BSA sabe
 
 ## Notas
 
-- Este arco reemplaza la sección "Arc 2 — Evaluación" que vivía en `plot/arcs.md` (retirada de ahí) — mismo movimiento que El Cobro/San Gotardo/Milán/Cierre de líneas.
+- Este arco reemplaza la sección "Arc 2 — Evaluación" que vivía en `plot/arcs.md` (retirada de ahí) — mismo movimiento que El Cobro/Training Arc/Final Exam/Cierre de líneas.
 - A diferencia de los demás arcos de este proyecto, este cruza dos proyectos (`ledger-of-domains` + `by-strength-alone`) — por diseño, ya que las dos líneas comparten arco conceptual pero no archivo de manuscrito de origen.

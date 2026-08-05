@@ -112,76 +112,76 @@ Sin más intercalado BSA. Cuatro líneas propias: **A** (Oliver/Valais, columna 
 
 | Arco | Cap | Sinopsis |
 |---|---|---|
-| Campo | 54–71 | Cola de la trilogía original LoD. Park llega al Centro y se reencuentra con Oliver; el grupo entero se pone a prueba en una operación real contra una colonia de Potestades. Kaspar reaparece, Sisi confiesa su Domain, y la Irrupción fuerza a Oliver a decidir quedarse — cierra con tres ausencias (Sisi, Lev, Sabine) y la nota de Kaspar sobre Anke. |
-| San Gotardo — El Reducto | 72–101 | El grupo entero es trasladado a un centro militarizado en los Alpes para un mes de entrenamiento intensivo. Rivalidad con Dax y Johanna, sistema de tablero, la identidad de Anka como Caso 3 empieza a insinuarse. Cierra con la salida de Petra y el anuncio del examen final. |
-| Milán — Ronda Final | 102–114 | Examen final de El Reducto: una semana suelto en Milán, cazando placas ajenas mientras evita perder la propia — formato estilo Battle Royale. Escalada hasta un enfrentamiento final de todos contra Dax en un estadio. Cierra con los seis de Valais dentro del top 25 por primera vez. |
+| Valais | 54–71 | Cola de la trilogía original LoD. Park llega al Centro y se reencuentra con Oliver; el grupo entero se pone a prueba en una operación real contra una colonia de Potestades. Kaspar reaparece, Sisi confiesa su Domain, y la Irrupción fuerza a Oliver a decidir quedarse — cierra con tres ausencias (Sisi, Lev, Sabine) y la nota de Kaspar sobre Anke. |
+| Training Arc | 72–101 | El grupo entero es trasladado a un centro militarizado en los Alpes para un mes de entrenamiento intensivo. Rivalidad con Dax y Johanna, sistema de tablero, la identidad de Anka como Caso 3 empieza a insinuarse. Cierra con la salida de Petra y el anuncio del examen final. |
+| Final Exam | 102–114 | Examen final de El Reducto: una semana suelto en Milán, cazando placas ajenas mientras evita perder la propia — formato estilo Battle Royale. Escalada hasta un enfrentamiento final de todos contra Dax en un estadio. Cierra con los seis de Valais dentro del top 25 por primera vez. |
 | Cierre de líneas | 115–119 *(planeado)* | Otra puerta (115, C) → Captura (116, D) → Lo que no se dijo (117, A/B) → Grayhaven 1-2 (118-119, A). |
 
 ### Tabla — Libro 2
 
 | Cap | Título | Línea | Arco | Tramo (línea BSA) |
 |---|---|---|---|---|
-| 54 | Reconocimiento | A | Campo |
-| 55 | Carga | C | Campo |
-| 56 | Contornos | A | Campo |
-| 57 | Campo Abierto | A | Campo |
-| 58 | Calidez | A | Campo |
-| 59 | Frecuencia Propia | A | Campo |
-| 60 | Sin Señal | B | Campo |
-| 61 | Umbral (Segundo Umbral) | A | Campo |
-| 62 | Por definir | A | Campo |
-| 63 | Inercia | A | Campo |
-| 64 | Patrón | C/D | Campo |
-| 65 | Operación | A | Campo |
-| 66 | Descarga | A | Campo |
-| 67 | El Viejo | A | Campo |
-| 68 | Vecindad | A | Campo |
-| 69 | Irrupción | A | Campo |
-| 70 | Decisión | A | Campo |
-| 71 | Cuarenta y siete minutos | A | Campo (cierre trilogía original) |
-| 72 | Salida | A | San Gotardo |
-| 73 | Rastro frío | B | San Gotardo |
-| 74 | Dos frentes | C | San Gotardo |
-| 75 | El encargo | D | San Gotardo |
-| 76 | La Roca | A | San Gotardo |
-| 77 | Lo que se pide | A | San Gotardo |
-| 78 | Lo que no se dice | A | San Gotardo |
-| 79 | Términos | A | San Gotardo |
-| 80 | Primer día | A | San Gotardo |
-| 81 | Peso muerto | A | San Gotardo |
-| 82 | Lo que un Domain no arregla | A | San Gotardo |
-| 83 | Segunda ronda | C | San Gotardo |
-| 84 | 1727 | A | San Gotardo |
-| 85 | Práctica | B | San Gotardo |
-| 86 | Val Bedretto | A | San Gotardo |
-| 87 | Profundidad | A | San Gotardo |
-| 88 | El del coche | D | San Gotardo |
-| 89 | Estancado | C | San Gotardo |
-| 90 | Lo que nadie dice | A | San Gotardo |
-| 91 | Val Tremola | A | San Gotardo |
-| 92 | Lo que cuenta cada mes | A | San Gotardo |
-| 93 | Casi | D | San Gotardo |
-| 94 | El expediente de mi padre | A | San Gotardo |
-| 95 | Lo que sobra | A | San Gotardo |
-| 96 | Rastro caliente | B | San Gotardo |
-| 97 | El ejercicio grande | A | San Gotardo |
-| 98 | Lo que se pudre | A | San Gotardo |
-| 99 | Don Martín | B | San Gotardo |
-| 100 | Otro ángulo | C | San Gotardo |
-| 101 | Peso muerto, otra vez | A | San Gotardo (cierre) |
-| 102 | Día libre | A | Milán |
-| 103 | Llegada / reglas del juego | A | Milán |
-| 104 | Cazador y Presa | A | Milán |
-| 105 | Localizados | D | Milán |
-| 106 | Yusuf | B | Milán |
-| 107 | Tablero | A | Milán |
-| 108 | La cuenta imposible | A | Milán |
-| 109 | Patrón revelado | A | Milán |
-| 110 | Caída libre | A | Milán |
-| 111 | Ronda Final — Parte 1 | A | Milán |
-| 112 | Ronda Final — Parte 2 | A | Milán |
-| 113 | Ronda Final — Parte 3 | A | Milán |
-| 114 | Medianoche | A | Milán (en progreso) |
+| 54 | Reconocimiento | A | Valais |
+| 55 | Carga | C | Valais |
+| 56 | Contornos | A | Valais |
+| 57 | Campo Abierto | A | Valais |
+| 58 | Calidez | A | Valais |
+| 59 | Frecuencia Propia | A | Valais |
+| 60 | Sin Señal | B | Valais |
+| 61 | Umbral (Segundo Umbral) | A | Valais |
+| 62 | Por definir | A | Valais |
+| 63 | Inercia | A | Valais |
+| 64 | Patrón | C/D | Valais |
+| 65 | Operación | A | Valais |
+| 66 | Descarga | A | Valais |
+| 67 | El Viejo | A | Valais |
+| 68 | Vecindad | A | Valais |
+| 69 | Irrupción | A | Valais |
+| 70 | Decisión | A | Valais |
+| 71 | Cuarenta y siete minutos | A | Valais (cierre trilogía original) |
+| 72 | Salida | A | Training Arc |
+| 73 | Rastro frío | B | Training Arc |
+| 74 | Dos frentes | C | Training Arc |
+| 75 | El encargo | D | Training Arc |
+| 76 | La Roca | A | Training Arc |
+| 77 | Lo que se pide | A | Training Arc |
+| 78 | Lo que no se dice | A | Training Arc |
+| 79 | Términos | A | Training Arc |
+| 80 | Primer día | A | Training Arc |
+| 81 | Peso muerto | A | Training Arc |
+| 82 | Lo que un Domain no arregla | A | Training Arc |
+| 83 | Segunda ronda | C | Training Arc |
+| 84 | 1727 | A | Training Arc |
+| 85 | Práctica | B | Training Arc |
+| 86 | Val Bedretto | A | Training Arc |
+| 87 | Profundidad | A | Training Arc |
+| 88 | El del coche | D | Training Arc |
+| 89 | Estancado | C | Training Arc |
+| 90 | Lo que nadie dice | A | Training Arc |
+| 91 | Val Tremola | A | Training Arc |
+| 92 | Lo que cuenta cada mes | A | Training Arc |
+| 93 | Casi | D | Training Arc |
+| 94 | El expediente de mi padre | A | Training Arc |
+| 95 | Lo que sobra | A | Training Arc |
+| 96 | Rastro caliente | B | Training Arc |
+| 97 | El ejercicio grande | A | Training Arc |
+| 98 | Lo que se pudre | A | Training Arc |
+| 99 | Don Martín | B | Training Arc |
+| 100 | Otro ángulo | C | Training Arc |
+| 101 | Peso muerto, otra vez | A | Training Arc (cierre) |
+| 102 | Día libre | A | Final Exam |
+| 103 | Llegada / reglas del juego | A | Final Exam |
+| 104 | Cazador y Presa | A | Final Exam |
+| 105 | Localizados | D | Final Exam |
+| 106 | Yusuf | B | Final Exam |
+| 107 | Tablero | A | Final Exam |
+| 108 | La cuenta imposible | A | Final Exam |
+| 109 | Patrón revelado | A | Final Exam |
+| 110 | Caída libre | A | Final Exam |
+| 111 | Ronda Final — Parte 1 | A | Final Exam |
+| 112 | Ronda Final — Parte 2 | A | Final Exam |
+| 113 | Ronda Final — Parte 3 | A | Final Exam |
+| 114 | Medianoche | A | Final Exam (en progreso) |
 | 115 | Otra puerta *(planeado)* | C | Cierre de líneas |
 | 116 | Captura *(planeado)* | D | Cierre de líneas |
 | 117 | Lo que no se dijo *(planeado)* | A/B | Cierre de líneas |
@@ -202,9 +202,9 @@ Apertura Ji-ho (Rango S) antes de retomar a Oliver y el resto del grupo. Ver `pl
 
 - `plot/arc-el-cobro.md` (Cap1-6)
 - `plot/arc-aprendiz-agente.md` (Cap7-53, "El Aprendiz y el Agente" — fusiona línea Valais + línea BSA bajo un solo arco conceptual; línea BSA es eso, una línea dentro de este arco, no un arco propio — detalle completo de esos capítulos sigue viviendo en `by-strength-alone/plot/arcs.md`)
-- `plot/arc-campo.md` (Cap54-71)
-- `plot/arc-san-gotardo.md` (Cap72-101)
-- `plot/arc-milan.md` (Cap102-114)
+- `plot/arc-valais.md` (Cap54-71)
+- `plot/arc-training.md` (Cap72-101)
+- `plot/arc-final-exam.md` (Cap102-114)
 - `plot/arc-cierre-lineas.md` (Cap115-119, planeado)
 
 **Regla general (desde 2026-08-05):** cada arco vive en su propio archivo `plot/arc-*.md`. `plot/arcs.md` está retirado — todos los arcos de la obra migraron a archivo propio.
@@ -217,6 +217,7 @@ Cada uno lleva el beat-a-beat, hilos abiertos y decisiones pendientes de ESE arc
 - **2026-08-05:** Mapa Maestro externo (`D:\Writting\...`) retirado — su contenido vive aquí ahora.
 - **2026-08-05:** `chapter-plan-libro2.md` dividido en archivos por arco (ver sección anterior).
 - Antes de la fusión, Libro2 (San Gotardo/Milán) vivió al menos tres reestructuraciones de límites de arco (inserciones de capítulos de línea B/C/D, expansión de "Ronda Final" de 1 a 4 partes) — el detalle completo de esas iteraciones, si hace falta consultarlo, vivía en el `chapter-plan-libro2.md` ahora retirado; lo esencial ya está reflejado en los rangos de arriba.
-- **2026-08-05:** `plot/arcs.md` retirado por completo — su contenido (El Cobro, Evaluación/Aprendiz y Agente, Campo) migró a `plot/arc-el-cobro.md`, `plot/arc-aprendiz-agente.md`, `plot/arc-campo.md` respectivamente, todos en numeración fusionada real.
+- **2026-08-05:** `plot/arcs.md` retirado por completo — su contenido (El Cobro, Evaluación/Aprendiz y Agente, Campo) migró a `plot/arc-el-cobro.md`, `plot/arc-aprendiz-agente.md`, `plot/arc-valais.md` respectivamente, todos en numeración fusionada real.
 - **2026-08-05:** "Nodo Vacío" renombrado a "El Cobro" — el nombre anterior venía de un detalle técnico puntual del clímax (Cap4, "BLANK NODE RESOLVED"), no del hilo real del arco (la deuda/cobro que corre Cap1-6).
 - **2026-08-05:** Tabla — Libro 1 y sección "Arcos — Libro 1" reestructuradas: Hartford/Seoul/Lisboa/Budapest/Venezuela dejaron de listarse como arcos propios — son tramos internos de la línea BSA dentro de "El Aprendiz y el Agente". La columna "Arco" ahora dice "El Aprendiz y el Agente" para todo Cap7-53; una columna nueva "Tramo (línea BSA)" conserva esa subdivisión para navegación sin tratarla como arco de primer nivel.
+- **2026-08-05:** Tres arcos de Libro2 renombrados — "Campo" → "Valais", "San Gotardo — El Reducto" → "Training Arc", "Milán — Ronda Final" → "Final Exam". Los lugares/programas reales (San Gotardo, El Reducto, Milán) siguen existiendo como tales en la ficción — solo cambia la etiqueta del arco. Archivos renombrados: `plot/arc-campo.md` → `plot/arc-valais.md`, `plot/arc-san-gotardo.md` → `plot/arc-training.md`, `plot/arc-milan.md` → `plot/arc-final-exam.md`.

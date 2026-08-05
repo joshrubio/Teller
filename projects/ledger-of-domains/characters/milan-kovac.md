@@ -24,7 +24,7 @@ updated: 2026-07-24
 
 Fue top diez del tablero general una vez, antes de la llegada de Dax y Johanna al centro (confirmado por Johanna en Cap90, vía Asha). Desplazado desde entonces — resentimiento más viejo y más asentado que el de Yegor, que se sumó al club después. Sin diálogo ni escena directa en el manuscrito todavía; reservado para cuando el hilo del club de pelea necesite un segundo rostro además de Yegor.
 
-## Libro 2, Arc 2 — Milán (Cap104-109, sincronizado 2026-08-01)
+## Libro 2, Final Exam (Cap104-109, sincronizado 2026-08-01)
 
 <!-- canonical -->
 **Domain: Hilo** — genera hilos finísimos de Odem, casi invisibles incluso para el Registro (revelado a través del POV de Oliver, nunca explicado en voz alta por el propio Milan). Usos vistos: cortar objetos limpio a distancia, sostener/tensar, y arrancar/lanzar objetos grandes (un raíl, un contenedor de carga entero) con precisión quirúrgica. Antes top diez antes de Dax/Johanna — el Domain explica por qué.

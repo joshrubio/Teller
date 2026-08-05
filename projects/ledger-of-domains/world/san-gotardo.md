@@ -5,13 +5,13 @@ project: ledger-of-domains
 module: world
 tags: [san-gotardo, el-reducto, tablero, libro-2, club-de-pelea]
 relations: [oliver, iker-zabala, yegor, dax-achterberg]
-load-with: [plot/structure, plot/arc-san-gotardo, characters/oliver]
+load-with: [plot/structure, plot/arc-training, characters/oliver]
 updated: 2026-07-24
 ---
 
 # San Gotardo — El Reducto
 
-Instalación militarizada AMAT, Suiza, construida sobre la base del Réduit National (WWII). Ver `plot/arc-san-gotardo.md` para el sistema de puntuación completo (tres patas: Combate/Conocimiento/Evaluación de campo) y la regla de mundo asociada.
+Instalación militarizada AMAT, Suiza, construida sobre la base del Réduit National (WWII). Ver `plot/arc-training.md` para el sistema de puntuación completo (tres patas: Combate/Conocimiento/Evaluación de campo) y la regla de mundo asociada.
 
 ## Tablero general — posiciones actuales
 

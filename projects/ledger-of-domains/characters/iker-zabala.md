@@ -5,7 +5,7 @@ project: ledger-of-domains
 module: characters
 tags: [estatica-domain, electromagnetico, san-gotardo, candidato-militar, libro-2, riku-mirror]
 relations: [riku]
-load-with: [system/domains, plot/structure, plot/arc-san-gotardo]
+load-with: [system/domains, plot/structure, plot/arc-training]
 updated: 2026-07-14
 ---
 

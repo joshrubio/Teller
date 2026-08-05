@@ -1,14 +1,14 @@
 ---
-id: arc-campo
+id: arc-valais
 type: plot
 project: ledger-of-domains
 module: plot
-tags: [libro-2, arc, campo]
+tags: [libro-2, arc, valais]
 load-with: [plot/structure.md, state.md, characters/oliver.md]
 updated: 2026-08-05
 ---
 
-# Arc — Campo (Cap 54–71)
+# Arc — Valais (Cap 54–71)
 
 > Numeración: fusionada real (la de `Capitulo N.md`). Rango y sinopsis de línea viven en `plot/structure.md` — no repetir aquí. Este archivo es el detalle beat-a-beat, migrado desde `plot/arcs.md` (Arc 3 — Campo, ahí en numeración pre-fusión Cap21-37 + el Cap20 "Reconocimiento", que en la numeración fusionada pasó a abrir este arco como Cap54).
 
@@ -106,7 +106,7 @@ Cierre del arco y de la trilogía original de LoD. Cuarenta y siete minutos de b
 
 - Destino de Sisi tras cruzar con Kaspar — "Vuelve" sin respuesta, gancho de Libro2 completo.
 - Destino de Lev y Sabine tras su partida planificada.
-- La nota de Kaspar sobre Anke (11 años) — paga en San Gotardo/Milán (`plot/arc-san-gotardo.md`, `plot/arc-milan.md`).
+- La nota de Kaspar sobre Anke (11 años) — paga en San Gotardo/Milán (`plot/arc-training.md`, `plot/arc-final-exam.md`).
 - Verdad parcial de Oliver con Voss: divulgó el contenido pero ocultó el cuándo — sin resolución explícita en este arco.
 - Los 5 Principados no documentados (Eventos 2-6) — sembrado, sin pagar.
 - Origen y límites del Domain de Oliver (Nivel S sin precedente).
@@ -117,4 +117,5 @@ Cierre del arco y de la trilogía original de LoD. Cuarenta y siete minutos de b
 - Voss a Park (numeración fusionada, dentro de "El Aprendiz y el Agente" Cap24 "Altitud"): "Los otros casos copiaron la amenaza. Oliver copió la curiosidad."
 - Anke = Caso 3. Voss la conoció. Kaspar la observó 11 años. Los números son los mismos. Oliver no sabe que Voss sabe el desenlace.
 - Cap62 tiene título pendiente de decidir en el archivo real (aparece como "Por definir") — la versión pre-fusión de este documento lo llamaba "Suelo"; no retitulado todavía en prosa, no asumir sin confirmar contra `Capitulo 62.md`.
-- Este arco reemplaza la sección "Arc 3 — Campo" que vivía en `plot/arcs.md` (retirada de ahí) — mismo movimiento que El Cobro/Aprendiz y Agente/San Gotardo/Milán/Cierre de líneas. Con esto, todos los arcos de la obra tienen archivo propio.
+- Este arco reemplaza la sección "Arc 3 — Campo" que vivía en `plot/arcs.md` (retirada de ahí) — mismo movimiento que El Cobro/Aprendiz y Agente/Training Arc/Final Exam/Cierre de líneas. Con esto, todos los arcos de la obra tienen archivo propio.
+- **Renombrado 2026-08-05:** "Campo" → "Valais". Mismo movimiento que San Gotardo → Training Arc y Milán → Final Exam.
