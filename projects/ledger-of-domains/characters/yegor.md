@@ -17,29 +17,29 @@ updated: 2026-07-24
 |---|---|
 | **Full name** | Yegor (apellido no dado en texto todavía) |
 | **Nationality** | Rusa — acento marcado, orden de frase ligeramente descolocado (piensa en otro idioma antes de traducir). No caricaturizar — precisión fría, no torpeza cómica. |
-| **Tablero (Cap88)** | #7 de 213 — sube rápido para su edad, dato que Dara reconoce de memoria antes de que él se acerque. |
+| **Tablero (Cap87)** | #7 de 213 — sube rápido para su edad, dato que Dara reconoce de memoria antes de que él se acerque. |
 | **Rol narrativo** | Antagonista recurrente del grupo militar — a diferencia de Iker (rival respetuoso) o Dax (rival de peso), Yegor encabeza la faceta bully del grupo. |
 
-## Cap 88 — introducción
+## Cap 87 — introducción
 
 Nota a Riku bromeando sobre un candidato de Dax en la prueba bajo el agua (piscina) — archiva la reacción sin decir nada. Esa misma noche, en el comedor, Riku repite el chiste más alto de lo calculado; Yegor lo confronta directo, frases cortas y frías ("En mi país, comentario también tiene precio"), lo lleva junto a Oliver al club de pelea informal. Cuando Riku ya ha perdido limpio contra Iker, es Yegor quien decide que "todavía no ha pagado la broma completa" e insiste hasta presionar al propio Iker a golpear a Riku otra vez, ya derrotado — Yegor mismo remata con una patada corta al final, "para firmar el final", más simbólica que dañina. Da la señal de que "viene alguien," organiza la dispersión del grupo antes de que llegue Maren — se va con el resto, sin excepción. Maren no consigue ningún nombre ni número de testigos esa noche.
 
-## Background (Cap91, vía Johanna → Asha)
+## Background (Cap90, vía Johanna → Asha)
 
 <!-- canonical -->
-Fue #1 del tablero general durante los primeros meses de San Gotardo, antes de que llegaran Dax y Johanna. Perdió el puesto y nunca lo aceptó — sigue actuando, según Johanna, "como si el puesto fuera suyo por derecho y todo lo demás fuera un error de contabilidad que alguien va a corregir." El club de pelea es la forma que encontró de seguir siendo el primero en algo, fuera del tablero oficial. La broma de Riku (Cap88) fue solo la excusa, no la causa.
+Fue #1 del tablero general durante los primeros meses de San Gotardo, antes de que llegaran Dax y Johanna. Perdió el puesto y nunca lo aceptó — sigue actuando, según Johanna, "como si el puesto fuera suyo por derecho y todo lo demás fuera un error de contabilidad que alguien va a corregir." El club de pelea es la forma que encontró de seguir siendo el primero en algo, fuera del tablero oficial. La broma de Riku (Cap87) fue solo la excusa, no la causa.
 
-## Cap 92 — Val Tremola, revancha de Oliver
-
-<!-- canonical -->
-Ejercicio "captura la bandera", cohorte mixta Valais vs. grupo de Dax. Se aleja del resto para cubrir un acceso secundario solo, sin saber que Dax lo ve un segundo (justo cuando Petra lo devuelve de golpe al punto más alto de su propio recorrido contra Pier/Petra) y decide no gritar ninguna advertencia. Se topa con Oliver, sin refuerzo visible, y lo confronta directamente ("Otra vez tú. Bien. Esta vez nadie te va a cerrar el paso."). Combate real, detallado, varios intercambios: jab de prueba, gancho real, dos golpes más — Oliver absorbe en vez de bloquear del todo. Oliver lee su tell (carga peso atrás antes de un golpe decisivo), le tiende una trampa bajando la guardia; Yegor carga un cruzado directo al hueco, Oliver gira usando el impulso absorbido y le rompe/disloca el brazo con un puñetazo concentrado al antebrazo extendido. No se rinde ni se retira todavía — con el brazo bueno empuja a Oliver contra un árbol, movimiento propio y desesperado, no solo reacción. Oliver responde con un impulso residual, mucho menor, que lo desequilibra. Un grito lejano interrumpe antes de que nadie decida nada con calma — Yegor huye físicamente, sujetándose el brazo, sin mirar atrás. Pequeña justicia poética tras la golpiza de Cap88, sin que se sienta gratuita — Oliver hiere de verdad y gana la ventaja estratégica, no una revancha limpia y total.
-
-## Libro 2, Arc 2 — Milán (Cap103-112, sincronizado 2026-08-01)
+## Cap 91 — Val Tremola, revancha de Oliver
 
 <!-- canonical -->
-**Domain: Arsenal**, revelado Cap103 (Día libre, enfrentamiento con Oliver) — carga con Odem cualquier objeto que toca, controla dirección/velocidad/peso tras soltarlo. Solo el vendaje (usado como látigo) corta de verdad; otros objetos (pelotas de tenis cargadas) causan contusiones, no cortes. Pierde ese combate contra Oliver (primer uso en pantalla de Canje).
+Ejercicio "captura la bandera", cohorte mixta Valais vs. grupo de Dax. Se aleja del resto para cubrir un acceso secundario solo, sin saber que Dax lo ve un segundo (justo cuando Petra lo devuelve de golpe al punto más alto de su propio recorrido contra Pier/Petra) y decide no gritar ninguna advertencia. Se topa con Oliver, sin refuerzo visible, y lo confronta directamente ("Otra vez tú. Bien. Esta vez nadie te va a cerrar el paso."). Combate real, detallado, varios intercambios: jab de prueba, gancho real, dos golpes más — Oliver absorbe en vez de bloquear del todo. Oliver lee su tell (carga peso atrás antes de un golpe decisivo), le tiende una trampa bajando la guardia; Yegor carga un cruzado directo al hueco, Oliver gira usando el impulso absorbido y le rompe/disloca el brazo con un puñetazo concentrado al antebrazo extendido. No se rinde ni se retira todavía — con el brazo bueno empuja a Oliver contra un árbol, movimiento propio y desesperado, no solo reacción. Oliver responde con un impulso residual, mucho menor, que lo desequilibra. Un grito lejano interrumpe antes de que nadie decida nada con calma — Yegor huye físicamente, sujetándose el brazo, sin mirar atrás. Pequeña justicia poética tras la golpiza de Cap87, sin que se sienta gratuita — Oliver hiere de verdad y gana la ventaja estratégica, no una revancha limpia y total.
 
-**Cap112 (Ronda Final, Parte 1):** último día — lidera un grupo pequeño formado por reclutados a la fuerza (candidatos que perdieron su propio grupo, o que él mismo venció y a los que dio a elegir entre servir o quedarse sin nada). Todavía #31 de 38 pese a haber pasado toda la semana cazando activamente — su estrategia no le ha dado puntos propios. Provoca a Dax en el estadio ("Mírate ahí parado...") sin tocar el tema de haber sido desplazado del #1 en San Gotardo — Dax lo ignora, Yegor cruza el campo furioso, y Dax lo manda volar de un solo movimiento casi invisible, disparando el enfrentamiento final de todos contra Dax.
+## Libro 2, Arc 2 — Milán (Cap102-111, sincronizado 2026-08-01)
+
+<!-- canonical -->
+**Domain: Arsenal**, revelado Cap102 (Día libre, enfrentamiento con Oliver) — carga con Odem cualquier objeto que toca, controla dirección/velocidad/peso tras soltarlo. Solo el vendaje (usado como látigo) corta de verdad; otros objetos (pelotas de tenis cargadas) causan contusiones, no cortes. Pierde ese combate contra Oliver (primer uso en pantalla de Canje).
+
+**Cap111 (Ronda Final, Parte 1):** último día — lidera un grupo pequeño formado por reclutados a la fuerza (candidatos que perdieron su propio grupo, o que él mismo venció y a los que dio a elegir entre servir o quedarse sin nada). Todavía #31 de 38 pese a haber pasado toda la semana cazando activamente — su estrategia no le ha dado puntos propios. Provoca a Dax en el estadio ("Mírate ahí parado...") sin tocar el tema de haber sido desplazado del #1 en San Gotardo — Dax lo ignora, Yegor cruza el campo furioso, y Dax lo manda volar de un solo movimiento casi invisible, disparando el enfrentamiento final de todos contra Dax.
 
 ## Narrative function
 

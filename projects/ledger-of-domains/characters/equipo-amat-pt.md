@@ -11,7 +11,7 @@ updated: 2026-07-04
 
 # Equipo AMAT-PT — Lisboa (BSA Arc 3)
 
-Roster completo introducido en Cap 27. Seis operativos + Ferreira como líder — suficiente músculo de combate para la escalada del arco (Costa, Vitória, Rui, Ferreira mismo), más el ángulo teórico (Salgado) y de archivo (Filipa).
+Roster completo introducido en Cap 26. Seis operativos + Ferreira como líder — suficiente músculo de combate para la escalada del arco (Costa, Vitória, Rui, Ferreira mismo), más el ángulo teórico (Salgado) y de archivo (Filipa).
 
 ## Agente Costa
 
@@ -40,4 +40,4 @@ Archivo histórico. Mayor, gafas colgando de una cadena, atención meticulosa. N
 ## Notas
 
 <!-- canonical -->
-- Nodo de planificación — apariencia física completa, edades exactas, historia de cada uno pendientes de profundizar si el arco los requiere más allá de Cap 27.
+- Nodo de planificación — apariencia física completa, edades exactas, historia de cada uno pendientes de profundizar si el arco los requiere más allá de Cap 26.

@@ -31,16 +31,16 @@ Rigurosa, genuinamente curiosa. Hace la pregunta "¿cómo está?" con intención
 ## Narrative arc
 
 - **Cap 15:** Voss la llama — establece el protocolo para Oliver.
-- **Cap 45:** rompe protocolo entrando al patio durante primera copia deliberada de Oliver. Algo en ese momento la movió a actuar fuera de las reglas.
-- **Cap 59:** identifica primer síntoma del coste a largo plazo del Registro. Oliver lo archiva sin resolver.
-- **Cap 62:** familia de Maren = agentes AMAT. Añade capa a lealtad institucional vs. lealtad a Oliver como sujeto. Sospechaba la dinámica Oliver/Sisi — la integra en el modelo de formación.
-- **Libro 2, Cap 90:** Voss la llama tras salir solo de la sesión donde se abre formalmente la revisión de conducta en su contra (Cartwright de viaje en EE.UU.) — primera vez que Voss le cuenta, aunque sea en parte, el secreto de 30 años del hallazgo de Verhoeven/Anke. Le pide ayuda sin explicar todavía por qué. Ella no pregunta, confía primero. Hilo abierto hacia qué le pide exactamente.
+- **Cap 44:** rompe protocolo entrando al patio durante primera copia deliberada de Oliver. Algo en ese momento la movió a actuar fuera de las reglas.
+- **Cap 58:** identifica primer síntoma del coste a largo plazo del Registro. Oliver lo archiva sin resolver.
+- **Cap 61:** familia de Maren = agentes AMAT. Añade capa a lealtad institucional vs. lealtad a Oliver como sujeto. Sospechaba la dinámica Oliver/Sisi — la integra en el modelo de formación.
+- **Libro 2, Cap 89:** Voss la llama tras salir solo de la sesión donde se abre formalmente la revisión de conducta en su contra (Cartwright de viaje en EE.UU.) — primera vez que Voss le cuenta, aunque sea en parte, el secreto de 30 años del hallazgo de Verhoeven/Anke. Le pide ayuda sin explicar todavía por qué. Ella no pregunta, confía primero. Hilo abierto hacia qué le pide exactamente.
 
 ## Narrative function
 
 - Voz de la institución que aún tiene consciencia humana.
 - Documenta el coste del Registro — el lector y Oliver se enteran a través de ella.
-- Su decisión de entrar al patio (Cap 45) establece que hay líneas que cruza cuando la situación lo exige.
+- Su decisión de entrar al patio (Cap 44) establece que hay líneas que cruza cuando la situación lo exige.
 
 ## Key relations
 

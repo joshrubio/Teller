@@ -23,9 +23,9 @@ Planning reference for chapter pacing and POV decisions.
 
 Average rises with each arc — not inflation, but more simultaneous layers per chapter.
 
-**Outlier:** Cap 55 (4,292) — longest. Closes Arc 2, opens Arc 3. Carries two arcs of weight.
+**Outlier:** Cap 54 (4,292) — longest. Closes Arc 2, opens Arc 3. Carries two arcs of weight.
 
-**Shortest chapters carry the most semantic load:** Cap 6 (2,006, Park's farewell), Cap 71 (2,475, final decision). Compression is semantic.
+**Shortest chapters carry the most semantic load:** Cap 6 (2,006, Park's farewell), Cap 70 (2,475, final decision). Compression is semantic.
 
 ## POV pattern — surgical, always provides information Oliver cannot have
 

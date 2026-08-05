@@ -19,10 +19,10 @@ updated: 2026-07-25
 | **Relación con Voss** | Se conocen desde antes de que ninguno tuviera el cargo actual. No se deben nada. |
 | **Personalidad** | Eficiencia aburrida, puntual, sin ambición visible más allá de que las cosas funcionen. Sustancia sin promesas grandes. |
 
-## Libro 2, Cap 101 — Otro ángulo (escrito 2026-07-25)
+## Libro 2, Cap 100 — Otro ángulo (escrito 2026-07-25)
 
 <!-- canonical -->
-Voss acude a él durante la revisión de conducta abierta por Furrer (Cap90) — no le pide que se juegue nada, solo que confirme en voz alta, donde se oiga, que el caso Valais ha funcionado bien bajo la supervisión técnica de Voss. Baumann lo confirma como hecho verificable, pero deja claro que es una pieza, no una solución — "yo controlo Suiza, Furrer está jugando en Ginebra entera."
+Voss acude a él durante la revisión de conducta abierta por Furrer (Cap89) — no le pide que se juegue nada, solo que confirme en voz alta, donde se oiga, que el caso Valais ha funcionado bien bajo la supervisión técnica de Voss. Baumann lo confirma como hecho verificable, pero deja claro que es una pieza, no una solución — "yo controlo Suiza, Furrer está jugando en Ginebra entera."
 
 **Nota de continuidad:** no mencionar Centro Lemán en relación con Baumann — es material reservado de Libro3, nunca visitado por el grupo de Oliver todavía.
 

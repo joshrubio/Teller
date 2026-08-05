@@ -35,4 +35,4 @@ Load in every write task. These are constraints, not reference.
 
 - Ji-ho como sombra — Park mide todo contra él sin nombrarlo
 - Grayhaven: resolución vía civil, deuda que lleva. Peso, no punto de inicio
-- Kaspar: rastreado por Park de forma independiente; convergen en Libro 1 Cap 64–65
+- Kaspar: rastreado por Park de forma independiente; convergen en Libro 1 Cap 63–64

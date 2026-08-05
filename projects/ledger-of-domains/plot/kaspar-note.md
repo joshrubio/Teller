@@ -8,7 +8,7 @@ load-with: [characters/kaspar, characters/oliver]
 updated: 2026-06-17
 ---
 
-# Kaspar's Note — physical object, Cap 72
+# Kaspar's Note — physical object, Cap 71
 
 Found on Oliver's desk the night of the irruption. Written in English — neither Kaspar's language nor the Centro's. The distance was deliberate.
 
@@ -27,11 +27,11 @@ Found on Oliver's desk the night of the irruption. Written in English — neithe
 <!-- canonical -->
 - Oliver does not share this with AMAT.
 - Kept in the **outer pocket** of his jacket — not the inner one.
-- Discovered Cap 72, left during the irruption (Kaspar exited Oliver's Registry range at min 16–17).
+- Discovered Cap 71, left during the irruption (Kaspar exited Oliver's Registry range at min 16–17).
 - Written in English.
 - "You know how to find me" — Oliver has no practical way to act on this yet. The mechanism is open canon for Libro 2.
 
-## What Oliver tells Voss (Cap 72)
+## What Oliver tells Voss (Cap 71)
 
 Oliver tells Voss the *content*: Anke, eleven years. He does not tell Voss the *when* — 9 days before the irruption (the plaza meeting as "Martin"). Voss does not know about the 9 days.
 

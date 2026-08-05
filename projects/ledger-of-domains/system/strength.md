@@ -31,6 +31,6 @@ Key distinction between inertial mass and physical volume. The Domain increases 
 
 ## Implicit progression (never named in text)
 
-- *Stage 1:* exploitation of available inertia — existing momentum, directed. Cap 55 R5.
-- *Stage 2:* passive accumulation at rest — first visible in the patio (Cap 56). Oliver reads it as signature growing with no outlet.
+- *Stage 1:* exploitation of available inertia — existing momentum, directed. Cap 54 R5.
+- *Stage 2:* passive accumulation at rest — first visible in the patio (Cap 55). Oliver reads it as signature growing with no outlet.
 - *Stage 3:* active mass increase — advanced, not shown yet.

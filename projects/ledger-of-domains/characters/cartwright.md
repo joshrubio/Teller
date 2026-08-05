@@ -25,7 +25,7 @@ Cartwright tiene estructura administrativa; Voss tiene seniority técnico. Relac
 
 ## Relationship with Park
 
-Amigos cercanos, tono extraoficial. Cap 62: menciona Budapest a Park (conversación casual — le informa que el ascenso a Rango 2 fue por Budapest).
+Amigos cercanos, tono extraoficial. Cap 61: menciona Budapest a Park (conversación casual — le informa que el ascenso a Rango 2 fue por Budapest).
 
 ## Notes
 
