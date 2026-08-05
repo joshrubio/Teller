@@ -98,6 +98,11 @@ Recuperación tras el estancamiento de Cap89, fecha de audiencia todavía sin fi
 
 **Pregunta abierta, sin resolver todavía:** qué le dijo Kaspar esa noche, y por qué entregó a la niña sin pelear — alimenta la sospecha de que Kaspar lleva décadas shaping quién entra a AMAT como portador de Registro, con Voss como instrumento sin saberlo del todo.
 
+## Libro 2, Cap 114 — segunda mitad (escrito 2026-08-05)
+
+<!-- canonical -->
+Pierde la votación del framework/estatus legal — Furrer gana apoyándose en la revisión de conducta abierta desde Cap83/89, sin necesitar reabrirla en voz alta. Sala vacía, nadie lo alcanza en el pasillo (Cartwright y Park Taeho fuera de la escena — Voss enfrenta esto solo). Marcus Hale cobra de inmediato el favor de Cap100. Nunca nombra el programa — Voss lo reconoce él solo, por un memorando viejo que nunca le correspondió leer del todo: **Scavengers**. Entiende, en el proceso, que lo que Hale le pide no es una salida para el grupo — es que decida si vale la pena arriesgar sus vidas por una libertad que todavía no tienen. No tiene ya ningún voto que pedir. Hale le ofrece, aparte, una plaza de supervisión (no de campo) en la unidad que gestiona el programa — sin decidir en prosa si la acepta. Cierra el hilo Voss/Ginebra dentro de Libro2, sin arrastrarlo a Libro3.
+
 ## Notes
 
 <!-- canonical -->

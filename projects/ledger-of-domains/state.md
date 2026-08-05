@@ -15,9 +15,9 @@ updated: 2026-08-04
 
 | | |
 |---|---|
-| **Status** | Libro 2, Final Exam casi cerrado — Ronda Final resuelta, Cap114 en progreso |
-| **Last written** | Cap 114 — Medianoche (línea A, POV Oliver) — en progreso, ~1290 palabras. Sesión 2026-08-05: sin avance en Cap114 — trabajo en Prólogo nuevo (Cap0 — "Vigilancia", Park antes de El Cobro) y reestructuración de Cap53 — Asignación (corte escena Yara Montiel, resumen llamada Voss, escena de entrenamiento furtivo nueva). |
-| **Next** | Terminar Cap114 (si falta algo) → Cap115 — Otra puerta (línea C, cierre Voss/Ginebra) |
+| **Status** | Libro 2, Final Exam cerrado — Cap114 completo, hilo Voss/Ginebra resuelto dentro del propio Libro2 |
+| **Last written** | Cap 114 — Medianoche (1ª mitad línea A/Oliver, 2ª mitad línea C/Voss) — **completo, ~2232 palabras**. 2ª mitad añadida 2026-08-05: Furrer gana la votación del marco legal (denegado, apoyándose en la revisión de conducta de Cap83/89); Marcus Hale cobra su favor pendiente de inmediato y reclama a los candidatos de Valais para AMAT-NA — estatus legal de agente y libertad a cambio de sobrevivir un programa de alto riesgo que Voss identifica, sin que Hale lo nombre, como "Scavengers". Oferta aparte a Voss: plaza de supervisión en la unidad que gestiona el programa. |
+| **Next** | Cap115 — contenido por decidir ("Otra puerta" ya no aplica, su contenido se movió a Cap114; ver `plot/arc-cierre-lineas.md`) |
 | **Active arc** | Libro 2, Final Exam (Cap 102-114). Libro2 completo queda en Cap54-119 (numeración fusionada); Libro3 arranca en Cap120. |
 
 > Corrección 2026-07-27: este archivo estaba desactualizado — daba Libro 2 como "planning phase, Cap38 planeado" cuando en realidad ya estaba escrito (manuscrito real, no stubs). **Nota 2026-08-05:** toda la numeración de este archivo es la fusionada post-LoD+BSA (y post-retirada de Cap24) — ver `chapters/index.md` para la tabla completa. El resto de este documento (sección "Where we are" abajo) todavía narra la sesión en numeración vieja pre-fusión en varios tramos — se deja como registro histórico, no se retroconvierte.
@@ -50,9 +50,9 @@ Cap65 escrito y corregido (~2334 palabras, "Otro ángulo", línea C, Voss) — C
 
 Cap66 escrito y corregido (~2533 palabras, "Peso muerto, otra vez") — **cierre real de Training Arc (Cap37-66)**. POV Riku (excepción): preocupación real por Oliver, que apenas duerme y entrena de noche a solas desde Cap63. Repiten el peso muerto (formato Cap46, sprints+sacos, sin Domain) con todo San Gotardo junto — Oliver hace quince repeticiones, la mejor marca de Valais, a una del mejor de todo el ejercicio (dieciséis), mezclado entre los militares. Petra no aparece en todo el capítulo. Pier encuentra a Oliver entrenando solo (boxeo de sombra cargado con Inercia) — apenas responde. Reber anuncia: hoy se cumple el mes, día libre mañana, evaluación final real de campo pasado mañana (mini-arco de Milán, ahora Final Exam completo — ver `plot/arc-final-exam.md`). Cierre: tablero — Oliver #68→#45 (+23, a tres puestos de Pier) — hasta que falta el nombre de Petra. Se ha ido, sin despedidas.
 
-Reloj absoluto del libro: ~24-25 abril 2026 (Irrupción) → ~24-25 junio 2026 (Doblete del Pacífico, arranque Libro3). El Reducto (programa completo, Training Arc+Final Exam) dura 8 semanas. Línea A en Cap52 ≈ día 19-20 post-Irrupción.
+Reloj absoluto del libro: ~24-25 abril 2026 (Irrupción) → ~24-25 junio 2026 (Doblete del Pacífico, arranque Libro3). El Reducto (Training Arc, regla dura "un mes, no seis meses" — ver `plot/arc-training.md`, confirmado en prosa Cap66 "hoy se cumple el mes") dura ~1 mes; sumando 1 día libre + los 7 días de Final Exam, el programa completo dura ~32-33 días, no 8 semanas. Línea A en Cap52 ≈ día 19-20 post-Irrupción.
 
-**Ajustado 2026-07-25 — timeline apretado a propósito para dar margen real a Final Exam (revisadas varias menciones vagas de "semanas" en Cap60/62/65 a cifras más ceñidas):** Cap66 (cierre de Training Arc) ≈ día 30-35 post-Irrupción, ~24-29 mayo 2026. Deja ~26-32 días hasta la Convergencia (24-25 junio) para Final Exam completo. El terremoto de Filipinas (fecha fija, 8 de junio) cae ~10-15 días dentro de Final Exam — ni al principio ni pegado al cierre, hueco natural para usarlo como operación de campo real de la Clasificación (en vez de solo noticia de fondo en Cap82 como estaba planeado antes). Usar este reloj ajustado para chequear consistencia entre líneas a partir de Cap67.
+**Ajustado 2026-08-05 — corregido tras detectar inconsistencia con la regla "un mes" del arco:** Cap66 (cierre de Training Arc) ≈ día 30-35 post-Irrupción, ~24-29 mayo 2026. Final Exam (7 días, Cap102-114) cierra en Cap114 ≈ día 38-43 post-Irrupción, **~1-5 junio 2026**. Deja ~19-24 días hasta la Convergencia (24-25 junio) para el arco Cierre de líneas (Cap115-119) — más margen del que su ritmo "un capítulo por hilo, sin más contenido entre medias" sugería, a tener en cuenta al escribirlo. **Retirado 2026-08-05:** el terremoto de Filipinas (8 de junio) como ancla de este reloj — nunca sucede en el libro, cortado del todo (ver nota ya existente en un archivo temporal de sesiones previas). No usar como referencia de fecha.
 
 Regla activa: toda actualización de tablero general debe llevar cifras exactas (posición antes→después). Tracking completo en `characters/oliver.md`.
 
@@ -68,7 +68,7 @@ Regla activa: toda actualización de tablero general debe llevar cifras exactas 
 
 Open threads a mantener:
 - Petra: salida del Centro confirmada en Cap66 (sin despedidas, razón exacta — Viena u otra cosa — sin confirmar en prosa). Oliver todavía no ha procesado el duelo; hilo abierto hacia Cap67.
-- Marcus Hale (nuevo, director AMAT-NA): ofreció respaldo a Voss a cambio de un favor futuro sin especificar sobre "el despliegue real" de Oliver — Voss no aceptó ni rechazó en pantalla (Cap65). Oliver no sabe que su nombre ya se usó como moneda de cambio institucional. Hilo abierto hacia Arc2/3.
+- Marcus Hale (director AMAT-NA): ofreció respaldo a Voss a cambio de un favor futuro sin especificar (Cap65) — **cobrado 2026-08-05**: interviene en la segunda mitad de Cap114, se cobra el favor de inmediato. Nunca nombra el programa en voz alta — describe los riesgos (alta peligrosidad/mortalidad/vigilancia, sin cifras de retención publicadas) hasta que Voss lo reconoce solo, por un memorando viejo: **Scavengers**. Reclama a los candidatos de Valais para AMAT-NA — estatus legal de agente y libertad, condicionado a sobrevivir. Le ofrece a Voss, aparte, una plaza de supervisión en la unidad que gestiona el programa. Cierra el hilo Voss/Ginebra dentro de Libro2 (ver `plot/arc-cierre-lineas.md`). Oliver no sabe que su nombre ya se usó como moneda de cambio institucional — sigue sin saberlo.
 - Ji-ho: primera aparición física en la trilogía (Cap65, cameo sin diálogo) — leyenda construida, sin gastar todavía. Aparición completa reservada para Libro3.
 - Hana: reveló que su madre está en el consejo de AMAT-EU (Cap65) — dato nuevo, sin explotar más allá de esta sesión todavía.
 - Lev: usó su Domain como arma destructiva real por primera vez (Cap58) — Park ya tiene una duda real sobre el expediente oficial, sin verbalizar. Hilo avanza en Cap67/71.
@@ -86,7 +86,7 @@ Open threads a mantener:
 - Voss: revisión de conducta formal abierta (audiencia en 3 semanas narrativas), suspendido del caso Valais — quién presenta en su lugar mientras tanto es hilo abierto. Secreto de Kaspar/Verhoeven sin resolver (qué dijo esa noche).
 - Park: aún no confirma que Voss lo colocó en el Centro (Libro 1) — sigue abierto.
 - Documento anómalo de Asha (Cap49): sin retomar todavía.
-- **Graduarse de San Gotardo ≠ estatus legal de agente** (nota añadida 2026-08-04): cuidado en la prosa de Cap79/80/Resultados con no confundir ambos — Voss sigue peleando el marco legal en Ginebra (Cap39), sin resolver hasta el capítulo "Otra puerta" (denegado). Ver nota en `plot/arc-cierre-lineas.md`.
+- **Graduarse de San Gotardo ≠ estatus legal de agente** (nota añadida 2026-08-04, **resuelto 2026-08-05**): Voss peleaba el marco legal en Ginebra (Cap39) — se resuelve en la segunda mitad de Cap114 vía Hale/Scavengers, no en Cap115 "Otra puerta" (contenido de ese capítulo movido, ver `plot/arc-cierre-lineas.md`). El precio: estatus legal + libertad a cambio de sobrevivir el protocolo de alta peligrosidad — nuevo hilo abierto, no resolución limpia.
 
 ---
 

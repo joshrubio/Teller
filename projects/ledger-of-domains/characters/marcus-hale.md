@@ -26,6 +26,11 @@ Aparece en Ginebra coincidiendo con el desorden del contingente de Reykjanes y l
 
 **Hilo abierto:** el precio real de la oferta de Hale, y qué significa para el futuro de Oliver, queda sin resolver — Voss ahora tiene una deuda ambigua pendiente con la persona con la que probablemente choque de verdad en Arc2/3 sobre el destino de Oliver.
 
+## Libro 2, Cap 114 — segunda mitad (escrito 2026-08-05)
+
+<!-- canonical -->
+Cobra el favor de inmediato, apenas días después de ofrecerlo — no espera al "despliegue real" que había insinuado en Cap100. Aparece a solas con Voss justo cuando el consejo acaba de denegar el marco legal (ganado por Furrer). Nunca nombra el programa en voz alta — describe los riesgos (alta peligrosidad/mortalidad/vigilancia, sin estadísticas de retención publicadas) hasta que Voss lo reconoce solo como **Scavengers**, por un memorando que vio años atrás. Reclama a los candidatos de Valais para AMAT-NA sin decir cuántos — les da estatus legal de agente y libertad completa, condicionados a sobrevivir el periodo de servicio. De pasada, y por interés propio (le ahorra semanas de transición tener a alguien que ya conoce a los sujetos), le ofrece a Voss una plaza de supervisión — no de campo — en la unidad que gestiona el programa. Se va sin esperar respuesta a ninguna de las dos cosas.
+
 ## Key relations
 
 | Person | Dynamic |
