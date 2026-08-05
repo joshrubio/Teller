@@ -20,7 +20,7 @@ updated: 2026-06-17
 - Park almost let him die (Cap 4 — decision that weighs through all of Arc 2).
 - Oliver's first question from custody was about Park, not himself.
 - Park handed him over — not betrayal, but politics. That weight is unpaid.
-- Cap 54: reunion at the Centro. "Lo que ocurrió en esos once minutos no es algo que yo pueda devolverte." No resolution yet.
+- Cap 54: reunion at the Centro. "Lo que ocurrió en esos veinticuatro minutos no es algo que yo pueda devolverte." No resolution yet.
 
 **Current state:** Working together. The debt and the loyalty coexist without being named.
 

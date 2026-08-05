@@ -12,7 +12,7 @@ Manuscript root: `D:\Writting\Ledger of Domains\` — fusión física ejecutada 
 
 **Nota de fidelidad:** los resúmenes largos de BSA (sobre todo Arc 4-5) se conservaron condensados respecto a su detalle original. Algunas referencias cruzadas a "Cap N" *dentro* de los resúmenes pueden seguir citando numeración vieja de su libro de origen en casos aislados — la columna Cap/File de esta tabla es la autoridad real de navegación.
 
-**Total 114 capítulos escritos** (Cap1-114), + 5 planeados (115-119, cierre de Libro2) antes de que arranque Libro3 en Cap120.
+**Total 114 capítulos escritos** (Cap1-114), + Prólogo (Cap0, fuera de la numeración fusionada) + 5 planeados (115-119, cierre de Libro2) antes de que arranque Libro3 en Cap120.
 
 ---
 
@@ -22,6 +22,7 @@ LoD1-19 (Grayhaven → Centro Valais, Arc1-2 de la trilogía original) intercala
 
 | Cap | Title | File | Origen | POV | Key characters | Summary |
 |---|---|---|---|---|---|---|
+| 0 | Vigilancia | `Capitulo 0.md` | — | Park | Park, Oliver (breve) | Prólogo — Park ya vigilando la red de Kessler antes de El Cobro; mismo encuentro de la moto de Cap1, ahora desde su lado. **2171 palabras.** |
 | 1 | El Cobro | `Capitulo 1.md` | LoD 1 | Oliver | Oliver, Park | Apagón en Grayhaven; "BLANK NODE RESOLVED"; la Potestad existe y sabe que Oliver existe. **3583 palabras.** |
 | 2 | Propagación | `Capitulo 2.md` | LoD 2 | Oliver | Oliver, Park | La Potestad borra personas; huida por el edificio; salto desde octavo piso. **3013 palabras.** |
 | 3 | Líneas | `Capitulo 3.md` | LoD 3 | Oliver | Oliver, Park | Oliver lee el Odem; Park advierte "no es solo ver" — Oliver pasa de testigo a variable activa. **2097 palabras.** |
@@ -74,7 +75,7 @@ LoD1-19 (Grayhaven → Centro Valais, Arc1-2 de la trilogía original) intercala
 | 50 | La que nació de la sangre | `Capitulo 50.md` | BSA 33 | Park | Park, Casimira Blanco, Salcedo, Ronald, General Roa (a distancia) | Primer vistazo real a María Lionza — niña de 9-10 años. Llamada de Cartwright: la operación empieza ahora. **2480 palabras.** |
 | 51 | Tres de enero | `Capitulo 51.md` | BSA 34 | Park | Park, Casimira Blanco, Salcedo, Ronald, Yorman Peña, General Roa | Asalto solo a la finca de Roa. Libera a ocho cautivos, incluido Yorman (hermano de Ronald). Roa mata a Ronald; Park mata a Roa. **5194 palabras.** |
 | 52 | Lo que queda enterrado | `Capitulo 52.md` | BSA 35 | Park | Park, Claudia Ferrer, Cartwright, Nélida, Yusmary, Yorman, Casimira, Ki-yeon (mensaje) | Cierre de BSA. Cartwright asigna a Park a fase Caracas (empalma con LoD Cap19/53). Epílogo en Maiquetía — cliffhanger del informe 1952-HFD-002. **3104 palabras.** |
-| 53 | Asignación | `Capitulo 53.md` | LoD 19 | Park | Park, Voss, Yara Montiel, Hana | Venezuela, Yara Montiel. Llamada de Voss: Centro Valais. Park llega, Hana le informa que el caso de octubre es Oliver Webb. **Cierre de Libro 1 fusionado.** **2867 palabras.** |
+| 53 | Asignación | `Capitulo 53.md` | LoD 19 | Park | Park, Voss, Hana, Yusuf (breve) | Llamada de Voss: Centro Valais. Park abre el informe 1952-HFD-002 en Madrid. Ve un entrenamiento furtivo (Riku, Dara, Oliver) y recuerda su propia formación. Hana revela que el caso de octubre es Oliver Webb. **Cierre de Libro 1 fusionado.** **1915 palabras.** |
 
 ---
 

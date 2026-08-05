@@ -8,13 +8,17 @@ load-with: [plot/structure.md, state.md, characters/oliver.md]
 updated: 2026-08-05
 ---
 
-# Arc — El Cobro (Cap 1–6)
+# Arc — El Cobro (Cap 0 Prólogo – 6)
 
-> Numeración: fusionada real (la de `Capitulo N.md`) — Cap1-6 no se ven afectados por la intercalación con BSA, coinciden con la numeración pre-fusión. Rango y sinopsis de una línea viven en `plot/structure.md` — no repetir aquí. Este archivo es el detalle beat-a-beat.
+> Numeración: fusionada real (la de `Capitulo N.md`) — Cap1-6 no se ven afectados por la intercalación con BSA, coinciden con la numeración pre-fusión. Cap0 es un Prólogo fuera de la numeración fusionada. Rango y sinopsis de una línea viven en `plot/structure.md` — no repetir aquí. Este archivo es el detalle beat-a-beat.
 
-Arco de apertura de toda la obra. 6 capítulos, línea Valais, sin intercalado (BSA arranca en Cap8). POV Oliver (Cap1-4) → POV Park (Cap5-6). Cierra con Oliver bajo custodia de AMAT y Park reasignado a Hartford — las dos líneas del libro (Valais/BSA) quedan sembradas para separarse.
+Arco de apertura de toda la obra. Prólogo (Cap0, POV Park) + 6 capítulos, línea Valais, sin intercalado (BSA arranca en Cap8). POV Oliver (Cap1-4) → POV Park (Cap5-6). Cierra con Oliver bajo custodia de AMAT y Park reasignado a Hartford — las dos líneas del libro (Valais/BSA) quedan sembradas para separarse.
 
 ---
+
+## Cap 0 — Vigilancia (Prólogo)
+
+POV Park. Añadido 2026-08-05. Arranca en registro filosófico/enciclopédico — un tratado alemán de más de cien años (retomando el trabajo de un predicador todavía más antiguo) cataloga folklore disperso bajo los términos Odem/Dominio/Potestad/Principado — antes de aterrizar en Park, leyéndolo a solas en su piso. Revela que Park ya vigila la red de préstamos ilegales de Kessler (morosos que desaparecen y alimentan las arcas del prestamista) y que su cobertura para eso es ser compañero de prácticas de Oliver en Grayhaven — trabajar codo a codo con él es el método, no un aparte de la vigilancia. Día de trabajo compartido (una alarma que solo Oliver nota, una cifra memorizada de un vistazo, un reflejo imposible con una grapadora) construye la sospecha de que Oliver no es un chico cualquiera. Cierra con el mismo encuentro de la moto que Cap1 ya mostró desde el lado de Oliver — "¿Dónde vives? Te acerco" — ahora visto desde dentro de la rutina de vigilancia de Park, cortado antes de completarse. Hook de cierre: Park se aleja sin saber que esa noche es distinta a las anteriores.
 
 ## Cap 1 — El Cobro
 

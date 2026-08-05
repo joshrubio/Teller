@@ -90,7 +90,7 @@ This layer never names the emotional state directly. It circles it until the rea
 
 | Person | Dynamic |
 |---|---|
-| Oliver | David y Jonatán — lealtad que no calcula. La deuda de Cap 4 y el peso de "once minutos" (Cap 54) sin resolver. |
+| Oliver | David y Jonatán — lealtad que no calcula. La deuda de Cap 5 y el peso de "veinticuatro minutos" (Cap 54) sin resolver. |
 | Voss | Fue colocado por Voss sin saberlo. Rastrean Kaspar de forma independiente — convergen Cap 63. |
 | Ji-ho | Tío. Rango S. Canal encriptado no oficial. La sombra contra la que Park mide todo sin nombrarlo. |
 | Cartwright | Amigos cercanos, tono extraoficial. Cap 61: Cartwright menciona Budapest. |

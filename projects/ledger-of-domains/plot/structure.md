@@ -27,7 +27,7 @@ Dos líneas narrativas independientes intercaladas capítulo a capítulo — no 
 
 | Arco | Cap | Sinopsis |
 |---|---|---|
-| El Cobro | 1–6 | El apagón de Grayhaven revela el Registro de Oliver; Park lo saca de la ciudad mientras la Potestad sigue activa. Termina con Oliver bajo custodia de AMAT. |
+| El Cobro | 0 (Prólogo) – 6 | Cap0: Park ya vigilando la red de Kessler, con Oliver como pieza fichada — mismo encuentro de la moto que Cap1, desde su lado. Cap1-6: el apagón de Grayhaven revela el Registro de Oliver; Park lo saca de la ciudad mientras la Potestad sigue activa. Termina con Oliver bajo custodia de AMAT. |
 | El Aprendiz y el Agente | 7–53 | Un solo arco, dos líneas del mismo peso: Oliver explora AMAT desde cero (línea Valais) mientras Park la recorre como agente ya formado (línea BSA). Cierra con la llamada de Voss a Park (Cap53), puente directo a Libro2. Detalle completo, incluidos los 5 tramos internos de la línea BSA, en `plot/arc-aprendiz-agente.md`. |
 
 **Tramos internos de la línea BSA** (dentro de "El Aprendiz y el Agente", no arcos propios — ver `plot/arc-aprendiz-agente.md` para el detalle beat-a-beat de cada uno):
@@ -44,6 +44,7 @@ Dos líneas narrativas independientes intercaladas capítulo a capítulo — no 
 
 | Cap | Título | Línea | Arco | Tramo (línea BSA) |
 |---|---|---|---|---|
+| 0 (Prólogo) | Vigilancia | Park | El Cobro | — |
 | 1 | El Cobro | Valais | El Cobro | — |
 | 2 | Propagación | Valais | El Cobro | — |
 | 3 | Líneas | Valais | El Cobro | — |

@@ -16,7 +16,7 @@ updated: 2026-08-04
 | | |
 |---|---|
 | **Status** | Libro 2, Final Exam casi cerrado — Ronda Final resuelta, Cap114 en progreso |
-| **Last written** | Cap 114 — Medianoche (línea A, POV Oliver) — en progreso, ~1290 palabras |
+| **Last written** | Cap 114 — Medianoche (línea A, POV Oliver) — en progreso, ~1290 palabras. Sesión 2026-08-05: sin avance en Cap114 — trabajo en Prólogo nuevo (Cap0 — "Vigilancia", Park antes de El Cobro) y reestructuración de Cap53 — Asignación (corte escena Yara Montiel, resumen llamada Voss, escena de entrenamiento furtivo nueva). |
 | **Next** | Terminar Cap114 (si falta algo) → Cap115 — Otra puerta (línea C, cierre Voss/Ginebra) |
 | **Active arc** | Libro 2, Final Exam (Cap 102-114). Libro2 completo queda en Cap54-119 (numeración fusionada); Libro3 arranca en Cap120. |
 
@@ -25,6 +25,8 @@ updated: 2026-08-04
 ---
 
 ## Where we are
+
+**Sesión 2026-08-05 (resumen):** trabajo de arquitectura de nodos, no avance de manuscrito en Cap115+. Arcos renombrados (Campo→Valais, San Gotardo—El Reducto→Training Arc, Milán—Ronda Final→Final Exam; lugares reales sin cambio), proyecto `by-strength-alone` retirado por completo (referencias colgantes limpiadas en todo `ledger-of-domains`), regla de POV-por-capítulo en `voice/style.md` actualizada para permitir split-POV marcado. Escrito nuevo Cap0 — Prólogo "Vigilancia" (Park, antes de El Cobro). Cap53 reestructurado (cortada escena Yara Montiel por solapar con cierre de Cap52; resumen de llamada Voss; escena nueva de entrenamiento furtivo con Yusuf/Oliver/Riku/Dara). Fix de continuidad: duración del apagón de Grayhaven unificada a **24 minutos** en Cap5, Cap54 (×2) y Cap69 (antes 4/11, inconsistentes entre sí).
 
 Libro 2 en marcha, San Gotardo (El Reducto). Línea A (Oliver/grupo Valais) en Fase B del entrenamiento — Cap52 reescrito 2026-07-24 (versión final, recortada a ~3460 palabras, escena Anka/Dara eliminada): Yegor (#7, nuevo antagonista militar) confronta a Riku por una broma y lo lleva a un club de pelea mucho más lleno — pierde limpio contra Iker, pero Yegor presiona hasta que el propio Iker lo golpea otra vez ya derrotado (sin Estática, solo el puño) y Yegor remata con una patada. Oliver bloqueado al intentar intervenir, Riku le pide con la mirada que no siga; el grupo huye organizado. Cierre simplificado: Maren, Pier, Asha, Dara y Nadia llegan a la sala vacía, solo miradas compartidas, sin interrogatorio en escena. Daño físico mucho mayor que antes (ojo hinchado, labio partido, moretones múltiples), persiste en próximos caps. Tercer dato de sospecha sobre Anka queda pendiente de reubicar en un capítulo futuro (ya no vive en Cap52). Línea D (Park) retomó el gancho de Cap40 en Cap53, con giro de POV a Lev y Sabine: en fuga desde la Irrupción (~15-19 días), casi los detecta el equipo de Park tras un encuentro con su contacto Aurelio, escapan en tren, rastro cortado de nuevo. Línea C (Voss/Ginebra): Cap54 reveló nuevo canon — Voss, de joven agente (~1992-96), encontró a la niña que sería el Caso 3 (Anke) con Kaspar esperándolo, contacto nunca reportado. Furrer lo descubre, abre formalmente una revisión de conducta contra Voss (Cartwright ausente, viaje EE.UU.) — participación de Voss en el caso Valais queda suspendida. Voss llama a Maren al cierre, primera vez que comparte el secreto.
 
