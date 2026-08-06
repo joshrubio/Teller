@@ -74,6 +74,11 @@ Simulacro de rappel multi-punto, cordada sur junto a Asha y Petra: cuando el anc
 <!-- canonical -->
 Neutraliza a Rasmus (#11, paciente, espera el error ajeno) con el Doble como señuelo puro — lo activa a distancia, deja que Rasmus lo persiga tres segundos mientras la Dara real cruza por otro lado. Tablero: #156→#149 (+7).
 
+## Libro 2, Cap 115 — El Quai (escrito 2026-08-06)
+
+<!-- canonical -->
+Nada obsesivamente en El Quai, dos veces al día, siempre el mismo trayecto de 240m ida y vuelta, contado con precisión repetida. Prueba el Doble en solitario, sin presión real — sostiene dos a la vez casi un minuto entero, muy por encima de los segundos que aguantaron en combate contra la colonia (Cap70). Lo lee como diagnóstico, no como logro: si aguantan un minuto sin nada en juego, el límite real la vez que importó no era del Domain, era de lo que estaba dispuesta a hacer. Retoma sin resolver el fragmento de Anka (Cap95): "la razón, si existía, no estaba en el Odem."
+
 ## Narrative function
 
 - "¿Quién sobrevivió?" resuena con los temas del Registro: copiar, preservar, sustituir.

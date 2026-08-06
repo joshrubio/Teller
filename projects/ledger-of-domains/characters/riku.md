@@ -114,6 +114,11 @@ Duelo 1v1 previo al descenso en rappel, para decidir orden de salida — rival: 
 <!-- canonical -->
 Rol asignado a propósito por el grupo: el más silencioso, el que menos atención atrae. La captura real ocurre en el caos, no en calma: cuando Dax grita pidiendo apoyo genérico, sin nombrar a nadie (sin saber que Yegor está perdiendo su propio combate contra Oliver en ese instante), todo el que sigue de pie en el valle gira la cabeza medio segundo hacia el grito — reflejo, no decisión — y ese medio segundo es el hueco que Riku usa para tomar la bandera sin que nadie la vea moverse. Trae la bandera de vuelta — victoria de Valais. Tablero: #171→#158 (+13, mismo salto exacto que Nadia).
 
+## Libro 2, Cap 115 — El Quai (escrito 2026-08-06)
+
+<!-- canonical -->
+Evita el lago, pero no evita entrenar — practica EM Boxing todos los días en la franja de hierba más alejada del agua, negando en voz alta que lo está haciendo ("si alguien pregunta, no estoy entrenando"). Articula la ironía de golpe: años con alguien diciéndole hasta dónde podía llegar, con papeles de por medio, y ahora que nadie mira sigue haciendo exactamente el mismo ejercicio que haría si lo estuvieran vigilando. Cierra reconociendo, sin resolverlo, que le debe el estilo a "alguien que me puso el ojo morado" (Iker, Cap87) y que no sabe dónde poner esa deuda.
+
 ## Voice patterns (→ voice/pov-riku.md)
 
 - Mira sus propias manos — especialmente la izquierda. **Variantes:** toca la base del pulgar, flexiona los dedos, abre la mano con palma hacia arriba. Caps 34–35 usaron "miró sus propias manos" — en caps posteriores usar VARIANTE.

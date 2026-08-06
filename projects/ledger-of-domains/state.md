@@ -15,16 +15,18 @@ updated: 2026-08-04
 
 | | |
 |---|---|
-| **Status** | Libro 2, Final Exam cerrado — Cap114 completo, hilo Voss/Ginebra resuelto dentro del propio Libro2 |
-| **Last written** | Cap 114 — Medianoche (1ª mitad línea A/Oliver, 2ª mitad línea C/Voss) — **completo, ~2232 palabras**. 2ª mitad añadida 2026-08-05: Furrer gana la votación del marco legal (denegado, apoyándose en la revisión de conducta de Cap83/89); Marcus Hale cobra su favor pendiente de inmediato y reclama a los candidatos de Valais para AMAT-NA — estatus legal de agente y libertad a cambio de sobrevivir un programa de alto riesgo que Voss identifica, sin que Hale lo nombre, como "Scavengers". Oferta aparte a Voss: plaza de supervisión en la unidad que gestiona el programa. |
-| **Next** | Cap115 — contenido por decidir ("Otra puerta" ya no aplica, su contenido se movió a Cap114; ver `plot/arc-cierre-lineas.md`) |
-| **Active arc** | Libro 2, Final Exam (Cap 102-114). Libro2 completo queda en Cap54-119 (numeración fusionada); Libro3 arranca en Cap120. |
+| **Status** | Libro 2, Cierre de líneas en marcha — Cap115 completo, grupo de Valais todavía sin saber lo de Scavengers |
+| **Last written** | Cap 115 — El Quai (línea A, POV Oliver) — **completo, ~2889 palabras**. Puente Cap114→El Quai (helicóptero, sala blanca, 14h dormido, traslado sin explicación) + presentación de El Quai/Centro Lemán. Diez días sin respuesta institucional — viñetas Nadia (Domain sin saber por dónde empezar sin brazos), Riku (entrena EM Boxing negando que entrena), Dara (nada obsesivamente, sostiene dos Dobles un minuto sin presión), Asha (turno de lavandería diseñado para cuarenta), Pier (pesca, le debe una botella a Yusuf). Cierra con el grupo reunido sin planearlo en la orilla al caer la noche — llega un helicóptero, Oliver activa Registro y reconoce a Voss y Maren antes que nadie. Esperanza del grupo cortada en seco por la expresión de Voss: sombría, casi de enojo. |
+| **Next** | Cap116 — Captura (línea D, Lev/Sabine) — pero antes hay que resolver, al abrir o en flashback, cómo/cuándo el grupo se entera de lo de Scavengers (Cap115 cerró justo antes de esa conversación). |
+| **Active arc** | Libro 2, Cierre de líneas (Cap 115-119, en progreso — Cap115 escrito). Libro2 completo queda en Cap54-119 (numeración fusionada); Libro3 arranca en Cap120. |
 
 > Corrección 2026-07-27: este archivo estaba desactualizado — daba Libro 2 como "planning phase, Cap38 planeado" cuando en realidad ya estaba escrito (manuscrito real, no stubs). **Nota 2026-08-05:** toda la numeración de este archivo es la fusionada post-LoD+BSA (y post-retirada de Cap24) — ver `chapters/index.md` para la tabla completa. El resto de este documento (sección "Where we are" abajo) todavía narra la sesión en numeración vieja pre-fusión en varios tramos — se deja como registro histórico, no se retroconvierte.
 
 ---
 
 ## Where we are
+
+**Sesión 2026-08-06 (resumen):** Cap115 — El Quai escrito completo. Puente narrativo Cap114→Cap115 (helicóptero, sala blanca, traslado sin explicación) + El Quai presentado en prosa por primera vez (Centro Lemán, cobertura de instituto médico, paso previo al clearance oficial de AMAT — el grupo de Valais no encaja en esa categoría). Diez días de vacío institucional total, sin sesión ni evaluación — cinco viñetas de cómo cada uno del grupo llena ese vacío a su manera (Nadia, Riku, Dara, Asha, Pier). Cierra con la llegada inesperada de Voss y Maren en helicóptero — ironía dramática deliberada: el lector ya sabe lo de Scavengers desde Cap114, el grupo todavía no, y la cara de Voss (sombría, cerca del enojo) contradice la esperanza que siente el grupo al verlo llegar.
 
 **Sesión 2026-08-05 (resumen):** trabajo de arquitectura de nodos, no avance de manuscrito en Cap115+. Arcos renombrados (Campo→Valais, San Gotardo—El Reducto→Training Arc, Milán—Ronda Final→Final Exam; lugares reales sin cambio), proyecto `by-strength-alone` retirado por completo (referencias colgantes limpiadas en todo `ledger-of-domains`), regla de POV-por-capítulo en `voice/style.md` actualizada para permitir split-POV marcado. Escrito nuevo Cap0 — Prólogo "Vigilancia" (Park, antes de El Cobro). Cap53 reestructurado (cortada escena Yara Montiel por solapar con cierre de Cap52; resumen de llamada Voss; escena nueva de entrenamiento furtivo con Yusuf/Oliver/Riku/Dara). Fix de continuidad: duración del apagón de Grayhaven unificada a **24 minutos** en Cap5, Cap54 (×2) y Cap69 (antes 4/11, inconsistentes entre sí).
 
@@ -62,9 +64,11 @@ Regla activa: toda actualización de tablero general debe llevar cifras exactas 
 
 ## Next chapter plan
 
-**Cap 67 — [título pendiente] (línea A) — abre Final Exam directamente.** Oliver confronta a Anka con la pregunta que lleva desde Cap36 de Libro1: si es ella, la de la nota de Kaspar. No hay respuesta limpia sí/no, pero sí lo suficiente para que Oliver y el lector salgan con la identidad confirmada en todo salvo el nombre dicho en voz alta. Cierra con el peso completo: Kaspar → Anke → Oliver, Voss lleva treinta años dentro de ese patrón sin decírselo a nadie. Entrelazado con el duelo por la salida de Petra (Cap66), que Oliver todavía no ha procesado del todo.
+**Cap 116 — Captura (línea D, Park).** Cierra el hilo Lev/Sabine abierto desde Cap105. Park ejecuta la orden de captura, pero no limpio — dirige la operación para minimizar daño a ambos, se salta un paso del protocolo estándar sin reportarlo (primera fisura real desde Grayhaven). Cierra reformulando la pregunta de Seúl: no si cuenta el resultado, sino cómo se llega a él.
 
-**Nota de reestructura (2026-07-24, corregida 2026-07-25):** el cierre real de Training Arc es Cap66 (Riku POV, peso muerto repetido, salida de Petra confirmada, anuncio de la Clasificación) — no la confrontación de Anka, que se movió a Cap67 y ahora abre Final Exam directamente, sin aire muerto entre arcos (Final Exam empieza justo en Cap67 según `plot/arc-final-exam.md`). El cliffhanger de Yusuf se traslada a Cap68. Ver `plot/arc-final-exam.md` para el detalle completo.
+**Pendiente de decidir antes/durante Cap116:** Cap115 cerró justo antes de que Voss le contara al grupo lo de Scavengers — esa conversación todavía no está escrita. ¿Abre Cap116 con ella (aunque la línea de ese capítulo sea D/Park), va como escena breve entre líneas, o se traslada a Cap117 (que ya es A/B, encaja mejor temáticamente con el procesamiento emocional del grupo)? Decidir antes de escribir Cap116.
+
+Batch completo (Cap116-119) planificado en `plot/arc-cierre-lineas.md` — Cap117 (Lo que no se dijo, cierre doble: moral del grupo + muerte de Yusuf), Cap118-119 (Grayhaven 1-2, bookend con Cap1, contenido exacto sin desarrollar todavía).
 
 Open threads a mantener:
 - Petra: salida del Centro confirmada en Cap66 (sin despedidas, razón exacta — Viena u otra cosa — sin confirmar en prosa). Oliver todavía no ha procesado el duelo; hilo abierto hacia Cap67.

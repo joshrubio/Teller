@@ -76,6 +76,11 @@ Simulacro de descenso en rappel multi-punto, cubriendo el punto medio junto a Ol
 <!-- canonical -->
 Se enfrenta sola a Lukas (#10) en el ejercicio "captura la bandera" — usa Impulso en línea recta, sin contacto, dos veces (al pecho, luego a las rodillas) para desequilibrarlo sobre terreno irregular hasta tumbarlo. No necesita vencerlo cuerpo a cuerpo, solo que el terreno haga el resto. Resuelve el cruce completamente sola, sin ayuda. Tablero: #183→#170 (+13).
 
+## Libro 2, Cap 115 — El Quai (escrito 2026-08-06)
+
+<!-- canonical -->
+Dos manos en férulas tras Milán; para el momento del capítulo, solo la izquierda sigue inmovilizada, la derecha vendada permite mover tres dedos. Intenta usar Impulso por primera vez desde el examen (empujar una silla) y no consigue nada — no por fallo, sino porque no encuentra "por dónde empezar": dos años dirigiendo el Domain con los brazos sin darse cuenta de que lo hacía así. Sin evaluación ni sesión en El Quai, no tiene a quién contárselo — concluye que el único motivo para querer contarlo es que, si nadie lo apunta, no sabe si cuenta.
+
 ## Narrative function
 
 - Personaje funcional en escenas de entrenamiento grupal.

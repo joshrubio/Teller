@@ -63,6 +63,11 @@ Tras la golpiza a Riku (Cap87), investiga sin violencia ni confrontación — us
 <!-- canonical -->
 Diseña la estrategia completa del grupo para el ejercicio "captura la bandera" usando la info que reunió en Cap90: contra Milan (impaciente, predecible), afloja con Tensión el puente de troncos que él tiene que cruzar — lo deja caer al agua sin acercarse a un cruce físico. "Físicamente me habría destrozado. Por eso no dejé que la pelea fuera física." Tablero: #31→#27 (+4).
 
+## Libro 2, Cap 115 — El Quai (escrito 2026-08-06)
+
+<!-- canonical -->
+Organiza un turno de lavandería que nadie le pidió — seis nombres, seis días — diseñado sin darse cuenta para cuarenta personas (el tamaño del grupo que había esa semana), no para los seis que quedan. Lo deja en la puerta de todas formas. Es la primera en preguntar en voz alta, cinco días después de llegar, "¿te han dicho algo?" — comparando la espera con los nueve días que tardó Petra en saber lo de Viena, sin decidir cuál de las dos formas de esperar es peor.
+
 ## Narrative function
 
 - Primer Domain que Oliver copia — establece la mecánica central de la serie.

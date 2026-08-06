@@ -116,7 +116,7 @@ Sin más intercalado BSA. Cuatro líneas propias: **A** (Oliver/Valais, columna 
 | Valais | 54–71 | Cola de la trilogía original LoD. Park llega al Centro y se reencuentra con Oliver; el grupo entero se pone a prueba en una operación real contra una colonia de Potestades. Kaspar reaparece, Sisi confiesa su Domain, y la Irrupción fuerza a Oliver a decidir quedarse — cierra con tres ausencias (Sisi, Lev, Sabine) y la nota de Kaspar sobre Anke. |
 | Training Arc | 72–101 | El grupo entero es trasladado a un centro militarizado en los Alpes para un mes de entrenamiento intensivo. Rivalidad con Dax y Johanna, sistema de tablero, la identidad de Anka como Caso 3 empieza a insinuarse. Cierra con la salida de Petra y el anuncio del examen final. |
 | Final Exam | 102–114 | Examen final de El Reducto: una semana suelto en Milán, cazando placas ajenas mientras evita perder la propia — formato estilo Battle Royale. Escalada hasta un enfrentamiento final de todos contra Dax en un estadio. Cierra con los seis de Valais dentro del top 25 por primera vez. |
-| Cierre de líneas | 115–119 *(planeado)* | Otra puerta (115, C) → Captura (116, D) → Lo que no se dijo (117, A/B) → Grayhaven 1-2 (118-119, A). |
+| Cierre de líneas | 115–119 (Cap115 escrito, resto planeado) | El Quai (115, A — escrito) → Captura (116, D) → Lo que no se dijo (117, A/B) → Grayhaven 1-2 (118-119, A). |
 
 ### Tabla — Libro 2
 
@@ -183,7 +183,7 @@ Sin más intercalado BSA. Cuatro líneas propias: **A** (Oliver/Valais, columna 
 | 112 | Ronda Final — Parte 2 | A | Final Exam |
 | 113 | Ronda Final — Parte 3 | A | Final Exam |
 | 114 | Medianoche | A | Final Exam (en progreso) |
-| 115 | Otra puerta *(planeado)* | C | Cierre de líneas |
+| 115 | El Quai | A | Cierre de líneas |
 | 116 | Captura *(planeado)* | D | Cierre de líneas |
 | 117 | Lo que no se dijo *(planeado)* | A/B | Cierre de líneas |
 | 118 | Grayhaven (1) *(planeado)* | A | Cierre de líneas |

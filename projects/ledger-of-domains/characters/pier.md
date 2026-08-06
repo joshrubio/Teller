@@ -98,6 +98,11 @@ Junto a Petra, neutraliza a Dax (#1) — aumenta el peso del terreno bajo cada p
 
 **Tick del autor a evitar (detectado 2026-07-08):** "Once años" como muletilla de diálogo/narración para Pier está sobreusado — aparece repetido casi literal en Caps 35, 46, 55, 65, 72, 75, y en varias fichas. El número (11 años en el Centro) es canon fijo y puede seguir usándose como dato, pero variar cómo se dice: evitar abrir línea de diálogo con "Once años —dijo Pier—" como respuesta genérica a cualquier cosa. Usar el dato solo cuando la escena lo necesita, y frasearlo distinto cada vez (tiempo en el Centro, antigüedad, "desde antes de que...", etc.) en vez de repetir la frase hecha.
 
+## Libro 2, Cap 115 — El Quai (escrito 2026-08-06)
+
+<!-- canonical -->
+Encuentra una caña de pescar (origen sin explicar) y pesca todas las tardes desde el muelle — confiesa llevar tres días sin cambiar el cebo "porque no quiero levantarme", diagnóstico seco de lo que el vacío institucional le está haciendo incluso a él. Recuerda a Yusuf enseñándole un nudo de pesca en San Gotardo y la botella que le debe — pendiente de cobrar "cuando alguien nos diga qué somos ahora". Le recuerda a Oliver, sin presionar, que también tiene una deuda pendiente (la sala de entrenamiento, Cap63) — "casi nunca importa. Eso no es lo mismo que no contarlo."
+
 ## Key relations
 
 | Person | Dynamic |

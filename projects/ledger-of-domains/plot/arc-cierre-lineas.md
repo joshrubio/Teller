@@ -8,13 +8,15 @@ load-with: [plot/structure.md, state.md]
 updated: 2026-08-05
 ---
 
-# Arc — Cierre de líneas (Cap 115–119, planeado)
+# Arc — Cierre de líneas (Cap 115–119)
 
-> Numeración: fusionada real. Rango y sinopsis de línea viven en `plot/structure.md`. Ningún capítulo de este arco está escrito todavía — es el plan.
+> Numeración: fusionada real. Rango y sinopsis de línea viven en `plot/structure.md`. Cap115 escrito 2026-08-06 — resto del arco sigue siendo plan.
 
 Cada línea paga su hilo pendiente en cadena, uno por capítulo, sin más contenido de Milán entre medias.
 
-**Cap 115 — [pendiente de decidir].** Línea C. **Reestructurado y escrito 2026-08-05:** el hilo Voss/Ginebra ya no se cierra aquí — se resolvió en la segunda mitad de Cap114 (ya escrito, ver `plot/arc-final-exam.md`): Marcus Hale (AMAT-NA) intervino tras ganar Furrer la votación, cobrándose de inmediato el favor pendiente de Voss (días, no meses) y reclamando a los candidatos de Valais para AMAT-NA — estatus legal de agente y libertad condicionados a sobrevivir un programa de alto riesgo que Hale nunca nombró y Voss identificó solo como **Scavengers**. Le ofreció a Voss, aparte, una plaza de supervisión en la unidad que lo gestiona. Contenido real de Cap115 sin decidir todavía — candidatos: reacción del grupo/Oliver a la noticia, primera fricción con Voss por perder el control, o colapsar el arco a 4 capítulos y absorberlo en Cap116.
+**Cap 115 — El Quai.** Línea A (POV Oliver). **Escrito 2026-08-06.** Puente narrativo Cap114→El Quai: fragmentos de la noche del estadio (helicóptero, sala blanca, 14h dormido) + traslado sin explicación + presentación del lugar en prosa (Centro Lemán, cobertura de instituto médico privado, paso previo al clearance oficial de AMAT — el grupo de Valais, "lo que queda de un centro que ya no existe", no encaja en esa categoría). Diez días de vacío institucional total —sin sesión, sin evaluación, sin nadie mirando— narrados en cinco viñetas: Nadia (Domain sin saber por dónde empezar sin las dos manos), Riku (entrena EM Boxing todos los días negando que entrena), Dara (nada obsesivamente, sostiene dos Dobles un minuto entero sin presión real — "llegué al límite de lo que estaba dispuesta a hacer, no de lo que puedo"), Asha (organiza un turno de lavandería diseñado para cuarenta personas siendo solo seis), Pier (pesca, le debe una botella a Yusuf). Cierra con el grupo reunido sin planearlo en la orilla al anochecer — llega un helicóptero al aeródromo del jardín, Oliver activa Registro y reconoce a Voss y Maren antes que nadie. Esperanza genuina del grupo cortada en seco por la cara de Voss: sombría, cerca del enojo — ironía dramática deliberada, el lector ya sabe lo de Scavengers desde Cap114, el grupo todavía no. **La conversación donde Voss se lo cuenta queda fuera de este capítulo — pendiente para Cap116 o antes de él.**
+
+**Nota de reestructura (2026-08-05, ya resuelta):** el hilo Voss/Ginebra que originalmente iba a cerrarse aquí se movió a la segunda mitad de Cap114 (ver `plot/arc-final-exam.md`) — Marcus Hale (AMAT-NA) intervino tras ganar Furrer la votación, cobrándose de inmediato el favor pendiente de Voss y reclamando a los candidatos de Valais para AMAT-NA bajo **Scavengers**. Le ofreció a Voss, aparte, una plaza de supervisión en la unidad que lo gestiona.
 
 **Cap 116 — Captura.** Línea D, cierre — paga el hilo dejado en suspenso desde el Cap105. Lev y Sabine, capturados — Park ejecuta la orden, pero no limpio: dirige la operación para minimizar daño a ambos, se salta un paso del protocolo estándar sin reportarlo (primera fisura real desde Grayhaven). Park cierra con la misma pregunta de Seúl reformulada: no si cuenta el resultado, sino si cuenta cómo se llega a él.
 
@@ -38,9 +40,9 @@ Cada línea paga su hilo pendiente en cadena, uno por capítulo, sin más conten
 
 ## Pendiente de decidir
 
-- Contenido real de Cap115 (ver arriba) — reacción a Scavengers, o colapsar a 4 capítulos.
+- **Dónde y cuándo el grupo se entera de Scavengers** — Cap115 cierra justo antes de esa conversación (llegada de Voss). ¿Abre Cap116, va como escena breve entre líneas, o se traslada a Cap117 (temáticamente más cercano al procesamiento emocional del grupo)?
 - Qué implica Scavengers en términos concretos de misión/riesgo para el grupo de Valais — a desarrollar.
 - Si Voss acepta la plaza de supervisión que le ofreció Hale — sin decidir todavía.
-- Destino final de Lev/Sabine tras la captura (Cap116-117, renumeración pendiente si Cap115 se colapsa).
+- Destino final de Lev/Sabine tras la captura (Cap116-117).
 - Si Yusuf tiene aliados/contacto de apoyo en algún punto antes de su muerte (Cap106), o si su soledad es absoluta hasta el final.
 - Contenido exacto de los dos capítulos de Grayhaven (Cap118-119) — solo el concepto de bookend está decidido, falta desarrollar qué pasa ahí.
