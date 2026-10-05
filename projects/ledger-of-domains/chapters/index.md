@@ -8,7 +8,7 @@ updated: 2026-08-05
 
 # Chapters — Navigation Index (fusionado LoD + BSA)
 
-Manuscript root: `D:\Writting\Ledger of Domains\` — fusión física ejecutada 2026-08-05 (LoD+BSA intercalados, un solo `Capitulo N.md` por número). **Actualizado 2026-08-05:** se retiró el antiguo Cap24 ("Campo Libre", LoD11) — su contenido (Hartford + primer encuentro Park/Voss en Grayhaven) quedó duplicado por BSA Cap9 "Contacto" y Cap10 "Firma", escritos después con más detalle. Todo lo posterior se renumeró -1. Mapeo original (previo a esta retirada) en `D:\Writting\_merge_mapping.tsv`.
+Manuscript root: `D:\Writting\Teller\manuscript\` — fusión física ejecutada 2026-08-05 (LoD+BSA intercalados, un solo `Capitulo N.md` por número). **Actualizado 2026-08-05:** se retiró el antiguo Cap24 ("Campo Libre", LoD11) — su contenido (Hartford + primer encuentro Park/Voss en Grayhaven) quedó duplicado por BSA Cap9 "Contacto" y Cap10 "Firma", escritos después con más detalle. Todo lo posterior se renumeró -1. Mapeo original (previo a esta retirada) en `D:\Writting\_merge_mapping.tsv`.
 
 **Nota de fidelidad:** los resúmenes largos de BSA (sobre todo Arc 4-5) se conservaron condensados respecto a su detalle original. Algunas referencias cruzadas a "Cap N" *dentro* de los resúmenes pueden seguir citando numeración vieja de su libro de origen en casos aislados — la columna Cap/File de esta tabla es la autoridad real de navegación.
 
