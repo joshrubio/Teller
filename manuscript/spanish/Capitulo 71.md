@@ -50,7 +50,7 @@ Cuando los abrió, había un hombre sentado a dos metros.
 
 La firma llegó antes que cualquier otra impresión.
 
-No fue lectura activa — fue que algo al margen del pasivo no encajó, y el Registro lo señaló antes de que Oliver decidiera prestarle atención. La firma era incorrecta. No de la manera en que lo es un nodo vacío, que Oliver conocía bien desde Grayhaven. No de la manera en que lo es un Dominio activo, que siempre tenía una frecuencia reconocible incluso en alguien nuevo. Esto era otra cosa: capas superpuestas que el Registro intentaba resolver simultáneamente y no podía, como si el mismo archivo existiera en veinte versiones ligeramente distintas y el sistema intentara cargar todas a la vez. El resultado no era cacofonía. Era antiguo. Esa era la única palabra que volvía cada vez que Oliver intentaba clasificarlo. La firma era más vieja que el cuerpo que la contenía.
+No fue lectura activa — fue que algo al margen del pasivo no encajó, y el Registro lo señaló antes de que Oliver decidiera prestarle atención. La firma era incorrecta. No de la manera en que lo es un nodo vacío, que Oliver conocía bien desde Grayhaven. No de la manera en que lo es un Dominio activo, que siempre tenía una frecuencia reconocible incluso en alguien nuevo. Esto era otra cosa: capas superpuestas que el Registro intentaba resolver simultáneamente y no podía, como si la misma cuenta estuviera escrita veinte veces en veinte libros distintos y nadie pudiera decidir cuál de todas era la entrada real. El resultado no era cacofonía. Era antiguo. Esa era la única palabra que volvía cada vez que Oliver intentaba clasificarlo. La firma era más vieja que el cuerpo que la contenía.
 
 Oliver lo miró.
 

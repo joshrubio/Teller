@@ -275,7 +275,7 @@ Silencio breve en el intercomunicador.
 
 Oliver amplió el radio hasta el máximo sostenible.
 
-Los puntos subterráneos se habían acercado durante los últimos minutos. No era una Potestad moviéndose como una masa — era docenas de partes independientes moviéndose en coordinación, cada una con su propio Odem diminuto, todas orientadas en la misma dirección. Como un proceso distribuido sin servidor central: sin epicentro, sin cabeza, sin ningún punto que al eliminarlo detuviera el resto.
+Los puntos subterráneos se habían acercado durante los últimos minutos. No era una Potestad moviéndose como una masa — era docenas de partes independientes moviéndose en coordinación, cada una con su propio Odem diminuto, todas orientadas en la misma dirección. Como una red de cobradores sin un solo jefe al que reportarle: sin epicentro, sin cabeza, sin un nombre que al tachar detuviera el resto.
 
 Ocho minutos de lectura continua.
 

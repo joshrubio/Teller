@@ -28,14 +28,14 @@ Analítico, nervioso bajo presión, busca patrones.
 
 ## Odem analogies used — rotate, never repeat in consecutive chapters
 
-- "como calibrar un monitor / ajustar el contraste" — Cap 24
-- "archivo que ha terminado de cargar" — Cap 32
-- "archivo corrupto que el sistema intenta leer" — Cap 32
-- "frecuencia de fondo de un sistema encendido" — Cap 24/32
-- "señal degradada en canal de poco ancho de banda" — Cap 32
-- "depurar un sistema sin documentación sin saber qué tiene que hacer" — Cap 34
-- "como un proceso que se ejecuta solo cuando encuentra las condiciones correctas" — Cap 32
-- "log de errores" — Cap 34
+- "como calibrar un monitor / ajustar el contraste" — Cap 28
+- "archivo que ha terminado de cargar" — Cap 36
+- "archivo corrupto que el sistema intenta leer" — Cap 36
+- "frecuencia de fondo de un sistema encendido" — Cap 28/32
+- "señal degradada en canal de poco ancho de banda" — Cap 36
+- "depurar un sistema sin documentación sin saber qué tiene que hacer" — Cap 38
+- "como un proceso que se ejecuta solo cuando encuentra las condiciones correctas" — Cap 36
+- "log de errores" — Cap 38
 
 ## Watch for
 

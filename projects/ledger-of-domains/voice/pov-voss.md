@@ -17,7 +17,7 @@ Burocrático-inquietante, calculado.
 ## Canonical gestures
 
 - Does not turn when speaking if he can avoid it — processes from oblique angle.
-- Involuntarily counts distances and proportions. **REGISTRO:** 104m del corredor (Cap 15) — do not repeat.
+- Involuntarily counts distances and proportions. **REGISTRO:** 104m del corredor (Cap 19) — do not repeat.
 - Rests hand on surfaces as active spatial reading, not physical support.
 - Leans slightly when the conversation is under his control.
 
@@ -30,9 +30,9 @@ Burocrático-inquietante, calculado.
 
 ## Analogies used
 
-- "ciento cuatro metros" del corredor AMAT-NA — Cap 15
-- "variable cuyo peso no había calculado todavía" — Cap 15
-- "calcular cuánto vale la respuesta" — Cap 10 ("Firma")
+- "ciento cuatro metros" del corredor AMAT-NA — Cap 19
+- "variable cuyo peso no había calculado todavía" — Cap 19
+- "calcular cuánto vale la respuesta" — Cap 14 ("Firma")
 
 ## Watch for
 

@@ -5,7 +5,7 @@ module: voice
 project: ledger-of-domains
 applies-to: [ledger-of-domains]
 scope: universal — reusable across any project with physical/power-based combat
-updated: 2026-07-01
+updated: 2026-10-23
 ---
 
 # Combat Narration — Shared Guide
@@ -182,6 +182,23 @@ The point isn't to make the enemy win — it's to make the protagonist's eventua
 
 ---
 
+### 14. Narration layers inside a fight
+
+Layers and their definitions: `style.md` (Narration layers) and `narration.md`.
+
+- The narrator and onlookers speak **between beats**, never inside the POV chain (rule 1); at most three narrator lines per fight.
+- **Reaction first** (a cry, a question), then the narrator answers in plain lines of one idea each.
+- Under fire the inner voice shrinks to commands and the stake is said once, plainly (rule 8).
+- **Never name the feeling or the theme;** the body carries it (a grin he cannot stop, a closing hand).
+- A major cost is shown **once, in one image**, then carried in silence in the later frames.
+- A move's name arrives with its effect; its mechanism is never explained.
+- The prose equivalent of a hype caption is the last plain line of the chapter.
+- Close a beat on a late fact, not on rest (`style.md` cliffhanger rule).
+- From references take strategy only, never another work's concepts, names or mechanisms.
+- Situational patterns live in `combat-visual/`; this rule is only the floor.
+
+---
+
 ## Example — full beat
 
 > El problema más urgente: el agente de contención en el centro-norte, sin escudo, con dos gwisin cerrando desde el noroeste y el este a la vez.
@@ -214,6 +231,7 @@ The point isn't to make the enemy win — it's to make the protagonist's eventua
 | A decisive exchange compressed to "attack → result," no feint/read/response steps | Fight feels rushed regardless of stakes — see rule 12 |
 | Padding a short fight with atmosphere/description instead of more exchange beats | Wrong fix — split the exchanges, don't decorate around them — see rule 12 |
 | Enemy only ever reacts to or copies the protagonist, never originates a move | Reads as a mirror, not a threat, no matter how strong it's described as — see rule 13 |
+| Narrator or onlooker lines inside the POV chain; the feeling or theme named; the cost shown twice | Breaks the single perception axis and softens the stakes — see rule 14 |
 
 ---
 

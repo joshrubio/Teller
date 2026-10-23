@@ -40,7 +40,17 @@ updated: 2026-06-19
 ## Libro 2 (added 2026-07-07)
 
 - **Target length: ~2,500–3,000 words per chapter.** Standing rule, all chapters, no exceptions for "opening"/secondary-line chapters — check word count before considering a chapter done, same discipline as the cliffhanger rule below.
-- **Every chapter ends on a cliffhanger.** Standing rule for the whole book, same discipline as BSA. Not optional per-chapter — check this before considering a chapter done. Doesn't have to be action (Cap 74 closed on an unsigned text from Voss); a withheld piece of information, an unanswered call, or a reversal of what the scene just established all count, as long as the chapter doesn't land on a settled, resting beat.
+- **Every chapter ends on a cliffhanger.** Standing rule for the whole book, same discipline as BSA. Not optional per-chapter — check this before considering a chapter done. Doesn't have to be action (Cap 78 closed on an unsigned text from Voss); a withheld piece of information, an unanswered call, or a reversal of what the scene just established all count, as long as the chapter doesn't land on a settled, resting beat.
+
+---
+
+## Narration layers (all books, added 2026-10-23)
+
+- **Close POV chain** is the default. Two other layers exist and are used on purpose, never blended in one unbroken passage.
+- **Inner voice:** one short line per beat; under pressure it shrinks to commands. Never inside an action chain.
+- **Elevated narrator:** outside any head, may know what the POV does not (Cap5) or run a chapter as a mosaic of places and hours (Cap162). Definition, patterns taken from those two chapters and rules: `voice/narration.md`.
+- Hand-offs between layers happen at a scene break (`---`, a time header or a clear grammatical handoff).
+- Never name the theme or the feeling directly (`themes/writing-rules.md`).
 
 ---
 
@@ -52,6 +62,7 @@ updated: 2026-06-19
 |---|---|---|
 | `— [Character] hizo una pausa —` / `— Una pausa —` | ~35 | Concrete physical action, speech ellipsis, or direct connection |
 | `la atención de alguien que [verb]` | ~12 | Direct verb or concrete description |
+| `Guardó [eso/esa X] ... en el mismo sitio (de siempre / donde guardaba todo lo demás). Completo/a. Sin usar[lo/la] todavía.` — flagged 2026-09-24, Libro3 Arco1 Cap123-124 | ~6 en 2 capítulos | Motivo válido (Kaspar/Herzog acumula sin usar) pero usar como mucho una vez por capítulo, variando la redacción — no repetir la fórmula "en el mismo sitio... completo/a... sin usar todavía" palabra por palabra |
 
 ### Global patterns to monitor
 

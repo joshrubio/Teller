@@ -46,7 +46,7 @@ Voss asintió.
 
 — Entonces eso es lo que queda.
 
-No era una evaluación. Era la delimitación precisa de un problema sin resolver — el mismo tono que usaría para señalar un componente en un circuito que todavía fallaba bajo carga.
+No era una evaluación. Era la delimitación precisa de un problema sin resolver — el mismo tono que usaría para señalar una cuenta que seguía sin cuadrar, por mucho que se revisara la columna.
 
 — El equipo que estoy construyendo — dijo Voss — no puede depender de una capa de inteligencia que se satura en campo a los ocho minutos. Necesitas poder operar durante más tiempo sin que el umbral trabaje en tu contra. No de forma indefinida. Solo lo suficiente para que la información llegue cuando la necesiten.
 

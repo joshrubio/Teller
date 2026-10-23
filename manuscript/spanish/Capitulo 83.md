@@ -154,7 +154,7 @@ Presión no hizo falta demostrarla otra vez — todos la habían sentido en carn
 
 Oliver dudó, no por no saber la respuesta sino por la costumbre de no decirla en voz alta delante de extraños.
 
-— Un patrón —dijo, al final—. Capas, dirección, un punto de ancla. Como un archivo cargando.
+— Un patrón —dijo, al final—. Capas, dirección, un punto de ancla. Como una cuenta que todavía se está sumando.
 
 — Ese punto de ancla es Foco, cristalizado en algo con nombre propio —dijo Anka—. Los que no tienen Domain siguen usando el mismo principio sin bautizarlo, cada vez que concentran fuerza en un puño o resistencia en una costilla. Es el mismo endurecimiento del que hablábamos con Manto, solo que concentrado en un punto en vez de repartido por todo el cuerpo — más ataque o más defensa exactamente ahí donde se necesita, al precio de dejar todo lo demás sin cubrir. La diferencia entre tener Domain y no tenerlo es más pequeña de lo que el tablero de esta institución quiere hacerles creer.
 

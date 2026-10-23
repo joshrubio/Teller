@@ -48,7 +48,7 @@ There was no current to read.
 
 What he couldn't determine, without more information, was whether that meant the ability required an external source to activate, or simply required practice he didn't have yet. Two very different hypotheses with very different implications — and it was itself a data point that Voss had chosen not to finish the sentence when Oliver had left it open.
 
-He closed his eyes. In the dark, the attic kept existing, the exact geometry of a paused life: the desk with the secondhand second monitor that fit only if you angled it diagonally, the book left open face-down on the arm of the couch because he'd meant to keep reading it that night, the keys on the hook by the door because that was the only way to not lose them.
+He closed his eyes. In the dark, the attic kept existing, the exact geometry of a paused life: the desk with the half-stripped radio he'd been meaning to finish for months, the book left open face-down on the arm of the couch because he'd meant to keep reading it that night, the keys on the hook by the door because that was the only way to not lose them.
 
 ---
 

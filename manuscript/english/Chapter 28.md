@@ -134,7 +134,7 @@ Asha's signature was denser than the others'. Not more intense — dense. Like m
 
 Between the morning session and the afternoon one, Oliver had two hours with no protocol.
 
-The center called it free time. Oliver used it the way he'd learned to use the silence in his sessions with Maren: without trying to produce anything with it. He walked the perimeter of the building when the cold allowed it, which in the Alps in October was rare. He read the technical books in the center's library — network structures, systems theory, nothing he hadn't read before, but here reading had a different quality. Like rereading a manual after you've already used the tool.
+The center called it free time. Oliver used it the way he'd learned to use the silence in his sessions with Maren: without trying to produce anything with it. He walked the perimeter of the building when the cold allowed it, which in the Alps in October was rare. He read the technical books in the center's library — systems theory, forensic accounting, nothing he hadn't read before, but here reading had a different quality. Like rereading a manual after you've already used the tool.
 
 Sometimes he sat in the main corridor, on the stone bench facing the window that looked out on the valley, not doing anything in particular.
 
@@ -190,7 +190,7 @@ There was time.
 
 He lay down without fully closing the window.
 
-Asha's signature reached him from the corridor across the way with the same constancy as always — not intrusive, not bothersome. Just present, like the background hum of a system somebody had left running. Oliver perceived it with the part of himself that had learned to read Odem without looking for it, the same way he used to perceive the hum of an overloaded transformer without needing to stand in front of it.
+Asha's signature reached him from the corridor across the way with the same constancy as always — not intrusive, not bothersome. Just present, like the background hum of a system somebody had left running. Oliver perceived it with the part of himself that had learned to read Odem without looking for it, the same way he used to perceive, without needing to open the ledger, that an account wasn't going to balance.
 
 Tomorrow, Asha would activate her Domain for real. Level four, Maren had said. Controlled.
 

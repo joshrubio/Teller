@@ -30,17 +30,22 @@ Rigurosa, genuinamente curiosa. Hace la pregunta "¿cómo está?" con intención
 
 ## Narrative arc
 
-- **Cap 15:** Voss la llama — establece el protocolo para Oliver.
-- **Cap 44:** rompe protocolo entrando al patio durante primera copia deliberada de Oliver. Algo en ese momento la movió a actuar fuera de las reglas.
-- **Cap 58:** identifica primer síntoma del coste a largo plazo del Registro. Oliver lo archiva sin resolver.
-- **Cap 61:** familia de Maren = agentes AMAT. Añade capa a lealtad institucional vs. lealtad a Oliver como sujeto. Sospechaba la dinámica Oliver/Sisi — la integra en el modelo de formación.
-- **Libro 2, Cap 89:** Voss la llama tras salir solo de la sesión donde se abre formalmente la revisión de conducta en su contra (Cartwright de viaje en EE.UU.) — primera vez que Voss le cuenta, aunque sea en parte, el secreto de 30 años del hallazgo de Verhoeven/Anke. Le pide ayuda sin explicar todavía por qué. Ella no pregunta, confía primero. Hilo abierto hacia qué le pide exactamente.
+- **Cap 19:** Voss la llama — establece el protocolo para Oliver.
+- **Cap 48:** rompe protocolo entrando al patio durante primera copia deliberada de Oliver. Algo en ese momento la movió a actuar fuera de las reglas.
+- **Cap 62:** identifica primer síntoma del coste a largo plazo del Registro. Oliver lo archiva sin resolver.
+- **Cap 65:** familia de Maren = agentes AMAT. Añade capa a lealtad institucional vs. lealtad a Oliver como sujeto. Sospechaba la dinámica Oliver/Sisi — la integra en el modelo de formación.
+- **Libro 2, Cap 93:** Voss la llama tras salir solo de la sesión donde se abre formalmente la revisión de conducta en su contra (Cartwright de viaje en EE.UU.) — primera vez que Voss le cuenta, aunque sea en parte, el secreto de 30 años del hallazgo de Verhoeven/Anke. Le pide ayuda sin explicar todavía por qué. Ella no pregunta, confía primero. Hilo abierto hacia qué le pide exactamente.
+
+## Libro 2, Cap 121 — Lo que no se dijo (escrito)
+
+<!-- canonical -->
+Presente pero silenciosa durante casi toda la oferta de Wardogs, hasta que Nadia pregunta qué pasa si todavía no está lista físicamente — Maren es quien responde, porque es la única verdad que no le corresponde suavizar a Voss. Recibe la alerta de pérdida de contacto de Yusuf por teléfono y la lee en voz alta, casi textual, "en el tono plano que la gente usa cuando prefiere que las palabras sean del protocolo y no suyas" — la brecha entre su calidez habitual y la frialdad obligada del texto es deliberada. Se queda con Nadia después, sin decir mucho, solo estando — coherente con su rol de contrapeso humano dentro de AMAT.
 
 ## Narrative function
 
 - Voz de la institución que aún tiene consciencia humana.
 - Documenta el coste del Registro — el lector y Oliver se enteran a través de ella.
-- Su decisión de entrar al patio (Cap 44) establece que hay líneas que cruza cuando la situación lo exige.
+- Su decisión de entrar al patio (Cap 48) establece que hay líneas que cruza cuando la situación lo exige.
 
 ## Key relations
 

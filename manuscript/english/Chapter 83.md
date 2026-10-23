@@ -154,7 +154,7 @@ Pressure didn't need demonstrating again — they'd all felt it firsthand half a
 
 Oliver hesitated, not because he didn't know the answer but out of habit — he never said it out loud in front of strangers.
 
-"A pattern," he said, finally. "Layers, direction, an anchor point. Like a file loading."
+"A pattern," he said, finally. "Layers, direction, an anchor point. Like a column still being added up."
 
 "That anchor point is Focus, crystallized into something with a name of its own," Anka said. "Those without a Domain use the same principle without ever naming it, every time they concentrate force into a fist or resistance into a rib. It's the same hardening we talked about with Mantle, just concentrated into one point instead of spread across the whole body — more attack or more defense exactly where it's needed, at the cost of leaving everything else uncovered. The difference between having a Domain and not having one is smaller than this institution's Board wants you to believe."
 

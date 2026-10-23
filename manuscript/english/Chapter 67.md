@@ -46,7 +46,7 @@ Voss nodded.
 
 "Then that's what's left."
 
-It wasn't an evaluation. It was the precise delimitation of an unsolved problem — the same tone he'd use to flag a component in a circuit that still failed under load.
+It wasn't an evaluation. It was the precise delimitation of an unsolved problem — the same tone he'd use to flag an account that still wouldn't balance, no matter how many times the column got checked.
 
 "The team I'm building," Voss said, "can't depend on an intelligence layer that saturates in the field at eight minutes. You need to be able to operate longer without the threshold working against you. Not indefinitely. Just long enough for the information to reach them when they need it."
 

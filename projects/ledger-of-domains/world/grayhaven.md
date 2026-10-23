@@ -23,7 +23,7 @@ Cold metal, sea salt, unstable electrical infrastructure, fragile normality. The
 | Location | Description |
 |---|---|
 | **Calle Shelter 9, Breakwater** | Oliver's address. Ground floor = Gary's closed repair business. Second floor = living quarters. Attic = Oliver's space. |
-| **Electrical grid** | Infrastructure with recurring failures — "faults that don't appear, they behave." Context for GRH-001. |
+| **Dunmore Street, Breakwater** | Empeños Yamal's main location — where GRH-094 (El Cobrador) actually originated (retcon 2026-09-27; no longer tied to the electrical grid). The regional blackout is collateral consequence, not mechanism — see `bestiary/grh-094.md`. |
 
 ## Thematic role
 

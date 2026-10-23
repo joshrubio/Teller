@@ -46,7 +46,7 @@ A diferencia de Budapest (un solo linaje desestabilizando la tasa de despertares
 ## Notas
 
 <!-- canonical -->
-- BSA Arc 5: primera aparición de AMAT-Caribe en la serie (nombre y contacto — Claudia Ferrer — ya establecidos en LoD Libro 1, Cap 53). Primera rama donde el colapso del propio Estado, no solo la tolerancia institucional de AMAT, es parte activa del contexto operativo.
+- BSA Arc 5: primera aparición de AMAT-Caribe en la serie (nombre y contacto — Claudia Ferrer — ya establecidos en LoD Libro 1, Cap 57). Primera rama donde el colapso del propio Estado, no solo la tolerancia institucional de AMAT, es parte activa del contexto operativo.
 - Primera rama que trata el conocimiento popular/folklórico como epistemológicamente superior al protocolo AMAT en su dominio — contraste deliberado con el resto de la serie.
-- **Escrito Cap 46:** el colapso del país no se presenta como puramente político/económico — se insinúa explícitamente (narrador macro + Cartwright) que más de una facción dentro del propio aparato de poder ha buscado atajos en sitios que ningún funcionario debería mirar, no solo la de Roa. No se detalla más todavía — reservado para desarrollar si la trama lo requiere en libros futuros.
+- **Escrito Cap 50:** el colapso del país no se presenta como puramente político/económico — se insinúa explícitamente (narrador macro + Cartwright) que más de una facción dentro del propio aparato de poder ha buscado atajos en sitios que ningún funcionario debería mirar, no solo la de Roa. No se detalla más todavía — reservado para desarrollar si la trama lo requiere en libros futuros.
 - Cartwright confirma que AMAT-NA no sabía, antes de la llamada de Ferrer, que algo llevaba una década formándose en Sorte — refuerza el tema de "mundo del Odem fuera de AMAT" a escala institucional, no solo popular.

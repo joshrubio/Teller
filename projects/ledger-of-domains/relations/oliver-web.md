@@ -17,14 +17,14 @@ updated: 2026-06-17
 
 **History:**
 - Paired as "the guys" at the internship company (Arc 1).
-- Park almost let him die (Cap 4 — decision that weighs through all of Arc 2).
+- Park almost let him die (Cap 10 — decision that weighs through all of Arc 2).
 - Oliver's first question from custody was about Park, not himself.
 - Park handed him over — not betrayal, but politics. That weight is unpaid.
-- Cap 54: reunion at the Centro. "Lo que ocurrió en esos veinticuatro minutos no es algo que yo pueda devolverte." No resolution yet.
+- Cap 58: reunion at the Centro. "Lo que ocurrió en esos veinticuatro minutos no es algo que yo pueda devolverte." No resolution yet.
 
 **Current state:** Working together. The debt and the loyalty coexist without being named.
 
-**Pending tension:** Park doesn't know Voss placed him at the Centro ("necesito saber si hay alguien prestando atención"). When he finds out — implied Cap 55 — it changes how he reads his own presence there.
+**Pending tension:** Park doesn't know Voss placed him at the Centro ("necesito saber si hay alguien prestando atención"). When he finds out — implied Cap 59 — it changes how he reads his own presence there.
 
 ---
 
@@ -34,10 +34,10 @@ updated: 2026-06-17
 
 **History:**
 - Caps 7–15: Voss reads the file, enters the cell, negotiates the Shared Evaluation Protocol.
-- Cap 24: "Los otros casos copiaron la amenaza. Oliver copió la curiosidad — copiará todo lo que encuentre interesante."
-- Cap 58: Voss's birthday. Oliver discovers the group has celebrated it since the first year (Pier's tradition). Voss arrives for twenty minutes, chooses Yusuf before the group — they laugh together, first time anyone sees either of them do it.
-- Cap 69: Oliver finds him in the administrative corridor. Voss gives the honest answer about Sisi's protocol — "Ahora mismo, no va a cambiar" — and adds without being asked: he's been pushing the Geneva group for nine months. Not a promise; a complete diagnosis.
-- Cap 71: Voss seals the Centro. Looks at Oliver like someone who just watched the system he designed fail. Asks "¿Qué te dijo esta noche?" Oliver shares the what (Anke, 11 years, same decision) but lets Voss assume contact was during the breach. Does not say when — does not say the plaza. Voss: "Eso es una clase de argumento." Requests "everything" for when they reach Sion, with Maren present.
+- Cap 28: "Los otros casos copiaron la amenaza. Oliver copió la curiosidad — copiará todo lo que encuentre interesante."
+- Cap 62: Voss's birthday. Oliver discovers the group has celebrated it since the first year (Pier's tradition). Voss arrives for twenty minutes, chooses Yusuf before the group — they laugh together, first time anyone sees either of them do it.
+- Cap 73: Oliver finds him in the administrative corridor. Voss gives the honest answer about Sisi's protocol — "Ahora mismo, no va a cambiar" — and adds without being asked: he's been pushing the Geneva group for nine months. Not a promise; a complete diagnosis.
+- Cap 75: Voss seals the Centro. Looks at Oliver like someone who just watched the system he designed fail. Asks "¿Qué te dijo esta noche?" Oliver shares the what (Anke, 11 years, same decision) but lets Voss assume contact was during the breach. Does not say when — does not say the plaza. Voss: "Eso es una clase de argumento." Requests "everything" for when they reach Sion, with Maren present.
 
 **Pending tension:** Oliver promised "everything" in Sion — but the plaza (9 days) is not in that everything. When Voss finds out, it changes what he thinks of Oliver's margin of error.
 
@@ -49,11 +49,11 @@ updated: 2026-06-17
 
 **History:**
 - Longitudinal evaluation: 11 years studying 3 Registro cases without a living subject.
-- Cap 44: enters the patio breaking protocol — something in the deliberate copy moved her.
-- Cap 59: identifies first symptom of long-term cost. Oliver does not resolve it yet.
-- Cap 62: after the session with Sisi, Maren takes Oliver to a lateral corridor off-camera. Does not explicitly tell him to continue the arrangement — implies it. Planted visible doubt about Hana (waited for the door to close before looking at Oliver). Direct warning: there are real consequences if Oliver does not manage information better; she needs direction so she can work. Oliver: "Mira la sesión de hoy — pero mira también cómo llegué a ella." Implicit agreement: complicity, not instruction.
+- Cap 48: enters the patio breaking protocol — something in the deliberate copy moved her.
+- Cap 63: identifies first symptom of long-term cost. Oliver does not resolve it yet.
+- Cap 66: after the session with Sisi, Maren takes Oliver to a lateral corridor off-camera. Does not explicitly tell him to continue the arrangement — implies it. Planted visible doubt about Hana (waited for the door to close before looking at Oliver). Direct warning: there are real consequences if Oliver does not manage information better; she needs direction so she can work. Oliver: "Mira la sesión de hoy — pero mira también cómo llegué a ella." Implicit agreement: complicity, not instruction.
 
-**Pending tension:** Maren's family = AMAT agents (established Cap 61). Adds layer to her institutional loyalty vs. loyalty to Oliver as subject. Hana as possible unsafe variable — planted, unconfirmed.
+**Pending tension:** Maren's family = AMAT agents (established Cap 65). Adds layer to her institutional loyalty vs. loyalty to Oliver as subject. Hana as possible unsafe variable — planted, unconfirmed.
 
 ---
 
@@ -62,19 +62,19 @@ updated: 2026-06-17
 **Dynamic:** the only person in the Centro whose Domain is invisible to him. Oliver connects with her differently — not by what he sees, but by what he cannot see.
 
 **History:**
-- Cap 56: first time Oliver sees someone completely opaque. Sisi's distrust of AMAT: founded.
-- Cap 57: first real exterior exchange.
-- Cap 58: Domain game in the south patio. Sisi actively observes Oliver during all three rounds. When Oliver turns his head after the accidental Ancla copy, she was already there. Nods once, returns to Asha's conversation. Close: Oliver/Sisi/Riku in the corridor — Sisi says something personal ("no sabía si lo que sentía era mío o prestado"). Riku leaves them alone. First time alone without tactical tension.
-- Cap 61: Oliver describes how he sees everyone's Odem except hers. First genuine moment.
-- Cap 62: Four days later, Sisi goes to Oliver's room and confesses using the Domain in the session — predisposition, not control. Also confesses what weighs on her: she feels the exact moment the other's resistance gives. Oliver: "Gracias por decírmelo." No decision. No resolution.
-- Cap 68: Sisi discovers her Centro regime is different. Oliver does not tell her about Martin. Commitment: "De acuerdo." First time she knocks on his door.
-- Cap 69: Oliver arrives with Voss's answer. Sisi already knows — she read him. Coat on. Backpack on the floor. "Me quedo", says Oliver. "Entonces ya sé lo que necesitaba saber."
+- Cap 60: first time Oliver sees someone completely opaque. Sisi's distrust of AMAT: founded.
+- Cap 61: first real exterior exchange.
+- Cap 62: Domain game in the south patio. Sisi actively observes Oliver during all three rounds. When Oliver turns his head after the accidental Ancla copy, she was already there. Nods once, returns to Asha's conversation. Close: Oliver/Sisi/Riku in the corridor — Sisi says something personal ("no sabía si lo que sentía era mío o prestado"). Riku leaves them alone. First time alone without tactical tension.
+- Cap 65: Oliver describes how he sees everyone's Odem except hers. First genuine moment.
+- Cap 66: Four days later, Sisi goes to Oliver's room and confesses using the Domain in the session — predisposition, not control. Also confesses what weighs on her: she feels the exact moment the other's resistance gives. Oliver: "Gracias por decírmelo." No decision. No resolution.
+- Cap 72: Sisi discovers her Centro regime is different. Oliver does not tell her about Martin. Commitment: "De acuerdo." First time she knocks on his door.
+- Cap 73: Oliver arrives with Voss's answer. Sisi already knows — she read him. Coat on. Backpack on the floor. "Me quedo", says Oliver. "Entonces ya sé lo que necesitaba saber."
 
-**Active commitment (Cap 67):** Oliver promises to protect her from Tomás's fate. He cannot keep it.
+**Active commitment (Cap 71):** Oliver promises to protect her from Tomás's fate. He cannot keep it.
 
-**Departure (Cap 70):** Sisi leaves with Kaspar. Not force — informed decision. Kaspar represents 40 years of life outside the system. The conversation with Kaspar ("¿Qué me pasa a mí?" / "No lo sé") tips the scale: a man who had come to convince her would have softened the answer. He does not.
+**Departure (Cap 74):** Sisi leaves with Kaspar. Not force — informed decision. Kaspar represents 40 years of life outside the system. The conversation with Kaspar ("¿Qué me pasa a mí?" / "No lo sé") tips the scale: a man who had come to convince her would have softened the answer. He does not.
 
-**"Vuelve" (Cap 70 — Book 2 hook):** Oliver arrives at the north wing as Kaspar and Sisi are about to cross the last wall. "Todavía a tiempo", says Kaspar. Oliver looks at Sisi. Says: "Vuelve." She holds it for a moment. No answer. Closes her hand around Tomás's wrist and disappears. No promise from Sisi. The request stays open.
+**"Vuelve" (Cap 74 — Book 2 hook):** Oliver arrives at the north wing as Kaspar and Sisi are about to cross the last wall. "Todavía a tiempo", says Kaspar. Oliver looks at Sisi. Says: "Vuelve." She holds it for a moment. No answer. Closes her hand around Tomás's wrist and disappears. No promise from Sisi. The request stays open.
 
 ---
 
@@ -83,10 +83,10 @@ updated: 2026-06-17
 **Why Kaspar seeks Oliver:** the only living person with real perspective on what the Registro does to a person long-term. Whether his "help" is genuine or instrumental: intentionally open.
 
 **History:**
-- Cap 67: meeting in the village plaza, post-mission. Kaspar presents as "Martin" (Appearance Domain: brown hair, ~35 years). Knows things he should not know about the cost of the Registro. Oliver does not report to Park. Nine days of secrecy.
-- Cap 69: Oliver recognizes Kaspar's signature in the north corridor — same as the plaza, the one he's carried nine days without depositing. Kaspar offers to leave with him. Oliver does not respond. Kaspar passes and continues toward the residential wing.
-- Cap 70: Kaspar already has Sisi ready to cross. Oliver arrives. "Todavía a tiempo." Oliver says "Vuelve" to Sisi. Kaspar does not interfere.
-- Cap 71: Kaspar left a note for Oliver on his desk. In English — deliberate distance. Anke: previous Registro carrier. Same decision as Oliver. Kaspar observed her eleven years. "Cuando necesites saber lo que viene, ya sabes cómo encontrarme." Oliver does not share it with AMAT. Keeps it in his jacket's outer pocket.
+- Cap 71: meeting in the village plaza, post-mission. Kaspar presents as "Martin" (Appearance Domain: brown hair, ~35 years). Knows things he should not know about the cost of the Registro. Oliver does not report to Park. Nine days of secrecy.
+- Cap 73: Oliver recognizes Kaspar's signature in the north corridor — same as the plaza, the one he's carried nine days without depositing. Kaspar offers to leave with him. Oliver does not respond. Kaspar passes and continues toward the residential wing.
+- Cap 74: Kaspar already has Sisi ready to cross. Oliver arrives. "Todavía a tiempo." Oliver says "Vuelve" to Sisi. Kaspar does not interfere.
+- Cap 75: Kaspar left a note for Oliver on his desk. In English — deliberate distance. Anke: previous Registro carrier. Same decision as Oliver. Kaspar observed her eleven years. "Cuando necesites saber lo que viene, ya sabes cómo encontrarme." Oliver does not share it with AMAT. Keeps it in his jacket's outer pocket.
 
 **Anke (Book 2 hook):** first Registro carrier documented by Kaspar. Made the same decision as Oliver. Kaspar does not tell Oliver what happened to her — only that he observed her eleven years. Oliver shares the what with Voss (Voss: "Eso es una clase de argumento"). Omits the when.
 
@@ -96,11 +96,19 @@ updated: 2026-06-17
 
 | Person | Dynamic | Status |
 |---|---|---|
-| **Pier** | Horizontal mentor — teaches from inside, not from AMAT. Earned respect. | Stable. Pier included him in the secret meeting Cap 45. |
-| **Asha** | Instruction + visibility agreement (Cap 45). Reaction to being copied cleanly (Cap 60): pending. | Active — clean copy changes something in the dynamic. |
+| **Pier** | Horizontal mentor — teaches from inside, not from AMAT. Earned respect. | Stable. Pier included him in the secret meeting Cap 49. |
+| **Asha** | Instruction + visibility agreement (Cap 49). Reaction to being copied cleanly (Cap 64): pending. | Active — clean copy changes something in the dynamic. |
 | **Riku** | Collaboration without hierarchy — Oliver gives him visibility on his own Domain. Father = AMAT agent (shared irony). | Stable. Natural team dynamic. |
-| **Sabine** | Part of Cap 45 agreement. Oliver carries her Domain in his body — stable integration documented by Maren. Cap 58: accidental Ancla copy in third round. | **Departed (Cap 70).** Planned departure during the breach. Bed made, took what she needed. Riku says "Sabine"; Oliver: "Ya." Oliver carries her Domain and Riku knows it. |
-| **Petra** | Part of Cap 45 agreement. Petra actively negotiated — Oliver knows it. | Cap 70: Canje in the colony fight. Cap 71: east wing containment during evacuation. Active. |
-| **Lev** | Did not join Cap 45 agreement. Cap 59: unannounced conversation. Oliver sees in Lev what he could be without the Centro. | **Departed (Cap 70).** Oliver sees the ajar door and empty room passing the corridor. Does not stop. Maren confirms Cap 71: planned departure. |
-| **Dara** | Promise paid Cap 65: Oliver tells her she is the source — the Double borrows, cannot copy the source. Secondary: right shoulder as tactical tell. | ✓ Paid Cap 65. Cap 70: Double used as decoy against colony. Cap 71: catalogs absences with closed expression. |
-| **Tomás** | Did not share real time together. Tomás was sent before they could meet. | Departed Cap 70 — crossed with Kaspar and Sisi after three Domain extensions. Visibly exhausted. Outside Oliver's Registro range in minutes 16–17 of Cap 71. |
+| **Sabine** | Part of Cap 49 agreement. Oliver carries her Domain in his body — stable integration documented by Maren. Cap 62: accidental Ancla copy in third round. | **Departed (Cap 74).** Planned departure during the breach. Bed made, took what she needed. Riku says "Sabine"; Oliver: "Ya." Oliver carries her Domain and Riku knows it. |
+| **Petra** | Part of Cap 49 agreement. Petra actively negotiated — Oliver knows it. | Cap 74: Canje in the colony fight. Cap 75: east wing containment during evacuation. Active. |
+| **Lev** | Did not join Cap 49 agreement. Cap 63: unannounced conversation. Oliver sees in Lev what he could be without the Centro. | **Departed (Cap 74).** Oliver sees the ajar door and empty room passing the corridor. Does not stop. Maren confirms Cap 75: planned departure. |
+| **Dara** | Promise paid Cap 69: Oliver tells her she is the source — the Double borrows, cannot copy the source. Secondary: right shoulder as tactical tell. | ✓ Paid Cap 69. Cap 74: Double used as decoy against colony. Cap 75: catalogs absences with closed expression. |
+| **Tomás** | Did not share real time together. Tomás was sent before they could meet. | Departed Cap 74 — crossed with Kaspar and Sisi after three Domain extensions. Visibly exhausted. Outside Oliver's Registro range in minutes 16–17 of Cap 75. |
+
+## Libro 3, Arco 2 (2026-10-15)
+
+- **Oliver–Voss:** Voss le ofrece sin esconder nada su Domain activo (Cap140); Oliver lo registra y no lo copia ("Más tarde").
+- **Oliver–Kiki:** primer encuentro Cap135; comparten Cap147 el mensaje de Park.
+- **Oliver–Riku:** Oliver lo dirige en combate; juntos ante la inscripción de Hayashi (Cap142).
+- **Oliver–Mizuno:** lo ve marcado por el *kegare* (Cap146-147).
+- **Oliver–Hale:** Hale lo miró un segundo de más en Cap133 ("tu chico estrella").

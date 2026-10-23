@@ -1,91 +1,146 @@
-Capítulo 133 — Lo que cada uno llamó elegir
+Capítulo 133 — Botas nuevas
 
-Nadie decidió nada esa noche en la sala común, y durante días Oliver estuvo convencido de que la decisión, cuando llegara, iba a llegar igual — todos juntos, otra vez, una sola frase repetida seis veces con seis voces distintas. No fue así. Llegó en fragmentos, repartida a lo largo de poco más de una semana, y cada fragmento tuvo su propio lugar, su propia hora del día, su propia razón que no se parecía en nada a las otras cinco. Si algo aprendió Oliver de todo eso, mirándolo ahora desde la distancia todavía reciente del recuerdo, fue que seis personas pueden llegar al mismo resultado por rutas que no comparten ni una sola variable — como seis programas distintos resolviendo el mismo problema sin una sola línea de código en común.
+Park cruzó la sala pasada la una de la madrugada, y ninguno de ellos supo después cuánto tiempo llevaba ahí antes de que lo vieran.
 
-Nadie volvió a mencionar Wardogs en voz alta esos primeros días. No hubo funeral para Yusuf, tal como Voss había prometido que no lo habría, y esa ausencia — sin ceremonia, sin fecha, sin nada que cerrar — se instaló en el Centro como un ruido de fondo que todos aprendieron a no señalar. Las sesiones de entrenamiento siguieron, más silenciosas de lo normal. Las comidas se acortaron sin que nadie lo decidiera. Maren dejó de preguntar cómo estaban todos, quizás porque ya sabía la respuesta, quizás porque preguntarlo en voz alta habría obligado a alguien a mentir.
+Oliver nunca había sabido cómo llamar a ese cuarto. No era la sala común ni la de reuniones; tenía una luz blanca que no venía de ningún sitio concreto y una pared entera ocupada por una pantalla que alguien había dejado sintonizada en un canal de noticias sin sonido. Un mapa de la costa venezolana con una cifra encima. Debajo, en el rótulo, otra cifra, otro mapa: Japón. Veinticinco minutos de diferencia entre un sismo y otro, en lados opuestos del planeta. Los sismólogos del canal lo llamaban coincidencia. Nadie en AMAT lo había llamado nada todavía en voz alta.
 
-Fue dentro de ese silencio, no a pesar de él, donde cada uno de los cinco terminó por decírselo a Oliver, casi siempre a solas, casi siempre sin que él lo hubiera pedido. Oliver no llegó a entender, ni entonces ni después, por qué se lo decían a él primero y no a Voss, que era quien de verdad necesitaba la respuesta. Sospechaba, sin llegar nunca a confirmarlo con ninguno de ellos, que decírselo a Voss habría hecho que fuera real de una forma distinta — oficial, sin vuelta atrás — mientras que decírselo a Oliver todavía dejaba un margen, por pequeño que fuera, para que alguien les dijera que no hacía falta.
+Estaban de pie frente a la pantalla, los seis, a mitad de una frase que nadie iba a terminar, cuando la puerta de la izquierda se abrió.
 
-Él nunca se lo dijo a ninguno.
+Park entró con el petate al hombro y la ropa de campo, la tierra seca todavía pegada a las rodillas, la cara de alguien que lleva dos semanas sin dormir una noche entera. No miró la pantalla. No miró a nadie. Cruzó el cuarto en línea recta, a un metro escaso de ellos, hacia la puerta del otro lado, y Oliver, sin buscarlo, lo leyó entero.
 
-Riku fue el primero, y lo dijo sin que nadie se lo preguntara directamente, tres días después, en el gimnasio vacío a las dos de la madrugada, mientras Oliver fingía no haber ido ahí a buscarlo.
+Era la firma de siempre, solo que mucho más grande. Dos semanas de acumulación sin una sola descarga, como un registro al que alguien hubiera seguido añadiendo líneas sin cerrarlo nunca, apretado contra la piel de un hombre que caminaba con las manos sueltas, sin tensión, como si no pesara nada.
 
-—Voy a firmar —dijo, sin dejar de mirarse la mano izquierda, abriendo y cerrando el puño despacio—. No porque crea que es una elección de verdad. Ya te dije lo que pienso de eso. —Se sentó en el suelo, la espalda contra la pared de espejos—. Pero llevo toda mi vida siendo la persona a la que otros deciden qué hacer con ella. Si esto también es eso, al menos esta vez voy a ser yo el que dice que sí en voz alta.
+Nadie le preguntó nada. Pier abrió la boca, y Oliver lo vio cerrarla otra vez. Dara dio medio paso hacia delante y se detuvo con el pie en el aire. Riku no se movió, pero los ojos se le fueron a las manos de Park, a las botas, a la mochila, buscando una pista de lo que traía de vuelta.
 
-—¿Y si te equivocas? —preguntó Oliver, porque no supo qué otra cosa preguntar.
-
-—Entonces me equivoco yo —dijo Riku, sin levantar la vista de la mano—. Es la primera vez que eso también es mío.
-
-Oliver no encontró nada que responder a eso que no sonara a estar de acuerdo o a estar juzgándolo, y las dos cosas le parecieron, en ese momento y después, igual de falsas.
-
-Dara tardó más — cinco días enteros de silencio metódico, hasta que se lo dijo a Oliver de la única forma en que Dara decía las cosas importantes: de pasada, mientras hacía otra cosa, como si el peso real estuviera en la tarea manual y la frase fuera solo el sonido que la acompañaba.
-
-—Nunca me van a dar el número —dijo, ajustando una correa de equipo que no necesitaba ajuste—. Llevo días buscando el dato que falta y no existe. Así que decidí tratarlo como cualquier sistema sin documentación completa: opero con lo que tengo. Y lo que tengo es que Park hace esto todos los días, sin red, y sigue vivo. Si él puede operar así, yo también puedo.
-
-—Park tampoco tiene los números —dijo Oliver.
-
-—Lo sé —dijo Dara—. Por eso lo elegí a él como referencia, y no a Voss.
-
-No sonó a valentía cuando lo dijo. Sonó a alguien cerrando una ecuación que se negaba a cerrar limpio, conforme con la aproximación porque la aproximación era lo único disponible.
-
-Ninguna de las dos razones —la de Riku, la de Dara— se parecía a la otra, y sin embargo Oliver empezó a notar, ya para entonces, la misma sombra debajo de ambas: nadie decía que sí porque creyera de verdad en lo que estaba firmando. Decían que sí porque la alternativa —seguir siendo, indefinidamente, algo a medio clasificar— les resultaba, cada uno a su manera, todavía peor.
-
-Pier fue el más rápido de los cinco y, paradójicamente, el que menos lo pareció. Se lo dijo a Oliver una tarde en el muelle, la caña ya guardada, mirando el agua con la misma cara con la que llevaba mirándola desde la noche de Yusuf.
-
-—Ya sabía lo que era antes de que Voss terminara la frase —dijo—. Firmar no cambia lo que es. Solo cambia si finjo que no lo sabía. —Se encogió de hombros, un gesto demasiado pequeño para lo que estaba diciendo—. Alguien tiene que ir a buscar a los que no vuelvan. Prefiero ser yo quien sepa cómo hacerlo bien que dejárselo a alguien que no conozca a nadie del grupo.
-
-*Le debo una botella*, había dicho la noche de Yusuf, sin girarse. No lo repitió ahora, pero Oliver lo oyó de todos modos, debajo de lo que sí dijo: la misma lógica exacta, aplicada a gente que todavía no había muerto.
-
-Asha lo resolvió como resolvía todo lo demás: primero, en voz alta, delante de los otros cuatro, convirtiendo su propia decisión en permiso para que el resto no tuviera que ser el primero.
-
-—Ya pregunté qué pasa si decimos que no —le dijo a Oliver, la noche antes de decírselo a Voss—. La respuesta fue nada. Ningún futuro mejor esperando en otro cajón. Entre nada y algo con una salida al final, elijo el algo. —Se miró las manos un segundo, la primera duda real que Oliver le vio en toda la conversación—. Y si voy yo primero, a los demás les cuesta menos ir tras de mí. Eso también lo elijo.
-
-—¿Y si nadie te lo pidió? —preguntó Oliver, sin poder evitar que la pregunta sonara más dirigida a sí mismo que a ella.
-
-—Nadie me lo pide nunca —dijo Asha—. A estas alturas ya no espero que lo hagan.
-
-Oliver reconoció la frase. Era, casi palabra por palabra, lo que él mismo llevaba meses pensando sobre sí mismo sin decírselo a nadie.
-
-Nadia fue la última, y la única cuya razón no tenía nada de estrategia ni de cálculo. Se lo dijo a Oliver un mediodía, la mano izquierda ya fuera de la férula pero todavía torpe, flexionando los dedos sin confianza real en ellos.
-
-—Todavía no puedo del todo —dijo—. Maren tenía razón, el periodo no me va a esperar a que pueda. Pero lo otro tampoco me esperaba. —Miró hacia la sala común, vacía a esa hora—. Quedarme aquí, sola, viendo cómo el resto se va sin mí — eso sí que no podía. Esa parte de mí sí que no estaba lista para nada.
-
-—Nadie te habría dejado atrás por eso —dijo Oliver, aunque no estaba del todo seguro de que fuera cierto ni de que Nadia lo necesitara oír en ese momento.
-
-—Lo sé —dijo ella—. Pero yo sí me habría quedado atrás de mí misma, y esa es la que no soporto imaginar.
-
-Oliver firmó el mismo día que Asha, antes que los otros tres, sin decírselo a nadie hasta después. No lo hizo porque hubiera resuelto nada del peso que llevaba desde la noche de la sala común — al contrario, lo hizo precisamente por ese peso, por la certeza incómoda de que el grupo entero iba a mirar hacia donde él mirara primero, se lo pidiera o no. Si eso era cierto, razonó entonces, mejor que mirar hacia algo que ya había decidido con la cabeza fría que hacia algo decidido en pánico, a última hora, arrastrado por los demás.
-
-Esa misma noche, antes de firmar nada, había vuelto a repasar los cinco hilos del muelle — Sisi, Kaspar, Anke, Park, Yusuf — y había notado, sin poder evitarlo, que Wardogs no resolvía ni uno solo de ellos. No lo acercaba a Sisi. No le devolvía a Yusuf. No le decía si "bien" seguía significando lo mismo. Firmar no era una respuesta a nada de eso. Era, como mucho, una forma de dejar de fingir que la respuesta iba a llegar sola si esperaba lo suficiente.
-
-Nunca llegó a estar seguro de si su lógica había sido honesta o si era, simplemente, la forma más cómoda de cargar con una responsabilidad que nadie le había pedido que cargara. Cinco personas le habían entregado, cada una a su manera, la razón real de por qué habían dicho que sí. Él seguía sin tener la suya, unos días después, en la sala fría, y sospechaba que tal vez nunca la tendría del todo — que algunas decisiones no se justifican una sola vez y quedan resueltas, sino que hay que seguir justificándolas cada mañana, un poco, en silencio, sin que nadie más lo note.
+Park alzó la vista un segundo y encontró la de Oliver. No dijo nada. Tampoco apartó la mirada hasta que la puerta de enfrente se abrió y la cruzó sin esperar a que se cerrara detrás de él.
 
 ---
 
-La sala fría no era fría por accidente. El sistema de climatización zumbaba bajo, constante, manteniendo el aire varios grados por debajo de lo que el resto del edificio consideraba normal — algo en el equipo almacenado ahí, supuso Oliver, lo necesitaba así, aunque nadie se había molestado en explicárselo y él tampoco había preguntado. El vaho de su propia respiración le recordó, sin que lo llamara, al aliento helado que Kaspar dejaba en el aire — un paralelo inútil, sin ninguna relación real, que descartó tan rápido como había llegado.
+Lo que ninguno dijo en voz alta esa noche cabría, entero, en una sola frase: se parecían demasiado a lo que Park traía de vuelta.
 
-Riku ajustaba las correas de su propio chaleco con la misma precisión con la que corregía la terminología de los demás, sin decir una palabra. Dara ya llevaba el suyo puesto, revisando una lista en una tablet con el ceño fruncido de alguien catalogando por costumbre, no por necesidad.
+Park había salido a cazar a Lev y a Sabine, dos de los suyos, dos nombres en la misma lista donde estaban los seis nombres de esa sala, y volvía sin decir si estaban vivos. Había sido compañero de Yusuf, y volvía sin decir si sabía algo. Pier, que le había enseñado dónde estaba el café malo, midió el silencio de Park como mide un pescador la tensión del hilo, y concluyó que o no había nada que decir o lo que había era peor. Riku se preguntó qué quería decir *precarias* ahora que podía ver cómo caminaba el hombre que había escrito la palabra. Dara contó los días: los que llevaba abierta la ventana de Yusuf, los que llevaba cerrada, los que habían pasado desde que firmaron. Asha buscó algo que ordenar y no lo encontró. Nadia, con los dos antebrazos vendados hasta el codo y el recuerdo del bolígrafo sujeto con cinta a la venda para poder firmar con el resto, no miró a Park en absoluto.
 
-—Dice "equipo de recuperación especializada" —leyó Dara, en voz alta, para nadie en particular—. No dice de qué.
+Habían firmado cuatro días antes, los seis, en la mesa de la sala común, sin que nadie les prometiera nada que no fuera estatus y libertad a cambio de un periodo sin cifra. Eso era todo lo que sabían de la operación, aparte de lo que decía la pantalla: que habría un despliegue, que Voss les había avisado de que sería pronto, y que dos sismos con veinticinco minutos de diferencia no tenían por qué ser un despliegue y, sin embargo, a esa hora de la madrugada, lo parecían.
 
-—Nunca dice de qué —dijo Riku, sin levantar la vista de su propio chaleco—. Ya deberíamos estar acostumbrados.
+Lo sabían sin haberlo hablado jamás entre ellos, cuando la puerta se cerró: lo que Park traía de vuelta era el otro lado de lo que ellos acababan de firmar.
 
-Pier bromeaba a media voz con Nadia sobre lo que le habían dicho respecto al equipaje personal — nada de cañas de pescar, al final, una risa corta y genuina que se apagó antes de completarse del todo. Nadia flexionaba la mano izquierda dentro del guante reforzado, comprobando el agarre una y otra vez, sin decir en voz alta si el resultado la convencía. La férula ya no estaba, pero algo en el modo en que doblaba los dedos — despacio, contando cada uno por separado — le decía a Oliver que la certeza tampoco había vuelto del todo con ella. Asha se acercó sin que nadie se lo pidiera y le sostuvo el antebrazo un momento, el mismo gesto exacto de la noche de Yusuf, y Nadia dejó de contar los dedos el tiempo suficiente para respirar una vez completa.
+---
 
-Oliver se abrochó el chaleco propio despacio, más despacio de lo que necesitaba, comparando sin quererlo esta sala con la primera vez que se había equipado para algo real — el pasillo estrecho de San Gotardo, Reber gritando cifras que en ese momento le habían parecido el peor problema del mundo. Nadie gritaba cifras aquí. Nadie necesitaba hacerlo. La diferencia no estaba en el volumen; estaba en que entonces todavía había una versión de sí mismo que podía imaginar que decir que no era una opción real. Esa versión ya no vivía en esta sala, ni en ninguna otra.
+Tres días después los subieron a un helicóptero a las cuatro de la mañana, sin decirles adónde.
 
-Voss no había venido a despedirlos. Le había parecido, en su momento, casi un alivio, y ahora, viendo la puerta cerrada, ya no estaba tan seguro de que lo fuera.
+El hangar era largo y de techo bajo, sin ventanas, en algún punto de Suiza que Oliver solo podía deducir por la temperatura y por el olor a queroseno. Tenía una hilera de cajas de transporte contra una pared y, delante, seis bancos bajos, uno para cada uno de ellos, con el equipo que les habían asignado el día anterior ya sobre el asiento. Se habían vestido sin hablar.
 
-Asha repartía el resto del equipo desde una mesa metálica al centro de la sala, y fue ella quien notó primero lo que Oliver llevaba varios minutos notando sin nombrarlo del todo: lo que faltaba antes que lo que sobraba. No había kits de trauma estándar entre las cajas abiertas — los que Oliver había visto usar en cada simulacro desde San Gotardo. En su lugar, alineados en la mesa con un cuidado casi ritual, había una docena de contenedores sellados, herméticos, cada uno con un código que ninguno de los seis reconoció, y guantes de un material más grueso del que cualquier primer auxilio necesitaría jamás.
+Ropa operativa de combate, la primera que Oliver llevaba en su vida: pantalón de tela rígida que todavía crujía en la rodilla, chaleco con placas que pesaba más de lo que parecía, botas sin domar que le habían abierto una ampolla en el talón izquierdo antes de llegar siquiera a la puerta. Un fusil en bandolera, asignado la tarde anterior, del que había disparado en total doscientos cuarenta cartuchos en un campo de tiro, en dos horas, bajo la mirada de un instructor que no había vuelto a aparecer. Riku sostenía el suyo como se sostiene una herramienta en la que todavía no se confía, y cuando Oliver se sentó a su lado en el banco, lo miró de reojo.
 
-—¿Alguien va a explicarnos para qué es esto? —preguntó Asha, sin tocar ninguno de los contenedores todavía.
+—No sé si apuntar con esto es peor que no tener nada —murmuró.
 
-—Yo lo haría —dijo Pier, levantando uno con dos dedos, con más cuidado del que la caja parecía requerir—. Pero nadie nos ha dicho a qué unidad nos están mandando exactamente, así que no tengo ni idea de por dónde empezar a adivinar.
+—Yo tampoco —dijo Oliver.
 
-Nadie respondió eso tampoco, porque en ese momento la puerta de la sala fría se abrió, y la persona que entró no era Voss, ni Maren, ni nadie del Centro que alguno de los seis hubiera visto antes.
+Era todo lo que se podía decir sin que sonara a otra cosa. Dara había comprobado el seguro tres veces desde que bajó del helicóptero. Pier no llevaba nada propio: la caña de pescar se había quedado en el muelle, y en el bolsillo del pantalón, que Oliver solo vio porque se le abrió la solapa al sentarse, un anzuelo pequeño, envuelto en un trozo de tela.
 
-Era una chica de la edad de Riku, pelo negro y largo, la clase de cara que no delataba la edad real de quien la llevaba — uniforme distinto a cualquiera que Oliver conociera, una katana al hombro con un nombre grabado que no leyó en ese primer segundo porque estaba demasiado ocupado leyendo, sin Registro, sin necesidad de él, el peso exacto que esa chica llevaba encima — el mismo tipo de presión ambiental que solo había sentido describir una vez, en la boca de Park, hablando de un hombre al que llamaba tío. El aire de la sala pareció encogerse medio paso a su alrededor, y ninguno de los seis dijo nada mientras se acomodaba, sin prisa, sin pedir permiso para hacerlo. Constitución delgada, todavía en desarrollo, la clase de cuerpo que en cualquier otro contexto Oliver habría descartado como el de alguien más joven que ellos — y sin embargo nada en la forma en que ocupaba el espacio pedía que la trataran como tal.
+Nadia estaba de civil.
 
-—Ustedes deben ser los de Ginebra —dijo ella, en un inglés con acento que Oliver tampoco reconoció del todo, mirando a los seis uno por uno con una calma que no encajaba con la edad de su cara—. Me dijeron que llegaría tarde. Veo que llegué justo a tiempo.
+Jersey gris, vaqueros, zapatillas, los antebrazos vendados hasta el codo. Se había sentado en una de las cajas de transporte, algo apartada, con las manos sobre las rodillas, mirando cómo se vestían los demás con una atención que no tenía nada de ajena. Asha se acercó. Oliver no oyó lo que le dijo, solo vio cómo inclinaba la cabeza y cómo le sostenía el antebrazo, por encima de la venda, como en la sala común, y vio a Nadia asentir y decir algo breve. Asha tardó un momento en soltarla. Luego volvió con el resto y se quedó atrás, los ojos todavía en la caja de transporte.
 
-Nadie le preguntó el nombre todavía. Oliver, sin saber por qué, se descubrió mirando los caracteres grabados en la funda de la katana — trazos que no sabía leer, que no significaban nada para él más allá de la certeza silenciosa de que alguien los había puesto ahí a propósito, hacía tiempo, por una razón que todavía no era suya para conocer.
+Había alivio en la cara de Nadia. Oliver no necesitaba Registro para verlo, y vio también lo que venía pegado a él, la incomodidad de quien sabe que el alivio no le toca. El periodo de servicio no esperaba a que estuviera lista. Corría igual, desde la mañana en que firmó, sentada o de pie, vestida de civil o de combate. Romperse los brazos en Milán había sido lo peor que le había pasado en la vida y, en esa mañana en concreto, tal vez lo mejor, y ninguna de las dos cosas era algo que pudiera decir en voz alta delante de los demás.
+
+---
+
+La puerta del fondo se abrió sin aviso.
+
+Voss entró primero, andando deprisa, y a su lado un hombre de traje que Oliver no había visto nunca y reconoció igualmente. Pelo corto, sonrisa calculada para parecer casual, un traje que no tenía una sola arruga a las cuatro y media de la madrugada. Detrás de ellos, a un paso exacto, cuatro agentes con equipo de campo gastado, hombro con hombro, que llenaban el pasillo de la puerta con un peso que no tenía nada que ver con el tamaño.
+
+Voss llevaba, cosido al chaleco, un parche gris que Oliver no le conocía.
+
+—Buenos días —dijo el hombre del traje, y esperó a que los seis estuvieran de pie—. Marcus Hale. AMAT-NA. Algunos de ustedes ya me conocen de nombre, y los demás van a averiguar el resto. Bienvenidos a Wardogs.
+
+Nadie respondió.
+
+—El señor Voss les dijo la verdad sobre este programa, y se lo agradezco: ahorra tiempo. —Hale sonrió con la mitad de la cara, sin que la otra mitad participara—. No voy a decirles que es fácil. Lo que espero de ustedes es simple. Que hagan lo que se les pida. Que vuelvan. Y que dejen que el programa haga con ustedes lo que hace con todos los que cumplen el periodo: convertirlos en agentes de pleno derecho. La libertad no se regala. Se gana.
+
+Recorrió la fila con la mirada, un nombre tras otro, sin prisa. Al llegar a Oliver se detuvo un segundo de más.
+
+—Señor Webb —dijo. Una inclinación de cabeza, solo eso—. Cuídense unos a otros. Un grupo que llega junto vuelve mejor.
+
+Se giró hacia Voss, le puso una mano breve en el hombro, y salió por donde había entrado, sin mirar atrás, sin esperar respuesta a nada. La puerta se cerró detrás de él.
+
+Voss esperó a que el eco terminara.
+
+—Antes de que el capitán continúe —dijo, con la voz plana de siempre—, acepté la plaza de supervisión. Voy con ustedes. Prefiero que lo sepan por mí y no por el parche.
+
+Nadie dijo nada. Voss lo miró a él, a Oliver, solo un segundo, con la misma cara con la que había mirado a cada uno en la sala común la noche de la concesión, y apartó la vista antes de que nadie pudiera leerle nada. Oliver sintió el peso de Voss en el Odem, esa sensación de fondo que llevaba meses aprendiendo a distinguir: algo apretado hacia dentro, del tamaño de una disculpa que no terminaba de decirse entera. Pensó que Voss había aceptado la plaza exactamente por la razón que no iba a decir en voz alta, y que el parche gris era el precio de no dejarlos ir solos.
+
+---
+
+El capitán se presentó como Calder. Alto, ancho, el pelo corto entrecano, la voz tranquila de alguien que lleva muchos años explicando cosas que otros no querían oír. Tenía las manos libres, sin guantes, y las dejaba caer a los costados sin hacer nada con ellas.
+
+La firma le llegó a Oliver sin que la buscara.
+
+No se dejó leer de una vez. Se abrió en capas: una, tres, siete, más, cada una con su propio grosor y su propia temperatura, ninguna que coincidiera con la de encima. Había visto algo parecido una sola vez, en la firma de Kaspar, compuesta y superpuesta como un archivo que alguien hubiera sobreescrito decenas de veces sin llegar a borrar del todo la versión anterior. Dejó de contar en la novena.
+
+Atención selectiva. Oliver apoyó la palma de la mano contra el costado del chaleco, dejó que el peso de las placas ocupara el sitio, y la lectura bajó de volumen. No desapareció.
+
+—Kuji, costa de Iwate —dijo Calder, sin mapa ni pantalla—. Sismo de magnitud seis coma nueve, a primera hora de la mañana del veinticinco, hora local, hace tres días. AMAT-Japón detectó actividad anómala en el perímetro del expediente de 2011, el mismo litoral. AMAT-Japón mandó una primera oleada. Nosotros somos la segunda. Nuestra función es la siguiente: contener el perímetro de Kuji y sostenerlo hasta que llegue el refuerzo. Un Rango S. Está en camino.
+
+—¿Contener qué? —preguntó Dara.
+
+—Lo que haya salido. Todavía no tiene nombre. —Calder lo dijo con el mismo tono con que habría pedido que le pasaran el agua—. Perímetro, evaluación de la amenaza y, cuando el terreno lo permita, recuperación de residuos.
+
+—Recolección —dijo la mujer pequeña de los guantes finos, desde atrás, sin levantar la voz—. Residuo es lo que sobra. Esto no sobra. Se conserva.
+
+Calder no se giró.
+
+—Recolección —repitió.
+
+Fue la única corrección de toda la mañana, y Oliver la archivó donde archivaba lo que no sabía todavía dónde poner. A la mujer pequeña de los guantes finos la presentó Calder más tarde como la mayor Raman, con una frase de cortesía y un rango: dos capas finas en la firma, bien asentadas, y nada más, ni una sola arista. El hombre enorme que se había quedado junto a la puerta, Tolliver, casi dos metros de espalda y de silencio, tenía una sola capa, pero ninguna suya: algo prestado, apoyado sobre una firma que debajo parecía casi ausente. El cuarto, Boone, el más joven de los cuatro, casi de la edad de ellos, tenía una capa a medias, todavía sin asentar, de color distinto al resto, como una pintura que no ha terminado de secarse.
+
+—Ustedes van en apoyo de mi equipo —siguió Calder—. No en primera línea. Se les asignará una posición detrás de la mía. Si algo sale mal, lo van a ver desde ahí.
+
+Dijo "si algo sale mal" como si le hiciera falta aclarar que existía esa posibilidad. No lo dijo para tranquilizarlos.
+
+
+—La agente Park Ki-yeon, de AMAT-Corea, Rango dos, está en la zona desde ayer, prestada a AMAT-Japón. —La coincidencia del apellido le cruzó la cabeza a Oliver y se fue; no era el momento—. Lo que sepa del terreno es lo que van a saber ustedes.
+
+Nadie preguntó nada más.
+
+---
+
+Los subieron a un transporte cerrado, de caja metálica y bancos corridos, y antes de que la puerta trasera terminara de cerrarse, Tolliver se plantó delante de Oliver con una tira de tela negra en la mano.
+
+—Protocolo —dijo. Era la primera palabra que decía.
+
+Oliver asintió. Conocía el procedimiento; lo había leído en su expediente semanas antes: ceguera obligatoria en transporte, el mínimo de contención que AMAT había considerado efectivo contra un Registro que se activa por la vista. No protestó. Se dejó atar la tela con la cabeza gacha, los dedos del hombre grandes y sorprendentemente cuidadosos en la nuca, y se quedó quieto cuando el mundo se apagó.
+
+Lo que AMAT daba por apagado no lo estaba del todo. Oliver llevaba meses sabiendo que, con los ojos tapados, las firmas seguían llegando: más borrosas, sin forma ni color, como un mapa de calor sin leyenda: la de Riku a su izquierda, la de Pier un poco más allá, la masa lenta y apretada de Voss al fondo del banco. Llegaban de todos modos. No se lo había dicho a nadie, y tampoco pensaba hacerlo.
+
+—Más flojo —dijo una voz joven, de Boone—. Aprieta demasiado, Reuben.
+
+Tolliver aflojó un punto. Algo frío le tocó la mano a Oliver, y cerró los dedos sin pensar: una cantimplora.
+
+—Bebe —dijo Boone, en voz baja—. Va a ser un viaje largo.
+
+Oliver bebió. Oyó cómo los demás se acomodaban en los bancos, el crujido del chaleco de Dara, el golpe seco de una culata contra el suelo metálico, la respiración de Pier. Oyó también un estuche plano abrirse y los pasos pequeños de Raman recorriendo el pasillo.
+
+—Muñecas —dijo ella.
+
+Metal contra metal, un clic doble, y la voz de Pier, seca:
+
+—Qué amable.
+
+—Contención de nivel uno —dijo Raman, la voz exacta de quien lee una etiqueta—. Para el trayecto. Se las quitan en destino.
+
+Oliver no necesitó Registro para entenderlo. De los seis, Pier era el único cuyo Domain controlaba el peso de todo lo que había en ese transporte, incluido el transporte, y era el único al que AMAT había decidido tratar como a un arma.
+
+—Reloj, teléfono, radio —dijo Boone, más cerca, a la izquierda—. Cualquier cosa con batería. —Un plástico contra otro—. El compartimento es mecánico, sin electrónica desde hace años. No es por ti.
+
+—Ya sé que no es por mí —dijo Riku, sin ganas.
+
+A Asha y a Dara no les pidieron nada. El motor arrancó. Algo pesado se movió bajo ellos y el transporte empezó a avanzar.
+
+—Una cosa más antes de que se pongan cómodos —dijo Calder, desde el fondo, con la misma voz tranquila que había usado para decir "residuos"—. La primera oleada la lideraba un Rango uno de AMAT-Japón. Daisuke Hayashi. Eran cinco. —Se detuvo apenas, lo justo para elegir el verbo—. Volvió uno.
+
+No dijo quién.
+
+Oliver giró la cabeza hacia donde sentía la firma de Riku. No tenía la cara, ni el color de los ojos, ni el movimiento de las manos. Tenía solo el contorno, y el contorno se contrajo: el campo de Riku se recogió sobre sí mismo, apretado, sin un solo pico, como si alguien hubiera cerrado una puerta desde dentro. Se oyó un crujido de tela, quizá el chaleco, quizá una mano. Se oyó el motor. No se oyó nada más.
+
+Sin la cara, Oliver supo exactamente cuánto se había encogido el campo de Riku y no tuvo ninguna forma de saber qué había debajo. Por primera vez en meses había un silencio al lado suyo que no sabía leer.

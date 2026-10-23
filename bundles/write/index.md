@@ -1,7 +1,7 @@
 ---
 type: bundle
 task: write
-updated: 2026-06-21
+updated: 2026-10-23
 ---
 
 # Bundle: Write
@@ -22,6 +22,7 @@ Parent task. Infers sub-task from scene description, or user calls a sub-task di
 - Domain activation, combat, physical stakes present → `action`
 - Solo POV, no dialogue, no combat → `introspection`
 - Scene mixes types → load multiple sub-task bundles
+- Chapter led by an elevated narrator (a layer the POV cannot see) or built as a mosaic of places and hours → also load `voice/narration.md`
 
 ## Default context (always, no exceptions)
 
@@ -38,7 +39,7 @@ Load a node only when one of these is true:
 2. **Scene requires it** — agent hits a moment needing a specific node (character voice, Domain rule, location detail). Agent pauses and asks: "Necesito el nodo de [X] para esta escena. ¿Lo cargo?" User says yes/no/provides inline.
 3. **User asks mid-write** — "¿cómo reacciona Kaspar aquí?" → load `characters/kaspar.md` before answering.
 
-Never load `voice/style.md`, `themes/`, or character nodes speculatively. Load only when the scene demands it.
+Never load `themes/` or character nodes speculatively (`voice/style.md` is the exception: it is always loaded). Load only when the scene demands it.
 
 ## Inline provision (skip the load)
 

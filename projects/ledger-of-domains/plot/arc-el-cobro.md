@@ -3,58 +3,76 @@ id: arc-el-cobro
 type: plot
 project: ledger-of-domains
 module: plot
-tags: [libro-1, arc, el-cobro, apertura, linea-valais]
-load-with: [plot/structure.md, state.md, characters/oliver.md]
-updated: 2026-08-05
+tags: [libro-1, arc, el-cobro, apertura, linea-valais, yamal, retcon]
+load-with: [plot/structure.md, state.md, characters/oliver.md, characters/park-jun-ho.md, world/odem.md]
+updated: 2026-09-29
 ---
 
-# Arc — El Cobro (Cap 0 Prólogo – 6)
+# Arc — El Cobro (Cap 1–11)
 
-> Numeración: fusionada real (la de `Capitulo N.md`) — Cap1-6 no se ven afectados por la intercalación con BSA, coinciden con la numeración pre-fusión. Cap0 es un Prólogo fuera de la numeración fusionada. Rango y sinopsis de una línea viven en `plot/structure.md` — no repetir aquí. Este archivo es el detalle beat-a-beat.
+> Numeración: fusionada real (la de `Capitulo N.md`). Sin Prólogo fuera de numeración — el retcon de 2026-09-28 abandonó esa convención; Yamal es el primer capítulo real del arco, no un extra. Rango y sinopsis de una línea viven en `plot/structure.md` — no repetir aquí. Este archivo es el detalle beat-a-beat.
 
-Arco de apertura de toda la obra. Prólogo (Cap0, POV Park) + 6 capítulos, línea Valais, sin intercalado (BSA arranca en Cap8). POV Oliver (Cap1-4) → POV Park (Cap5-6). Cierra con Oliver bajo custodia de AMAT y Park reasignado a Hartford — las dos líneas del libro (Valais/BSA) quedan sembradas para separarse.
+**Arco completo, retcon ejecutado 2026-09-28** (ver `plot/retcon-el-cobro.md` para el plan completo, la cronología reconciliada con `plot/timeline.md`, y el detalle de cada corrección de canon). Reemplaza por completo la versión anterior de este mismo archivo (canon "Kessler/Ledger/BLANK NODE RESOLVED" — ver § Notas). 11 capítulos, línea Valais, sin intercalado (BSA arranca en Cap12). POV Farid Yamal (Cap1-5) → POV Oliver (Cap6-9) → POV Park/Voss (Cap10-11). Cierra con Oliver bajo custodia de AMAT y Park reasignado a Hartford — las dos líneas del libro (Valais/BSA) quedan sembradas para separarse.
 
 ---
 
-## Cap 0 — Vigilancia (Prólogo)
+## Cap 1 — Lo que se hereda sin pedirlo
 
-POV Park. Añadido 2026-08-05. Arranca en registro filosófico/enciclopédico — un tratado alemán de más de cien años (retomando el trabajo de un predicador todavía más antiguo) cataloga folklore disperso bajo los términos Odem/Dominio/Potestad/Principado — antes de aterrizar en Park, leyéndolo a solas en su piso. Revela que Park ya vigila la red de préstamos ilegales de Kessler (morosos que desaparecen y alimentan las arcas del prestamista) y que su cobertura para eso es ser compañero de prácticas de Oliver en Grayhaven — trabajar codo a codo con él es el método, no un aparte de la vigilancia. Día de trabajo compartido (una alarma que solo Oliver nota, una cifra memorizada de un vistazo, un reflejo imposible con una grapadora) construye la sospecha de que Oliver no es un chico cualquiera. Cierra con el mismo encuentro de la moto que Cap1 ya mostró desde el lado de Oliver — "¿Dónde vives? Te acerco" — ahora visto desde dentro de la rutina de vigilancia de Park, cortado antes de completarse. Hook de cierre: Park se aleja sin saber que esa noche es distinta a las anteriores.
+POV Farid Yamal. Origen I: infancia y la lógica de la deuda que Farid absorbe sin ponerle nombre hasta mucho después. Cómo termina en Breakwater, cómo empieza a prestar dinero, cómo funda Empeños Yamal en Dunmore Street. Sin nada sobrenatural todavía — establece quién es Farid antes de que exista El Cobrador: transaccional, sin sentimentalismo, con un miedo específico ("el miedo que se pasa de la raya deja de ser tuyo") que gobierna cómo cobra sus deudas.
 
-## Cap 1 — El Cobro
+## Cap 2 — El trato
 
-Oliver corre por Breakwater sin recordar cómo empezó a correr — horas borradas de golpe. Kessler (prestamista al que Oliver lleva las cuentas en secreto, sin que su padre lo sepa) lo llama exigiendo "el Ledger". La ciudad se apaga a su espalda, manzana a manzana, en el mismo orden en que él la cruza — algo lo sigue. Recuerdos sueltos regresan en fragmentos: una entrada de red sin destinatario que llevaba semanas investigando en su trabajo de prácticas (conciliación de flujos de la subestación), un nodo que no existe y que "cobra". El recuerdo completo llega al final: entró de madrugada al sótano de las oficinas de Kessler con una ganzúa, encontró el registro real (nombres, cobros, un círculo tachado junto a cada uno liquidado) y un dispositivo sin marca — el Ledger — que arrancó de su puerto. Algo empezó a perseguirlo desde ese instante. Termina con Oliver decidido a ir a su trabajo (Grayhaven) porque es el único sitio con ventanas a la red que puede ayudarle a ver venir lo que lo persigue.
+Origen II — el contacto. Un hombre sin nombre en la prosa (Reynard Kaneshiro, *Con-man*, identidad reservada a la biblia) se presenta como cliente y le ofrece a Farid un método distinto de cobro, a cambio de una décima parte de cada deuda saldada por ese medio — cobro automático, sin correo ni dirección, gestionado por el propio gesto de tachar un nombre en la libreta. El deudor que dispara el trato es Walter Doyle, desaparecido diez días, el primer caso en 18 años donde la presión física de Farid no tiene a quién aplicarse. Farid acepta. Esa noche escribe la fecha junto a la entrada de Doyle que ya existía en la libreta — no un nombre inventado, el sistema actúa sobre una deuda real desde el minuto uno.
 
-## Cap 2 — Propagación
+## Cap 3 — Escalada
 
-Oficina, mañana siguiente. Toda la planta especula sobre los apagones de la noche (que el sistema no registró). Un nuevo blackout de cuatro segundos vacía la sala — de dieciséis compañeros solo quedan dos: Oliver y Park (el otro practicante, con quien lo emparejaron en tareas menores). Park no muestra alarma, solo calma entrenada. Introduce el Dominio activo y confirma que lo que persigue a Oliver no es un fallo de red — es real, y ya está aquí.
+Seis años, once nombres tachados. Confirma el mecanismo: el 10% se cobra solo, camuflado como cuentas cerradas a pérdida parcial, indistinguible de una negociación ordinaria a la baja. Expansión a siete locales. Silas (empleado de Farid) empieza, sin decírselo a nadie, a llevar su propia cuenta secreta de cuántos "imposibles" le ha traído. Rosa Anselmi y el daño de memoria en testigos cercanos le confirman a Farid que no es solo suerte. Prueba de control: Farid intenta cobrarle a Fenwick a la antigua usanza (en persona, de noche) y termina apaleado, sin el dinero — decide seguir usando la libreta por rencor, no por necesidad real.
 
-## Cap 3 — Líneas
+## Cap 4 — Lo que se acostumbra
 
-Huida en plena manifestación del Dominio (Potestad). Park revela que tiene su propio Domain (Fuerza/inercia) y que está lesionado. Oliver empieza a ver "líneas" — filamentos de Odem que corren por la infraestructura eléctrica de la ciudad, el mecanismo por el que la Potestad borra lo que deja de resistir. Park advierte, sin elaborar, que lo que Oliver hace "no es solo ver". Cuando el Dominio los cerca, Oliver nota algo que no dice en voz alta hasta el final del capítulo: ninguna línea converge hacia él — la Potestad lo evita, no lo ignora. Park lo confirma: no le sabe manejar todavía, y "las cosas que no saben cómo manejar aprenden."
+Cierre — normalización total. Farid deja de contar nombres, tacha sin pestañear. Silas casi pregunta qué les pasa a los tachados; no lo hace todavía. Gary Webb entra al local de Dunmore pidiendo 3.500 dólares (año ~2002) para abrir su taller de reparaciones en Shelter 9 — un préstamo completamente ordinario a ojos de Farid, que un mes después casi ni recuerda su cara.
 
-## Cap 4 — Registro
+## Cap 5 — Los Webb
 
-Clímax de la persecución. Park, con las reservas de su Domain casi agotadas, decide enfrentar a la Potestad de forma directa — la primera vez que Oliver la ve materializada (una silueta sin rasgos, hecha de tensión). Park la golpea con toda la inercia acumulada; la hiere pero no rompe su anclaje, y la entidad se reconstruye para rematarlo. Oliver, viendo el entramado de líneas converger en un único punto, activa algo en sí mismo sin saber nombrarlo — Registro — y desconecta la Potestad de su ancla con las manos, deshaciéndola por completo. Colapsa de inmediato (hemorragia nasal, desmayo) mientras el apagón se extiende a media ciudad. Park capta, sin poder explicarlo, que acaba de presenciar algo sin precedente clasificado.
+POV Farid + narrador elevado. El taller de Gary prospera y paga el primer préstamo. Enfermedad de la madre de Oliver (~2007, segundo préstamo), muerte (~2009), declive lento del taller — la deuda crece a ~$6.000 con intereses. Germen de Oliver narrado desde fuera (memoria, precisión, orden, sin nombrar Registro todavía). El taller cierra cuando Oliver tiene 13 años. Cierra con Oliver ya decidido a intervenir, antes de que el capítulo termine.
 
-## Cap 5 — Umbral
+## Cap 6 — Lo que ya había decidido
 
-POV Park. Aftermath inmediato: la ciudad devuelve a los desplazados por la Potestad, varios con "registros dañados" (memoria fragmentada). Park llama a la agencia (AMAT) y da un informe verbal deliberadamente incompleto — confirma la neutralización, pero no que fue Oliver quien la logró sin Domain reconocible. Reflexiona sobre su propio error de evaluación: había notado la anomalía de Oliver desde antes (la concentración con la que miraba los monitores) y decidió gestionarla como rasgo de carácter en vez de reportarla. Cierra con el equipo de AMAT en camino, doce minutos.
+Primer capítulo POV Oliver. A los 21 años le propone el trato a Farid: 200/semana, la mitad contra la deuda de $6.000 de su padre, sin que Gary lo sepa nunca — unos tres años estimados. Park llega catorce meses después, encubierto para AMAT, un lunes de verano. Compañerismo con Park y con Silas; la moto recontextualizada (ya no es una anécdota de la eléctrica, es parte de la rutina de Dunmore); Park suelta lore general sobre "gente que ve cosas que no debería" sin revelar su propio Domain.
 
-## Cap 6 — Hartford
+## Cap 7 — El peso exacto
 
-Llegada del equipo de custodia de AMAT. Interrogatorio de campo a Park por una agente de rango no identificada — preguntas precisas sobre cuándo empezó a notar la capacidad de Oliver y si actuó bajo su dirección; Park responde con precisión técnica, omitiendo lo que no le preguntan directamente. Se llevan a Oliver bajo custodia para evaluación. Momento de "umbral de transferencia": Oliver despierta un segundo, mira a Park sin preguntar nada, Park solo dice "Descansa". Cierra con Park recibiendo su nueva asignación — Hartford, Connecticut — lectura correcta: la agencia lo aparta mientras decide qué hacer con Oliver. Última línea del arco: Park sabe que tiene 36 horas antes del briefing, tiempo que la agencia usará para decidir qué es Oliver.
+Oliver memoriza la combinación de la caja fuerte durante más de un año. La abre, encuentra la libreta de tapa negra — más liviana de lo que debería, contiene solo cuentas zanjadas vía El Cobrador, nunca el nombre de Gary (esa deuda nunca se saldó por este medio). Encuentra la nota suelta de Reynard ("Una de cada diez, siempre. El resto, para usted.") sin identificarlo. Ve "REGISTRO SALDADO" escrito a mano, a solas — su primer destello pasivo de Odem, sin saber todavía qué es. Sale con la misma precisión que lo define: deja todo exactamente como estaba, camina en vez de correr. Park no está presente en la escena.
+
+## Cap 8 — Lo que nadie vio hacer
+
+Oliver repite el ciclo de préstamo/devolución de la libreta durante dos semanas, cada vez que le toca cierre solo — setenta y cuatro nombres en veintinueve años es la cifra que descubre. Silas llega con la carpeta de Tobías Wren (su cuenta número doce) y, por primera vez en 18 años, confronta a Farid exigiendo que actúe delante de él. Farid va a la caja fuerte — la libreta no está (Oliver la tiene encima, sin ocasión de devolverla). Esa noche, con Park en el almacén trasero, Oliver la devuelve; Farid lo nota y no dice nada. Farid cierra la cuenta de Tobías con contención — y luego, a solas, escribe y tacha el nombre de Oliver como castigo por el robo. La ignición golpea sin contención al cierre del capítulo: las luces de Dunmore se apagan de golpe.
+
+## Cap 9 — Líneas
+
+Incidente, parte I. La Potestad ya cristalizada se propaga sin control por Breakwater — huida en tiempo real, un vecino borrado en su propio portal, Park explicando su Domain (Fuerza/Inercia) mientras corren. Salto desde un octavo piso, redirigido por Park. Oliver empieza a ver cómo actúa la Potestad — el instante antes de que una línea decida hacia dónde tira. Lesión progresiva de Park. La Potestad toma forma casi humana y encaja el primer choque directo con Park; cierra a mitad de la segunda embestida, sin resolver quién de los dos "llegó primero" — cliffhanger real.
+
+## Cap 10 — Lo que no llevaba nombre
+
+Incidente, parte II. El puñetazo de Park deforma otra vez a la Potestad, pero esta le muerde el brazo bueno en el mismo instante — ambos brazos quedan inutilizados (hombros dislocados + fisura de muñeca, nunca "rotos del todo"). Con Park de rodillas, Oliver mete las manos directamente en el núcleo de líneas convergentes y las desprende todas, resistiendo un intento de la propia Potestad de "tacharlo" a él también — nace Registro. Oliver colapsa (hemorragia nasal, desmayo). POV cambia a Park para el aftermath: los desaparecidos reaparecen ("expulsados, no destruidos"); Park llama a AMAT mordiendo la tela del bolsillo, ambos brazos inútiles; el equipo llega sin sirena. Cierra con Park calculando veinticuatro minutos exactos desde el apagón de Dunmore — pago directo del dato ya fijado en Cap58×2/Cap73 (numeración fusionada actual).
+
+## Cap 11 — El Expediente
+
+Dos escenas. **Park:** lo esencial de su traslado — los dos brazos tratados con un compuesto acelerador de tejido no explicado, setenta y dos horas en vez de semanas de curación real; llega el mensaje "Nueva asignación. Hartford, Connecticut. Briefing en 36h." **Voss ("El Expediente"):** reescritura completa del viejo expediente con los datos correctos — "empleado de Empeños Yamal, Breakwater" en vez de "practicante de infraestructura eléctrica"; veinticuatro minutos exactos de apagón (no tres horas); dos semanas antes del incidente para el primer contacto anómalo (no setenta y dos horas); treinta y ocho desplazados (no ciento cuarenta y tres); quince minutos de onset (cabe dentro de la ventana de 24). La descripción física de Oliver en la celda es la sangre seca del labio por su propia hemorragia nasal, nada inventado. El resto — los tres casos de Registro previos (Kaspar, el caso muerto, Anke), la lógica de Voss sobre Hartford, el diseño del ala de custodia — no dependía de Kessler ni de la mecánica eléctrica, así que se dejó intacto.
 
 ---
 
 ## Hilos que abre
 
-- **El Ledger** — el dispositivo que Oliver robó a Kessler. Sigue en su poder (bolsillo de la chaqueta) al cierre del arco — no resuelto en este arco, hilo que Libro 1 retoma más adelante.
-- **Kessler** — prestamista al que Oliver debía dinero en secreto. Sin cierre en este arco — Oliver desaparece bajo custodia de AMAT sin que Kessler sepa qué pasó con él.
+- **La libreta de tapa negra** — Oliver la dejó en la caja fuerte de Yamal, exactamente donde estaba, la última vez que la tocó (Cap8). Sigue en poder de Farid al cierre del arco — no resuelto en este arco.
+- **La cuenta secreta de Silas** — empezó en Cap3, sigue sin cerrarse (Silas presenció la ignición en Cap8, su reacción real queda pendiente para capítulos futuros). Decisión del usuario: se cierra dentro de este mismo libro, pero la forma concreta todavía no está decidida.
+- **La deuda de Gary Webb** — nunca se saldó por ningún medio, ni ordinario ni vía El Cobrador. Sigue activa, sin que Gary sepa que Oliver la pagaba en secreto ni que dejó de pagarla.
+- **El destino de Farid Yamal** — abierto, sin decidir (¿muere, desaparece, queda como cabo suelto, igual que el Kessler original nunca se retomó?).
 - **La identidad de "lo que hizo" Oliver** — Registro no se nombra todavía como Domain en este arco; el término aparece formalmente en "El Aprendiz y el Agente" (`plot/arc-aprendiz-agente.md`).
-- **Park y su decisión consciente de no reportar** — sembrado aquí (Cap5), pagado a lo largo de todo Libro1 en la relación Park/Oliver.
+- **Park y su decisión consciente de no reportar del todo** — sembrado en capítulos posteriores (ver `plot/retcon-cleanup-log.md`), pagado a lo largo de todo Libro1 en la relación Park/Oliver.
 
 ## Notas
 
-- Título de Cap1 verificado contra el archivo real (`Capitulo 1.md` → "El Cobro"). `plot/arcs.md` tenía un título desactualizado ("El Fallo de Grayhaven") para este mismo capítulo — corregido.
-- Este arco reemplaza la sección "Arc 1 — Nodo Vacío" que vivía dentro de `plot/arcs.md` — mismo movimiento que ya se hizo con Training Arc/Final Exam/Cierre de líneas: un archivo por arco, no un mega-doc compartido.
-- **Renombrado 2026-08-05:** "Nodo Vacío" → "El Cobro". El nombre anterior venía de una sola línea de sistema en pantalla en el clímax del Cap4 ("BLANK NODE RESOLVED") — un detalle técnico puntual, no el hilo real del arco. El motivo que de verdad corre por los 6 capítulos es la deuda/cobro: Kessler y el Ledger (Cap1), la Potestad que literalmente "cobra" a quien deja de resistir (Cap3-4), y AMAT cobrándole respuestas a Oliver y a Park al cierre (Cap5-6). "El Cobro" es también el título real de Cap1 — ancla el arco a su propio capítulo de apertura.
+- **Retcon ejecutado 2026-09-28** (ver `plot/retcon-el-cobro.md` para el plan de trabajo completo, incluida la reconciliación de cronología con `plot/timeline.md`). Reemplaza la versión anterior de este archivo, que describía un arco de 7 capítulos (Cap0 Prólogo + Cap1-6) con: prestamista "Kessler", Oliver como practicante de infraestructura eléctrica en Grayhaven, un dispositivo electrónico ("el Ledger") con mensaje de sistema "BLANK NODE RESOLVED", apagón de tres horas y 143 desplazados. Ese canon se retiró por completo — sentía sobrecargado el arco y con poco recorrido biográfico, comparado con el tratamiento que sí recibió el origen de Kaspar (`plot/arc-kaspar-origen.md`). El nuevo arco reescribe la apertura como una biografía comprimida en dos capas — Yamal primero, la familia Webb después — que converge en la misma noche que ya conocíamos.
+- Títulos de Cap1-11 verificados contra el encabezado real de cada archivo (`Capitulo N.md`).
+- Los capítulos posteriores (Cap12 en adelante) que referenciaban el canon viejo de pasada (sesiones Voss/Oliver, primeros días en Valais) fueron auditados y corregidos por separado — ver `plot/retcon-cleanup-log.md`, incluida la versión en inglés.

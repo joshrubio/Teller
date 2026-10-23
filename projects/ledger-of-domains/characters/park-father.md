@@ -45,15 +45,19 @@ Ji-ho is his brother-in-law or brother (Park family — exact relation TBD). The
 
 ## Relationship with Cartwright
 
-Friends since before Park Jun-ho was born. Called in a favor to arrange Park's transfer to Seoul (BSA Cap 13). Cartwright approved the transfer; the father designed the operational rationale.
+Friends since before Park Jun-ho was born. Called in a favor to arrange Park's transfer to Seoul (BSA Cap 17). Cartwright approved the transfer; the father designed the operational rationale.
 
 ## BSA Canon
 
 <!-- canonical -->
-- BSA Cap 16: first direct appearance with Park Jun-ho. Office, plant 14, AMAT-KR HQ Seoul, ~02:00. Just arrived from travel; working before unpacking.
+- BSA Cap 20: first direct appearance with Park Jun-ho. Office, plant 14, AMAT-KR HQ Seoul, ~02:00. Just arrived from travel; working before unpacking.
 - Opens with "Hartford" — not a question. Reads the absence of credit from the record, not the result of the operation.
 - Does NOT explain the Cartwright favor mechanism — announces the transfer as approved, the island operation as active in three weeks, Park's role as external agent with nominable resolution.
 - Notices the arm in cabestrillo; says nothing for one beat. Asks "¿Cuánto tiempo?" — operational framing only.
 - "Bien." — single word in response to Park's recovery timeline. Park cannot determine if this is sufficient or what his father says when something isn't.
 - Final line before Park exits: "Ji-ho siguió la operación de Hartford. Desde aquí." — delivered without lifting his eyes from the screen.
 - Last seen by Park 16 months prior, at a coordination meeting in Tokyo. Father did not acknowledge Park's presence there beyond protocol.
+
+- **Cap148 (Taeho, director de AMAT-Corea):** ve en pantalla la noticia: "Está vivo. No operativo. Maldecido." Responde "Consta que está vivo." Su voz no tiembla; la pantalla se apaga un segundo después.
+
+- **Cap160:** Taeho llega a Macuto el 10 de julio con permiso de Ginebra "con la condición de que no vuelva sin ti"; se ofrece él mismo a llevar a Ji-ho a la isla (Panamá y de ahí a la isla). Quiere decirle algo que no dijo cuando llamó y no sabe cómo; "voy contigo". Cuatro años mayor que Ji-ho (51).

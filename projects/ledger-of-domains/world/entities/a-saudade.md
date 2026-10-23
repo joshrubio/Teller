@@ -28,7 +28,7 @@ Personificación del concepto de saudade — anhelo por lo ausente. Ligada, en e
 
 ## Domain — A Saudade
 
-**Drenaje ambiental de Odem:** a diferencia de Sustento (Kaspar, LoD — extrae micro-Odem de organismos vivos individuales, biológico), A Saudade retira Odem de una zona entera — barrio, sección de ciudad — como marea bajando. No mata, no borra directamente (eso es GRH-001/El Borrador). El efecto es que el Odem de la zona simplemente se aleja.
+**Drenaje ambiental de Odem:** a diferencia de Sustento (Kaspar, LoD — extrae micro-Odem de organismos vivos individuales, biológico), A Saudade retira Odem de una zona entera — barrio, sección de ciudad — como marea bajando. No mata, no borra directamente (eso es GRH-094/El Cobrador). El efecto es que el Odem de la zona simplemente se aleja.
 
 **Se alimenta de anhelo concentrado:** cuanto más duelo/espera dirigido a un punto específico (un lugar perdido, alguien que no volvió), más fuerte el drenaje. El linaje Vasconcelos la alimenta deliberadamente — duelo ritual, no sacrificio — a cambio del excedente de Odem que ella no necesita.
 
@@ -38,9 +38,9 @@ Personificación del concepto de saudade — anhelo por lo ausente. Ligada, en e
 
 Ver `characters/mariana-vasconcelos.md`. La familia no copia el Domain de A Saudade (no es un proceso tipo Registro) — la alimentan con duelo ritual generacional y reciben el excedente de Odem como retorno, un despertar lento de capacidad tipo Domain a lo largo de generaciones. Patrón ligado a la séptima generación (ver ficha de personaje).
 
-## Vigília das velas — 1 de noviembre (BSA Cap 30)
+## Vigília das velas — 1 de noviembre (BSA Cap 34)
 
-Tradición civil real de Lisboa: cada Dia de Todos os Santos, aniversario del terremoto de 1755, las campanas de la ciudad tocan a las nueve y cuarenta de la mañana (hora exacta en que empezó a temblar) y esa misma noche decenas de miles suben en procesión silenciosa, vela en mano, hasta las ruinas del convento do Carmo — dejadas sin techo a propósito desde 1755, como memorial. Es, sin que la ciudad lo sepa, el mayor evento de duelo colectivo sincronizado del año — exactamente el combustible del que se alimenta A Saudade, concentrado en una noche y en el punto exacto donde el terremoto empezó. Escenario del clímax de Arc 3 (BSA Cap 30-30): Báthory intenta explotar esta concentración a una escala que ni su propio origen de 2011 (rabia de una multitud, ver `characters/bathory.md`) ni ningún ensayo posterior alcanzó.
+Tradición civil real de Lisboa: cada Dia de Todos os Santos, aniversario del terremoto de 1755, las campanas de la ciudad tocan a las nueve y cuarenta de la mañana (hora exacta en que empezó a temblar) y esa misma noche decenas de miles suben en procesión silenciosa, vela en mano, hasta las ruinas del convento do Carmo — dejadas sin techo a propósito desde 1755, como memorial. Es, sin que la ciudad lo sepa, el mayor evento de duelo colectivo sincronizado del año — exactamente el combustible del que se alimenta A Saudade, concentrado en una noche y en el punto exacto donde el terremoto empezó. Escenario del clímax de Arc 3 (BSA Cap 34-34): Báthory intenta explotar esta concentración a una escala que ni su propio origen de 2011 (rabia de una multitud, ver `characters/bathory.md`) ni ningún ensayo posterior alcanzó.
 
 ## Catalog status
 

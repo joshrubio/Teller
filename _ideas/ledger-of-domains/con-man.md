@@ -20,7 +20,7 @@ Sátira / dark comedy con acción — primera vez que el universo se trabaja en 
 
 ## Setting y por qué
 
-Japón, principios de los 2000s (resaca de la burbuja económica, cultura de *sarakin*/prestamistas informales, deuda como fenómeno social normalizado y silenciado). Elegido porque la Potestad de la Deuda necesita un sustrato social real donde deber dinero ya sea ambiente, no excepción — el Japón post-burbuja es historia real, no elegido por asociación superficial. Protagonista europeo-japonés: forastero-e-insider a la vez, entiende el idioma y el código social pero siempre queda un paso fuera — útil para un personaje que sobrevive leyendo y explotando expectativas sociales ajenas.
+Japón, principios de los 90 (~1992-93, resaca inmediata de la burbuja económica —revienta en 1991-92—, cultura de *sarakin*/prestamistas informales, deuda como fenómeno social normalizado y silenciado). **Fecha ajustada 2026-09-27** desde "principios de los 2000s" para resolver un choque de cronología con `ledger-of-domains/plot/retcon-el-cobro.md` (ver § Conexión funcional abajo) — de paso, sitúa el libro en el momento histórico más preciso para una "resaca" real, en vez de una década después del estallido. Elegido porque la Potestad de la Deuda necesita un sustrato social real donde deber dinero ya sea ambiente, no excepción — el Japón post-burbuja es historia real, no elegido por asociación superficial. Protagonista europeo-japonés: forastero-e-insider a la vez, entiende el idioma y el código social pero siempre queda un paso fuera — útil para un personaje que sobrevive leyendo y explotando expectativas sociales ajenas.
 
 ## Mecánica específica — Domain: Mentira
 
@@ -34,6 +34,16 @@ Cristaliza (ver `world/odem.md`, "Where a Domain's shape comes from") de un patr
 ## AMAT — periférica, no interviene en trama
 
 AMAT existe en el trasfondo del mundo pero no tiene rama japonesa desarrollada en canon (`world/index.md` no lista AMAT-JP). Se mantiene así a propósito: un rumor de segunda mano, quizás una mención de que "hay gente que caza esto profesionalmente en otros países," basta para anclar el libro al universo sin traer maquinaria de rangos/agentes. El protagonista nunca es reclutado, nunca es fichado — su arco es económico y moral, no institucional.
+
+## Conexión funcional con Ledger of Domains — el incidente de Grayhaven (confirmado 2026-09-26)
+
+**Reemplaza la nota "conexión indirecta, no funcional" más abajo.** Reynard es, sin que se lo diga en ninguna prosa de *Ledger of Domains*, el hombre sin nombre del retcon de "El Cobro" (`ledger-of-domains/plot/retcon-el-cobro.md`, Cap2) — el origen real de **El Cobrador / GRH-001**, la Potestad Nivel 3 que Oliver neutraliza en el clímax de ese arco.
+
+- **Cuándo:** un par de años después del cierre de este libro (situado ~1992-93, Reynard con 23 años) — de viaje, ya lejos de Japón. **Fijado 2026-09-27: ~1994, Reynard con 24-25 años** — necesario para calzar con la cronología interna de Farid en `retcon-el-cobro.md` (Cap2 ocurre cuando Farid tiene 35 años y 18 de oficio; el resto de su carrera, contado hacia adelante, sitúa el préstamo a Gary Webb en 2002, poco antes de nacer Oliver).
+- **Qué pasa:** conoce a Farid Yamal, un prestamista de Grayhaven, Connecticut (EEUU), y le ofrece un trato — no por generosidad, sino por necesidad real de dinero para sus propias deudas (**corregido 2026-09-26: motivo no altruista**, el móvil siempre es económico, coherente con la presión que define toda esta ficha). A cambio de tejer una mentira sobre las cuentas imposibles de Farid, se queda con una comisión fija (10%) sobre cada una. **Corregido 2026-09-26 (segunda pasada) — cobro automático, sin canal mundano:** no hay correo ni alias de por medio; el mismo gesto que salda la cuenta del tercero retira, en el mismo instante, la parte de Reynard — todo gestionado por la libreta de Farid y la Potestad naciente atada a ella, sin que ninguno de los dos tenga que intervenir más allá de la decisión inicial de Farid de tachar. Esto no rompe la restricción dura de su Domain: la ilusión que sostiene (que la cuenta de Farid está saldada) nunca toca las finanzas de Reynard directamente — el 10% es un pago real por un servicio real, no una mentira sobre su propia deuda; que el cobro sea automático en vez de manual no cambia esa distinción. La diferencia con cualquier mentira de este libro: Farid la cree y la alimenta durante **dieciocho años**, con la carga emocional real de un negocio de préstamos — mucho más tiempo y mucha más masa de creencia que cualquier ilusión que Reynard gestiona dentro de su propia trama. Cruza el umbral de cristalización (mismo mecanismo que origina a Ophelia) y se convierte en una Potestad real, independiente, mucho más peligrosa que nada que Reynard haya creado antes.
+- **Reynard nunca lo sabe.** No se queda a ver qué pasa, no vuelve a Grayhaven, no vigila la mentira a largo plazo — coherente con su propio patrón ("la mentira, una vez suelta, sigue creciendo sin que él la dirija"). Es la consecuencia más grave y más silenciosa de toda su vida, y nunca se entera de que existe. Reservado para pagar (o no) en un libro futuro de la serie, o simplemente queda como ironía sin resolver.
+- **No es la Binbōgami.** El Cobrador es una Potestad separada, nacida de una mentira distinta, en un país distinto, para una persona distinta. Comparten solo el mecanismo de nacimiento (mentira sostenida cristalizando) y el concepto raíz (deuda) — no son la misma entidad ni están relacionadas entre sí.
+- **Tratamiento en prosa:** en el arco de *Ledger of Domains*, Reynard aparece sin nombre y con la cara deliberadamente difícil de fijar en la memoria de Farid — nunca se confirma en el texto quién es. Si algún día se escribe la escena desde el lado de *Con-man*, puede narrarse con su nombre completo sin contradicción; la identidad vive en la biblia de ambos proyectos, no en ningún texto publicado todavía.
 
 ## Protagonista — Reynard Kaneshiro
 
@@ -114,9 +124,9 @@ Inspirada parcialmente en Acerolla Orian Heart Under Blade — nombre deliberada
 
 ¿Puede alguien cuya única arma es hacer que la gente crea lo que quiere oír, salir de una deuda sin generar otra — o su bondad y su don son, estructuralmente, la misma trampa?
 
-## Conexión indirecta con el universo (no funcional)
+## Conexión superficial con el universo (además de Grayhaven, no funcional)
 
-Un prestamista menor, personaje de un solo capítulo, menciona haber "oído de una rama en Europa que cataloga cosas como esta, pero nunca vienen hasta aquí." No vuelve a mencionarse. Eco lejano de AMAT sin peso en la trama.
+Un prestamista menor, personaje de un solo capítulo, menciona haber "oído de una rama en Europa que cataloga cosas como esta, pero nunca vienen hasta aquí." No vuelve a mencionarse. Eco lejano de AMAT sin peso en la trama — distinto y sin relación con el incidente de Grayhaven de arriba, que sí es funcional.
 
 ## Estructura — tres actos, arco de la deuda circular
 

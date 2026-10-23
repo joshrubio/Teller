@@ -22,7 +22,7 @@ Esa tarde, en más de un punto del anillo a la vez, algo se movió.
 Ji-ho llevaba nueve horas despierto cuando el canal de mando le dio la posición final.
 
 
-Las había pasado en un avión sin ventanas útiles, escuchando lo que estaba pasando en el resto del anillo por un canal que ninguna rama regional debería tener autorización para compartir con otra. Jeollanam-do: dos equipos conteniendo algo que el imugi disperso llevaba años sin volver a coordinar. Fukushima: la zona de exclusión bajo protocolo de contención activa por primera vez desde 2011. Atacama: silencio de radio de casi una hora, y después una transmisión que nadie en el avión de Ji-ho quiso repetir en voz alta.
+Las había pasado en un avión sin ventanas útiles, escuchando lo que estaba pasando en el resto del anillo por un canal que ninguna rama regional debería tener autorización para compartir con otra. Nueva Zelanda: una falla que nadie tenía catalogada como activa, moviéndose igual. Fukushima: la zona de exclusión bajo protocolo de contención activa por primera vez desde 2011. Atacama: silencio de radio de casi una hora, y después una transmisión que nadie en el avión de Ji-ho quiso repetir en voz alta.
 
 
 No era una operación. Era una guerra en seis frentes, y AMAT completo — cada rama, cada agente con margen operativo real — estaba desplegado en alguno de ellos. Ji-ho no estaba en ninguno. Era el único activo que el canal de mando había decidido no gastar en contener nada. Lo estaban moviendo hacia el único punto del mapa donde la contención ya había fallado del todo.

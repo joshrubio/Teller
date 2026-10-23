@@ -1,7 +1,7 @@
 ---
 type: bundle
 task: write/introspection
-updated: 2026-06-17
+updated: 2026-10-23
 ---
 
 # Bundle: Write / Introspection
@@ -10,6 +10,7 @@ updated: 2026-06-17
 
 - `projects/[project]/voice/style.md`
 - `projects/[project]/themes/writing-rules.md`
+- `projects/[project]/voice/narration.md` — inner voice and narrator layers
 - `projects/[project]/characters/[pov-character-id].md` → follows `load-with` to get `voice/pov-[id]`
 
 ## Focus

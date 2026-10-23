@@ -1,7 +1,7 @@
 ---
 type: bundle
 task: write/dialogue
-updated: 2026-06-17
+updated: 2026-10-23
 ---
 
 # Bundle: Write / Dialogue
@@ -19,6 +19,6 @@ Voice patterns differ by character — load each character node and apply their 
 
 ## Constraints
 
-- Apply dialogue formatting rules from `voice/dialogue-rules.md`
+- Apply dialogue formatting rules from `voice/style.md` (section Dialogue formatting)
 - Do not fill silences characters would not fill
 - Character voice takes priority over exposition convenience

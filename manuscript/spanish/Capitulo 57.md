@@ -34,7 +34,7 @@ Tres misiones desde Hartford. Seúl, Lisboa, Budapest — y ahora Caracas. Cada 
 
 Había una montaña, en el interior, de la que no había vuelto a hablar con nadie desde que entregó el informe. Nadie se lo había preguntado. Park tampoco lo había ofrecido.
 
-Había habido variables que no pudo calcular en Grayhaven. Las había habido desde el primer momento, desde la empresa de infraestructura eléctrica y el terminal de Oliver y la forma en que Oliver había mirado la pantalla con la curiosidad específica de alguien que no sabe que está a punto de cambiar todo.
+Había habido variables que no pudo calcular en Grayhaven. Las había habido desde el primer momento, desde la casa de empeños de Yamal y el mostrador de Oliver y la forma en que Oliver había mirado la libreta con la curiosidad específica de alguien que no sabe que está a punto de cambiar todo.
 
 No era que no quisiera saber. Era que sabía, con la precisión de alguien que lleva suficiente tiempo en este trabajo para conocer sus propios mecanismos, que si preguntaba tendría que hacer algo con la respuesta. Y la respuesta, cualquiera que fuera, requería algo de él que todavía no había calculado qué era.
 

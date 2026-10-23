@@ -10,9 +10,11 @@ updated: 2026-08-05
 
 # Timeline — Ledger of Domains, Libro 1 y Libro 2
 
-In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 53 = January 2026 (Venezuela). Cap114 ≈ 1-5 junio 2026. Convergencia/Libro3 = 24-25 junio 2026.
+In-universe anchor: el incidente de Grayhaven (GRH-094, clímax del arco El Cobro) = **octubre de 2025** (otoño). Cap 53 = January 2026 (Venezuela). Cap114 ≈ 1-5 junio 2026. Convergencia/Libro3 = 24-25 junio 2026.
 
-> **Numeración de la sección Libro 1 (abajo):** pre-fusión — Cap1-6 coinciden con la numeración fusionada real (El Cobro no se ve afectado por la intercalación de BSA), pero Cap7-37 de esta sección son solo la línea Valais/LoD, sin los capítulos BSA intercalados entre ellos en el manuscrito real. Para la numeración fusionada real y el mapa completo de arcos, ver `plot/structure.md` — este archivo es cronología aproximada, no navegación de manuscrito. Arcos anotados abajo usan los nombres actuales (post-2026-08-05): **El Cobro**, **El Aprendiz y el Agente** (línea Valais + línea BSA fusionadas conceptualmente), **Valais** (antes "Campo").
+> **Reconciliado 2026-09-28** tras el retcon de El Cobro (`plot/retcon-el-cobro.md`): el arco de apertura ya no son 6 capítulos comprimidos en día y medio — son **10 capítulos** (`chapters/retcon-el-cobro/Capitulo 1-10.md`) que arrancan en 1994 (origen de Farid) y solo llegan al incidente agudo (equivalente al Cap1-4 viejo) en los últimos tres, Cap8-10. La cronología interna del retcon se ajustó para que ese tramo agudo siga cayendo en **otoño de 2025**, sin tocar el nacimiento de Oliver (~2003, sin cambios — preserva `characters/oliver.md` Age:22 y el ancla compartida de Libro 3 con Park, ~2008-2009) ni el aniversario del terremoto de Lisboa (BSA, 1 nov 2025). El ajuste real fue la edad a la que Oliver empieza a trabajar para Farid: 21, no 19 (ver `plot/retcon-el-cobro.md` para el detalle completo). **Renumeración pendiente, no ejecutada todavía:** todo Cap7 en adelante (hasta Cap128) debe subir +4 en el manuscrito fusionado una vez se decida ejecutar ese paso — este archivo todavía usa la numeración vieja (Cap7-37, etc.) para Arc2/Arc3 más abajo.
+>
+> **Numeración de la sección Libro 1 (abajo):** pre-fusión — Cap7-37 de esta sección son solo la línea Valais/LoD, sin los capítulos BSA intercalados entre ellos en el manuscrito real, y sin la renumeración +4 pendiente del retcon (arriba). Para la numeración fusionada real y el mapa completo de arcos, ver `plot/structure.md` — este archivo es cronología aproximada, no navegación de manuscrito. Arcos anotados abajo usan los nombres actuales (post-2026-08-05): **El Cobro**, **El Aprendiz y el Agente** (línea Valais + línea BSA fusionadas conceptualmente), **Valais** (antes "Campo").
 >
 > **Numeración de la sección Libro 2:** fusionada real — coincide con `Capitulo N.md`, sin conversión necesaria.
 
@@ -38,8 +40,11 @@ In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 53 = January 2026 (Vene
 | Period | Event |
 |---|---|
 | ~1952 | Hartford Zone: Principado imprint begins — anomaly documented, zone classified. |
-| ~1955 | Registro Caso 1: unnamed subject. Died during evaluation — forced copy on evaluation team. |
-| ~1982 | Registro Caso 2: Kaspar (~25–30 yrs). Copied Sustento Domain from Nivel 2 Potestad in AMAT custody. |
+| ~1955 | Registro Caso 1: unnamed subject. Died during evaluation — forced copy on evaluation team. Recipient: **Kaspar Roth**, joven técnico del equipo — nunca fichado como caso nuevo, desaparece por su cuenta (ver `characters/kaspar.md` § Origen). |
+| 1956 | Nace en Budapest **István Herzog** — futuro Kaspar (Caso 2). Huérfano del Levantamiento húngaro, criado en un orfanato austríaco. |
+| ~1974-81 | Herzog, ya en Zúrich, es mentorizado por Kaspar Roth (curador de un archivo privado) — germen consciente de Registro, primera mención de "Hesperia" como idea nunca construida de Roth. |
+| ~1981-82 | **Incidente de Zúrich:** Herzog y Roth confrontan a una Potestad Nivel 2 despertando y a Elias Vogt (vasija de Ibrahim/Principado del Tiempo de esa época, ver `world/entities/principado-del-tiempo.md`). Vogt ataca a la Potestad; el golpe alcanza de lleno a Roth, que regresa a un punto anterior de su propia vida y desaparece sin explicación (bucle personal, ver `world/teoria-herzog.md`). Herzog recibe solo el roce colateral. |
+| ~1982 | Registro Caso 2: Kaspar (~25–30 yrs). AMAT toma custodia de Herzog (que da el nombre de su mentor desaparecido, "Kaspar") y de la Potestad Nivel 2 debilitada. Copió Sustento Domain from Nivel 2 Potestad in AMAT custody. |
 | ~1983–84 | Kaspar disappears from custody (17 months after copying). AMAT file stays open. |
 | ~2003 | Registro Caso 3: Anke. Worked for AMAT Geneva 11 years. |
 | ~2014 | Anke retired from AMAT — "razones médicas no documentadas." Voss knew the outcome. |
@@ -47,13 +52,17 @@ In-universe anchor: Cap 1 = autumn 2025 (Grayhaven). Cap 53 = January 2026 (Vene
 
 ---
 
-## Arc 1 — Autumn 2025 — **Arco: El Cobro** (Cap0 Prólogo–6, fusionado real)
+## Arc 1 — 1994–2025 — **Arco: El Cobro** (Cap1–10, fusionado real — retconeado 2026-09-27/28)
 
 | Event | Cap | Notes |
 |---|---|---|
-| Prólogo — Park ya vigilando la red de Kessler | 0 | Numeración fusionada real. Mismo encuentro de la moto que Cap1, desde el lado de Park. |
-| Grayhaven incident GRH-094 | 1–4 | Potestad named, contained. Oliver collapses. City loses power in expanding wave (24 min, unificado 2026-08-05). |
-| AMAT arrives, takes Oliver | 5–6 | Park reports incompletely. Transferred to Hartford assignment. |
+| Yamal — origen, el trato con Reynard, escalada, normalización | 1–4 | POV Farid. Comprime 1976-2002 (backstory), no transcurre en 2025. |
+| Los Webb — Gary pide su préstamo, enfermedad y muerte de la madre, cierre del taller | 5 | ~2002-2016 (Oliver 0-13 años). |
+| Oliver entra al negocio + Park llega | 6 | Oliver a los 21 (~2024). Park llega catorce meses después, **un lunes de verano** (~2025). |
+| El Cobro (hook ancla) — roba la libreta | 7 | Once semanas después de la llegada de Park, **un martes de octubre de 2025**. |
+| Propagación → ignición | 8 | Dos semanas después, ~21:10. Farid tacha el nombre de Oliver. |
+| Líneas (incidente, parte I) — huida + inicio de la pelea | 9 | Misma noche, tiempo real. |
+| Registro (incidente, parte II) — nace Registro, Park herido, AMAT llega | 10 | Misma noche. **24 minutos exactos desde la ignición de Cap8** (unificado con Cap54×2/Cap69) — cierra en **octubre de 2025**, coincidiendo con el ancla de la saga. |
 
 ---
 
@@ -136,3 +145,41 @@ In-universe anchor: Irrupción (cierre del arco Valais, Cap71) ≈ 24-25 abril 2
 - Park M6 Lisbon: begins "tres días después de la isla" (BSA Cap 26) — lands in autumn 2025. **Confirmed 2026-07-06:** the arc's climax (BSA Cap 30-30) falls on 1 November 2025 — Dia de Todos os Santos, 270th anniversary of the Lisboa earthquake, the Vigília das velas at the Carmo ruins.
 - Park M7 Budapest: after Lisbon, before January 2026 (Venezuela M8/LoD Cap 53) — exact dates still open canon.
 - Hartford zone: active anomaly since 1952. Park's M4 (Hartford) = connected but not resolved.
+
+## Libro 3, Arco 2 — cronología de los puntos (2026-10-15)
+
+| Fecha (2026) | Evento | Capítulos |
+|---|---|---|
+| 24 jun, ~18:04 (hora de Yaracuy) | Doblete de Yaracuy (M7.2 + M7.5) y pelea Ji-ho/María Lionza/Kaspar | 130-131 |
+| 24-25 jun | Primera oleada de AMAT-Japón en Kuji (Hayashi); cruce de Park en Suiza | 133, 135 |
+| 25 jun, 02:17 UTC | Calama: Riquelme cae, Calloway sella a El Familiar | 144 |
+| 26 jun, 11:34 UTC | Sarangani: Bakunawa, Conti evacúa | 144 |
+| 27 jun (~hangar) | Los chicos salen con los Wardogs hacia Japón | 133 |
+| 28 jun, 11:04 UTC | Foxton Beach: Rūaumoko, muere Manaia | 144 |
+| 28 jun, 19:05 JST en adelante | Primera noche del *yagyō* en Kuji | 136-142 |
+| 29 jun, 01:42 JST | El mar se retira de Kuji; surge la criatura | 145 |
+| 29 jun, madrugada | Mizuno dice *Susanoo*; cristalización; mueren los Wardogs | 146 |
+| 29 jun, ~04:20-05:10 | Rito *okuri* (despide a 25 nombrados; el desfile sigue); Voss y Oliver obtienen un cuadro aproximado (Isla del Coco); Conti aterriza en Hachinohe 04:52; Kiki sale a parar el desfile | 147 |
+| 29 jun, ~10:00 | Con Conti en la zona, el desastre de cuerpos del desfile; mensaje de Park a Kiki | 147 |
+| Venezuela, 25-28 jun | Park sube, encuentra a Ji-ho, examen de la maldición, transmisión parcial | 132, 134, 137, 139, 141, 143 |
+
+Cap148-154 (2026):
+
+| Fecha (2026) | Evento | Capítulos |
+|---|---|---|
+| 24 jun, 18:04 | Hospital de Chivacoa: Marisela atrapada con seis; despierta *Pulso* | 149 |
+| 24 jun, ~19:40 | Kaspar lleva a María Lionza a la clínica de la falda de Sorte | 150 |
+| 25 jun | Rescates en Chivacoa; Casimira rescatada; Sisi recupera el nombre Anaís | 150-152 |
+| 27 jun, 11:12 | Réplica de 6,1: albergue de Urachiche; Gabriela despierta; Sisi/Tomás rompen con Kaspar a su manera | 153 |
+| 29 jun, 07:20 | Nadine llega a la falda de Sorte; Casimira ya sabe lo del buque | 154 |
+| 29 jun, 07:00 Ginebra / 14:00 Iwate | Consejo a distancia; reconocimiento de la Isla del Coco autorizado | 148 |
+| 29 jun, 12:40 | El *Meridiana* zarpa de Puerto Cabello con ~314 a bordo | 154 |
+
+Arco 3 — Hesperia (2026):
+
+| Fecha (2026) | Evento | Capítulos |
+|---|---|---|
+| 4 jul, 01:50 | El *Corcovado* a doce millas de la Isla del Coco; desembarco | 155 |
+| 4 jul, 04:12 - 06:52 | El reconocimiento en la isla; mueren diez de catorce; Ashworth en la roca | 156 |
+| 7 jul, 09:30 | Llegan a Hachinohe los cuatro supervivientes; informe; el Consejo se reunirá al día siguiente | 157 |
+| 8 jul, 20:00 Panamá | Segunda sesión remota del Consejo: se autoriza la operación contra el sujeto 2026-ICO-001 (9-1-1) | 158 |

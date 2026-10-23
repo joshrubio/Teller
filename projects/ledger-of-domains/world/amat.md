@@ -68,3 +68,8 @@ Ascending: **Rango 4 → 3 → 2 → 1 → S**
 | Division Head | Responsible for a national or regional branch. Implied minimum operational rank: 1. | Park's father — Korea Division |
 | Regional Director | Authority over multiple divisions. Approves Rango 2 with Geneva confirmation. | Cartwright — AMAT-NA |
 | Geneva Director | Maximum authority. Approves Rango 1 and Rango S directly. | Unnamed |
+
+## Consejo — sesión del 29 de junio (Cap148, 2026-10-20)
+
+<!-- canonical -->
+Primera sesión del Consejo sin mesa común (once pantallas, nueve despachos, un hangar y una furgoneta con antena); las reglas de presencia física se suspenden "por imposibilidad material". Preside Furrer. Se cierra el expediente de Voss; cada rama informa de su frente; el acta cuenta 107 bajas de agentes y colaboradores (78 Venezuela, 14 Japón, 5 Chile, 4 Filipinas, 6 Nueva Zelanda) y, del Top 5 de la rama, dos muertos y uno fuera de línea. La cifra civil no se cierra. Se autoriza un reconocimiento de 15 días a la Isla del Coco, sin enfrentamiento.

@@ -3,7 +3,7 @@ id: ledger-of-domains
 type: project
 status: active
 prose-language: es
-updated: 2026-06-17
+updated: 2026-09-29
 ---
 
 # Ledger of Domains
@@ -12,7 +12,7 @@ Urban fantasy / progression / mystery web serial. Spanish prose. Royal Road targ
 
 ## Logline
 
-A settlement systems analyst in Grayhaven detects failures that don't register — blank nodes in the grid. Investigating them activates a Potestad tied to electricity. Alongside Park, an AMAT field agent, he survives the entity's Domain and eliminates it — triggering a city-wide blackout and the attention of an agency that monitors the anomalous.
+A pawnshop bookkeeper in Grayhaven secretly pays down his father's debt through a black notebook that turns out to settle more than money. Investigating it activates a Potestad tied to debt itself. Alongside Park, an AMAT field agent, he survives the entity's Domain and eliminates it — triggering a city-wide blackout and the attention of an agency that monitors the anomalous.
 
 ## Central dramatic question
 

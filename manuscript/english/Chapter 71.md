@@ -50,7 +50,7 @@ When he opened them, there was a man sitting two meters away.
 
 The signature arrived before any other impression.
 
-It wasn't active reading — it was that something at the edge of the passive layer didn't fit, and the Registry flagged it before Oliver decided to pay attention. The signature was wrong. Not the way a gap was wrong, which Oliver knew well from Grayhaven. Not the way an active Domain was, which always had a recognizable frequency even in someone new. This was something else: overlapping layers the Registry tried to resolve simultaneously and couldn't, as if the same file existed in twenty slightly different versions and the system tried to load all of them at once. The result wasn't cacophony. It was old. That was the only word that kept coming back whenever Oliver tried to classify it. The signature was older than the body carrying it.
+It wasn't active reading — it was that something at the edge of the passive layer didn't fit, and the Registry flagged it before Oliver decided to pay attention. The signature was wrong. Not the way a gap was wrong, which Oliver knew well from Grayhaven. Not the way an active Domain was, which always had a recognizable frequency even in someone new. This was something else: overlapping layers the Registry tried to resolve simultaneously and couldn't, as if the same account were written twenty times across twenty different ledgers and no one could decide which entry was the real one. The result wasn't cacophony. It was old. That was the only word that kept coming back whenever Oliver tried to classify it. The signature was older than the body carrying it.
 
 Oliver looked at him.
 

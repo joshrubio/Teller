@@ -34,7 +34,7 @@ Accumulates signature readings without Oliver deciding. If accumulation surpasse
 
 Registro activates through vision. Without sight: no reading, no copy. **Minimum effective AMAT containment:** blindfold in transport + unsupervised periods.
 
-## Movement reading (seed Cap 33)
+## Movement reading (seed Cap 37)
 
 Oliver can read the structure of a physical movement with the same mechanics as reading a Domain — layers, weight origin, sequence, anchor point. Reading ≠ reproducing; they are separate steps. *Does not require active Odem* — operates on pattern in physical information.
 
@@ -44,27 +44,27 @@ The Registro has been continuously active for weeks. The threshold between passi
 
 **Cost vector:** identity first (Arc 3) → memory → body.
 
-**Solution:** learn **selective attention** — seeing without reading. Prerequisite: knowing where one's own Odem is (seed planted by Park in Cap 57).
+**Solution:** learn **selective attention** — seeing without reading. Prerequisite: knowing where one's own Odem is (seed planted by Park in Cap 61).
 
 **Kaspar connection:** his signature is "composite, superimposed" because he has been in that gradient for 40 years. Oliver is in week seventeen. Kaspar is what lies at the end of the curve without intervention.
 
-## Atención selectiva — adquirida (Libro 1, Cap 59)
+## Atención selectiva — adquirida (Libro 1, Cap 63)
 
 <!-- canonical -->
-Maren nombra la técnica en Cap59 ("no apagarlo, sino elegir activamente dónde va la atención en cada momento") sin enseñarla formalmente. Esa misma noche, en un pasillo, Oliver la aplica de forma espontánea y por primera vez: pone la mano en la pared fría, deja que el frío y sus propios pasos ocupen la atención, y la firma de Riku que llegaba sin decidirlo baja de intensidad. Un solo uso en escena — nunca dramatizado de nuevo, nunca repetido como ritual explícito.
+Maren nombra la técnica en Cap63 ("no apagarlo, sino elegir activamente dónde va la atención en cada momento") sin enseñarla formalmente. Esa misma noche, en un pasillo, Oliver la aplica de forma espontánea y por primera vez: pone la mano en la pared fría, deja que el frío y sus propios pasos ocupen la atención, y la firma de Riku que llegaba sin decidirlo baja de intensidad. Un solo uso en escena — nunca dramatizado de nuevo, nunca repetido como ritual explícito.
 
 **Asumido desde entonces:** competencia de fondo, no vuelta a mencionar en el resto de Libro 1 ni en Libro 2. Explica por qué el arco de coste (identidad→memoria→cuerpo, Caps 59-66) no ha vuelto a generar fricción visible — Oliver ya gestiona el umbral pasivo/activo con esta herramienta, sin que el lector lo haya visto practicar de nuevo.
 
-**Relevancia para Foco ocular (ver abajo):** la técnica de Anke NO enseña atención selectiva desde cero — construye encima de una competencia que Oliver ya tiene. Lo nuevo es concentrar esa atención ya entrenada en un canal único (los ojos) en vez de dejarla repartida por todo el cuerpo. La dificultad inicial de Oliver en Cap98 no es aprender el concepto, es reconfigurar una habilidad asentada hacia un uso mucho más estrecho y caro.
+**Relevancia para Foco ocular (ver abajo):** la técnica de Anke NO enseña atención selectiva desde cero — construye encima de una competencia que Oliver ya tiene. Lo nuevo es concentrar esa atención ya entrenada en un canal único (los ojos) en vez de dejarla repartida por todo el cuerpo. La dificultad inicial de Oliver en Cap102 no es aprender el concepto, es reconfigurar una habilidad asentada hacia un uso mucho más estrecho y caro.
 
 ## Oliver's progression path
 
 See Odem → read behavior → copy foreign Domain → cost per copy → degradation without practice → long-term cost (identity → memory → body).
 
-## Foco ocular — técnica de Anke, NO desarrollada en Libro 2 (decisión 2026-07-24)
+## Foco ocular — retracción obsoleta (corregido 2026-09-23)
 
 <!-- canonical -->
-Documentada aquí como algo que Anke domina (ver debajo), pero el plan de enseñársela a Oliver se retiró del desarrollo de Libro2 por completo — no aparece en el planning de Cap98 ni en ningún capítulo posterior de este libro. No referenciar como hilo abierto de Oliver. Queda disponible como material reservado si algún libro futuro quiere retomarlo.
+**Esta sección quedó obsoleta por el propio desarrollo posterior del archivo.** Decía que la técnica de Anke NO se enseñaría a Oliver en Libro2 (decisión fechada 2026-07-24) — pero la sección de abajo ("Foco ocular — técnica avanzada"), añadida el mismo período y nunca retirada, documenta en detalle que sí se la enseña en Cap102/Cap66 (ver "What she teaches Oliver (Libro 2, Cap 102)" más abajo), y `relations/conflicts.md` la trata como hilo activo enseñado y pagado (Cap66-67, Cap70). Verificado contra `chapters/index.md`: la técnica SÍ se desarrolla. No repetir el error de "NO desarrollada" en futuras sesiones — verificar siempre contra el manuscrito antes de asumir una nota de retracción como vigente.
 
 ## Foco ocular — técnica avanzada (referencia, vía Anke — ver characters/anke.md)
 
@@ -73,7 +73,7 @@ Nombre: **Foco ocular** — aplicación de Foco (la cuarta de las cuatro técnic
 
 ### Qué cambia — cualidad, no solo rango
 
-La visión base de Oliver (contornos, contraste, nodos vacíos) es conceptual, más cerca de leer datos que de ver de verdad. Foco ocular cambia el *tipo* de percepción, no solo su intensidad: el Odem se vuelve visible con cualidades reales — color, forma, movimiento — en vez de un gradiente de intensidad que hay que interpretar.
+La visión base de Oliver (contornos, contraste, huecos) es conceptual, más cerca de leer datos que de ver de verdad. Foco ocular cambia el *tipo* de percepción, no solo su intensidad: el Odem se vuelve visible con cualidades reales — color, forma, movimiento — en vez de un gradiente de intensidad que hay que interpretar.
 
 **Ejemplo comparativo — encontrar a alguien específico en una sala llena de gente:**
 
@@ -96,4 +96,19 @@ La visión base de Oliver (contornos, contraste, nodos vacíos) es conceptual, m
 
 **Anke's cost:** eleven years using this constantly, both eyes, without ever learning moderation — nobody at AMAT thought to ask, and she had no reference for what "too much" meant. At year 8 she discovered, by accident, that alternating a single eye at a time reduced the strain enormously — by then the damage in both eyes was already cumulative and permanent. She retired at year 11, once it was clear the vision loss wasn't going to reverse. Progressive, not sudden or total — she still manages short reads. Not corruption, not a moral cost: nobody taught her the discipline, because nobody at AMAT was tracking the cost of an axis they only used her for.
 
-**What she teaches Oliver (Libro 2, Cap 98):** the technique itself, and — unlike her own experience — the safeguard from day one: alternate eyes, deliberate rest, never sustain both at once past what's needed. She's giving him the discipline she only found after the damage was already done.
+**What she teaches Oliver (Libro 2, Cap 102):** the technique itself, and — unlike her own experience — the safeguard from day one: alternate eyes, deliberate rest, never sustain both at once past what's needed. She's giving him the discipline she only found after the damage was already done.
+
+## Lectura sin vista — canon (2026-10-12)
+
+<!-- canonical -->
+La regla "blindfold = total shutdown" (arriba) es lo que **AMAT cree**, no lo que ocurre: Oliver siente y lee firmas en otras salas y a su alrededor sin los ojos abiertos (más borrosas, sin forma ni color). No lo dice en voz alta; AMAT lo ignora. Ver `characters/oliver.md`. Lo que sigue necesitando la vista: copia (condición 0 de Registro: ver el Odem *activo*) y la interpretación fina (expresión, gesto).
+
+## Libro 3 — notas de uso (Cap133-147, 2026-10-15)
+
+<!-- canonical -->
+- **Capas:** Oliver lee los núcleos del programa como películas superpuestas en la firma (Calder muchísimas, Tolliver una ajena, Raman dos finas, Boone una a medias) y reconoce en un núcleo de Kuji el mismo cristal de las capas de Calder.
+- **Copia contenida:** ve el Domain de Voss activo (Cap140), la lectura se le ofrece entera y retira la atención; no se cumple la condición 3 (atención deliberada). No lo copia.
+- **Firma de la criatura:** sin bordes y enorme (incluye a todos como notas en un coro) hasta que se dice el nombre; entonces gana bordes (Cap146).
+- **Lectura a distancia:** con los ojos abiertos y dentro de su alcance visual, Oliver lee el rumbo de los hilos de Odem de Kuji (este, algo al sur) hasta donde llega la vista; no puede seguirlos a través del océano. Con los ojos cerrados lee, pero sin bordes (Cap147).
+
+- **Registro en Kaspar (Cap149-150):** igual que en Oliver, funciona con la vista y sirve para sentir firmas en un radio; Kaspar lo describe como "veo", no "oigo".

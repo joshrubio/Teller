@@ -138,7 +138,7 @@ La firma de Asha era más densa que la de los demás. No más intensa — densa.
 
 Entre la sesión de la mañana y la de la tarde, Oliver tenía dos horas sin protocolo.
 
-El centro llamaba a eso tiempo libre. Oliver lo usaba de la misma forma que había aprendido a usar el silencio en las sesiones con Maren: sin intentar producir nada con él. Caminaba el perímetro del edificio cuando el frío lo permitía, que en los Alpes en octubre era raramente. Leía los libros técnicos de la biblioteca del centro — estructuras de red, teoría de sistemas, nada que no hubiera leído antes, pero aquí la lectura tenía una calidad diferente. Como releer un manual después de haber usado la herramienta.
+El centro llamaba a eso tiempo libre. Oliver lo usaba de la misma forma que había aprendido a usar el silencio en las sesiones con Maren: sin intentar producir nada con él. Caminaba el perímetro del edificio cuando el frío lo permitía, que en los Alpes en octubre era raramente. Leía los libros técnicos de la biblioteca del centro — teoría de sistemas, contabilidad forense, nada que no hubiera leído antes, pero aquí la lectura tenía una calidad diferente. Como releer un manual después de haber usado la herramienta.
 
 A veces se quedaba en el corredor principal, sentado en el banco de piedra frente a la ventana que daba al valle, sin hacer nada en particular.
 
@@ -194,7 +194,7 @@ Había tiempo.
 
 Se tumbó sin cerrar del todo la ventana.
 
-La firma de Asha llegaba desde el corredor de enfrente con la misma constancia de siempre — no intrusiva, no molesta. Solo presente, como la frecuencia de fondo de un sistema que alguien había dejado encendido. Oliver la percibía con la parte de él que había aprendido a leer el Odem sin buscarlo, de la misma forma en que antes percibía el zumbido de un transformador sobrecargado sin necesitar estar frente a él.
+La firma de Asha llegaba desde el corredor de enfrente con la misma constancia de siempre — no intrusiva, no molesta. Solo presente, como la frecuencia de fondo de un sistema que alguien había dejado encendido. Oliver la percibía con la parte de él que había aprendido a leer el Odem sin buscarlo, de la misma forma en que antes percibía, sin necesidad de abrir la libreta, que una cuenta no iba a cuadrar.
 
 Mañana, Asha activaría su Dominio de verdad. Nivel cuatro, había dicho Maren. Controlado.
 

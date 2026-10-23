@@ -33,51 +33,56 @@ Domain manifestó instintivamente durante el accidente que mató a su familia. C
 
 Copia física temporal y sólida: se mueve, interactúa, recibe impactos. No puede mantenerse más de minutos. El Doble no puede usar su Domain.
 
-**Cap 57 (primer sesión exterior):** el Doble no funciona igual en espacios abiertos. Park lo explota. Dara registra algo más que irritación.
+**Cap 61 (primer sesión exterior):** el Doble no funciona igual en espacios abiertos. Park lo explota. Dara registra algo más que irritación.
 
 ## Oliver's promise — paid
 
-- **Cap 43:** Oliver promete describir el Doble cuando su lectura sea suficientemente precisa.
-- **Cap 65:** ✓ pagada antes de la operación. Oliver: ella es el origen — el Doble toma prestado, no copia al origen. Secundario: hombro derecho como tell táctico.
+- **Cap 47:** Oliver promete describir el Doble cuando su lectura sea suficientemente precisa.
+- **Cap 69:** ✓ pagada antes de la operación. Oliver: ella es el origen — el Doble toma prestado, no copia al origen. Secundario: hombro derecho como tell táctico.
 
-## Combat (Cap 70)
+## Combat (Cap 74)
 
 Pier: "Dara." El Doble apareció en el hueco abierto por Voss — moviéndose hacia los fragmentos con la solidez suficiente para ser identificado como objetivo. La colonia giró hacia él. Dara real retrocedió cuatro metros.
 
 Tres segundos. El Doble aguantó tres segundos antes de que el primer fragmento lo atravesara. Se disolvió.
 
-**Canonical mechanic confirmed:** el Doble es identificable como señuelo — firma de Domain distinta a la de Dara real (establecida Cap 65). La colonia reacciona pero no persigue indefinidamente.
+**Canonical mechanic confirmed:** el Doble es identificable como señuelo — firma de Domain distinta a la de Dara real (establecida Cap 69). La colonia reacciona pero no persigue indefinidamente.
 
-**Cap 71:** cataloga las ausencias con expresión cerrada. No dice nada. Pregunta "¿Cuánto tiempo hasta Sion?" — cuarenta minutos — como si el número fuera el ancla.
+**Cap 75:** cataloga las ausencias con expresión cerrada. No dice nada. Pregunta "¿Cuánto tiempo hasta Sion?" — cuarenta minutos — como si el número fuera el ancla.
 
 ## Park / Dara dynamic
 
 Park la supera en entrenamiento sin usar su Domain. Dara lo procesa como problema técnico a resolver, no como afrenta. Dinámica de admiración/rivalidad que escala en Arco 3 sin cap propio — aparece en escenas de entrenamiento.
 
-## Libro 2, Cap 90 — Anka
+## Libro 2, Cap 94 — Anka
 
 <!-- canonical -->
 Anka la aparta en privado, sin previo aviso, y le pide que active el Doble "solo para verlo" — sin ejercicio que lo justifique, sin explicación. Dara no pregunta en voz alta lo obvio (¿por qué alguien que no puede ver querría verlo?), aunque la pregunta le queda flotando. Activa el Domain, Anka la observa con la cabeza inclinada como si escuchara algo sin sonido, y se va sin más explicación. Tercer dato de sospecha del grupo sobre Anka — sin fecha de continuación fijada todavía.
 
-## Libro 2, Cap 95 — ejercicio de Presión (escrito 2026-07-24)
+## Libro 2, Cap 99 — ejercicio de Presión (escrito 2026-07-24)
 
 <!-- canonical -->
-Ejercicio grupal (Oliver, Riku, Nadia, Dara + 5 candidatos sin nombrar), dirigido por Anka: hacer sonar, sin tocarlas, una de cuatro filas de carillones colgados del techo del foso a distancias crecientes (3/5/7/10m) usando Presión (Odem crudo expandido hacia fuera del cuerpo — ver `world/odem.md`). Oliver, tras cinco intentos fallidos (su Domain lee hacia dentro, incompatible con la técnica), hace sonar por accidente la fila de 5m al sexto intento — mejor marca del grupo hasta ese momento. Dara, última en intentarlo, iguala esa marca al primer intento, dobla con la fila de 7m en el segundo, y hace temblar (sin sonar del todo) la fila de 10m — que muy pocos alcanzan alguna vez (Johanna, once meses de práctica, es de los pocos nombres que Anka cita). Anka la aparta en privado: su reserva de Odem es mayor que la de cualquiera en la sala, incluido Riku, y lo que acaba de empujar no fue ni una fracción de lo disponible — no hay razón técnica por la que solo pueda sostener un Doble a la vez, "la razón, si existe, no está en el Odem." Confirma también, de pasada, que pedirle activar el Doble en Cap90 no fue curiosidad: menciona a alguien que conoció, "un Domain que dejaba dos firmas donde debería haber una sola," sin explicar más — Oliver capta el fragmento a distancia, sin oírlo completo. **Setup directo para Cap97:** la capacidad multi-Doble ya está confirmada como técnicamente posible antes de manifestarse ahí; en Cap97 no es un descubrimiento de la nada, es la reserva que Anka ya le señaló aquí, forzada a la superficie por la necesidad real del simulacro.
+Ejercicio grupal (Oliver, Riku, Nadia, Dara + 5 candidatos sin nombrar), dirigido por Anka: hacer sonar, sin tocarlas, una de cuatro filas de carillones colgados del techo del foso a distancias crecientes (3/5/7/10m) usando Presión (Odem crudo expandido hacia fuera del cuerpo — ver `world/odem.md`). Oliver, tras cinco intentos fallidos (su Domain lee hacia dentro, incompatible con la técnica), hace sonar por accidente la fila de 5m al sexto intento — mejor marca del grupo hasta ese momento. Dara, última en intentarlo, iguala esa marca al primer intento, dobla con la fila de 7m en el segundo, y hace temblar (sin sonar del todo) la fila de 10m — que muy pocos alcanzan alguna vez (Johanna, once meses de práctica, es de los pocos nombres que Anka cita). Anka la aparta en privado: su reserva de Odem es mayor que la de cualquiera en la sala, incluido Riku, y lo que acaba de empujar no fue ni una fracción de lo disponible — no hay razón técnica por la que solo pueda sostener un Doble a la vez, "la razón, si existe, no está en el Odem." Confirma también, de pasada, que pedirle activar el Doble en Cap94 no fue curiosidad: menciona a alguien que conoció, "un Domain que dejaba dos firmas donde debería haber una sola," sin explicar más — Oliver capta el fragmento a distancia, sin oírlo completo. **Setup directo para Cap101:** la capacidad multi-Doble ya está confirmada como técnicamente posible antes de manifestarse ahí; en Cap101 no es un descubrimiento de la nada, es la reserva que Anka ya le señaló aquí, forzada a la superficie por la necesidad real del simulacro.
 
-## Libro 2, Cap 97 (El ejercicio grande) — escrito y corregido 2026-07-24
+## Libro 2, Cap 101 (El ejercicio grande) — escrito y corregido 2026-07-24
 
 <!-- canonical -->
-Simulacro de rappel multi-punto, cordada sur junto a Asha y Petra: cuando el anclaje de Petra falla a ochenta metros de bajada, sostiene dos Dobles a la vez por primera vez — pero no simultáneos desde el inicio, y no un simple "dos sitios a la vez" que ya podía cubrir con su cuerpo real + un Doble. **Secuencia corregida 2026-07-24 (física del rescate resuelta en dos pasos):** Petra queda inconsciente durante la propia caída, no al ser atrapada — buscando desesperadamente un tercer objetivo para Canjearse, el hombro le golpea contra la pared, apagándole los ojos a medio caer (suma terror real a la descripción de la caída, per nota del usuario). Cae el resto del trayecto como peso muerto. El primer Doble de Dara no cae para alcanzarla — aparece directamente materializado sobre el saliente, ya plantado, antes de que Petra recorra los últimos metros — y recibe el cuerpo inconsciente a velocidad entera: ningún reflejo, solo impacto puro. Funciona, pero no basta: el saliente no ofrece anclaje real, y el peso muerto desequilibra al Doble hacia el filo. El problema real —que un Doble sosteniendo no es lo mismo que un Doble anclado— solo se revela cuando el primero ya está ocupado y no alcanza. Ahí nace el segundo Doble, no antes: sube a la cuerda rota, la tensa de nuevo contra la roca, dándole al primero algo de dónde sostenerse. Los dos se disuelven casi juntos, agotados. Petra queda colgando, viva, hombro dislocado (por el tirón de la cuerda, no por golpear roca). Paga directamente la reserva que Anka le señaló en Cap95 (ver arriba) — no un hallazgo espontáneo sin setup. **Coste físico visible (nuevo marcador de canon):** hemorragia nasal leve, temblor de cuerpo entero, náusea real. **Aftermath (corregido 2026-07-24):** esa noche en la enfermería, Petra intenta alegrarse de verdad por el avance ("eso es enorme, Dara") pese a estar recién despierta y aturdida; Dara responde seca, sin mirarla del todo ("lo celebramos cuando no tengas el hombro roto"). Tablero: #149→#142 (+7) — único movimiento de todo el grupo esa actualización. Después, con Oliver: "no sabía que podía. Ni siquiera lo decidí." (Corregido 2026-07-24, dos rondas: 1) la accidentada era originalmente Nadia, cambiada a Petra para no repetir lesión sobre el mismo personaje; 2) se reescribió la secuencia completa de la caída para construir peligro real antes del rescate, y luego la mecánica del rescate mismo, porque "cuerpo real + un Doble en dos sitios" ya era algo que Dara podía hacer sin desarrollo nuevo — el segundo Doble ahora resuelve un problema que surge DESPUÉS del primer intento, no en paralelo.)
+Simulacro de rappel multi-punto, cordada sur junto a Asha y Petra: cuando el anclaje de Petra falla a ochenta metros de bajada, sostiene dos Dobles a la vez por primera vez — pero no simultáneos desde el inicio, y no un simple "dos sitios a la vez" que ya podía cubrir con su cuerpo real + un Doble. **Secuencia corregida 2026-07-24 (física del rescate resuelta en dos pasos):** Petra queda inconsciente durante la propia caída, no al ser atrapada — buscando desesperadamente un tercer objetivo para Canjearse, el hombro le golpea contra la pared, apagándole los ojos a medio caer (suma terror real a la descripción de la caída, per nota del usuario). Cae el resto del trayecto como peso muerto. El primer Doble de Dara no cae para alcanzarla — aparece directamente materializado sobre el saliente, ya plantado, antes de que Petra recorra los últimos metros — y recibe el cuerpo inconsciente a velocidad entera: ningún reflejo, solo impacto puro. Funciona, pero no basta: el saliente no ofrece anclaje real, y el peso muerto desequilibra al Doble hacia el filo. El problema real —que un Doble sosteniendo no es lo mismo que un Doble anclado— solo se revela cuando el primero ya está ocupado y no alcanza. Ahí nace el segundo Doble, no antes: sube a la cuerda rota, la tensa de nuevo contra la roca, dándole al primero algo de dónde sostenerse. Los dos se disuelven casi juntos, agotados. Petra queda colgando, viva, hombro dislocado (por el tirón de la cuerda, no por golpear roca). Paga directamente la reserva que Anka le señaló en Cap99 (ver arriba) — no un hallazgo espontáneo sin setup. **Coste físico visible (nuevo marcador de canon):** hemorragia nasal leve, temblor de cuerpo entero, náusea real. **Aftermath (corregido 2026-07-24):** esa noche en la enfermería, Petra intenta alegrarse de verdad por el avance ("eso es enorme, Dara") pese a estar recién despierta y aturdida; Dara responde seca, sin mirarla del todo ("lo celebramos cuando no tengas el hombro roto"). Tablero: #149→#142 (+7) — único movimiento de todo el grupo esa actualización. Después, con Oliver: "no sabía que podía. Ni siquiera lo decidí." (Corregido 2026-07-24, dos rondas: 1) la accidentada era originalmente Nadia, cambiada a Petra para no repetir lesión sobre el mismo personaje; 2) se reescribió la secuencia completa de la caída para construir peligro real antes del rescate, y luego la mecánica del rescate mismo, porque "cuerpo real + un Doble en dos sitios" ya era algo que Dara podía hacer sin desarrollo nuevo — el segundo Doble ahora resuelve un problema que surge DESPUÉS del primer intento, no en paralelo.)
 
-## Libro 2, Cap 91 (Val Tremola)
+## Libro 2, Cap 95 (Val Tremola)
 
 <!-- canonical -->
 Neutraliza a Rasmus (#11, paciente, espera el error ajeno) con el Doble como señuelo puro — lo activa a distancia, deja que Rasmus lo persiga tres segundos mientras la Dara real cruza por otro lado. Tablero: #156→#149 (+7).
 
-## Libro 2, Cap 115 — El Quai (escrito 2026-08-06)
+## Libro 2, Cap 119 — El Quai (escrito 2026-08-06)
 
 <!-- canonical -->
-Nada obsesivamente en El Quai, dos veces al día, siempre el mismo trayecto de 240m ida y vuelta, contado con precisión repetida. Prueba el Doble en solitario, sin presión real — sostiene dos a la vez casi un minuto entero, muy por encima de los segundos que aguantaron en combate contra la colonia (Cap70). Lo lee como diagnóstico, no como logro: si aguantan un minuto sin nada en juego, el límite real la vez que importó no era del Domain, era de lo que estaba dispuesta a hacer. Retoma sin resolver el fragmento de Anka (Cap95): "la razón, si existía, no estaba en el Odem."
+Nada obsesivamente en El Quai, dos veces al día, siempre el mismo trayecto de 240m ida y vuelta, contado con precisión repetida. Prueba el Doble en solitario, sin presión real — sostiene dos a la vez casi un minuto entero, muy por encima de los segundos que aguantaron en combate contra la colonia (Cap74). Lo lee como diagnóstico, no como logro: si aguantan un minuto sin nada en juego, el límite real la vez que importó no era del Domain, era de lo que estaba dispuesta a hacer. Retoma sin resolver el fragmento de Anka (Cap99): "la razón, si existía, no estaba en el Odem."
+
+## Libro 2, Cap 121 — Lo que no se dijo (escrito)
+
+<!-- canonical -->
+Presiona a Voss por cifras concretas sobre Wardogs (duración del periodo, clasificación de riesgo) y no las obtiene — archiva la falta de respuesta "en algún sitio que no volvía a mencionar en voz alta, pero que tampoco se borraba", el mismo patrón mental que usa para "¿quién sobrevivió?". Ante la noticia de Yusuf no colapsa — se "reorganiza", catalogando la información sin encontrar, otra vez, una respuesta limpia.
 
 ## Narrative function
 
@@ -88,6 +93,13 @@ Nada obsesivamente en El Quai, dos veces al día, siempre el mismo trayecto de 2
 
 | Person | Dynamic |
 |---|---|
-| Oliver | Promesa pendiente Cap 43 → pagada Cap 65. Deuda emocional específica. |
+| Oliver | Promesa pendiente Cap 47 → pagada Cap 69. Deuda emocional específica. |
 | Park | Admiración/rivalidad. Procesa que la supere como problema técnico. |
 | Riku | Par generacional. Dinámicas de equipo natural. |
+
+## Libro 3, Kuji (Cap136-147, 2026-10-15)
+
+<!-- canonical -->
+**Cap138:** distrae a los escarabajos con un Doble ("Cuatro minutos"); cuenta efectivos. **Cap145:** baja con un yamabushi herido a hombros y otro a la espalda de su Doble. Se queda con Riku cuando éste vuelve de Cap142. **Cap147:** sigue a Kiki al asalto final del desfile, sin orden, y sostiene a Pier del codo en los primeros metros.
+
+- **Cap157:** al ver bajar a Sabine por la rampa de Hachinohe, es la que echa a correr y la abraza; recoge la libreta del charco y se la devuelve. Cap161: Sabine le levanta dos dedos sin volverse.

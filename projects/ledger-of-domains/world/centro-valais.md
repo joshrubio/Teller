@@ -36,7 +36,7 @@ Canton of Valais, Switzerland. ~1,400m altitude. Stone building converted in an 
 
 | Name | Age | Origin | How they arrived |
 |---|---|---|---|
-| Oliver | 22 | Working class, Grayhaven. Electrical intern, self-taught | Grayhaven incident — Registro activated by curiosity reading a screen |
+| Oliver | 22 | Working class, Grayhaven/Breakwater. Bookkeeper at a family pawnshop (Yamal's), self-taught with tech/code as a hobby | Grayhaven incident — Registro activated by curiosity opening a notebook that wasn't his |
 | Riku | 17 | Son of AMAT-EU field agent. Grew up knowing what Domains were | Estática manifested at puberty — destroyed all electronics in the home |
 | Dara | 23 | Orphan — Domain manifested during accident that killed her family. Created instinctive Double; double died in her place | AMAT found case in hospital records. Central unresolved psychological question: who survived? |
 | Asha | 28 | Structural engineer's daughter. Grew up on construction sites. Domain useful professionally until it became uncontrollable | Collapsed structure during routine inspection. AMAT intervened before casualties |

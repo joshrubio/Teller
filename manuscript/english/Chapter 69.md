@@ -275,7 +275,7 @@ Brief silence on the intercom.
 
 Oliver widened the radius to the sustainable maximum.
 
-The underground points had drawn closer over the last few minutes. It wasn't an Authority moving as a single mass — it was dozens of independent parts moving in coordination, each with its own tiny Odem, all oriented in the same direction. Like a distributed process with no central server: no epicenter, no head, no single point that, if removed, would stop the rest.
+The underground points had drawn closer over the last few minutes. It wasn't an Authority moving as a single mass — it was dozens of independent parts moving in coordination, each with its own tiny Odem, all oriented in the same direction. Like a collection network with no single boss to report to: no epicenter, no head, no one name that, struck out, would stop the rest.
 
 Eight minutes of continuous reading.
 

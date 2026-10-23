@@ -34,7 +34,7 @@ Three missions since Hartford. Seoul, Lisbon, Budapest — and now Caracas. Each
 
 There was a mountain, inland, that he hadn't spoken to anyone about since turning in his report. No one had asked. Park hadn't offered.
 
-There had been variables he couldn't calculate in Grayhaven. There'd been variables from the very first moment — from the power infrastructure company, and Oliver's terminal, and the way Oliver had looked at the screen with the specific curiosity of someone who doesn't know he's about to change everything.
+There had been variables he couldn't calculate in Grayhaven. There'd been variables from the very first moment — from Yamal's pawnshop, and Oliver's counter, and the way Oliver had looked at the notebook with the specific curiosity of someone who doesn't know he's about to change everything.
 
 It wasn't that he didn't want to know. He'd spent enough time in this work to understand his own mechanisms, and he knew that if he asked, he'd have to do something with the answer. And the answer, whatever it turned out to be, required something from him he hadn't yet worked out how to give.
 

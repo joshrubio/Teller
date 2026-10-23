@@ -48,7 +48,7 @@ No había corriente que leer.
 
 Lo que no podía determinar, sin más información, era si eso significaba que la capacidad requería una fuente externa para activarse o si simplemente requería práctica que él todavía no tenía. Eran dos hipótesis muy distintas con implicaciones muy distintas — dato en sí mismo, el que Voss hubiera elegido no completar la frase cuando Oliver la había dejado abierta.
 
-Cerró los ojos. En la oscuridad, el ático seguía existiendo, la geometría exacta de una vida en pausa: la mesa con el monitor secundario comprado de segunda mano que cabía exactamente si lo ponías en diagonal, el libro abierto boca abajo en el brazo de la silla porque iba a volver a leerlo esa noche, las llaves en el gancho junto a la puerta porque era la única forma de no perderlas.
+Cerró los ojos. En la oscuridad, el ático seguía existiendo, la geometría exacta de una vida en pausa: la mesa con la radio a medio desarmar que lleva meses prometiéndose terminar, el libro abierto boca abajo en el brazo de la silla porque iba a volver a leerlo esa noche, las llaves en el gancho junto a la puerta porque era la única forma de no perderlas.
 
 ---
 
