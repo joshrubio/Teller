@@ -114,7 +114,7 @@ She drank a little of the rum she'd left untouched, more to have something to do
 
 "I have this house far from everything, and I don't have much left that anyone could threaten to take from me," Casimira said. "That's not bravery, agent. It's that I already did my math a long time ago. Since they started doing it anyway, with other mediums that did give in, something in the mountain stopped being asleep the way it had been asleep my whole life."
 
-Park described, in the most neutral vocabulary he could find, the readings Ferrer had shown him before leaving Caracas — the speed of accumulation, the total absence of precedent, the tremor from the night before with no cause any instrument could name.
+Park described, in the most neutral vocabulary he could find, the readings Arismendi had shown him before leaving Caracas — the speed of accumulation, the total absence of precedent, the tremor from the night before with no cause any instrument could name.
 
 Casimira listened without interrupting. When Park finished, she stayed quiet longer than the question warranted, the cigar burning down between her fingers without her taking another draw.
 

@@ -6,15 +6,15 @@ Cartwright found him still in Budapest, two days after the bridge — Katalin's 
 
 "Why me?"
 
-"Because Claudia Ferrer, who runs that branch with whatever she has left of it, wants a reading with no prior assumptions about that country," Cartwright said. "And because you already proved in Budapest that you can operate without a net when you have to. Your objectives are three: confirm whether the readings and the disappearances are the same phenomenon, identify the source, and classify the threat with something more specific than 'we don't know.' In that order."
+"Because Claudia Arismendi, who runs that branch with whatever she has left of it, wants a reading with no prior assumptions about that country," Cartwright said. "And because you already proved in Budapest that you can operate without a net when you have to. Your objectives are three: confirm whether the readings and the disappearances are the same phenomenon, identify the source, and classify the threat with something more specific than 'we don't know.' In that order."
 
 "And if it's nothing?"
 
-"Then you'll have spent a few days confirming it's nothing, and Ferrer will have had the only outside asset she had this month," Cartwright said. "One last thing, and I'm telling you this because I owe it to you, not because protocol requires it: Washington has something big prepared for that region, weeks out, maybe days. I don't know the full detail and I wouldn't tell you over this channel if I did. Whatever you find needs to be contained and kept quiet before that happens. Absolute discretion, agent. More than anywhere I've sent you before."
+"Then you'll have spent a few days confirming it's nothing, and Arismendi will have had the only outside asset she had this month," Cartwright said. "One last thing, and I'm telling you this because I owe it to you, not because protocol requires it: Washington has something big prepared for that region, weeks out, maybe days. I don't know the full detail and I wouldn't tell you over this channel if I did. Whatever you find needs to be contained and kept quiet before that happens. Absolute discretion, agent. More than anywhere I've sent you before."
 
 "Do you know what's down there?"
 
-"We know there's something," Cartwright said. "We didn't know, until Ferrer's call this week, that it had spent a decade forming right under our noses without anyone seeing it coming. That should also tell you something about that country. It's not just that the government lost control of what's happening down there. All of us did."
+"We know there's something," Cartwright said. "We didn't know, until Arismendi's call this week, that it had spent a decade forming right under our noses without anyone seeing it coming. That should also tell you something about that country. It's not just that the government lost control of what's happening down there. All of us did."
 
 She hung up without giving Park the chance to ask anything else.
 
@@ -36,9 +36,9 @@ Iván Salcedo was waiting for him with a cardboard sign that had no name written
 
 "Yaracuy river level," Salcedo said, tucking the sign under his arm before anyone else could see it. "Courtesy of whoever designed our discreet recognition protocols and evidently has a lot of free time."
 
-"Claudia Ferrer?"
+"Claudia Arismendi?"
 
-"Claudia Ferrer," Salcedo confirmed. "Welcome to the branch holding the operation together with whatever's left."
+"Claudia Arismendi," Salcedo confirmed. "Welcome to the branch holding the operation together with whatever's left."
 
 Salcedo drove a pickup fifteen years old with an engine that sounded better cared for than the body. He talked the whole way west with the same economy Park recognized from well-run field briefings — dense information, no filler, not one word about Salcedo himself until Park asked directly.
 
@@ -58,7 +58,7 @@ The town where Salcedo finally stopped the pickup had no name on any map Park ha
 
 ---
 
-The video call with Claudia Ferrer came that night, in a hotel room with more empty rooms than occupied ones. Ferrer spoke from Caracas with a calm that had cost her months of allowing herself nothing else.
+The video call with Claudia Arismendi came that night, in a hotel room with more empty rooms than occupied ones. Arismendi spoke from Caracas with a calm that had cost her months of allowing herself nothing else.
 
 "Official cover: study of minor seismic anomalies, attributable to illegal mining," she said. "It's only half a lie. There is illegal mining in the area. It isn't the cause of what we're seeing."
 
@@ -68,17 +68,17 @@ The video call with Claudia Ferrer came that night, in a hotel room with more em
 
 "Who?"
 
-"Family members. Mostly mothers," Ferrer said. "There's an informal network around a woman named Nélida Rondón, in the town closest to Sorte. They're not an official source. They're the only source we have."
+"Family members. Mostly mothers," Arismendi said. "There's an informal network around a woman named Nélida Rondón, in the town closest to Sorte. They're not an official source. They're the only source we have."
 
 "How many agents do you have assigned to this, besides Salcedo?"
 
 "None. The rest of the branch is holding, right now, against the very real possibility that the whole country reorganizes itself in the next few weeks in a way that's going to give no one time to prepare. It's not that I don't want to give you more. It's that I don't have more to give."
 
-"One last thing," Ferrer said, before Park could end the call. "You're not going to find here what you found in Lisbon or Budapest. No guardian lineage with generations of discipline behind it. Whatever this is, it's recent, and it was born wrong. We have no precedent to use as a map."
+"One last thing," Arismendi said, before Park could end the call. "You're not going to find here what you found in Lisbon or Budapest. No guardian lineage with generations of discipline behind it. Whatever this is, it's recent, and it was born wrong. We have no precedent to use as a map."
 
 "How recent?"
 
-"I don't know yet," Ferrer said. "Find out, agent. That's literally why I called you in."
+"I don't know yet," Arismendi said. "Find out, agent. That's literally why I called you in."
 
 The call cut off without a goodbye — not rudeness, just the rhythm of someone weighing every minute against a longer list of more urgent things.
 
@@ -110,7 +110,7 @@ The living room was small — a two-seat sofa with the fabric worn through at th
 
 Park didn't ask them to trust him. He asked for the dates, the places, the order in which people had disappeared — and listened, without interrupting, while Nélida and the others reconstructed, between them, a more complete timeline than the one he'd put together since the airport. Only when they finished did he start asking what he actually needed to know, and by then he'd already earned the answers.
 
-The pattern, once he'd finished assembling it, was exactly what Ferrer had pointed to: dates clustered, not distributed at random; every disappearance within a radius that kept closing, tighter each time, around the same mountain.
+The pattern, once he'd finished assembling it, was exactly what Arismendi had pointed to: dates clustered, not distributed at random; every disappearance within a radius that kept closing, tighter each time, around the same mountain.
 
 A young man in the doorway was talking fast to another about something Park couldn't quite follow — the thick interior accent, the S's disappearing halfway through words, the rhythm no language course prepares anyone to follow in real time. Yusmary, noticing Park's pause, translated without being asked.
 

@@ -4,7 +4,7 @@ type: entity
 project: ledger-of-domains
 module: world
 tags: [principado, venezuela, yaracuy, sorte, bsa-arc5, sentient]
-load-with: [world/amat-caribe, characters/claudia-ferrer]
+load-with: [world/amat-caribe, characters/claudia-arismendi]
 updated: 2026-07-07
 ---
 
@@ -74,9 +74,9 @@ Aparece sin nombrar, como "lo que Kaspar encontró en el monte" y, en clave inte
 
 <!-- canonical -->
 - Encuadre teológico deliberado, consistente con `world/entities/lidercz-danubio.md`: no se presenta como un poder codiciable ni como una deidad real digna de culto — es una entidad peligrosa, real, nacida específicamente del sacrificio de sangre y vidas humanas. La devoción popular ordinaria a María Lionza (velas, ofrendas, danza) no es lo que se condena aquí; la desviación sacrificial de una facción específica sí. Los bancos y materias coaccionados son víctimas/instrumentos, no villanos — el mal está en quienes diseñaron el sacrificio, no en la cultura que explotaron.
-- Reservado para Arc 5: nombre de trabajo (¿le da Park o Claudia Ferrer algún nombre operativo distinto de "María Lionza" para el expediente de AMAT, dado que no hay categoría previa?), mecanismo exacto de contención/supresión al cierre del arco (no resuelto — sigue creciendo, alimentada en la sombra por lo que quede de la facción de los Soles tras el colapso del régimen).
+- Reservado para Arc 5: nombre de trabajo (¿le da Park o Claudia Arismendi algún nombre operativo distinto de "María Lionza" para el expediente de AMAT, dado que no hay categoría previa?), mecanismo exacto de contención/supresión al cierre del arco (no resuelto — sigue creciendo, alimentada en la sombra por lo que quede de la facción de los Soles tras el colapso del régimen).
 - Semilla explícita para libros futuros: el doblete sísmico real de Yaracuy (24-25 de junio de 2026, M7.2/M7.5, epicentro exacto en la región de Sorte) queda plantado como consecuencia no dramatizada — la montaña fallando, meses después, en sostener lo que se dejó creciendo dentro.
-- **Confirmado 2026-07-07:** Park sí entrega un informe completo antes de salir de Venezuela (Cap 56) — no se pierde. Claudia Ferrer lo archiva con la clasificación más alta posible sin recursos reales para actuar. Ese archivo es la justificación en canon (LoD Libro 3) de por qué AMAT — específicamente Ji-ho — se moviliza hacia la región cuando ocurre el doblete sísmico de junio 2026. El informe de Park es la razón por la que alguien sabe dónde mirar cuando ya es tarde.
+- **Confirmado 2026-07-07:** Park sí entrega un informe completo antes de salir de Venezuela (Cap 56) — no se pierde. Claudia Arismendi lo archiva con la clasificación más alta posible sin recursos reales para actuar. Ese archivo es la justificación en canon (LoD Libro 3) de por qué AMAT — específicamente Ji-ho — se moviliza hacia la región cuando ocurre el doblete sísmico de junio 2026. El informe de Park es la razón por la que alguien sabe dónde mirar cuando ya es tarde.
 - **Confirmado 2026-07-07 — LoD Libro 3 abre con el enfrentamiento:** el doblete sísmico de Yaracuy (24-25 junio 2026) es consecuencia directa del choque entre María Lionza (ya crecida, meses después de Cap 55) y Ji-ho, movilizado por AMAT a partir del informe archivado de Park. Foreshadow explícito colocado en LoD Cap 66 ("Suelo"): llamada nocturna Cartwright-Park confirma que alguien en Ginebra leyó el informe de Venezuela y que "algo se mueve en Sorte" — reemplaza una referencia anterior a Budapest en ese mismo punto del capítulo, que ya no aplicaba una vez cerrado BSA. Park, en ese momento del main-series, todavía no sabe que el archivo se movió por esto específicamente.
 
 

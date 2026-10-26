@@ -64,9 +64,9 @@ Salcedo was waiting with two coffees and no question asked too fast.
 
 Salcedo didn't seem surprised by either thing.
 
-"Send Ferrer what you have tonight," he said. "Even incomplete. She's better at deciding what to do with loose pieces than the two of us together."
+"Send Arismendi what you have tonight," he said. "Even incomplete. She's better at deciding what to do with loose pieces than the two of us together."
 
-Park did, word for word, the sensation of Casimira stepping back from him, the four origins she'd named without needing any file to do it. Ferrer answered in writing, minutes later, a single line: *Confirmed. Follow the thread. Report when you have a name.*
+Park did, word for word, the sensation of Casimira stepping back from him, the four origins she'd named without needing any file to do it. Arismendi answered in writing, minutes later, a single line: *Confirmed. Follow the thread. Report when you have a name.*
 
 He stayed up longer than he should have, looking out the hotel window at a street where the only light not coming from a generator was the moon's. He'd seen cities at war without any war declared — Hartford had its four cordoned blocks, Seoul its island, Lisbon its neighborhood with an old wound. He'd never seen a whole country behave like a wound — every institution, every uniform, every checkpoint, functioning just enough to look normal and failing just enough that no one, not even the people who lived there, could say for certain who to trust on any given Tuesday. It wasn't a Ruler's territory. It was something humans had done to themselves, alone, generation after generation, with no Odem needed for it to hurt just the same.
 

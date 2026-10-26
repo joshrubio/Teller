@@ -43,9 +43,7 @@ Demostró el juego junto a Sabine antes de que Oliver participara. Ganó la prim
 
 ## Oliver's Registry
 
-**Cap 73:** Oliver usó la copia de Impulso (ya integrada) en el corredor con Ancla — primera vez en combate real.
-
-Copia deliberada pendiente de escritura en Arco 3 mid. Condiciones 0–3 completas; practicable en controladas.
+**Cap 65-68:** Oliver copia el Impulso de Nadia y lo usa en el ejercicio con Park (Cap68: empuja a Dara medio metro; "El Ancla. El Impulso. La Tensión"). Ya integrado.
 
 ## Libro 2, Cap 82 (San Gotardo)
 
@@ -96,7 +94,7 @@ Pregunta en voz alta lo que su propio cuerpo hace inevitable: "¿y si todavía n
 
 | Person | Dynamic |
 |---|---|
-| Oliver | Pendiente de copia deliberada (Arco 3 mid). Sin tensión establecida todavía. |
+| Oliver | Copia de Impulso ya integrada (Cap65-68). Sin tensión establecida todavía. |
 | AMAT (vía padre) | Conoce el sistema antes de vivirlo — ambas cosas a la vez. |
 
 ## Libro 3, Cap133 — Botas nuevas (escrito 2026-10-12)

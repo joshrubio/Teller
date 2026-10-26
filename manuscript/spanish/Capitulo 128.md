@@ -18,7 +18,7 @@ Lo trasladaron en una furgoneta sin ventanas, sentado frente a un hombre que no 
 
 El edificio al que lo llevaron no tenía ningún cartel que lo identificara desde fuera, y por dentro se parecía, con una precisión que a Herzog le pareció casi ofensiva, a cualquier clínica privada bien financiada: pasillos silenciosos, luz indirecta, batas limpias, una recepción con flores frescas que nadie parecía mirar nunca. Nada en la decoración sugería lo que Herzog ya sospechaba con la misma certeza fría con que sabía leer una carta o un pulso ajeno: que aquel sitio llevaba mucho más tiempo tratando con gente como la criatura del hospicio de lo que cualquier archivo de la Kirchgasse hubiera podido documentar. Pasó junto a una puerta doble, más ancha que las demás, reforzada de una forma que ninguna clínica normal necesitaría, y durante el segundo exacto en que se abrió para dejar pasar una camilla, alcanzó a ver, al fondo de la sala, una hilera de puertas idénticas a la de su propio cuarto — todas sin manija por dentro, todas numeradas, ninguna con nombre.
 
-Lo sentaron en una sala pequeña, sin ventanas, frente a una mesa metálica y a un hombre de unos cincuenta años que se presentó solo con un apellido —Furrer— y una carpeta vacía que fue llenando a mano, despacio, con una letra tan cuidada que a Herzog le recordó, sin quererlo, a la de las cartas del siglo dieciocho.
+Lo sentaron en una sala pequeña, sin ventanas, frente a una mesa metálica y a un hombre de unos treinta años que se presentó solo con un apellido —Furrer— y una carpeta vacía que fue llenando a mano, despacio, con una letra tan cuidada que a Herzog le recordó, sin quererlo, a la de las cartas del siglo dieciocho.
 
 —Empecemos por lo fácil —dijo Furrer, sin levantar la vista del papel—. Nombre.
 

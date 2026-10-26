@@ -60,7 +60,7 @@ Así que se lo dijo. Estaba en el pasillo, con una caja de suero en brazos, y la
 
 La doctora llegó en un helicóptero de Caracas, con la jefa de la rama.
 
-Claudia Ferrer bajó la primera, con una carpeta de cuero bajo el brazo y el pelo recogido en una trenza gris que no hacía nada por parecer cuidada. Park la reconoció desde el patio: la voz precisa, los zapatos de suela gastada, la costumbre de no mirar al hombre a quien da la mano, sino a lo que tiene detrás. Hacía cinco meses que no se veían. El informe que Park le había entregado en Caracas llevaba ese tiempo en un sótano.
+Claudia Arismendi bajó la primera, con una carpeta de cuero bajo el brazo y el pelo recogido en una trenza gris que no hacía nada por parecer cuidada. Park la reconoció desde el patio: la voz precisa, los zapatos de suela gastada, la costumbre de no mirar al hombre a quien da la mano, sino a lo que tiene detrás. Hacía cinco meses que no se veían. El informe que Park le había entregado en Caracas llevaba ese tiempo en un sótano.
 
 —Agente Park —dijo.
 
@@ -84,13 +84,13 @@ Siguió. Siguió con las líneas oscuras, que le llegaban desde el hombro hasta 
 
 —Quiero confirmar una cosa —dijo—. Directora. ¿Me trae las cuatro categorías de Ginebra?
 
-Ferrer sacó la carpeta y la abrió sobre el suelo. Había una hoja plastificada con cuatro casillas.
+Arismendi sacó la carpeta y la abrió sobre el suelo. Había una hoja plastificada con cuatro casillas.
 
 —Saturación —leyó Vargas—. No. No hay residuo en la piel, no hay residuo en el aire, no hay firma ajena. Impacto de Potestad. —Pasó el dedo a la segunda—. Hay herida, pero la herida no es de una Potestad; es una amputación limpia, de otra mano, de otra fecha. Efecto de Domain. —La tercera—. Los efectos de Domain tienen firma de quien los hace. Estas líneas no la tienen. Lo que marcan, cuando las leo, es la suya. Ji-ho. Del revés. Su propio Odem, vuelto hacia él.
 
 Hubo un silencio.
 
-—Eco —dijo Ferrer, con la voz de quien cumple el trámite.
+—Eco —dijo Arismendi, con la voz de quien cumple el trámite.
 
 —Él no es un Eco. Está vivo. —Vargas cerró la libreta—. No lo está consumiendo nada de fuera. Lo está consumiendo él. Algo ha hecho que lo que él es se dé la vuelta y se coma lo que tiene.
 
@@ -102,17 +102,17 @@ Habló desde la ventana, sin moverse. Los tres se volvieron a mirarlo.
 
 —Es lo que se pone cuando no se sabe qué poner —dijo Park—. Fue ella. María Lionza. No lo vi, pero en esa montaña no había nada más que pudiera hacerlo. Y no fue un golpe, los golpes dejan golpe. —Hablaba como informando, sin levantar la voz—. No hay casilla para lo que ella es, no la hubo en Sorte y no la hay aquí.
 
-Ferrer tardó en contestar.
+Arismendi tardó en contestar.
 
 —En Ginebra, el expediente del sujeto de Yaracuy lleva el código 2026-YAR-001 —dijo—. Es el único código que tengo. Esto va a quedar como derivado del suyo. Pondré «efecto secundario no clasificado», y me preguntarán qué quiero decir, y no voy a poder explicárselo a nadie que no haya estado aquí.
 
 —Casimira Blanco —dijo Park.
 
-Ferrer levantó la cabeza.
+Arismendi levantó la cabeza.
 
 —En Sorte hay una mujer que lleva toda la vida viendo esto —siguió—. No lo ve con instrumentos. Lo ve, y lo llama por su nombre. Si alguien sabe cómo se llama, es ella.
 
-—Sorte lleva tres días sin comunicaciones. —Ferrer cerró la carpeta—. La montaña ha cedido por la cara norte. Hemos mandado a dos equipos y no han vuelto. No sé si está viva, Park. No sé si hay alguien a quien preguntar.
+—Sorte lleva tres días sin comunicaciones. —Arismendi cerró la carpeta—. La montaña ha cedido por la cara norte. Hemos mandado a dos equipos y no han vuelto. No sé si está viva, Park. No sé si hay alguien a quien preguntar.
 
 —Entonces no hay nadie —dijo Vargas, con cansancio.
 
@@ -122,7 +122,7 @@ Lo dijo una voz desde la puerta. Nadine Okafor estaba apoyada en el marco, con l
 
 —Sorte son cuatro horas en helicóptero si hay helicóptero, y dos días a pie si no. —Nadine hablaba despacio, sin dramatismo—. Trabajé un invierno por la falda de Chivacoa con Protección Civil. Conozco la senda.
 
-—No puedo darle más que un guía de Caribe y una radio —dijo Ferrer.
+—No puedo darle más que un guía de Caribe y una radio —dijo Arismendi.
 
 —Es más de lo que tiene ella.
 
@@ -130,7 +130,7 @@ Lo dijo una voz desde la puerta. Nadine Okafor estaba apoyada en el marco, con l
 
 —Entonces iré a saberlo.
 
-Ferrer miró a Cartwright. Cartwright asintió, apenas.
+Arismendi miró a Cartwright. Cartwright asintió, apenas.
 
 —Tiene una hija —dijo Park—. Yolanda. Vive cerca, a una hora de la casa. Evangélica, no le gusta lo que hace su madre, y es la primera en llegar cuando está en peligro. Si encuentras a una, encuentras a la otra.
 
@@ -226,13 +226,13 @@ Pensó en la cuenca. En cuarenta soldados en corona, y en un hombre sin un brazo
 
 ---
 
-La médica salió a las doce y diez, con las manos mojadas y el pelo pegado a la frente. Park estaba en el mismo sitio. Cartwright y Ferrer volvieron a entrar sin que nadie los llamara.
+La médica salió a las doce y diez, con las manos mojadas y el pelo pegado a la frente. Park estaba en el mismo sitio. Cartwright y Arismendi volvieron a entrar sin que nadie los llamara.
 
 —Voy a decirlo una vez —dijo Vargas—. No voy a darles un plazo. Una escalera no tiene fecha. Lo único que sé es que cada vez que él usa lo que es, baja de golpe, y que si lo dejan quieto tarda más. Cuánto más, no lo sé. Prefiero decirlo así a darles un número que no tengo.
 
 Nadie dijo nada. En la mesa del fondo, el vaso de agua seguía lleno, quieto.
 
-—Gracias, doctora —dijo Ferrer.
+—Gracias, doctora —dijo Arismendi.
 
 —No me las dé.
 

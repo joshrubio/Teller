@@ -8,29 +8,29 @@ Ronald's body rode in the bed of Salcedo's pickup, wrapped in the one clean blan
 
 ---
 
-"The cover story's going to be violence between rival collectives, with an illegal mining angle to explain the rest," Ferrer said, over video call, that same afternoon, her voice more tired than Park had heard it the whole arc. "It's going to cost me some favors I don't have, but with the whole country looking at Caracas this week, no one's going to ask too many questions about a coffee farm in Yaracuy."
+"The cover story's going to be violence between rival collectives, with an illegal mining angle to explain the rest," Arismendi said, over video call, that same afternoon, her voice more tired than Park had heard it the whole arc. "It's going to cost me some favors I don't have, but with the whole country looking at Caracas this week, no one's going to ask too many questions about a coffee farm in Yaracuy."
 
 "And Roa?"
 
-"Dead in a clash between rival factions over a smuggling route," Ferrer said. "Only half a lie, again. There was a clash. There was a death. The rest is just a matter of which words you use to describe it."
+"Dead in a clash between rival factions over a smuggling route," Arismendi said. "Only half a lie, again. There was a clash. There was a death. The rest is just a matter of which words you use to describe it."
 
 Park stayed quiet a moment, the image of Contreras falling, his leg giving way, still fresh — Roa on the floor of the shed fresher still.
 
 "I want to send you the full report," he said, finally. "All of it. Including the name Casimira confirmed."
 
-Ferrer didn't look surprised.
+Arismendi didn't look surprised.
 
 "Send it," she said. "I can't promise you anyone's going to read it with the attention it deserves. I can promise it'll get filed under the highest classification I can give it without any real resources behind it to act on it. Right now, agent, that's the most this country and this branch can offer for what you found up there."
 
 "And if that's not enough?"
 
-"Then someday, someone with more resources than I have this week is going to have to open that file for a reason neither of us wants to imagine yet," Ferrer said. "All I can do is leave it written down so that day, if it comes, doesn't start from zero."
+"Then someday, someone with more resources than I have this week is going to have to open that file for a reason neither of us wants to imagine yet," Arismendi said. "All I can do is leave it written down so that day, if it comes, doesn't start from zero."
 
 "How many files like this does this branch have stored away?" Park asked. "Things with no category, waiting for someone with more time to read them."
 
-"More than you'd like to know," Ferrer said. "This isn't Lisbon or Budapest, agent. Here we don't have the luxury of a branch that can afford to investigate everything it finds. We have an entire country's worth of uncategorized things, and a branch the size of a handful of people to decide which of those things can wait and which can't."
+"More than you'd like to know," Arismendi said. "This isn't Lisbon or Budapest, agent. Here we don't have the luxury of a branch that can afford to investigate everything it finds. We have an entire country's worth of uncategorized things, and a branch the size of a handful of people to decide which of those things can wait and which can't."
 
-He wrote the report that same night, in the hotel room, with more precision than he'd used in any report before it — the girl, the approximate date she'd been taken, the mechanism of the sacrifice, Casimira's warning about what's born of ten years of blood and has no good version waiting underneath. He softened nothing. He didn't know, as he wrote it, whether anyone besides Ferrer would ever read it in full, but he wrote it as if someone would, someday, when it was already too late for the warning to offer any comfort and it could only serve as a map.
+He wrote the report that same night, in the hotel room, with more precision than he'd used in any report before it — the girl, the approximate date she'd been taken, the mechanism of the sacrifice, Casimira's warning about what's born of ten years of blood and has no good version waiting underneath. He softened nothing. He didn't know, as he wrote it, whether anyone besides Arismendi would ever read it in full, but he wrote it as if someone would, someday, when it was already too late for the warning to offer any comfort and it could only serve as a map.
 
 ---
 
@@ -92,7 +92,7 @@ Park didn't know what to answer for a long while. In the end he wrote only three
 
 Cartwright called two days later, her voice carrying the kind of contained satisfaction she only allowed herself when something had gone better than her own numbers predicted.
 
-"Successful mission, agent," she said, without preamble. "You identified the phenomenon, classified it, and contained what needed containing exactly within the window it needed containing in. The Washington operation went off clean partly because you made sure nothing on that mountain complicated it that morning. That's not going to show up in any official report, but I know it, and now Ferrer does too."
+"Successful mission, agent," she said, without preamble. "You identified the phenomenon, classified it, and contained what needed containing exactly within the window it needed containing in. The Washington operation went off clean partly because you made sure nothing on that mountain complicated it that morning. That's not going to show up in any official report, but I know it, and now Arismendi does too."
 
 "It's not a victory, ma'am," Park said. "It's one more thing, bigger and more dangerous, loose in a forest, and a report filed on a server no one with real authority is going to open this week, or next."
 
@@ -106,7 +106,7 @@ Cartwright went quiet a moment, the kind of silence Park had learned to recogniz
 
 "And the girl?"
 
-"Still your report, and it's going to stay my problem for as long as I hold this post," Cartwright said. "That's not a no, agent. It's a not yet. Right now, the closest I can put you to Sorte without directly disobeying Ferrer is Caracas. Take it or don't."
+"Still your report, and it's going to stay my problem for as long as I hold this post," Cartwright said. "That's not a no, agent. It's a not yet. Right now, the closest I can put you to Sorte without directly disobeying Arismendi is Caracas. Take it or don't."
 
 Park took it.
 
@@ -122,7 +122,7 @@ Park never found out whether that girl was still on the mountain, whether she'd 
 
 Maiquetía airport, days later, looked nothing like the rest of the country Park had traveled through — orderly lines, lights that didn't go out, an artificial calm that only existed because the whole world was watching there. He waited for his flight to Geneva in a plastic chair bolted to the floor, his bag between his feet, and for the first time since Hartford he let himself think about the five missions in a row without dividing them by country, as if they were, all together, a single question he hadn't finished answering.
 
-Voss's call came nine days after Cartwright's, while Park was still in Caracas doing exactly that, and it closed, without Voss knowing or being able to know it, whatever window he had left to go back to Yaracuy and finish writing what the first report had left incomplete. By then, Ferrer had already filed everything Park had sent her under the highest classification her branch could offer without any real resources behind it — a file waiting, on some AMAT server, for someone with more authority and more urgency than either of them to decide, someday, that it was worth opening.
+Voss's call came nine days after Cartwright's, while Park was still in Caracas doing exactly that, and it closed, without Voss knowing or being able to know it, whatever window he had left to go back to Yaracuy and finish writing what the first report had left incomplete. By then, Arismendi had already filed everything Park had sent her under the highest classification her branch could offer without any real resources behind it — a file waiting, on some AMAT server, for someone with more authority and more urgency than either of them to decide, someday, that it was worth opening.
 
 In Hartford he'd learned that strength was for knowing when protocol was wrong and acting anyway. In Seoul, that it was for winning even with someone better than him watching. In Lisbon, that it was for doing the right thing when no one else saw. In Budapest, that it was for staying on your feet after crossing a line there was no way back across. Four answers, each true in its own way, and none of the four had done him any good in front of a line of people waiting their turn to fill a bucket of water, or in front of a girl in a faded dress whose life no blow of his, however precise, was ever going to change.
 
@@ -132,7 +132,7 @@ His flight was called. Park stood, shouldered his bag with more care than a weig
 
 His phone buzzed in his pocket just as he handed over his passport at the gate. Out of habit, more than urgency, he checked it before putting it away for the next eight hours.
 
-It wasn't Ferrer, or Cartwright, or any channel from the mission that had just closed. It was AMAT-EU's request system, the same one that had told him nothing but *pending* for five missions straight — the three requests he'd filed before Hartford, about the forty-three pages from 1952 classified under Geneva, that he'd stopped checking somewhere between Lisbon and Budapest. All three were still there, on the same screen, in the same status as always.
+It wasn't Arismendi, or Cartwright, or any channel from the mission that had just closed. It was AMAT-EU's request system, the same one that had told him nothing but *pending* for five missions straight — the three requests he'd filed before Hartford, about the forty-three pages from 1952 classified under Geneva, that he'd stopped checking somewhere between Lisbon and Budapest. All three were still there, on the same screen, in the same status as always.
 
 Except one.
 

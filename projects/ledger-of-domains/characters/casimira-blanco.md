@@ -36,7 +36,7 @@ Yolanda dejó la casa y la práctica hace ocho años al convertirse. Vive cerca 
 ## Libro 3, Cap141 (2026-10-15)
 
 <!-- canonical -->
-Park pregunta por ella a Ferrer: Sorte lleva tres días sin comunicaciones, la montaña ha cedido por la cara norte, dos equipos enviados no han vuelto, no se sabe si vive. **Nadine Okafor se ofrece a subir** con un guía de AMAT-Caribe y una radio; Park le da el dato de su hija **Yolanda** (vive a una hora, evangélica, la primera en acudir cuando su madre está en peligro). Esperanza vaga, sin garantías; sin resolver.
+Park pregunta por ella a Arismendi: Sorte lleva tres días sin comunicaciones, la montaña ha cedido por la cara norte, dos equipos enviados no han vuelto, no se sabe si vive. **Nadine Okafor se ofrece a subir** con un guía de AMAT-Caribe y una radio; Park le da el dato de su hija **Yolanda** (vive a una hora, evangélica, la primera en acudir cuando su madre está en peligro). Esperanza vaga, sin garantías; sin resolver.
 
 ## Libro 3, Línea C (Cap151-154, sincronizado 2026-10-20)
 

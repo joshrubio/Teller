@@ -216,7 +216,7 @@ Park no respondió de inmediato.
 
 — ¿Quién?
 
-— Gente con más autoridad de la que Ferrer tiene. — Una pausa —. Algo se mueve en Sorte. Todavía no sé cuánto, ni con qué velocidad. Pero se mueve, y alguien en Ginebra decidió, hace poco, que ese archivo ya no podía seguir esperando en la lista de cosas sin categoría.
+— Gente con más autoridad de la que Arismendi tiene. — Una pausa —. Algo se mueve en Sorte. Todavía no sé cuánto, ni con qué velocidad. Pero se mueve, y alguien en Ginebra decidió, hace poco, que ese archivo ya no podía seguir esperando en la lista de cosas sin categoría.
 
 Park miró el techo de la habitación. Afuera, el viento en las grietas del edificio de piedra, el mismo sonido de siempre.
 

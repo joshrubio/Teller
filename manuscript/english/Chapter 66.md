@@ -216,7 +216,7 @@ Park didn't answer right away.
 
 "Who?"
 
-"People with more authority than Ferrer has." A pause. "Something's moving in Sorte. I still don't know how much, or how fast. But it's moving, and somebody in Geneva decided, not long ago, that file couldn't keep sitting on the uncategorized list."
+"People with more authority than Arismendi has." A pause. "Something's moving in Sorte. I still don't know how much, or how fast. But it's moving, and somebody in Geneva decided, not long ago, that file couldn't keep sitting on the uncategorized list."
 
 Park looked at the ceiling. Outside, wind in the cracks of the stone building, the same sound as always.
 

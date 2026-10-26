@@ -85,5 +85,5 @@ See `relations/oliver-web` — Oliver/Park section. The same relationship from P
 - **Park–Ji-ho:** recuerdo de la hucha (Cap143), pacto parcial de heredar el oficio; Ji-ho vivo y maldito.
 - **Park–Kiki:** mensaje en Cap147; la brecha de Park con Ji-ho se piensa también como brecha con su media hermana (mismo padre, madre distinta).
 - **Park–Taeho (padre):** llamada de Cap141 ("Dile que he llamado").
-- **Park–Cartwright/Ferrer:** examen de la maldición en Macuto (Cap141).
+- **Park–Cartwright/Arismendi:** examen de la maldición en Macuto (Cap141).
 - **Park–Ashworth:** Ashworth trae agua y la palabra "hambre"; un segundo de más en la puerta.

@@ -97,10 +97,10 @@ Salcedo lo esperaba con dos cafés y ninguna pregunta hecha demasiado rápido.
 Salcedo no pareció sorprendido por ninguna de las dos cosas.
 
 
-—Envíele lo que tenga a Ferrer esta noche —dijo—. Aunque sea incompleto. Ella decide qué hacer con las piezas sueltas mejor que nosotros dos juntos.
+—Envíele lo que tenga a Arismendi esta noche —dijo—. Aunque sea incompleto. Ella decide qué hacer con las piezas sueltas mejor que nosotros dos juntos.
 
 
-Park lo hizo, palabra por palabra, la sensación de Casimira retrocediendo ante él, los cuatro orígenes que había nombrado sin necesitar ningún expediente para hacerlo. Ferrer contestó por escrito, minutos después, una sola línea: *Confirmado. Seguir el hilo. Informe cuando tenga nombre.*
+Park lo hizo, palabra por palabra, la sensación de Casimira retrocediendo ante él, los cuatro orígenes que había nombrado sin necesitar ningún expediente para hacerlo. Arismendi contestó por escrito, minutos después, una sola línea: *Confirmado. Seguir el hilo. Informe cuando tenga nombre.*
 
 
 Se quedó despierto más tiempo del que debía, mirando por la ventana del hotel hacia una calle donde la única luz que no venía de un generador era la de la luna. Había visto ciudades en guerra sin que hubiera guerra declarada — Hartford tenía sus cuatro manzanas acordonadas, Seúl su isla, Lisboa su barrio con una herida vieja. Nunca había visto un país entero comportarse como una herida — cada institución, cada uniforme, cada punto de control, funcionando lo suficiente para parecer normal y fallando lo suficiente para que nadie, ni siquiera la gente que vivía ahí, pudiera decir con certeza en quién confiar un martes cualquiera. No era una zona de Principado. Era algo que los propios humanos habían hecho solos, generación tras generación, sin que ningún Odem hiciera falta para que doliera igual.

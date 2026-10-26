@@ -141,4 +141,6 @@ POV de Voss en el primer tramo. Siente la bahía vaciarse con la palma en el mur
 
 - **Cap157:** a partir del conteo de Sabine (640 casas, 118 con luz, 500 personas) deduce que Hesperia está preparada para mucha más gente y que alguien la está llenando; nota que el barco del reconocimiento es de un proveedor que abastece la isla; Cartwright identifica a Ashworth. Voss no se fía de la autorización: el Consejo votó antes de que llegara el informe.
 
-- **Cap162 (17 jul, contado por Park):** desde las cinco rehace rutas de la tercera oleada con Marchand y Cartwright; pidió otra vez que Valais entrara en la primera oleada y le dijeron que no; no ha comido; no visita a los chicos porque no podría hacerlo sin mentirles, y prefiere no mentirles esa noche.
+- **Cap162 (17 jul, contado por Park):** desde las cinco rehace rutas de la tercera oleada con Marchand y Cartwright; pidió otra vez que Valais se quedara en la reserva y le dijeron que no; no ha comido; no visita a los chicos porque no podría hacerlo sin mentirles, y prefiere no mentirles esa noche.
+
+- **Cap165:** expone lo que AMAT sabe y deduce de la isla en la reunión de mando del 15 de julio; pide la reserva para Valais por cuarta vez y Okonjo la niega ("Lo quiero donde lea"). El 18 de julio, en la cubierta de ER-5, se lo dice a Oliver y confirma lo que Park le había contado: no fue a la carpa porque no podía decirlo sin mentir.

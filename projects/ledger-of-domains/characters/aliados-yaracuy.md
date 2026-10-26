@@ -4,7 +4,7 @@ type: reference
 project: ledger-of-domains
 module: characters
 tags: [bsa-arc5, venezuela, yaracuy, aliados-civiles]
-relations: [park, world/amat-caribe, characters/claudia-ferrer]
+relations: [park, world/amat-caribe, characters/claudia-arismendi]
 load-with: [world/amat-caribe]
 updated: 2026-07-07
 ---
@@ -15,7 +15,7 @@ A diferencia de todos los arcos anteriores, el apoyo institucional que Park sí 
 
 ## Agente Iván Salcedo — AMAT-Caribe
 
-El único agente de campo que Claudia Ferrer puede destinar a la misión — el resto de la rama está absorbido por la crisis institucional del país. Conoce el terreno, tiene contactos y vehículo, y es quien mantiene a Park dentro de los límites de lo operativamente posible en una zona donde ni SEBIN ni FANB son aliados por defecto. No tiene ninguna relación previa con las cortes ni con el conocimiento espiritual de Casimira — su utilidad es puramente táctica y logística, un contraste deliberado con los aliados civiles de abajo.
+El único agente de campo que Claudia Arismendi puede destinar a la misión — el resto de la rama está absorbido por la crisis institucional del país. Conoce el terreno, tiene contactos y vehículo, y es quien mantiene a Park dentro de los límites de lo operativamente posible en una zona donde ni SEBIN ni FANB son aliados por defecto. No tiene ninguna relación previa con las cortes ni con el conocimiento espiritual de Casimira — su utilidad es puramente táctica y logística, un contraste deliberado con los aliados civiles de abajo.
 
 **Motivo compartido, no organizado:** ninguno de ellos actúa por orden ni por pertenecer a una red — cada uno ha estado esperando, por años, algún tipo de intervención extranjera contra el régimen. Cuando Park aparece haciendo preguntas que nadie más se atreve a hacer, varios de ellos deciden, cada uno por su cuenta, que él es parte de eso — nunca lo dice, nunca lo confirma ni lo desmiente del todo. Esa suposición equivocada es lo que le abre puertas que ninguna credencial de AMAT podría abrir sola.
 

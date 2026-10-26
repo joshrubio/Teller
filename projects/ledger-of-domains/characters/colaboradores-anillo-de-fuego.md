@@ -24,3 +24,5 @@ Sin Domain de combate, salvo Whitfield; aportan información y presencia.
 
 <!-- canonical -->
 Prestado a AMAT por la Iglesia de Inglaterra solo para esta operación (Iglesia y AMAT por lo general no se mezclan; Conti es un caso especial). No es #4 del Top. **Pelea físicamente con las cuatro técnicas**: se cubre de Manto, golpea con Foco, aparta con Presión; excapellán del ejército neozelandés (~20 años) antes de la parroquia. Su Omnisciencia (once segundos tras el *Amén* de una oración) es la ventana en la que sus golpes no fallan y en la que conoce el nombre verdadero de lo que enfrenta; narra en voz alta lo que sabe y después lo olvida. Una de las piezas más fuertes de la SRD-1 junto a Conti. Ver `characters/srd-1.md`.
+
+- **Whitfield, Cap165 (03:07):** a petición de Voronin abre su ventana en el borde del dosel; tras describir el camino, gira la cabeza al este y describe la presión antigua que hay allí (Hartford, Fukushima, Kuji; "no vino por nosotros"); no dice su nombre. Después no recuerda lo que ha dicho.

@@ -19,3 +19,5 @@ Estética: fauna primordial, de explosión cámbrica y lo ediacárico (caparazon
 - **Dosel vivo:** el techo de hojas continuo que respira; es un organismo, no solo un bosque.
 
 **Comportamiento:** no se acercan a Daniel Ashworth. Un área fijada por Sabine detuvo a dos segadores (Cap156); la escarcha y el vapor de Lev rajaron los caparazones de los tractores en la ensenada (Cap156).
+
+**Cap163 (2026-10-23):** AMAT conocía la muerte del cabo Dunn bajo un farol (Cap156) pero la dio por mala suerte; el efecto sobre las capas no estaba entendido. Lo descubre la muerte de Teague (Wardog de ER-2) en la playa: **dos capas, el mismo roce.** Es una complicación inesperada de la operación para todos los Wardogs.

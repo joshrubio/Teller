@@ -10,19 +10,19 @@ Cartwright lo encontró todavía en Budapest, dos días después del puente — 
 —¿Por qué a mí?
 
 
-—Porque Claudia Ferrer, que dirige esa rama con lo que le queda de rama, quiere una lectura sin ningún supuesto previo sobre ese país —dijo Cartwright—. Y porque usted ya demostró en Budapest que puede operar sin red cuando hace falta. Sus objetivos son tres: confirmar si las lecturas y las desapariciones son el mismo fenómeno, identificar el origen, y clasificar la amenaza con algo más específico que "no lo sabemos". En ese orden.
+—Porque Claudia Arismendi, que dirige esa rama con lo que le queda de rama, quiere una lectura sin ningún supuesto previo sobre ese país —dijo Cartwright—. Y porque usted ya demostró en Budapest que puede operar sin red cuando hace falta. Sus objetivos son tres: confirmar si las lecturas y las desapariciones son el mismo fenómeno, identificar el origen, y clasificar la amenaza con algo más específico que "no lo sabemos". En ese orden.
 
 
 —¿Y si no es nada?
 
 
-—Entonces habrá tardado unos días en confirmar que no es nada, y Ferrer habrá recuperado el único activo externo que tenía este mes —dijo Cartwright—. Una última cosa, y esta se la digo porque se la debo, no porque el protocolo lo exija: Washington tiene algo grande preparado para esa región, semanas, quizás días. No sé el detalle completo y no se lo diría por este canal aunque lo supiera. Lo que sea que encuentre tiene que quedar contenido y en silencio antes de que eso ocurra. Discreción absoluta, agente. Más que en ningún sitio donde lo he mandado antes.
+—Entonces habrá tardado unos días en confirmar que no es nada, y Arismendi habrá recuperado el único activo externo que tenía este mes —dijo Cartwright—. Una última cosa, y esta se la digo porque se la debo, no porque el protocolo lo exija: Washington tiene algo grande preparado para esa región, semanas, quizás días. No sé el detalle completo y no se lo diría por este canal aunque lo supiera. Lo que sea que encuentre tiene que quedar contenido y en silencio antes de que eso ocurra. Discreción absoluta, agente. Más que en ningún sitio donde lo he mandado antes.
 
 
 —¿Ustedes saben lo que hay ahí?
 
 
-—Sabemos que hay algo —dijo Cartwright—. No sabíamos, hasta la llamada de Ferrer esta semana, que llevaba una década formándose bajo nuestras narices sin que nadie lo viera venir. Eso también debería decirle algo sobre ese país. No solo su gobierno perdió el control de lo que pasa ahí abajo. Todos lo perdimos.
+—Sabemos que hay algo —dijo Cartwright—. No sabíamos, hasta la llamada de Arismendi esta semana, que llevaba una década formándose bajo nuestras narices sin que nadie lo viera venir. Eso también debería decirle algo sobre ese país. No solo su gobierno perdió el control de lo que pasa ahí abajo. Todos lo perdimos.
 
 
 Colgó sin darle a Park oportunidad de preguntar nada más.
@@ -55,10 +55,10 @@ Iván Salcedo lo esperaba con un cartel de cartón donde no había escrito ning�
 —Nivel del río Yaracuy —dijo Salcedo, guardando el cartel bajo el brazo antes de que nadie más lo viera—. Cortesía de la persona que diseñó nuestros protocolos de reconocimiento discretos y evidentemente tiene mucho tiempo libre.
 
 
-—¿Claudia Ferrer?
+—¿Claudia Arismendi?
 
 
-—Claudia Ferrer —confirmó Salcedo—. Bienvenido a la rama que sostiene la operación con lo que queda.
+—Claudia Arismendi —confirmó Salcedo—. Bienvenido a la rama que sostiene la operación con lo que queda.
 
 
 Salcedo conducía un pick-up con quince años encima y un motor que sonaba mejor cuidado que la carrocería. Habló durante todo el trayecto hacia el oeste con la misma economía que Park reconocía de los briefings de campo bien hechos — información densa, sin relleno, ni una palabra sobre el propio Salcedo hasta que Park preguntó directamente.
@@ -88,7 +88,7 @@ El pueblo donde Salcedo finalmente detuvo el pick-up no tenía nombre en ningún
 ---
 
 
-La videollamada con Claudia Ferrer llegó esa noche, en la habitación de un hotel con más habitaciones vacías que ocupadas. Ferrer hablaba desde Caracas con la calma específica de alguien que llevaba meses sin permitirse otra cosa.
+La videollamada con Claudia Arismendi llegó esa noche, en la habitación de un hotel con más habitaciones vacías que ocupadas. Arismendi hablaba desde Caracas con la calma específica de alguien que llevaba meses sin permitirse otra cosa.
 
 
 —Cobertura oficial: estudio de anomalías sísmicas menores, atribuibles a minería ilegal —dijo—. Es mentira solo a medias. Hay minería ilegal en la zona. No es la causa de lo que estamos viendo.
@@ -103,7 +103,7 @@ La videollamada con Claudia Ferrer llegó esa noche, en la habitación de un hot
 —¿Quién?
 
 
-—Familiares. Sobre todo madres —dijo Ferrer—. Hay una red informal alrededor de una mujer llamada Nélida Rondón, en el pueblo más cercano a Sorte. No son fuente oficial. Son la única fuente que tenemos.
+—Familiares. Sobre todo madres —dijo Arismendi—. Hay una red informal alrededor de una mujer llamada Nélida Rondón, en el pueblo más cercano a Sorte. No son fuente oficial. Son la única fuente que tenemos.
 
 
 —¿Cuántos agentes tiene destinados a esto, aparte de Salcedo?
@@ -112,13 +112,13 @@ La videollamada con Claudia Ferrer llegó esa noche, en la habitación de un hot
 —Ninguno más. El resto de la rama está sosteniendo, ahora mismo, la posibilidad muy real de que el país entero se reorganice en las próximas semanas de una forma que a nadie le va a dar tiempo de prepararse. No es que no quiera darle más. Es que no tengo más que dar.
 
 
-—Una última cosa —dijo Ferrer, antes de que Park pudiera cerrar la llamada—. No va a encontrar aquí lo que encontró en Lisboa o en Budapest. Ningún linaje guardián con generaciones de disciplina detrás. Lo que sea que esto es, nació hace poco, y nació mal. No tenemos precedente que le sirva de mapa.
+—Una última cosa —dijo Arismendi, antes de que Park pudiera cerrar la llamada—. No va a encontrar aquí lo que encontró en Lisboa o en Budapest. Ningún linaje guardián con generaciones de disciplina detrás. Lo que sea que esto es, nació hace poco, y nació mal. No tenemos precedente que le sirva de mapa.
 
 
 —¿Cuánto de poco?
 
 
-—No lo sé todavía —dijo Ferrer—. Averígüelo usted, agente. Es literalmente para lo que lo mandé llamar.
+—No lo sé todavía —dijo Arismendi—. Averígüelo usted, agente. Es literalmente para lo que lo mandé llamar.
 
 
 La llamada se cortó sin despedida — no descortesía, solo el ritmo de alguien que mide cada minuto contra una lista de cosas más urgentes.
@@ -166,7 +166,7 @@ La sala era pequeña — un sofá de dos plazas con la tela gastada en los brazo
 Park no les pidió que confiaran en él. Pidió las fechas, los lugares, el orden en que habían desaparecido — y escuchó, sin interrumpir, mientras Nélida y las otras reconstruían, entre todas, un cronograma más completo que el que él llevaba armado desde el aeropuerto. Solo cuando terminaron empezó a preguntar lo que de verdad necesitaba saber, y para entonces ya se había ganado que le contestaran.
 
 
-El patrón, cuando terminó de armarlo, era exactamente el que Ferrer había señalado: fechas agrupadas, no distribuidas al azar; todas las desapariciones dentro de un radio que se cerraba, cada vez más, alrededor de la misma montaña.
+El patrón, cuando terminó de armarlo, era exactamente el que Arismendi había señalado: fechas agrupadas, no distribuidas al azar; todas las desapariciones dentro de un radio que se cerraba, cada vez más, alrededor de la misma montaña.
 
 
 Un hombre joven, en la puerta, hablaba rápido con otro sobre algo que Park no llegó a entender del todo — el acento cerrado del interior, las eses que desaparecían a mitad de palabra, el ritmo que ningún curso de idiomas prepara a nadie para seguir en tiempo real. Yusmary, notando la pausa de Park, tradujo sin que se lo pidiera.

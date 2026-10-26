@@ -78,7 +78,7 @@ Se levantó y se estiró con una calma física que a Oliver le recordó, y no le
 
 Voss lo alcanzó a la salida, bajo el alero de chapa donde la lluvia caía en cortinas.
 
-—Marchand quiere tu ojo en la tercera oleada. Yo lo quería en la primera. —Se sacó un cigarrillo que no encendió—. Me han dicho que no.
+—Marchand quiere tu ojo en la tercera oleada. Yo lo quería en la reserva. —Se sacó un cigarrillo que no encendió—. Me han dicho que no.
 
 —¿Quién?
 

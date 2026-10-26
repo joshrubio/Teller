@@ -1,5 +1,5 @@
 ---
-id: claudia-ferrer
+id: claudia-arismendi
 type: character
 project: ledger-of-domains
 module: characters
@@ -9,7 +9,7 @@ load-with: [world/amat-caribe]
 updated: 2026-07-07
 ---
 
-# Claudia Ferrer — AMAT-Caribe
+# Claudia Arismendi — AMAT-Caribe
 
 ## Profile
 

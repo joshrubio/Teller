@@ -2,7 +2,7 @@ Capítulo 162 — La marea
 
 *16 de julio, 07:00 — San José, Costa Rica*
 
-La ministra de Seguridad recibió a Claudia Ferrer en un despacho sin cuadros, con una taza de café negro y la ventana abierta hacia un patio de buganvillas.
+La ministra de Seguridad recibió a Claudia Arismendi en un despacho sin cuadros, con una taza de café negro y la ventana abierta hacia un patio de buganvillas.
 
 Costa Rica no tiene ejército. Lo abolió en 1948, un primero de diciembre, un presidente con un mazo en la mano golpeando los muros del cuartel Bella Vista, y desde entonces el país se jacta, con razón, de ser una excepción. Tiene un cuerpo de guardacostas con siete embarcaciones útiles. Tiene un sistema de parques nacionales que protege el veinticinco por ciento del territorio. Y tiene, a quinientos cincuenta kilómetros de la costa del Pacífico, una isla de veinticuatro kilómetros cuadrados que figura en el Patrimonio de la Humanidad y que lleva años sin visitantes, por razones de presupuesto.
 
@@ -16,7 +16,7 @@ Costa Rica no tiene ejército. Lo abolió en 1948, un primero de diciembre, un p
 
 —En 1948 abolimos el ejército para no tener que hacer esto. —Lo dijo sin acritud, con la serenidad de quien repite una frase que ha repetido muchas veces ante muchos embajadores—. Le pregunto una sola vez, y sé que no me contestará. ¿Qué hay en mi isla?
 
-Ferrer, con la trenza gris sobre el hombro y las manos juntas, tardó en responder.
+Arismendi, con la trenza gris sobre el hombro y las manos juntas, tardó en responder.
 
 —No lo sabemos del todo.
 
@@ -28,7 +28,7 @@ La ministra levantó la vista.
 
 —Pacífico Verde.
 
-Ferrer no movió un músculo de la cara. Tomó nota, con una pluma de oficina, en el margen de un papel que nadie iba a leer.
+Arismendi no movió un músculo de la cara. Tomó nota, con una pluma de oficina, en el margen de un papel que nadie iba a leer.
 
 ---
 
@@ -178,7 +178,7 @@ Pier dejó el anzuelo.
 
 Hacía horas que ninguno lo veía, y Pier fue el único que se atrevió a nombrarlo.
 
-—Lleva desde las cinco con Marchand y con Cartwright pegando rutas en una mesa, y es la sexta vez que las pega. —Park miró el farol—. Pidió teneros en la primera oleada. Otra vez. Le dijeron que no. No ha comido. Me paró en la pista para decirme que os dijera que comierais y durmierais, y que no venía él porque si venía no iba a poder decirlo sin mentir, y que esta noche prefería no mentiros.
+—Lleva desde las cinco con Marchand y con Cartwright pegando rutas en una mesa, y es la sexta vez que las pega. —Park miró el farol—. Pidió dejaros en la reserva. Otra vez. Le dijeron que no. No ha comido. Me paró en la pista para decirme que os dijera que comierais y durmierais, y que no venía él porque si venía no iba a poder decirlo sin mentir, y que esta noche prefería no mentiros.
 
 Dara bajó la barbilla hasta las rodillas. Asha cerró las manos.
 

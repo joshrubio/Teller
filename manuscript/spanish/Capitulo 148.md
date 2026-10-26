@@ -70,7 +70,7 @@ Conti habló sin ponerse en pie.
 
 —Setenta y tres de la fuerza conjunta —dijo Cartwright, desde una mesa de aula con el cuello de la camisa abierto—. Cuatro del equipo Alfa de AMAT-Caribe: Villalba, Quintero, Marín, Sosa. Néstor Arrieta, Rango 4, de Catia La Mar. Cuatro sobrevivientes del equipo del agente Park: uno herido. —Se frotó la cara—. La cifra civil del doblete sigue sin cerrarse. Mil cuatrocientos edificios. No me atrevo a decir más.
 
-Claudia Ferrer, a su lado, con la trenza gris y la carpeta cerrada, esperó a que terminara.
+Claudia Arismendi, a su lado, con la trenza gris y la carpeta cerrada, esperó a que terminara.
 
 —La ayuda civil fue decisiva —añadió Cartwright—. Una fundación de desarrollo con presencia en la costa nos cedió un colegio entero sin que se lo pidiéramos. No habríamos podido instalar el puesto de otro modo. Pido que conste el agradecimiento.
 

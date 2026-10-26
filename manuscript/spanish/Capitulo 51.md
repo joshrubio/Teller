@@ -172,7 +172,7 @@ Se sirvió un poco del ron que había dejado sin tocar, más por tener algo que 
 —Yo tengo esta casa lejos de todo, y ya no me queda mucho que perder que alguien pueda amenazar con quitarme —dijo Casimira—. Eso no es valentía, agente. Es que ya hice mis cuentas hace tiempo. Desde que empezaron a hacerlo de todos modos, con otros bancos que sí cedieron, algo en la montaña dejó de estar dormido de la forma en que llevaba dormido toda mi vida.
 
 
-Park describió, con el vocabulario más neutro que pudo encontrar, las lecturas que Ferrer le había mostrado antes de salir de Caracas — la velocidad de acumulación, la ausencia total de precedente, el temblor de la noche anterior sin causa que ningún instrumento pudiera nombrar.
+Park describió, con el vocabulario más neutro que pudo encontrar, las lecturas que Arismendi le había mostrado antes de salir de Caracas — la velocidad de acumulación, la ausencia total de precedente, el temblor de la noche anterior sin causa que ningún instrumento pudiera nombrar.
 
 
 Casimira escuchó sin interrumpir. Cuando Park terminó, se quedó callada más tiempo del que la pregunta merecía, el tabaco consumiéndose entre sus dedos sin que ella le diera otra calada.

@@ -8,6 +8,8 @@ Park lo vio primero como una ausencia, un rectángulo más oscuro que el mar con
 
 —Aquí —dijo el piloto.
 
+Allí se quedaban Ji-ho y Taeho. Park seguía solo hasta la isla.
+
 El aire entró de golpe por la puerta lateral con olor a sal y a gasoil. Del vientre del aparato bajó un cable con un arnés. Ji-ho se levantó del asiento de lona. Se enganchó él mismo, sin mirar a nadie, y fue Taeho quien se inclinó a cerrarle la hebilla del pecho, con unos dedos torpes que Park no le había visto nunca. Ji-ho lo dejó hacer.
 
 Después miró a su sobrino.
@@ -20,9 +22,9 @@ Después miró a su sobrino.
 
 Taeho se enganchó el suyo. Antes de salir miró a Park un segundo más de lo que mira un inventario. No dijo nada. Tuvo el cuidado de no decirlo.
 
-Bajaron los dos por el cable, uno detrás del otro, con las botas a un palmo de la cubierta. Ji-ho descendió con la espalda recta y el uniforme abrochado hasta el cuello, y los tres marineros se pusieron firmes sin que nadie se lo ordenara. Park lo vio hasta que la cubierta se llevó la figura gris hacia una escotilla. Luego el cable subió vacío y el piloto cerró la puerta con el hombro.
+Ji-ho y Taeho bajaron por el cable, uno detrás del otro, con las botas a un palmo de la cubierta. Ji-ho descendió con la espalda recta y el uniforme abrochado hasta el cuello, y los tres marineros se pusieron firmes sin que nadie se lo ordenara. Park lo vio hasta que la cubierta se llevó la figura gris hacia una escotilla. Luego el cable subió vacío y el piloto cerró la puerta con el hombro. Park se quedó donde estaba, sin arnés. El helicóptero se separó del barco y puso rumbo al norte.
 
-—Seis minutos —dijo.
+—Seis minutos —dijo el piloto.
 
 Fueron seis minutos de mar negro. Park se sentó en el umbral con los pies fuera, sin arnés, y repasó lo que tenía: la reserva sellada asentada abajo, quieta, como un lago que no se ha enterado de que va a llover; el diezmo, que se calculaba al empezar la escena y que él ya había calculado; la energía corriente, que se ganaba o se perdía con cada golpe y no figuraba en ninguna cuenta. Pensó en la décima parte. Después dejó de pensar.
 
@@ -64,11 +66,13 @@ Aparecieron a la vez, repartidos por la playa con la naturalidad de quien no ha 
 
 —Coro.
 
-Park perdió el cuerpo un segundo.
+Park lo conocía por la ficha: lo de Voronin era enlazar la percepción de hasta doce personas, que compartían lo que veían, oían y sentían mientras durara. Lo sabía como se sabe la altura de una montaña. Nunca había estado dentro.
 
-No fue un mareo. Fue como si la playa le hubiera entrado por los ojos de otro y, antes de que pudiera protestar, por los oídos de un tercero. Oyó la orilla como se oye un plato golpeado con la uña: Solheim, una nota fina, rota, clara. Sintió bajo las piedras una red de raíces que respiraba a otro ritmo que el suyo, la de los árboles de verdad, y debajo de ellas, tirando, la de algo que no lo era; eso era Kino. Contó nueve pulsos con una exactitud que no le pertenecía, y un décimo, el suyo, que no cuadraba con los otros. Y en el centro, frío y limpio, el mapa de Voronin: la ensenada, la línea de árboles, un hueco con forma de silla.
+Perdió el cuerpo un segundo.
 
-Cero. La plaza vacía.
+No fue un mareo. Fue como si la playa le hubiera entrado por los oídos de otro: la orilla sonaba como un plato golpeado con la uña, una nota fina, rota, clara, y era Solheim quien la oía. Y por los pies de un tercero: bajo las piedras, las raíces de los árboles de verdad y, entre ellas, tirando, otra red que no lo era, y era Kino quien la sentía. Había nueve pulsos que no eran suyos, contados con una exactitud que no le pertenecía, y un décimo, el suyo, que no cuadraba con los otros. Y en el centro, frío y limpio, el mapa de Voronin: la ensenada, la línea de árboles, un hueco con forma de silla.
+
+La plaza de Cero. Vacía.
 
 Se sintió, por primera vez en su vida, leído. Algo de lo suyo llegó a los demás sin que él lo mandara, una reserva asentada sobre un fondo que no era suyo, y Haddad, sin volverse, levantó un dedo y lo movió una vez en el aire, como quien comprueba una cuerda.
 
@@ -122,13 +126,9 @@ Kiki pasó junto a él sin mirarlo y la vaina se abrió. Una pata cayó antes de
 
 Park levantó la vista. Sobre la línea del follaje, tres discos translúcidos, del tamaño de un paraguas, subían con los flecos de filamentos colgando y empezaban a bajar con una lentitud de globos.
 
-—Faroles —dijo Voronin—. No los toquéis con nada vivo.
+—Faroles —dijo Voronin—. Que nadie los toque.
 
-—No hacen nada a los que no llevan capa —dijo Haddad.
-
-—Lo sé, doctora.
-
-Park pensó en los doce. Los Wardogs de ER-2 llegaban en cuatro minutos.
+Park miró hacia donde llegaban las lanchas. ER-2 estaba a cuatro minutos.
 
 ---
 
@@ -160,7 +160,23 @@ Park llegó a ocho metros. No más.
 
 Nadie contestó. Haddad se había arrodillado junto al cuerpo y le tocaba el cuello con dos dedos. Los retiró sin decir nada.
 
-—Baja de lista —dijo Briggs, y no se supo si hablaba para ellos o para sí.
+—No tiene una herida —dijo, al fin—. Tiene la capa apagada, de dentro afuera. Como si se la hubieran cerrado.
+
+—¿Quién? —dijo Briggs.
+
+Haddad señaló el farol con la barbilla.
+
+—El informe del reconocimiento hablaba de un cabo que murió bajo uno de esos —dijo Briggs, despacio—. Lo dieron por mala suerte.
+
+Park pensó en las dos cosas a la vez: un cabo, un chico. Dos capas, el mismo roce. En el informe era una anécdota. En la playa era una regla.
+
+La palabra *capa* se había dicho en voz alta delante de todos y nadie había mirado a nadie. Park nunca la había oído así, sin rodeos, y comprendió por qué podía oírse allí: en aquella playa no quedaba nadie sin el nivel de autorización que hacía falta. Voronin, Harlan, Calloway, Solheim, Briggs. Era un secreto a voces. Todos los altos mandos habían oído algo, en un pasillo o en un informe sin firma: que a los Wardogs los usaban como conejillos de indias para una tecnología nueva, las capas, que se sacaba de los restos de las Potestades. Nadie lo había discutido en un consejo. A ninguno le gustaba, y esa noche, entre las piedras, se les notaba.
+
+—¡Los faroles se abaten antes de que bajen! —Briggs alzó la voz—. Quien tenga fuego, arriba. Los demás, adelante. Nadie se queda atrás. ¡Ya!
+
+Los doce se adelantaron al resto, con los hombros hundidos y los ojos en el cielo, y fue la primera vez en toda la noche que se les notó el miedo. Avanzaron igual.
+
+—Baja de lista —dijo Briggs, más bajo, para nadie.
 
 Park miró el farol, ahora tirado sobre las piedras como un paraguas rendido. *Lo anoto,* pensó, *y lo guardo.* Pensó en Valais. En una carpa donde ocho personas fingían dormir, y en cuántas de ellas iban a seguir en pie a las cinco y media.
 

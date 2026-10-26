@@ -180,3 +180,5 @@ Primer encuentro con **Park Ki-yeon** (hermana de Park): ella lo mide, le dice q
 - **Cap161 (POV, 13 jul):** en ER-5 (tercera oleada, "apoyo, reserva") como ojo del escuadrón (lee la coordinación de la cría hasta ~1 km con buena luz). Ve a Haddad curar con la Presión Inversa: un flujo que entra por las palmas y se abre en hilos hacia cada célula, envuelto en Manto; entiende que no se puede copiar pero sí aprender. Rechaza el tratamiento que le menciona Pruitt (bajas previstas: 40 % en la tercera oleada, dos en Valais, una con tratamiento). Piensa en Sisi sin saber que está en la isla.
 
 - **Cap162 (20:58):** Park le pregunta si ha llamado a Gary (hace diez días, hablaron de la lluvia; le preguntó si comía bien).
+
+- **Cap165 (18 jul, 02:50):** en la cubierta del transporte de ER-5, no puede leer la isla desde 22 km. Recuerda la llamada a Gary de las 21:15 ("¿Has comido?" / "Ya he comido"; el taller, la gotera; "¿Y esa beca?" / "Va bien"); piensa que podría ser la última vez que hablen y que Gary no sabe nada de lo que vive. Cuenta otra vez a los seis de Valais y no le sale el "dos" de Pruitt.

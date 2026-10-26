@@ -13,13 +13,13 @@ El cuerpo de Ronald viajó en la parte trasera del pick-up de Salcedo, envuelto 
 ---
 
 
-—La cobertura va a ser violencia de colectivos rivales, con un componente de minería ilegal para explicar el resto —dijo Ferrer, por videollamada, esa misma tarde, la voz más cansada de lo que Park la había oído en todo el arco—. Va a costarme algunos favores que no tengo, pero con el país entero mirando hacia Caracas esta semana, nadie va a hacer demasiadas preguntas sobre una finca de café en Yaracuy.
+—La cobertura va a ser violencia de colectivos rivales, con un componente de minería ilegal para explicar el resto —dijo Arismendi, por videollamada, esa misma tarde, la voz más cansada de lo que Park la había oído en todo el arco—. Va a costarme algunos favores que no tengo, pero con el país entero mirando hacia Caracas esta semana, nadie va a hacer demasiadas preguntas sobre una finca de café en Yaracuy.
 
 
 —¿Y Roa?
 
 
-—Muerto en un enfrentamiento entre facciones rivales por el control de una ruta de contrabando —dijo Ferrer—. Es mentira solo a medias, otra vez. Hubo un enfrentamiento. Hubo un muerto. El resto es cuestión de qué palabras se usan para describirlo.
+—Muerto en un enfrentamiento entre facciones rivales por el control de una ruta de contrabando —dijo Arismendi—. Es mentira solo a medias, otra vez. Hubo un enfrentamiento. Hubo un muerto. El resto es cuestión de qué palabras se usan para describirlo.
 
 
 Park se quedó callado un momento, la imagen de Contreras cayendo con el hueso cediendo todavía fresca, la de Roa en el suelo del galpón más fresca aún.
@@ -28,7 +28,7 @@ Park se quedó callado un momento, la imagen de Contreras cayendo con el hueso c
 —Quiero mandarle el informe completo —dijo, al final—. Todo. Incluido el nombre que Casimira confirmó.
 
 
-Ferrer no pareció sorprendida.
+Arismendi no pareció sorprendida.
 
 
 —Mándelo —dijo—. Yo no puedo prometerle que alguien vaya a leerlo con la atención que merece. Puedo prometerle que va a quedar archivado con la clasificación más alta que yo pueda ponerle sin recursos reales detrás para actuar sobre él. Ahora mismo, agente, eso es lo máximo que este país y esta rama pueden ofrecerle a lo que encontró ahí arriba.
@@ -37,16 +37,16 @@ Ferrer no pareció sorprendida.
 —¿Y si no es suficiente?
 
 
-—Entonces alguien, algún día, con más recursos de los que yo tengo esta semana, va a tener que abrir ese archivo por una razón que ninguno de los dos quiere imaginarse todavía —dijo Ferrer—. Yo solo puedo dejarlo escrito para que ese día, si llega, no empiece de cero.
+—Entonces alguien, algún día, con más recursos de los que yo tengo esta semana, va a tener que abrir ese archivo por una razón que ninguno de los dos quiere imaginarse todavía —dijo Arismendi—. Yo solo puedo dejarlo escrito para que ese día, si llega, no empiece de cero.
 
 
 —¿Cuántos archivos como este tiene guardados esta rama? —preguntó Park—. Cosas sin categoría, esperando a que alguien con más tiempo las lea.
 
 
-—Más de los que a usted le gustaría saber —dijo Ferrer—. Esto no es Lisboa ni Budapest, agente. Aquí no tenemos el lujo de una rama que pueda darse el gusto de investigar todo lo que encuentra. Tenemos un país entero de cosas sin categoría, y una rama del tamaño de un puñado de personas para decidir cuáles de esas cosas pueden esperar y cuáles no.
+—Más de los que a usted le gustaría saber —dijo Arismendi—. Esto no es Lisboa ni Budapest, agente. Aquí no tenemos el lujo de una rama que pueda darse el gusto de investigar todo lo que encuentra. Tenemos un país entero de cosas sin categoría, y una rama del tamaño de un puñado de personas para decidir cuáles de esas cosas pueden esperar y cuáles no.
 
 
-Escribió el informe esa misma noche, en la habitación del hotel, con más precisión de la que había usado en ningún reporte anterior — la niña, la fecha aproximada en que la habían tomado, el mecanismo del sacrificio, la advertencia de Casimira sobre lo que nacía de diez años de sangre y no tenía versión buena esperando debajo. No suavizó nada. No sabía, mientras lo escribía, si alguien más aparte de Ferrer iba a leerlo alguna vez completo, pero lo escribió como si alguien fuera a hacerlo, algún día, cuando ya fuera demasiado tarde para que la advertencia sirviera de consuelo y solo sirviera de mapa.
+Escribió el informe esa misma noche, en la habitación del hotel, con más precisión de la que había usado en ningún reporte anterior — la niña, la fecha aproximada en que la habían tomado, el mecanismo del sacrificio, la advertencia de Casimira sobre lo que nacía de diez años de sangre y no tenía versión buena esperando debajo. No suavizó nada. No sabía, mientras lo escribía, si alguien más aparte de Arismendi iba a leerlo alguna vez completo, pero lo escribió como si alguien fuera a hacerlo, algún día, cuando ya fuera demasiado tarde para que la advertencia sirviera de consuelo y solo sirviera de mapa.
 
 
 ---
@@ -139,7 +139,7 @@ Park no supo qué contestar durante un rato largo. Al final escribió solo tres 
 Cartwright llamó dos días después, la voz con la clase de satisfacción contenida que solo se permitía cuando algo había salido mejor de lo que sus propios números predecían.
 
 
-—Misión exitosa, agente —dijo, sin preámbulo—. Identificó el fenómeno, lo clasificó, y contuvo lo que había que contener exactamente en la ventana en que había que contenerlo. La operación de Washington salió limpia en parte porque usted se aseguró de que nada en esa montaña la complicara esa madrugada. Eso no va a aparecer en ningún reporte oficial, pero yo lo sé, y ahora Ferrer también.
+—Misión exitosa, agente —dijo, sin preámbulo—. Identificó el fenómeno, lo clasificó, y contuvo lo que había que contener exactamente en la ventana en que había que contenerlo. La operación de Washington salió limpia en parte porque usted se aseguró de que nada en esa montaña la complicara esa madrugada. Eso no va a aparecer en ningún reporte oficial, pero yo lo sé, y ahora Arismendi también.
 
 
 —No es una victoria, señor —dijo Park—. Es una cosa más grande y más peligrosa suelta en un bosque, y un informe archivado en un servidor que nadie con autoridad real va a abrir esta semana, ni la que viene.
@@ -160,7 +160,7 @@ Cartwright se quedó callado un momento, el tipo de silencio que Park había apr
 —¿Y la niña?
 
 
-—Sigue siendo su informe, y va a seguir siendo mi problema el tiempo que yo siga en este puesto —dijo Cartwright—. No es un no, agente. Es un todavía no. Ahora mismo, lo más cerca que puedo ponerlo de Sorte sin desobedecer directamente a Ferrer es Caracas. Tómelo o no lo tome.
+—Sigue siendo su informe, y va a seguir siendo mi problema el tiempo que yo siga en este puesto —dijo Cartwright—. No es un no, agente. Es un todavía no. Ahora mismo, lo más cerca que puedo ponerlo de Sorte sin desobedecer directamente a Arismendi es Caracas. Tómelo o no lo tome.
 
 
 Park lo tomó.
@@ -184,7 +184,7 @@ Park nunca llegó a saber si esa niña seguía en la montaña, si crecería, si 
 El aeropuerto de Maiquetía, días después, no se parecía en nada al resto del país que Park había recorrido — filas ordenadas, luces que no se apagaban, una calma artificial que solo existía porque ahí el mundo entero estaba mirando. Esperó su vuelo a Ginebra en una silla de plástico atornillada al suelo, la maleta entre los pies, y por primera vez desde Hartford se permitió pensar en las cinco misiones seguidas sin dividirlas por país, como si fueran, todas juntas, una sola pregunta que no había terminado de contestar.
 
 
-La llamada de Voss llegó nueve días después de la de Cartwright, mientras Park todavía estaba en Caracas haciendo exactamente eso, y le cerró, sin que Voss lo supiera ni lo hubiera podido saber, cualquier ventana que le quedara para volver a Yaracuy y terminar de escribir lo que el primer informe había dejado incompleto. Para entonces, Ferrer ya había archivado todo lo que Park le había mandado bajo la clasificación más alta que su rama podía ofrecer sin recursos reales detrás — un expediente esperando, en algún servidor de AMAT, a que alguien con más autoridad y más urgencia que cualquiera de los dos decidiera, algún día, que valía la pena abrirlo.
+La llamada de Voss llegó nueve días después de la de Cartwright, mientras Park todavía estaba en Caracas haciendo exactamente eso, y le cerró, sin que Voss lo supiera ni lo hubiera podido saber, cualquier ventana que le quedara para volver a Yaracuy y terminar de escribir lo que el primer informe había dejado incompleto. Para entonces, Arismendi ya había archivado todo lo que Park le había mandado bajo la clasificación más alta que su rama podía ofrecer sin recursos reales detrás — un expediente esperando, en algún servidor de AMAT, a que alguien con más autoridad y más urgencia que cualquiera de los dos decidiera, algún día, que valía la pena abrirlo.
 
 
 En Hartford había aprendido que la fuerza servía para saber cuándo el protocolo estaba equivocado y actuar de todas formas. En Seúl, que servía para ganar incluso con alguien mejor que él mirando. En Lisboa, que servía para hacer lo correcto cuando nadie más lo veía. En Budapest, que servía para quedarse de pie después de cruzar una línea que no había forma de volver a cruzar hacia atrás. Cuatro respuestas, cada una verdadera a su manera, y ninguna de las cuatro le había servido de nada frente a una fila de gente esperando su turno para llenar un cubo de agua, o frente a una muchacha de vestido descolorido a la que ningún golpe suyo, por preciso que fuera, le iba a cambiar la vida.
@@ -198,7 +198,7 @@ Llamaron su vuelo. Park se levantó, cargó la maleta al hombro con más cuidado
 
 El teléfono le vibró en el bolsillo justo cuando entregaba el pasaporte en la puerta de embarque. Por costumbre, más que por urgencia, lo revisó antes de guardarlo para las próximas ocho horas.
 
-No era Ferrer, ni Cartwright, ni ningún canal de la misión que acababa de cerrar. Era el sistema de solicitudes de AMAT-EU, el mismo que llevaba cinco misiones sin decirle nada más que *pendiente* — las tres solicitudes que había dejado presentadas antes de Hartford, sobre las cuarenta y tres páginas de 1952 clasificadas bajo Ginebra, y que había dejado de mirar en algún punto entre Lisboa y Budapest. Las tres seguían ahí, en la misma pantalla, con el mismo estado de siempre.
+No era Arismendi, ni Cartwright, ni ningún canal de la misión que acababa de cerrar. Era el sistema de solicitudes de AMAT-EU, el mismo que llevaba cinco misiones sin decirle nada más que *pendiente* — las tres solicitudes que había dejado presentadas antes de Hartford, sobre las cuarenta y tres páginas de 1952 clasificadas bajo Ginebra, y que había dejado de mirar en algún punto entre Lisboa y Budapest. Las tres seguían ahí, en la misma pantalla, con el mismo estado de siempre.
 
 Salvo una.
 

@@ -46,3 +46,5 @@ Fuerza de asalto principal de AMAT, inspirada en la Delta Force (SFOD-D): pocos 
 - **Cap161:** Kiki se despide de Valais (a Riku le pone una mano en la cabeza, "Cuida de ellos"; a Oliver: "Úsala poco" por el Ancla copiada, y "dile a mi hermano que cojea mejor"). Haddad cura a Sabine en la enfermería de la Uno con la Presión Inversa.
 
 - **Cap163 (18 jul, 02:00):** Conti inserta desde Panamá a ocho (Voronin, Harlan, Calloway, Solheim, Kino, Whitfield, Haddad, Kiki) más él. Ji-ho y Taeho esperan en el barco de mando; Park llega saltando del helicóptero. Voronin abre el Coro una vez (Park, Voronin, ocho; la plaza de Cero, vacía). La Uno sale hacia la grieta a las 02:40, dejando la playa a ER-2.
+
+- **Cap165 (03:07):** en el borde del dosel, Voronin pide una ventana a Whitfield. Calloway (que cronometra y escribe *exhumación*) y Voronin ("Blyad. Setecientos informes y ninguno decía esto") entienden que lo del este es mucho más antiguo de lo previsto; Voronin maldice a Ginebra y a Washington.

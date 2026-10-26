@@ -40,7 +40,9 @@ updated: 2026-07-08
 | `equipo-amat-pt` | Equipo AMAT-PT | Costa, Bruno, Vitória, Rui, Dona Filipa — roster completo BSA Arc 3 Cap 30 | Migrated (Cap 30) |
 | `mariana-aliados` | Aliados de Mariana | Submundo del Odem de Lisboa — Inês (fado), Zé (pescador), despertado involuntario | Planning |
 | `bathory-aliados` | Aliados de Báthory | Despertados forzados, Tamás (lugarteniente), recluta de Lisboa superviviente — activos en Arc 4 | Migrated (Cap 34) |
-| `claudia-ferrer` | Claudia Ferrer | Cabeza de AMAT-Caribe (Venezuela), superior de Park en BSA Arc 5, ya nombrada en LoD Cap 57 | Planning |
+| `claudia-arismendi` | Claudia Arismendi | Cabeza de AMAT-Caribe (Venezuela), superior de Park en BSA Arc 5, ya nombrada en LoD Cap 57 | Planning |
+| `aurelian-okonjo` | Aurelian Okonjo | Comandante General de Operaciones de AMAT (nuevo, 2026-10-23): hombre, cuarenta y pico, nigeriano, ex Rango S, fornido; aparece en Cap165 | Planning |
+| `furrer` | Konrad Furrer | Presidente del Consejo de AMAT (Ginebra); voz de notario; adversario de Voss en Libro 2; interrogó a Herzog/Kaspar en 1982 — ficha creada 2026-10-23, con una incoherencia de edad por resolver | Planning |
 | `casimira-blanco` | Casimira Blanco | Banco veterana de Sorte, guía espiritual de Park en Arc 5, percepción real del Odem sin vocabulario AMAT | Migrated (Cap 51) |
 | `dax-achterberg` | Dax Achterberg ("Milbestias") | Candidato militar San Gotardo, Domain Bestia, espejo de Oliver — Libro 2 | Planning |
 | `johanna-richter` | Johanna Richter | Candidata militar San Gotardo, sin Domain, reserva basal elevada, espejo de Pier/Asha, ancla histórica AMAT — Libro 2 | Planning |
