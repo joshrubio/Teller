@@ -4,25 +4,25 @@
 
 De la noche del estadio, Oliver conservaba fragmentos, no una historia completa.
 
-Conservaba el helicóptero — dos, en realidad, uno para los que todavía podían sentarse solos y otro, más lento, para los que no. Conservaba la sala blanca en la que los metieron nada más aterrizar en algún sitio que nadie nombró, y las manos de un médico revisándole las pupilas con una luz mientras alguien más, al fondo, leía nombres de una lista en voz baja, tachando. Conservaba haber dormido — de verdad, sin sueños que recordara — durante lo que le dijeron después que habían sido casi catorce horas.
+Conservaba el helicóptero, dos, en realidad, uno para los que todavía podían sentarse solos y otro, más lento, para los que no. Conservaba la sala blanca en la que los metieron nada más aterrizar en algún sitio que nadie nombró, y las manos de un médico revisándole las pupilas con una luz mientras alguien más, al fondo, leía nombres de una lista en voz baja, tachando. Conservaba haber dormido, de verdad, sin sueños que recordara, durante lo que le dijeron después que habían sido casi catorce horas.
 
 Conservaba, sobre todo, no haber vuelto a ver San Gotardo.
 
 Nadie lo llevó de vuelta a recoger nada. Una bolsa con sus cosas apareció ya hecha, en el pie de una cama que no era la suya, en un cuarto que tampoco lo era, y esa fue toda la explicación que recibió sobre el hecho de que el centro donde había pasado un mes entero de su vida se hubiera cerrado detrás de él sin que lo notara cerrarse.
 
-El traslado en sí lo recordaba mejor que el resto, porque para entonces ya estaba despierto para prestarle atención: un furgón sin ventanas hasta un aeródromo pequeño, un vuelo corto, otro coche, y carreteras que bajaban de la montaña hacia algo verde y llano que ninguno de los seis reconoció. Nadie explicó el destino durante el trayecto. Alguien —Hana, por radio, la única voz institucional que quedó del otro lado de todo esto— dijo únicamente un nombre, dos veces, como si repetirlo fuera a hacerlo menos extraño la segunda vez.
+El traslado en sí lo recordaba mejor que el resto, porque para entonces ya estaba despierto para prestarle atención: un furgón sin ventanas hasta un aeródromo pequeño, un vuelo corto, otro coche, y carreteras que bajaban de la montaña hacia algo verde y llano que ninguno de los seis reconoció. Nadie explicó el destino durante el trayecto. Alguien, Hana, por radio, la única voz institucional que quedó del otro lado de todo esto, dijo únicamente un nombre, dos veces, como si repetirlo fuera a hacerlo menos extraño la segunda vez.
 
 El Quai.
 
-Oficialmente era el Centro Lemán, un instituto de investigación médica privada con placa discreta junto a la verja, del tipo que nadie mira dos veces desde la carretera. Una villa de antes de la primera guerra, muros altos, jardines que impedían ver nada desde fuera, y un muelle propio en un lago que Oliver no había visto nunca salvo en fotografías de otoños ajenos. AMAT la había comprado hacía setenta años, cuando el mercado de propiedades grandes colapsó y nadie más quería villas de ese tamaño. Servía, según lo poco que alguien se molestó en explicarles, de paso previo — el último peldaño antes de que un candidato normal, europeo, con años de entrenamiento detrás, se ganara el acceso oficial a AMAT.
+Oficialmente era el Centro Lemán, un instituto de investigación médica privada con placa discreta junto a la verja, del tipo que nadie mira dos veces desde la carretera. Una villa de antes de la primera guerra, muros altos, jardines que impedían ver nada desde fuera, y un muelle propio en un lago que Oliver no había visto nunca salvo en fotografías de otoños ajenos. AMAT la había comprado hacía setenta años, cuando el mercado de propiedades grandes colapsó y nadie más quería villas de ese tamaño. Servía, según lo poco que alguien se molestó en explicarles, de paso previo, el último peldaño antes de que un candidato normal, europeo, con años de entrenamiento detrás, se ganara el acceso oficial a AMAT.
 
-El grupo de Valais no encajaba en esa descripción y todos lo sabían desde el primer día. No llegaban como candidatos a nada. Llegaban como lo que quedaba de un centro que ya no existía, sin categoría clara en la que meterlos, y eso — más que el lago, más que los jardines sin verja — fue lo primero que Oliver entendió del lugar: aquí nadie sabía muy bien qué hacer con ellos, y esa incertidumbre, por una vez, no venía disfrazada de protocolo.
+El grupo de Valais no encajaba en esa descripción y todos lo sabían desde el primer día. No llegaban como candidatos a nada. Llegaban como lo que quedaba de un centro que ya no existía, sin categoría clara en la que meterlos, y eso, más que el lago, más que los jardines sin verja, fue lo primero que Oliver entendió del lugar: aquí nadie sabía muy bien qué hacer con ellos, y esa incertidumbre, por una vez, no venía disfrazada de protocolo.
 
 ---
 
 El Quai se vaciaba de a poco, sin anuncios.
 
-Oliver lo notó primero en el comedor. La primera mañana habían tenido que esperar turno para las mesas; a la cuarta, había sitios de sobra en todas. Los nombres desaparecían del tablón del pabellón anexo en tandas pequeñas, dos o tres por vez, con una etiqueta nueva pegada encima de la anterior — reasignado, siempre esa palabra, nunca adónde. Nadie se despedía. La gente simplemente dejaba de estar en el desayuno, y el desayuno seguía funcionando exactamente igual.
+Oliver lo notó primero en el comedor. La primera mañana habían tenido que esperar turno para las mesas; a la cuarta, había sitios de sobra en todas. Los nombres desaparecían del tablón del pabellón anexo en tandas pequeñas, dos o tres por vez, con una etiqueta nueva pegada encima de la anterior. Reasignado, siempre esa palabra, nunca adónde. Nadie se despedía. La gente simplemente dejaba de estar en el desayuno, y el desayuno seguía funcionando exactamente igual.
 
 Los seis de Valais seguían en la lista.
 
@@ -74,7 +74,7 @@ Lo dijo sin autocompasión, con la misma precisión con la que había recitado s
 
 Riku no se acercaba al agua.
 
-Oliver lo notó el segundo día y no dijo nada hasta el quinto, cuando lo encontró en la franja de hierba más alejada del lago, de pie, moviendo las manos despacio en el aire — no golpes, no exactamente. Colocaciones. Un pie que plantaba y volvía a levantar, y volvía a plantar.
+Oliver lo notó el segundo día y no dijo nada hasta el quinto, cuando lo encontró en la franja de hierba más alejada del lago, de pie, moviendo las manos despacio en el aire, no golpes, no exactamente. Colocaciones. Un pie que plantaba y volvía a levantar, y volvía a plantar.
 
 —El pie primero —dijo Oliver.
 
@@ -96,7 +96,7 @@ Oliver lo notó el segundo día y no dijo nada hasta el quinto, cuando lo encont
 
 Dara sí se acercaba al agua. Dara prácticamente vivía en el agua.
 
-Nadaba dos veces al día, mañana y última hora, siempre sola, siempre el mismo trayecto — del muelle a la boya de amarre y vuelta, otra vez, otra vez. Oliver la vio salir una tarde y sentarse en las tablas del muelle con las piernas colgando, chorreando, sin toalla, mirando el punto exacto del que acababa de volver.
+Nadaba dos veces al día, mañana y última hora, siempre sola, siempre el mismo trayecto, del muelle a la boya de amarre y vuelta, otra vez, otra vez. Oliver la vio salir una tarde y sentarse en las tablas del muelle con las piernas colgando, chorreando, sin toalla, mirando el punto exacto del que acababa de volver.
 
 —Doscientos cuarenta metros ida y vuelta —dijo ella, cuando notó que se sentaba—. Los he contado. Tres veces distintas, por si me equivocaba.
 
@@ -146,7 +146,7 @@ Se fue antes de que él respondiera, como hacía siempre que la conversación ha
 
 Pier pescaba.
 
-Había encontrado una caña en algún sitio — Oliver nunca supo dónde, y sospechaba que Pier tampoco iba a explicarlo — y a partir del tercer día estaba en el extremo del muelle todas las tardes, sentado en una caja de plástico volcada, con la calma de alguien que ha hecho eso mismo en otros muelles durante décadas.
+Había encontrado una caña en algún sitio, Oliver nunca supo dónde, y sospechaba que Pier tampoco iba a explicarlo, y a partir del tercer día estaba en el extremo del muelle todas las tardes, sentado en una caja de plástico volcada, con la calma de alguien que ha hecho eso mismo en otros muelles durante décadas.
 
 —No hay nada aquí —dijo Oliver, sentándose en las tablas.
 
@@ -176,11 +176,11 @@ Y volvió al agua, sin insistir, con la paciencia exacta de alguien que lleva to
 
 ---
 
-Nadie lo planeó. Fue solo que, cuando cayó la tarde y el calor por fin cedió un poco, todos terminaron en el mismo tramo de orilla sin habérselo dicho — Pier todavía con la caña, Asha con el turno de lavandería ya olvidado por una noche, Nadia sentada con las manos quietas por una vez, Riku sin fingir que no había estado entrenando, Dara con el pelo todavía húmedo del último baño.
+Nadie lo planeó. Fue solo que, cuando cayó la tarde y el calor por fin cedió un poco, todos terminaron en el mismo tramo de orilla sin habérselo dicho, Pier todavía con la caña, Asha con el turno de lavandería ya olvidado por una noche, Nadia sentada con las manos quietas por una vez, Riku sin fingir que no había estado entrenando, Dara con el pelo todavía húmedo del último baño.
 
-Se sentaron en fila, los pies descalzos metidos en el agua hasta el tobillo, tocándose de vez en cuando sin buscarlo — el hombro de Riku contra el de Nadia, el pie de Dara rozando el de Oliver cuando movía las piernas. Nadie habló de Milán. Nadie habló de lo que faltaba por saber. Asha contó algo sobre una obra en la que había trabajado su padre, un edificio que se cayó dos veces antes de aprender a quedarse en pie, y por primera vez en días alguien se rió de verdad, sin la cautela con la que llevaban riéndose desde el estadio.
+Se sentaron en fila, los pies descalzos metidos en el agua hasta el tobillo, tocándose de vez en cuando sin buscarlo, el hombro de Riku contra el de Nadia, el pie de Dara rozando el de Oliver cuando movía las piernas. Nadie habló de Milán. Nadie habló de lo que faltaba por saber. Asha contó algo sobre una obra en la que había trabajado su padre, un edificio que se cayó dos veces antes de aprender a quedarse en pie, y por primera vez en días alguien se rió de verdad, sin la cautela con la que llevaban riéndose desde el estadio.
 
-Fue Pier quien lo notó primero por el sonido — un motor distinto al de las lanchas del pueblo, más constante, viniendo desde el cielo y no desde el agua — pero fue Oliver quien, sin pensarlo, sin decidirlo del todo, dejó que el Registro se abriera un segundo antes de que nadie más entendiera qué estaba pasando.
+Fue Pier quien lo notó primero por el sonido, un motor distinto al de las lanchas del pueblo, más constante, viniendo desde el cielo y no desde el agua, pero fue Oliver quien, sin pensarlo, sin decidirlo del todo, dejó que el Registro se abriera un segundo antes de que nadie más entendiera qué estaba pasando.
 
 Un helicóptero bajaba hacia el pequeño aeródromo del jardín norte, apenas una pista de tierra compactada y una manga de viento que Oliver no había visto usarse en los diez días que llevaban ahí.
 
@@ -188,11 +188,11 @@ Un helicóptero bajaba hacia el pequeño aeródromo del jardín norte, apenas un
 
 Nadie contestó, pero nadie se movió tampoco a esconderse. Se quedaron mirando, los seis, con el agua todavía en los tobillos, mientras las aspas iban perdiendo velocidad y las dos siluetas del interior se recortaban contra la última luz.
 
-Oliver las reconoció antes de que aterrizaran del todo — la firma no engañaba, ni siquiera a esta distancia. Voss. Maren.
+Oliver las reconoció antes de que aterrizaran del todo, la firma no engañaba, ni siquiera a esta distancia. Voss. Maren.
 
 —Es Voss —dijo, y algo en su propia voz lo sorprendió: alivio, puro y sin filtro, el mismo que sintió correr por el resto del grupo casi al mismo tiempo, como si el simple hecho de que alguien conocido hubiera venido a buscarlos fuera ya, de por sí, una respuesta.
 
-Se pusieron de pie. Alguien —Dara— dio un par de pasos hacia el aeródromo antes de que el resto la siguiera, todos con la misma prisa contenida de quien lleva diez días esperando que algo, cualquier cosa, viniera a decirles qué eran ahora.
+Se pusieron de pie. Alguien, Dara, dio un par de pasos hacia el aeródromo antes de que el resto la siguiera, todos con la misma prisa contenida de quien lleva diez días esperando que algo, cualquier cosa, viniera a decirles qué eran ahora.
 
 Las puertas se abrieron. Maren bajó primero, agachando la cabeza bajo las aspas todavía en movimiento.
 
@@ -202,4 +202,4 @@ Oliver tardó un momento en encontrarle la cara en la penumbra, y cuando la enco
 
 No era la cara de alguien que traía buenas noticias.
 
-Era sombría, cerrada, con algo debajo que Oliver no le había visto nunca del todo — no cansancio, no preocupación. Algo más parecido al enojo, contenido con la misma disciplina con la que Voss contenía todo lo demás, y que por eso mismo resultaba más visible que si lo hubiera dejado salir.
+Era sombría, cerrada, con algo debajo que Oliver no le había visto nunca del todo, no cansancio, no preocupación. Algo más parecido al enojo, contenido con la misma disciplina con la que Voss contenía todo lo demás, y que por eso mismo resultaba más visible que si lo hubiera dejado salir.

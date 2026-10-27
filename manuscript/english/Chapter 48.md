@@ -4,7 +4,7 @@ Voss had been in the administrative wing hallway for twenty minutes when Strauss
 
 "Eleven weeks," Strauss said, in the tone of someone translating numbers into budget. "And we're still in the evaluation phase."
 
-"Eleven weeks is nothing." Voss didn't turn from the window. The window looked out on the east courtyard — an oblique angle, not direct, the kind of sightline that wasn't visible from the courtyard itself. "The first case took nineteen months to produce any useful data at all. And died during evaluation."
+"Eleven weeks is nothing." Voss didn't turn from the window. The window looked out on the east courtyard, an oblique angle, not direct, the kind of sightline that wasn't visible from the courtyard itself. "The first case took nineteen months to produce any useful data at all. And died during evaluation."
 
 "The first one was seventy years ago. Protocols have changed."
 
@@ -44,17 +44,17 @@ Oliver looked up.
 
 "She asked to be present." Maren looked at him with the expression of someone who has an opinion on that and has decided it isn't the relevant one. "You decide if you're okay with it."
 
-Oliver thought about the conversation in the library two days earlier. *Two simultaneous readings. Takes a while.* Asha hadn't asked to be there to help — she'd asked to be there to see if what she'd told him had done any good.
+Oliver thought about the conversation in the library two days earlier. *Two simultaneous readings. Takes a while.* Asha hadn't asked to be there to help, she'd asked to be there to see if what she'd told him had done any good.
 
 "I'm okay with it," he said.
 
 ---
 
-The administrative wing hallway was silent except for the wind against the windows — that specific sound of the Alps in November that made stone buildings sound more solid than the wind around them.
+The administrative wing hallway was silent except for the wind against the windows, that specific sound of the Alps in November that made stone buildings sound more solid than the wind around them.
 
 Strauss got up and stood beside Voss at the window.
 
-Below, in the east courtyard, Riku stood in the center. Oliver arrived two minutes later and took position two and a half meters away. Pier came in through the side door and settled on the north bench with the ease of someone who's been in a place long enough to know their spot in it. Asha stayed by the far wall — not on a bench, standing, arms crossed.
+Below, in the east courtyard, Riku stood in the center. Oliver arrived two minutes later and took position two and a half meters away. Pier came in through the side door and settled on the north bench with the ease of someone who's been in a place long enough to know their spot in it. Asha stayed by the far wall, not on a bench, standing, arms crossed.
 
 "The Tension girl," Strauss said.
 
@@ -74,19 +74,19 @@ Strauss looked at her.
 
 Riku activated the Domain slowly.
 
-Oliver watched it grow — the oscillation climbing from one meter to a meter and a half, the base rhythm giving way to the active one, the node network appearing within the radius. And this time he didn't just watch it.
+Oliver watched it grow, the oscillation climbing from one meter to a meter and a half, the base rhythm giving way to the active one, the node network appearing within the radius. And this time he didn't just watch it.
 
 He looked for the internal structure.
 
-The charge sequence from the origin point — always the left thumb — before spreading outward. The difference between the left radius and the right, not just in distance but in density. The rhythm of the nodes: how much time between one propagation and the next. It was more information than he could hold all at once, and Oliver knew it and did it anyway — not holding everything, but choosing what to read first. The charge sequence. The main node's cadence. The angle of propagation from the origin, forward.
+The charge sequence from the origin point, always the left thumb, before spreading outward. The difference between the left radius and the right, not just in distance but in density. The rhythm of the nodes: how much time between one propagation and the next. It was more information than he could hold all at once, and Oliver knew it and did it anyway, not holding everything, but choosing what to read first. The charge sequence. The main node's cadence. The angle of propagation from the origin, forward.
 
 From the far wall, Asha watched without moving.
 
-Oliver didn't look at her directly, but her Domain's signature was recognizable at the edge of his attention — condensed, organized, the specific posture of someone reading a process while watching it happen. They didn't interfere with each other. Two signals, different frequencies.
+Oliver didn't look at her directly, but her Domain's signature was recognizable at the edge of his attention, condensed, organized, the specific posture of someone reading a process while watching it happen. They didn't interfere with each other. Two signals, different frequencies.
 
 The pressure hit his eyes first.
 
-Not pain — the pressure of sustained forced vision, deeper than the eye muscle itself, as if what was straining was whatever fed the eye. The Registry accumulating structure with intent instead of accumulating it through passive saturation. Oliver kept reading. The node's cadence. The cleanest point in the left radius, where Riku had shown he could modulate. The exact way the Odem organized itself before propagating.
+Not pain, the pressure of sustained forced vision, deeper than the eye muscle itself, as if what was straining was whatever fed the eye. The Registry accumulating structure with intent instead of accumulating it through passive saturation. Oliver kept reading. The node's cadence. The cleanest point in the left radius, where Riku had shown he could modulate. The exact way the Odem organized itself before propagating.
 
 The pressure spread to his temples.
 
@@ -94,29 +94,29 @@ The pressure spread to his temples.
 
 Riku scaled the Domain back. But Oliver didn't stop.
 
-He had the structure. Not all of it — not the full range, not the fine asymmetry between the two radii, not the years Riku had spent living with the weight of holding it. But he had the main node's cadence. The propagation angle. The charge sequence from the left origin point, outward.
+He had the structure. Not all of it, not the full range, not the fine asymmetry between the two radii, not the years Riku had spent living with the weight of holding it. But he had the main node's cadence. The propagation angle. The charge sequence from the left origin point, outward.
 
 It was enough to try.
 
 "Watch the bench," he told Riku.
 
-Riku looked at the north bench. Pier didn't move. Asha stayed by the far wall, and something in her posture reorganized — the attention of someone who knows what comes next is different from what came before.
+Riku looked at the north bench. Pier didn't move. Asha stayed by the far wall, and something in her posture reorganized, the attention of someone who knows what comes next is different from what came before.
 
 Oliver did both readings at once.
 
-It wasn't clean — the two layers of information overlapped, the metal's physical resistance and the copied Domain's structure pulling his attention in different directions. But they were there. Separable. Enough for what he was about to do.
+It wasn't clean, the two layers of information overlapped, the metal's physical resistance and the copied Domain's structure pulling his attention in different directions. But they were there. Separable. Enough for what he was about to do.
 
-He charged the propagation sequence. Aimed it at the whole bench, not just the bolts — the entire metal structure, the mounting frames, the corner pieces. And then he did something he hadn't exactly planned but that the Domain's structure, once active, seemed to allow: he squeezed it. Compressed it into a smaller radius before letting go.
+He charged the propagation sequence. Aimed it at the whole bench, not just the bolts, the entire metal structure, the mounting frames, the corner pieces. And then he did something he hadn't exactly planned but that the Domain's structure, once active, seemed to allow: he squeezed it. Compressed it into a smaller radius before letting go.
 
 The north bench didn't vibrate.
 
 It rang.
 
-A clean, sustained sound, like metal struck with precision, except no one had struck it. The bolts threw off thin arcs — blue-white, brief, the kind of discharge that happens between conductors when the field between them exceeds the air's threshold. The stone above the frame didn't move. The metal underneath sang for three seconds at the exact frequency of the cadence Oliver had read, and then Oliver let go of the compression and the signal expanded.
+A clean, sustained sound, like metal struck with precision, except no one had struck it. The bolts threw off thin arcs, blue-white, brief, the kind of discharge that happens between conductors when the field between them exceeds the air's threshold. The stone above the frame didn't move. The metal underneath sang for three seconds at the exact frequency of the cadence Oliver had read, and then Oliver let go of the compression and the signal expanded.
 
 The radius doubled.
 
-Oliver hadn't calculated that. The copied Domain, released from the compression, propagated outward with the accumulated energy — past the bench, past the courtyard, past the estimated two-meter radius Hana had marked on the diagram that morning.
+Oliver hadn't calculated that. The copied Domain, released from the compression, propagated outward with the accumulated energy, past the bench, past the courtyard, past the estimated two-meter radius Hana had marked on the diagram that morning.
 
 A sound came from the south corridor.
 
@@ -138,7 +138,7 @@ Strauss had stopped taking notes.
 
 "Can he control it?"
 
-Voss didn't answer right away. She was watching the courtyard, where Riku stood with an expression Voss recognized — not fear, not awe. The expression of someone who's just received information about themselves from a source they weren't expecting.
+Voss didn't answer right away. She was watching the courtyard, where Riku stood with an expression Voss recognized, not fear, not awe. The expression of someone who's just received information about themselves from a source they weren't expecting.
 
 "Not yet," Voss said. "But he did it."
 
@@ -168,7 +168,7 @@ It wasn't part of the protocol. Oliver knew it the second he saw her, because Ma
 
 She was carrying the folder. The metal clip was bent at an angle that wasn't the original one.
 
-She stopped in the center of the courtyard and looked first at the north bench — the bolts, the marks the arcs had left in the metal, the stone above it that hadn't changed — and then at Oliver.
+She stopped in the center of the courtyard and looked first at the north bench, the bolts, the marks the arcs had left in the metal, the stone above it that hadn't changed, and then at Oliver.
 
 "Are you okay?" she asked.
 
@@ -180,7 +180,7 @@ Maren wrote something down in the folder. Then she looked at Riku.
 
 "Yes," Riku said. And then, because the question deserved more than that: "It was different from the last session. Not just resonance. What he did with the field..." He stopped, reaching for precision. "He compressed it before releasing it. That's not something I do. I can't do that yet."
 
-Maren wrote more. Oliver watched her write without knowing yet whether what she was documenting was good news or not — and with eleven weeks behind him, enough to know that at the Center, the two categories weren't always what they looked like.
+Maren wrote more. Oliver watched her write without knowing yet whether what she was documenting was good news or not, and with eleven weeks behind him, enough to know that at the Center, the two categories weren't always what they looked like.
 
 "The radius exceeded the estimate," Oliver said.
 
@@ -188,7 +188,7 @@ Maren wrote more. Oliver watched her write without knowing yet whether what she 
 
 "I'm sorry."
 
-"Don't be." Maren closed the folder and looked at him then, with the expression she reserved for when what she was about to say wasn't part of the usual protocol. "What just happened in this courtyard isn't in any of the three previous files. What you did with the modulation — the compression-and-release cycle — isn't a documented first-copy capability. It's a documented fourth- or fifth-month sustained-practice capability."
+"Don't be." Maren closed the folder and looked at him then, with the expression she reserved for when what she was about to say wasn't part of the usual protocol. "What just happened in this courtyard isn't in any of the three previous files. What you did with the modulation, the compression-and-release cycle, isn't a documented first-copy capability. It's a documented fourth- or fifth-month sustained-practice capability."
 
 Oliver processed that.
 
@@ -218,7 +218,7 @@ Maren looked up.
 
 Maren wrote it down.
 
-The courtyard went still. Oliver was standing — he hadn't needed to sit this time, the cost had been high but manageable — with the residual pressure in his temples and the north bench still carrying the arc marks in its metal. Riku stood beside him. Asha stayed by the wall. Pier hadn't moved from the bench.
+The courtyard went still. Oliver was standing, he hadn't needed to sit this time, the cost had been high but manageable, with the residual pressure in his temples and the north bench still carrying the arc marks in its metal. Riku stood beside him. Asha stayed by the wall. Pier hadn't moved from the bench.
 
 Five people in the east courtyard, in silence, with the Alpine cold doing what it always did.
 

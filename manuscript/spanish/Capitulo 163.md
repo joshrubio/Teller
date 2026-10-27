@@ -1,6 +1,6 @@
 Capítulo 163 — La playa
 
-*18 de julio, 01:52 — a bordo de un helicóptero, doce millas al sur de la Isla del Coco*
+*18 de julio, 01:52, a bordo de un helicóptero, doce millas al sur de la Isla del Coco*
 
 El barco de mando tampoco llevaba luces.
 

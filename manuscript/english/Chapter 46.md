@@ -1,18 +1,18 @@
 # Chapter 46 — Closing
 
-The first Hungarian police cars arrived almost twenty minutes after it was all over — too late to have helped, in time to start deciding what story would get told about that street. An AMAT-HU agent Park had never seen before, wearing a vest with no visible markings, was already talking to the first one by the time Park still had Katalin sitting against the wall of the wrecked shop.
+The first Hungarian police cars arrived almost twenty minutes after it was all over, too late to have helped, in time to start deciding what story would get told about that street. An AMAT-HU agent Park had never seen before, wearing a vest with no visible markings, was already talking to the first one by the time Park still had Katalin sitting against the wall of the wrecked shop.
 
 Two technicians in unmarked coveralls lifted Zoltán's body not long after, with more care than Park expected from people whose job was, basically, making sure a corpse stopped being an administrative problem. Katalin didn't look away while they did it. Mariana did, once, and looked back almost immediately, as if looking away felt like a worse betrayal than watching.
 
 Park stood with his hands open at his sides through all of it, not knowing what to do with them now that there was nothing left to absorb or release. At some point he noticed dried blood between the fingers of his right hand, and that he couldn't say for certain whether it was his.
 
-Ilona arrived on foot, not by car — the bridge traffic had been closed in both directions for a while now. He recognized her from the office in Budapest, that first afternoon, the three phones on the desk and the exact fifteen minutes she'd given him then. Tonight she wasn't wearing a watch to measure anything.
+Ilona arrived on foot, not by car, the bridge traffic had been closed in both directions for a while now. He recognized her from the office in Budapest, that first afternoon, the three phones on the desk and the exact fifteen minutes she'd given him then. Tonight she wasn't wearing a watch to measure anything.
 
 "Gas leak," she said, no preamble, looking at the crater, the wrecked cars, the blown-out storefront. "Old, unregistered, in a zone that's been waiting years for pipe renovation. It's going to cost us a big favor to make sure no one asks why a gas leak split a riveted steel bridge in half, but it's the story we've got, and it's better than none."
 
 "And Zoltán?" Park asked. "What story goes on him?"
 
-"None, if we can help it," Ilona said. "There's no body in any report. Katalin's taking him tonight, to the family property — he's her blood, she has the right before anyone else, and she's also the only one of us with a place to bury him where no one with the authority to ask will find out there was a body to take. Zoltán Báthory stays officially missing, for anyone who isn't the four of us."
+"None, if we can help it," Ilona said. "There's no body in any report. Katalin's taking him tonight, to the family property, he's her blood, she has the right before anyone else, and she's also the only one of us with a place to bury him where no one with the authority to ask will find out there was a body to take. Zoltán Báthory stays officially missing, for anyone who isn't the four of us."
 
 "And the people who saw it up close?" Park asked.
 
@@ -26,7 +26,7 @@ Ilona looked at him for a moment before answering, as if deciding how much it wa
 
 "And are you all right with keeping on looking the other way, now that you know what can happen?"
 
-"I don't know," Ilona said, and for the first time all night didn't sound like someone with the answer already prepared. "I know the alternative — AMAT managing every Ruler residue in Europe directly — is worse, more expensive, and probably impossible. Sometimes the question isn't whether looking the other way is right. It's how bad it can get before it's worth trying some other way."
+"I don't know," Ilona said, and for the first time all night didn't sound like someone with the answer already prepared. "I know the alternative, AMAT managing every Ruler residue in Europe directly, is worse, more expensive, and probably impossible. Sometimes the question isn't whether looking the other way is right. It's how bad it can get before it's worth trying some other way."
 
 ---
 
@@ -56,7 +56,7 @@ Cartwright took longer to answer than a "no" would have needed.
 
 "I knew I was evaluating something in you I still haven't fully told you about," he said. "I didn't know it was going to cost what it cost. If I ever find out I did know, I'll tell you to your face, not over the phone. That's the only thing I can promise you tonight."
 
-It wasn't an answer that settled anything. Park kept it anyway, in the same place he'd been keeping the question since Hartford — not closed, just filed a little more neatly than before.
+It wasn't an answer that settled anything. Park kept it anyway, in the same place he'd been keeping the question since Hartford, not closed, just filed a little more neatly than before.
 
 ---
 
@@ -64,7 +64,7 @@ Katalin could stand on her own by the time Park walked over, her right arm still
 
 "How are you?" Park asked, not sure if the question was about the shoulder or the other thing.
 
-"I don't know yet," she said. "I know I'm not going to stop seeing that arm disappear every time I close my eyes for a while. My great-aunt says the role came to her the same way — not with a prepared ritual, with a real scare that never quite went away."
+"I don't know yet," she said. "I know I'm not going to stop seeing that arm disappear every time I close my eyes for a while. My great-aunt says the role came to her the same way, not with a prepared ritual, with a real scare that never quite went away."
 
 "Does that mean it's you now?"
 
@@ -84,11 +84,11 @@ Park didn't know what to say to that that wouldn't sound hollow. He stood beside
 
 "Four years looking for someone who'd believe me without asking for proof first," she said. "I wasn't going to waste the first person who did."
 
-She left not long after, in an unmarked AMAT-HU car, following the one carrying Zoltán's body toward the family property near Miskolc. There was no long goodbye — a short hug with Park, awkward with her shoulder still immobile, and a promise to write once she knew exactly what she was going to tell her family.
+She left not long after, in an unmarked AMAT-HU car, following the one carrying Zoltán's body toward the family property near Miskolc. There was no long goodbye, a short hug with Park, awkward with her shoulder still immobile, and a promise to write once she knew exactly what she was going to tell her family.
 
 ---
 
-Mariana said her goodbye before the sky had fully cleared, the sun still below the horizon but the sky already losing the night's full black. She didn't go with Katalin when they took the body — she stayed behind, watching the car pull away, without asking to go with it.
+Mariana said her goodbye before the sky had fully cleared, the sun still below the horizon but the sky already losing the night's full black. She didn't go with Katalin when they took the body, she stayed behind, watching the car pull away, without asking to go with it.
 
 "It's not my place," she said, almost answering a question Park hadn't gotten around to asking. "Burying him belongs to his blood, not to me. I already had my goodbye, there, on the ground, with him still looking at me. I don't need another one in a cemetery full of people who don't even know my name."
 
@@ -102,7 +102,7 @@ Before reaching the car she turned once, toward Park.
 
 "What Ferreira never fully told you in Lisbon," she said, "and neither did I, is that none of us knows yet how to do this well. Holding on to something dangerous without becoming dangerous yourself by holding it. Zoltán failed that test. I still don't know if I'll pass it. Be careful of people who sound very sure they know."
 
-Park watched her go, thinking that was maybe the only honest thing anyone had said all night — that she didn't know yet, what she was turning into.
+Park watched her go, thinking that was maybe the only honest thing anyone had said all night, that she didn't know yet, what she was turning into.
 
 ---
 
@@ -120,7 +120,7 @@ Cartwright found Park alone, sitting on the edge of what was left of the sidewal
 
 "I aimed for the Shackle," Park said, without Cartwright having asked him anything. "Not him. I knew exactly where I was aiming."
 
-"I know," Cartwright said. "And I also know that's not going to help you much at three in the morning, turning over the one part of this you actually decided yourself. I'm not going to tell you it wasn't your fault. That'd be a lie, and you'd know it. I'll tell you that aiming true, in the middle of all this, was the closest to right anyone did all night — and both of those things can be true at the same time, no matter how little it helps you sleep."
+"I know," Cartwright said. "And I also know that's not going to help you much at three in the morning, turning over the one part of this you actually decided yourself. I'm not going to tell you it wasn't your fault. That'd be a lie, and you'd know it. I'll tell you that aiming true, in the middle of all this, was the closest to right anyone did all night, and both of those things can be true at the same time, no matter how little it helps you sleep."
 
 "So what now?" Park asked.
 
@@ -130,14 +130,14 @@ Cartwright found Park alone, sitting on the edge of what was left of the sidewal
 
 "I don't know," Cartwright said, with an honesty Park hadn't heard from him in all the time he'd known him. "I hope not. But every time I've hoped that, agent, I've been wrong."
 
-Park didn't answer right away. He thought about Lisbon, about the cost of that city set against what this one had just cost. He thought about Ji-ho, about the calm with which he'd dispatched the imugi without it seeming to cost him anything — and about how he himself, tonight, for the first time, had felt that same calm for one whole instant, before the cost caught up with him anyway.
+Park didn't answer right away. He thought about Lisbon, about the cost of that city set against what this one had just cost. He thought about Ji-ho, about the calm with which he'd dispatched the imugi without it seeming to cost him anything, and about how he himself, tonight, for the first time, had felt that same calm for one whole instant, before the cost caught up with him anyway.
 
-He checked his phone without quite meaning to. The three access requests to the EU-GENEVA archives sat exactly where he'd left them before Hartford even happened — pending, no response, as if the whole system had decided that question could wait indefinitely.
+He checked his phone without quite meaning to. The three access requests to the EU-GENEVA archives sat exactly where he'd left them before Hartford even happened, pending, no response, as if the whole system had decided that question could wait indefinitely.
 
 He put the phone away. It still wasn't his to decide when.
 
 ---
 
-The bridge, behind him, was starting to fill with the flat light of morning — engineers in hard hats, yellow tape, Budapest traffic slowly rerouting to other Danube crossings, as if the river had spent its whole life used to people finding another way across when one broke.
+The bridge, behind him, was starting to fill with the flat light of morning, engineers in hard hats, yellow tape, Budapest traffic slowly rerouting to other Danube crossings, as if the river had spent its whole life used to people finding another way across when one broke.
 
-Park thought that maybe that was, in the end, the only honest answer to the question Budapest had been asking him all night — what stays standing once you can't go back. Not an untouched city. Not a clean victory. Just the people who decide, regardless, to keep crossing.
+Park thought that maybe that was, in the end, the only honest answer to the question Budapest had been asking him all night, what stays standing once you can't go back. Not an untouched city. Not a clean victory. Just the people who decide, regardless, to keep crossing.

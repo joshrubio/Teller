@@ -7,7 +7,7 @@ El acceso llegó a las nueve de la mañana, sin aviso previo, con la clase de se
 AMAT-HU había abierto su archivo.
 
 
-Filipa lo tenía ya proyectado en la pantalla de la sala de reuniones cuando Park entró, Ferreira detrás de él, Salgado cerrando la puerta con el cuidado de quien no quiere que el sonido interrumpa lo que está a punto de decirse. Costa ya estaba sentada, uniforme impecable como siempre, un cuaderno abierto delante de ella. Vitória y Rui ocupaban las dos sillas del fondo — Rui con los brazos cruzados, Vitória inclinada hacia adelante, los codos en las rodillas, la clase de postura que solo tiene la gente que sabe que van a ser ellos quienes entren primero cuando esto deje de ser una diapositiva.
+Filipa lo tenía ya proyectado en la pantalla de la sala de reuniones cuando Park entró, Ferreira detrás de él, Salgado cerrando la puerta con el cuidado de quien no quiere que el sonido interrumpa lo que está a punto de decirse. Costa ya estaba sentada, uniforme impecable como siempre, un cuaderno abierto delante de ella. Vitória y Rui ocupaban las dos sillas del fondo, Rui con los brazos cruzados, Vitória inclinada hacia adelante, los codos en las rodillas, la clase de postura que solo tiene la gente que sabe que van a ser ellos quienes entren primero cuando esto deje de ser una diapositiva.
 
 
 —¿Nos vamos a enterar de una vez de quién es? —preguntó Vitória, antes de que Ferreira terminara de sentarse.
@@ -43,7 +43,7 @@ Park se quedó mirando las dos palabras un momento más de lo necesario. Un nomb
 —Empiece por el principio —dijo Ferreira, ya sentado, los brazos cruzados—. Todo.
 
 
-—Fue agente de AMAT-HU —dijo Filipa—. Formado dentro del sistema, no un guardián que la organización descubrió tarde — alguien que conocía los protocolos desde dentro antes de decidir que no le servían. Eso explica bastante de cómo se ha movido estos años sin que ninguna rama lo atrapara: sabe exactamente qué clasificación evitar, qué incidente mantener por debajo del umbral que dispara una investigación conjunta.
+—Fue agente de AMAT-HU —dijo Filipa—. Formado dentro del sistema, no un guardián que la organización descubrió tarde, alguien que conocía los protocolos desde dentro antes de decidir que no le servían. Eso explica bastante de cómo se ha movido estos años sin que ninguna rama lo atrapara: sabe exactamente qué clasificación evitar, qué incidente mantener por debajo del umbral que dispara una investigación conjunta.
 
 
 —Entonces sabe cómo pensamos —dijo Rui, la primera cosa que decía desde que Park había entrado.
@@ -55,7 +55,7 @@ Park se quedó mirando las dos palabras un momento más de lo necesario. Un nomb
 —¿Por qué se fue? —preguntó Park.
 
 
-—Los archivos no lo dicen con esas palabras, pero la lectura entre líneas es clara. —Filipa avanzó otra diapositiva: un árbol genealógico, una rama entera marcada en un tono distinto—. Su propia familia lo rechazó primero. El linaje Báthory tradicional gestiona su Dominio con un método mucho más parecido al de los Vasconcelos de lo que él admitiría — paciente, ritual, contenido. Cuando propuso acelerar el proceso a escala, industrializarlo, la mayoría de su propia sangre le dijo que no. Algunos, según esto, activamente lo evitan ahora. Lo consideran una vergüenza.
+—Los archivos no lo dicen con esas palabras, pero la lectura entre líneas es clara. —Filipa avanzó otra diapositiva: un árbol genealógico, una rama entera marcada en un tono distinto—. Su propia familia lo rechazó primero. El linaje Báthory tradicional gestiona su Dominio con un método mucho más parecido al de los Vasconcelos de lo que él admitiría, paciente, ritual, contenido. Cuando propuso acelerar el proceso a escala, industrializarlo, la mayoría de su propia sangre le dijo que no. Algunos, según esto, activamente lo evitan ahora. Lo consideran una vergüenza.
 
 
 Salgado, que hasta ese momento no había dicho nada, se inclinó hacia adelante.
@@ -97,7 +97,7 @@ Filipa y Ferreira se miraron un segundo, de esa forma en que dos personas decide
 —Lo recuerdo —dijo Ferreira—. Salió en todos los periódicos de Europa esa semana.
 
 
-—Lo que no salió en ningún periódico —dijo Filipa— es que AMAT-HU registró, esa misma noche, un pico de despertares espontáneos alrededor de un punto que nadie logró aislar entonces. Tenía dieciséis años. Ni agente, ni guardián en entrenamiento — un adolescente más en medio de la multitud. Su propio Odem, apenas despertando, reaccionó sin control a la rabia de la gente a su alrededor. Nadie lo supo entonces. Ni él mismo, probablemente.
+—Lo que no salió en ningún periódico —dijo Filipa— es que AMAT-HU registró, esa misma noche, un pico de despertares espontáneos alrededor de un punto que nadie logró aislar entonces. Tenía dieciséis años. Ni agente, ni guardián en entrenamiento, un adolescente más en medio de la multitud. Su propio Odem, apenas despertando, reaccionó sin control a la rabia de la gente a su alrededor. Nadie lo supo entonces. Ni él mismo, probablemente.
 
 
 Park sintió algo asentarse, frío, en el estómago.
@@ -106,7 +106,7 @@ Park sintió algo asentarse, frío, en el estómago.
 —¿Y lo entendió después? —preguntó.
 
 
-—Años después, ya agente, encontró el expediente archivado y reconoció las coordenadas. Seguramente, aunque esto es una conjetura —Filipa asintió—. Una prueba de concepto, supongo. Mariana alimenta su Dominio con luto ritual, generación tras generación, despacio. Él descubrió, por accidente, en una plaza llena de gente furiosa, que la rabia colectiva podía hacer algo parecido más rápido. Todo lo que vino después — la ruptura con su familia, los catorce años que siguen — parte de ahí.
+—Años después, ya agente, encontró el expediente archivado y reconoció las coordenadas. Seguramente, aunque esto es una conjetura —Filipa asintió—. Una prueba de concepto, supongo. Mariana alimenta su Dominio con luto ritual, generación tras generación, despacio. Él descubrió, por accidente, en una plaza llena de gente furiosa, que la rabia colectiva podía hacer algo parecido más rápido. Todo lo que vino después, la ruptura con su familia, los catorce años que siguen, parte de ahí.
 
 
 —¿Por qué se fue de la rama? —preguntó Park.
@@ -118,7 +118,7 @@ Park sintió algo asentarse, frío, en el estómago.
 La siguiente diapositiva era un mapa de Europa con una docena de puntos marcados, fechas junto a cada uno, extendiéndose como una cicatriz irregular desde Budapest hacia el oeste y el sur.
 
 
-—Praga, 2014. Viena, 2017. Marsella, 2020. Un incidente menor en Zagreb, 2023, que casi ni consta. Cada uno clasificado por separado, por una rama distinta, sin código común entre ellos porque ninguno era lo bastante grave por sí solo para justificar una investigación conjunta. Pequeños despertares irregulares, siempre cerca de algo que dolía a esa ciudad en particular — un aniversario, un desastre, un colapso económico. Catorce años de ensayo, afinando el mismo método, ciudad por ciudad, siempre yéndose antes de que nadie acumulara suficiente para verlo entero.
+—Praga, 2014. Viena, 2017. Marsella, 2020. Un incidente menor en Zagreb, 2023, que casi ni consta. Cada uno clasificado por separado, por una rama distinta, sin código común entre ellos porque ninguno era lo bastante grave por sí solo para justificar una investigación conjunta. Pequeños despertares irregulares, siempre cerca de algo que dolía a esa ciudad en particular, un aniversario, un desastre, un colapso económico. Catorce años de ensayo, afinando el mismo método, ciudad por ciudad, siempre yéndose antes de que nadie acumulara suficiente para verlo entero.
 
 
 —Cuatro ciudades en catorce años —dijo Rui—. Eso es paciencia, no descuido.
@@ -253,19 +253,19 @@ Mariana, sola, abriéndose paso contra la corriente de la fila, la cara de algui
 Tres calles más arriba, en el mirador de Santa Catarina, Zoltán Báthory miraba la ciudad extenderse hacia el río, un punto de luces y velas subiendo como una marea lenta hacia el Carmo.
 
 
-No se había molestado en esconderse. No hacía falta — nadie mira dos veces a un hombre bien vestido apoyado en la balaustrada de un mirador, ni siquiera esta noche.
+No se había molestado en esconderse. No hacía falta, nadie mira dos veces a un hombre bien vestido apoyado en la balaustrada de un mirador, ni siquiera esta noche.
 
 
 —Nunca tuve que provocarla —dijo, sin volverse hacia los cinco que esperaban detrás de él, repartidos entre las sombras del kiosco cerrado—. En Budapest tuve que meterme en medio de una multitud furiosa y esperar a que la rabia hiciera lo que yo todavía no sabía pedirle. Aquí ni siquiera hace falta empujar. La ciudad entera se ofrece sola, cada primero de noviembre, puntual como las campanas.
 
 
-El lugarteniente húngaro, a su derecha, tenía los brazos cruzados y la cara de quien ya ha visto esto funcionar antes — no fe ciega, cálculo tranquilo, la paciencia de alguien que cobra en resultados. A su lado, dos de los reclutados de Lisboa se pasaban un cigarrillo sin fumarlo del todo, las manos un poco más inquietas de lo que sus caras querían admitir. El quinto, más joven que el resto, se había quedado un paso atrás de todos, sin mirar hacia el río de velas — miraba el suelo, los dos pies bien plantados, como quien ensaya en la cabeza un gesto que todavía no ha hecho nunca de verdad delante de nadie.
+El lugarteniente húngaro, a su derecha, tenía los brazos cruzados y la cara de quien ya ha visto esto funcionar antes. No fe ciega, cálculo tranquilo, la paciencia de alguien que cobra en resultados. A su lado, dos de los reclutados de Lisboa se pasaban un cigarrillo sin fumarlo del todo, las manos un poco más inquietas de lo que sus caras querían admitir. El quinto, más joven que el resto, se había quedado un paso atrás de todos, sin mirar hacia el río de velas. Miraba el suelo, los dos pies bien plantados, como quien ensaya en la cabeza un gesto que todavía no ha hecho nunca de verdad delante de nadie.
 
 
 —Cuando las campanas del Carmo toquen el cuarto de hora —dijo Báthory—, ya deberían estar cada uno en su punto. No hace falta gritar, no hace falta tocar a nadie. Solo sostener el borde de lo que ya está ahí y dejar que se incline hacia mí. —Se apartó por fin de la balaustrada, y por primera vez algo parecido a impaciencia le cruzó la cara, rápido, controlado—. Catorce años de ensayos pequeños para llegar a esto. No lo voy a desperdiciar por prisa.
 
 
-Antes de que el grupo se dispersara, Báthory se acercó al más joven — el único que no había dicho una palabra en toda la reunión — y le tomó la cara entre las dos manos, con una suavidad que no encajaba con nada de lo que acababa de decir. El chico no se apartó. Tal vez no supo cómo.
+Antes de que el grupo se dispersara, Báthory se acercó al más joven, el único que no había dicho una palabra en toda la reunión, y le tomó la cara entre las dos manos, con una suavidad que no encajaba con nada de lo que acababa de decir. El chico no se apartó. Tal vez no supo cómo.
 
 
 —Tú vas a ser el primero que esta ciudad sienta temblar desde 1755 —le dijo, casi con cariño, el pulgar rozándole la mejilla como haría un padre orgulloso—. Nadie más en trescientos mil personas va a saber tu nombre esta noche. Ni falta que hace. Vas a ser la primera nota, no la canción entera. —Le soltó la cara despacio, sin prisa, y sonrió de una forma que no llegó a los ojos—. Eso también es un regalo, si lo piensas bien.
@@ -274,7 +274,7 @@ Antes de que el grupo se dispersara, Báthory se acercó al más joven — el ú
 El chico no contestó. Tragó saliva, asintió una sola vez, y fue el primero en desaparecer entre las filas de velas, solo, en dirección al Carmo.
 
 
-Los otros cuatro se dispersaron sin palabras poco después, tragados uno a uno por las mismas filas silenciosas — indistinguibles, desde donde estaba Park, de cualquier otro doliente con una vela en la mano.
+Los otros cuatro se dispersaron sin palabras poco después, tragados uno a uno por las mismas filas silenciosas. Indistinguibles, desde donde estaba Park, de cualquier otro doliente con una vela en la mano.
 
 
 ---
@@ -283,25 +283,25 @@ Los otros cuatro se dispersaron sin palabras poco después, tragados uno a uno p
 La primera señal no fue un grito. Fue el suelo.
 
 
-Empezó tan leve que Park estuvo a punto de no dárselo por bueno a sus propias piernas — una vibración baja subiendo desde el empedrado, del tipo que un camión pesado dos calles más allá podría explicar. Nadie a su alrededor pareció notarlo todavía. Pero no se detuvo. Un segundo después ya no era vibración, era movimiento: el suelo bajo sus pies moviéndose de verdad, un balanceo lento de un lado a otro, y en algún punto de la ladera un cristal se rompió contra el empedrado.
+Empezó tan leve que Park estuvo a punto de no dárselo por bueno a sus propias piernas, una vibración baja subiendo desde el empedrado, del tipo que un camión pesado dos calles más allá podría explicar. Nadie a su alrededor pareció notarlo todavía. Pero no se detuvo. Un segundo después ya no era vibración, era movimiento: el suelo bajo sus pies moviéndose de verdad, un balanceo lento de un lado a otro, y en algún punto de la ladera un cristal se rompió contra el empedrado.
 
 
 —Bathory —dijo Park, más para sí mismo que para nadie, cuando el temblor llevaba ya cinco segundos y seguía subiendo en vez de bajar.
 
 
-Fue entonces cuando la gente empezó a notarlo. Una vela cayó de una mano, luego otra, luego diez a la vez, y el murmullo de la procesión se quebró en un solo sonido colectivo, a medio camino entre pregunta y pánico. Encima de ellos, un trozo de mampostería se desprendió de lo alto de una de las paredes sin techo del Carmo y cayó entre la multitud con un golpe seco que alguien gritó al ver. El temblor seguía. Diez segundos ya, más fuerte que al principio, no menos — algo que ningún terremoto real hacía, y que Park, con el estómago cayéndosele de golpe, entendió antes de terminar de sentirlo del todo: esto no se iba a apagar solo.
+Fue entonces cuando la gente empezó a notarlo. Una vela cayó de una mano, luego otra, luego diez a la vez, y el murmullo de la procesión se quebró en un solo sonido colectivo, a medio camino entre pregunta y pánico. Encima de ellos, un trozo de mampostería se desprendió de lo alto de una de las paredes sin techo del Carmo y cayó entre la multitud con un golpe seco que alguien gritó al ver. El temblor seguía. Diez segundos ya, más fuerte que al principio, no menos, algo que ningún terremoto real hacía, y que Park, con el estómago cayéndosele de golpe, entendió antes de terminar de sentirlo del todo: esto no se iba a apagar solo.
 
 
-El silencio que siguió al primer grito real fue peor que el propio temblor — un vacío repentino donde un segundo antes había mil voces superpuestas, como si alguien hubiera cortado el sonido de la ladera entera de golpe. Después, ya sin pausa, el pánico: una mujer a media cuesta cayendo de rodillas con las manos en el pecho, otra tirando de un niño hacia la escalinata, alguien más gritando que el convento se venía abajo aunque el convento llevara sin techo doscientos setenta años.
+El silencio que siguió al primer grito real fue peor que el propio temblor, un vacío repentino donde un segundo antes había mil voces superpuestas, como si alguien hubiera cortado el sonido de la ladera entera de golpe. Después, ya sin pausa, el pánico: una mujer a media cuesta cayendo de rodillas con las manos en el pecho, otra tirando de un niño hacia la escalinata, alguien más gritando que el convento se venía abajo aunque el convento llevara sin techo doscientos setenta años.
 
 
-Park lo sintió al mismo tiempo que lo vio: el fondo denso y frío de duelo compartido, la marea entera que había sentido subir desde que llegaron, virando de golpe hacia terror puro — la misma sustancia, mucho más concentrada, mucho más fácil de mover ahora que el suelo mismo le había recordado a la ciudad entera, con quince segundos de temblor real, exactamente qué estaba conmemorando.
+Park lo sintió al mismo tiempo que lo vio: el fondo denso y frío de duelo compartido, la marea entera que había sentido subir desde que llegaron, virando de golpe hacia terror puro, la misma sustancia, mucho más concentrada, mucho más fácil de mover ahora que el suelo mismo le había recordado a la ciudad entera, con quince segundos de temblor real, exactamente qué estaba conmemorando.
 
 
-Y entonces comprendió lo que de verdad había significado lo que Filipa había contado esa mañana: que en 2011 Báthory no provocó nada, solo encontró la rabia de una multitud ya furiosa y la empujó hacia donde la quería. Esta noche tampoco había tenido que inventar el miedo. Solo había que devolvérselo a una ciudad que llevaba doscientos setenta años esperando a que el suelo volviera a temblar en esa fecha exacta — y dárselo con intensidad suficiente para que nadie dudara de que era real.
+Y entonces comprendió lo que de verdad había significado lo que Filipa había contado esa mañana: que en 2011 Báthory no provocó nada, solo encontró la rabia de una multitud ya furiosa y la empujó hacia donde la quería. Esta noche tampoco había tenido que inventar el miedo. Solo había que devolvérselo a una ciudad que llevaba doscientos setenta años esperando a que el suelo volviera a temblar en esa fecha exacta, y dárselo con intensidad suficiente para que nadie dudara de que era real.
 
 
 —¡Ferreira! —gritó, ya moviéndose contra la corriente de gente que dejaba de caminar y empezaba a correr.
 
 
-El temblor se apagó tan gradual como había empezado, pero ya no importaba. La procesión entera, miles de personas que un minuto antes avanzaban en silencio hacia el Carmo, se había roto en una sola dirección — hacia abajo, hacia las calles estrechas, empujando, cayendo, gritando nombres que nadie a su lado podía escuchar. Ya no era el segundo antes de la estampida. Era la estampida.
+El temblor se apagó tan gradual como había empezado, pero ya no importaba. La procesión entera, miles de personas que un minuto antes avanzaban en silencio hacia el Carmo, se había roto en una sola dirección, hacia abajo, hacia las calles estrechas, empujando, cayendo, gritando nombres que nadie a su lado podía escuchar. Ya no era el segundo antes de la estampida. Era la estampida.

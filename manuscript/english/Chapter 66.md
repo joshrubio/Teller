@@ -2,15 +2,15 @@
 
 The session between Oliver and Sisi was scheduled for four in the afternoon, in the second-floor evaluation room. Maren and Hana would observe from the glassed-in side.
 
-It was, in some sense, a formality. Sisi's Domain had no external expression — it emitted nothing into the space, left no trace in the room. The glass wall wouldn't stop what she could do. What the Domain could actively and sustainably control was limited: creatures without the cognitive capacity to resist. Up to about the size of a dog. An adult human was a different category. But reading a mood before it was spoken out loud, sensing a predisposition, planting a feeling the other person would interpret as their own — that was different. Sisi could do that. She didn't. That was the agreement, and the agreement was the only thing that mattered in that room.
+It was, in some sense, a formality. Sisi's Domain had no external expression, it emitted nothing into the space, left no trace in the room. The glass wall wouldn't stop what she could do. What the Domain could actively and sustainably control was limited: creatures without the cognitive capacity to resist. Up to about the size of a dog. An adult human was a different category. But reading a mood before it was spoken out loud, sensing a predisposition, planting a feeling the other person would interpret as their own, that was different. Sisi could do that. She didn't. That was the agreement, and the agreement was the only thing that mattered in that room.
 
-Oliver arrived first. Sisi arrived two minutes later, coat still on — she wore the coat well into the afternoon, as if the cold of her first months at the Center had stayed in her body even though the air had already changed.
+Oliver arrived first. Sisi arrived two minutes later, coat still on, she wore the coat well into the afternoon, as if the cold of her first months at the Center had stayed in her body even though the air had already changed.
 
 They sat on opposite sides of the table. Maren lifted her pen from behind the glass.
 
 "How do you want to start?" Oliver said.
 
-Sisi looked at him with her usual direct attention — the calibration Oliver had already learned not to mistake for distance.
+Sisi looked at him with her usual direct attention, the calibration Oliver had already learned not to mistake for distance.
 
 "I'll activate the Domain," she said. "You tell me what you see."
 
@@ -18,21 +18,21 @@ Oliver nodded.
 
 Sisi activated.
 
-There was no visible signal. No change in posture, in expression, in anything Oliver could have catalogued with the first layer of attention. With the second layer — with the Registry, with what he'd spent twenty-four weeks learning to read — there was nothing either.
+There was no visible signal. No change in posture, in expression, in anything Oliver could have catalogued with the first layer of attention. With the second layer, with the Registry, with what he'd spent twenty-four weeks learning to read, there was nothing either.
 
 That was what there was.
 
-Sisi's contours stayed present. Her Odem was there — distributed through the body like anyone else's, with the normal density, the normal temperature. But where in anyone else there would be a signature underneath that — the pattern the Domain stamped into the Odem, the structure the Registry could read — there was nothing. Not the absence you get when someone has no Domain. Something different. Like a system fully switched on that emits nothing.
+Sisi's contours stayed present. Her Odem was there, distributed through the body like anyone else's, with the normal density, the normal temperature. But where in anyone else there would be a signature underneath that, the pattern the Domain stamped into the Odem, the structure the Registry could read, there was nothing. Not the absence you get when someone has no Domain. Something different. Like a system fully switched on that emits nothing.
 
 Oliver held it.
 
-It was silence. Not emptiness — silence. The distinction took a few seconds to sharpen: emptiness was the absence of a signal, and silence was the signal that there was no signal. They were different things, and the difference mattered in a way Oliver still couldn't articulate but that the Registry registered all the same.
+It was silence. Not emptiness, silence. The distinction took a few seconds to sharpen: emptiness was the absence of a signal, and silence was the signal that there was no signal. They were different things, and the difference mattered in a way Oliver still couldn't articulate but that the Registry registered all the same.
 
 "Nothing," Oliver said.
 
 "Nothing what?"
 
-"Nothing underneath the contours. You're here — the Odem is, the contours are — but the Domain doesn't emit anything. There's nothing to read."
+"Nothing underneath the contours. You're here, the Odem is, the contours are, but the Domain doesn't emit anything. There's nothing to read."
 
 Sisi looked at him.
 
@@ -52,13 +52,13 @@ Something crossed Sisi's expression. Briefly, before it went back to its usual a
 
 "Tell me more about the noise," she said.
 
-There was no signal. Oliver checked automatically — Sisi's contours present, the Odem right where it had always been, the same silence where a signature should have been. If anything had changed in the room, it wasn't anything the Registry could register.
+There was no signal. Oliver checked automatically, Sisi's contours present, the Odem right where it had always been, the same silence where a signature should have been. If anything had changed in the room, it wasn't anything the Registry could register.
 
 From the glassed-in side, Maren wrote something on the tablet. Hana, beside her, wrote nothing. She just watched.
 
 Oliver answered.
 
-The words came more easily than usual — not all at once, not in a way Oliver could have flagged as different, just without the ordinary resistance. As if the space between thinking something and saying it had shortened.
+The words came more easily than usual, not all at once, not in a way Oliver could have flagged as different, just without the ordinary resistance. As if the space between thinking something and saying it had shortened.
 
 He talked about the noise. About how the Registry processed the Center's signatures continuously, with no activation, with no way to shut it off entirely. About how Pier's signature sat at the edge of his perception even when he couldn't see him. About nights when he could tell, without leaving his room, who was awake in the east wing.
 
@@ -68,7 +68,7 @@ He talked about the noise. About how the Registry processed the Center's signatu
 
 Sisi waited.
 
-"There are things I don't report." Oliver said it with the same ease he'd have used to describe a function of the Registry. "Not because anyone asked me to. By agreement. Pier, Sabine, Petra, Asha — they tell me things about their Domains that aren't in the official record. In exchange, I don't include it without their permission."
+"There are things I don't report." Oliver said it with the same ease he'd have used to describe a function of the Registry. "Not because anyone asked me to. By agreement. Pier, Sabine, Petra, Asha, they tell me things about their Domains that aren't in the official record. In exchange, I don't include it without their permission."
 
 From the glassed-in side, Maren raised her pen.
 
@@ -78,7 +78,7 @@ From the glassed-in side, Maren raised her pen.
 
 He heard himself say it. He didn't stop.
 
-He kept talking. About Yusuf's signature in the fight. About what the second layer of attention told him that Maren still hadn't fully documented. About the specific silence of Sisi's Domain — how it was different from the noise, how it was the one thing at the Center the Registry didn't process, and how that made the room feel different. The words kept arriving with that ease, that gap between thought and expression Oliver normally didn't have.
+He kept talking. About Yusuf's signature in the fight. About what the second layer of attention told him that Maren still hadn't fully documented. About the specific silence of Sisi's Domain, how it was different from the noise, how it was the one thing at the Center the Registry didn't process, and how that made the room feel different. The words kept arriving with that ease, that gap between thought and expression Oliver normally didn't have.
 
 Sisi listened. Asked a question.
 
@@ -88,7 +88,7 @@ He wasn't aware that Maren had stopped writing and was just watching. That Hana 
 
 He was, briefly, when Sisi said that was enough.
 
-Oliver looked at the table. Then at Sisi. Something in the stillness of the moment — the specific weight of the silence afterward — hit him as the feeling of having talked more than he'd planned to, without knowing exactly when that had happened or exactly what he'd said.
+Oliver looked at the table. Then at Sisi. Something in the stillness of the moment, the specific weight of the silence afterward, hit him as the feeling of having talked more than he'd planned to, without knowing exactly when that had happened or exactly what he'd said.
 
 Sisi picked up the coat from the chair.
 
@@ -114,7 +114,7 @@ Oliver stood in the doorway of the room, coat in hand, calculating whether he co
 
 She didn't say it loudly. She said it the way you say something to someone who already knows what's coming.
 
-She led him down the side corridor — the one that ran to the evaluation-materials storeroom, no observation cameras, just the fluorescent tube that had been flickering for weeks with nobody changing it. She stopped three meters from the door. Didn't go in. Turned to face Oliver at that specific spot, that angle, and Oliver understood the spot was deliberate.
+She led him down the side corridor, the one that ran to the evaluation-materials storeroom, no observation cameras, just the fluorescent tube that had been flickering for weeks with nobody changing it. She stopped three meters from the door. Didn't go in. Turned to face Oliver at that specific spot, that angle, and Oliver understood the spot was deliberate.
 
 "How's the second layer coming along?" Maren said.
 
@@ -146,7 +146,7 @@ Maren logged that with the minimal gesture of someone noting something down with
 
 "We both have an interest in this working," she said. "Working well." A brief pause. "For both sides."
 
-She looked up from the tablet. Watched him a moment — the look of someone who's just put something on the table and wants to confirm the other person has seen it.
+She looked up from the tablet. Watched him a moment, the look of someone who's just put something on the table and wants to confirm the other person has seen it.
 
 Oliver had seen it.
 
@@ -160,13 +160,13 @@ Oliver stayed under the flickering light tube a moment. It wasn't relief. It was
 
 That night Park went out with Yusuf.
 
-It wasn't a patrol. It wasn't in any week's protocol. It was the kind of thing Park did when something didn't fit and he'd rather not wait for it to fit on its own — go out, look, use his feet and time to sort out what didn't sort itself sitting down.
+It wasn't a patrol. It wasn't in any week's protocol. It was the kind of thing Park did when something didn't fit and he'd rather not wait for it to fit on its own, go out, look, use his feet and time to sort out what didn't sort itself sitting down.
 
 The eastern ridge at ten at night in April: snow only where the sun never reached, the rest of the ground already firm. The valley below with its four or five farm lights. The Center behind them, no windows lit in the south wing.
 
 Yusuf stopped before Park did.
 
-He nodded his head toward a spot between two pines — not a direction, a specific place. Park followed. The ground there had something the rest of it didn't: not a footprint, not a visible sign. Something in the way the snow had settled, in the angle of a bush's low branches, brushed from above by someone or something, not from the side the way a mountain animal would.
+He nodded his head toward a spot between two pines, not a direction, a specific place. Park followed. The ground there had something the rest of it didn't: not a footprint, not a visible sign. Something in the way the snow had settled, in the angle of a bush's low branches, brushed from above by someone or something, not from the side the way a mountain animal would.
 
 "When?" Park said.
 
@@ -180,7 +180,7 @@ Neither did Yusuf. They walked back in silence, the kind that doesn't need filli
 
 ---
 
-The call came after midnight, on the nightstand phone. Secure line — the tone was different, two beeps instead of one.
+The call came after midnight, on the nightstand phone. Secure line, the tone was different, two beeps instead of one.
 
 Park picked up.
 
@@ -190,7 +190,7 @@ Park picked up.
 
 "I was expecting you to call."
 
-Cartwright. Not the tone of a protocol call — that one was shorter, more specific, no room for anything but the matter at hand. This was the other tone. The one belonging to someone who's known Park since before Park was a function on an AMAT org chart.
+Cartwright. Not the tone of a protocol call, that one was shorter, more specific, no room for anything but the matter at hand. This was the other tone. The one belonging to someone who's known Park since before Park was a function on an AMAT org chart.
 
 "The Center has unsolicited interest," Park said. "I don't know whose yet. February's transport wasn't isolated. There are signs something's been close by, long enough to have information about the program. The pattern doesn't point at the building. It points at what's inside it."
 
@@ -232,27 +232,27 @@ Park set the phone on the nightstand and didn't get back to sleep right away.
 
 Three hundred kilometers north, at the edge of a forest that appeared on no hiking map, Kaspar crouched at the base of a tree.
 
-He hadn't brought a flashlight. Didn't need one — he'd spent enough time moving at night that his eyes had learned to work with what there was. The moon three-quarters full, the forest floor with that diffuse glow of snow left between roots, the particular silence of woods at this hour: not the absence of sound but the presence of the right ones.
+He hadn't brought a flashlight. Didn't need one, he'd spent enough time moving at night that his eyes had learned to work with what there was. The moon three-quarters full, the forest floor with that diffuse glow of snow left between roots, the particular silence of woods at this hour: not the absence of sound but the presence of the right ones.
 
 What was in front of him wasn't right.
 
-It was small. About the size of a forearm, maybe less. It moved like a worm but wasn't one — the shape was roughly that, but the movement had a quality worms don't have: directed, something close to intention, advancing toward Kaspar instead of away. Drawn by his Odem, probably. They always were — the small things, the ones without the cognitive capacity to resist what he radiated. They came toward him like he was a heat source.
+It was small. About the size of a forearm, maybe less. It moved like a worm but wasn't one, the shape was roughly that, but the movement had a quality worms don't have: directed, something close to intention, advancing toward Kaspar instead of away. Drawn by his Odem, probably. They always were, the small things, the ones without the cognitive capacity to resist what he radiated. They came toward him like he was a heat source.
 
 Kaspar held out his hand, palm up.
 
-The thing reached the edge of his index finger and stopped. Kaspar watched it a moment. Its Odem signature was minimal — barely enough to tell it apart from the ground. One of the smallest Authorities, so weak it probably wouldn't have tripped any AMAT sensor even if one had been looking. It wasn't a threat. It was something much older than that.
+The thing reached the edge of his index finger and stopped. Kaspar watched it a moment. Its Odem signature was minimal, barely enough to tell it apart from the ground. One of the smallest Authorities, so weak it probably wouldn't have tripped any AMAT sensor even if one had been looking. It wasn't a threat. It was something much older than that.
 
-Things like this had existed in these woods before there was a name for them — before anyone wanted to name them. The villagers who'd lived here two hundred years ago would have recognized it without needing to classify it: the spirit of the fallen tree, the presence in the stream that no longer runs. They weren't new. They were what remained. Each generation had left less than the one before, the Odem of this place giving way to whatever was displacing it, and what Kaspar now had on his index finger was the last representative of something that would once have been abundant.
+Things like this had existed in these woods before there was a name for them, before anyone wanted to name them. The villagers who'd lived here two hundred years ago would have recognized it without needing to classify it: the spirit of the fallen tree, the presence in the stream that no longer runs. They weren't new. They were what remained. Each generation had left less than the one before, the Odem of this place giving way to whatever was displacing it, and what Kaspar now had on his index finger was the last representative of something that would once have been abundant.
 
 "Not yet," Kaspar said. Quietly, to the air, not to the thing specifically.
 
 Then he lowered his hand slowly until the back of it touched the ground.
 
-What happened was abrupt. The Authority reached the point of contact — Kaspar's index finger, the roots, the damp pine needle — and fell. It didn't slide: it dropped, as if something had given way all at once. It lay still on the ground for an instant.
+What happened was abrupt. The Authority reached the point of contact, Kaspar's index finger, the roots, the damp pine needle, and fell. It didn't slide: it dropped, as if something had given way all at once. It lay still on the ground for an instant.
 
 Then it split.
 
-Not in two. Kaspar counted four before it stopped being possible to count them — each fragment with roughly the same shape, each with the same minimal Odem signature. All four moved off in different directions at a speed the original thing hadn't had, and vanished among the roots within seconds.
+Not in two. Kaspar counted four before it stopped being possible to count them, each fragment with roughly the same shape, each with the same minimal Odem signature. All four moved off in different directions at a speed the original thing hadn't had, and vanished among the roots within seconds.
 
 The forest went back to how it had been.
 
@@ -266,13 +266,13 @@ Four days later, Oliver was in his room with a book open to page forty-three whe
 
 Sisi.
 
-She had her coat on even though she was inside. She stood in the frame a moment, with an expression Oliver couldn't read right away — not her usual calibrated attention, but something stiller. Like someone who's been rehearsing what she's about to say and has reached the point where rehearsing it any more stops helping.
+She had her coat on even though she was inside. She stood in the frame a moment, with an expression Oliver couldn't read right away, not her usual calibrated attention, but something stiller. Like someone who's been rehearsing what she's about to say and has reached the point where rehearsing it any more stops helping.
 
 "Can I?" she said.
 
 Oliver put the book down.
 
-Sisi came in. She didn't sit — she stood by the window, looking out at the courtyard a moment before turning around.
+Sisi came in. She didn't sit, she stood by the window, looking out at the courtyard a moment before turning around.
 
 "I used the Domain in the session," she said.
 
@@ -298,15 +298,15 @@ Sisi looked at him.
 
 "No." A pause. "I noticed after. That I'd talked more than I meant to. I didn't know why."
 
-Sisi nodded slowly. Not with relief — with the gesture of someone receiving information she needed that doesn't make her feel any better.
+Sisi nodded slowly. Not with relief, with the gesture of someone receiving information she needed that doesn't make her feel any better.
 
-"I needed to know if you were safe," she said. "I don't have another way to check that. I don't have what you have — I can't read signatures, can't see anyone's Odem. All I have is what's inside." She paused. "That's not a justification."
+"I needed to know if you were safe," she said. "I don't have another way to check that. I don't have what you have. I can't read signatures, can't see anyone's Odem. All I have is what's inside." She paused. "That's not a justification."
 
 "I know," Oliver said.
 
 He didn't say anything else. Neither did Sisi.
 
-The room was quiet. Outside, the north courtyard held the last of the April light — later every day now, the sky still holding color at eight in the evening. Some sound from the west wing. The building making its usual noises.
+The room was quiet. Outside, the north courtyard held the last of the April light, later every day now, the sky still holding color at eight in the evening. Some sound from the west wing. The building making its usual noises.
 
 Sisi pulled up the coat that had slipped off her shoulder. She went toward the door.
 
@@ -320,7 +320,7 @@ Oliver didn't know what he was going to say until he said it.
 
 Sisi didn't answer. She left.
 
-Oliver looked at the closed door a moment. Then at the book, still open to page forty-three. He closed it without dog-earing the page — he wasn't going to keep reading tonight anyway — and set it on the nightstand.
+Oliver looked at the closed door a moment. Then at the book, still open to page forty-three. He closed it without dog-earing the page, he wasn't going to keep reading tonight anyway, and set it on the nightstand.
 
 He hadn't made any decision. He didn't know if there was anything to decide.
 

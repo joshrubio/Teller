@@ -4,17 +4,17 @@
 
 Llevaban corriendo a un grupo de tres por medio Milán desde media tarde, y Johanna empezaba a sospechar que la persecución les iba a costar más de lo que valían las placas que quedaban por repartir.
 
-Dos habían caído ya, uno tras otro, en dos calles distintas separadas por apenas cien metros — el primero atrapado en un callejón sin salida real, el segundo demasiado cansado para seguir corriendo después de casi una hora de ventaja perdida poco a poco. El tercero seguía suelto, y era el más rápido de los tres con diferencia, doblando esquinas que ninguno del grupo de Johanna conocía tan bien como él.
+Dos habían caído ya, uno tras otro, en dos calles distintas separadas por apenas cien metros, el primero atrapado en un callejón sin salida real, el segundo demasiado cansado para seguir corriendo después de casi una hora de ventaja perdida poco a poco. El tercero seguía suelto, y era el más rápido de los tres con diferencia, doblando esquinas que ninguno del grupo de Johanna conocía tan bien como él.
 
 —Lo tengo —dijo una voz por el comunicador, entrecortada por la propia carrera—. Casi. No lo pierdo de vista.
 
 Johanna no respondió enseguida, ahorrando el aire para sus propias piernas. Hizo la cuenta mientras corría, la misma cuenta que llevaba haciendo cada hora desde el amanecer: treinta y una placas entre los cinco, un número que debería haber bastado hacía días y que, con la caída brutal del tablero en las últimas horas, ya no bastaba con la misma seguridad. Dos de su grupo seguían fuera del top veinticinco por un margen que todavía podía cerrarse o abrirse en cualquier dirección.
 
-El comunicador volvió a sonar, esta vez sin palabras — solo la respiración de quien ha dejado de correr porque ya no hace falta.
+El comunicador volvió a sonar, esta vez sin palabras, solo la respiración de quien ha dejado de correr porque ya no hace falta.
 
 —Cuatro —dijo la voz, al fin, sin aliento de sobra para nada más—. Cuatro placas nuestras. El tercero no va a levantarse en un rato.
 
-Fue entonces, doblando hacia una plaza que Johanna tampoco reconocía del todo, cuando el cielo cambió al norte de la ciudad — una columna de luz blanca subiendo de golpe entre los edificios, demasiado intensa para ser cualquier cosa normal a esas horas.
+Fue entonces, doblando hacia una plaza que Johanna tampoco reconocía del todo, cuando el cielo cambió al norte de la ciudad, una columna de luz blanca subiendo de golpe entre los edificios, demasiado intensa para ser cualquier cosa normal a esas horas.
 
 Johanna se detuvo en seco, el resto de su grupo haciendo lo mismo un segundo después.
 
@@ -26,7 +26,7 @@ No lo era. Johanna lo supo con la misma certeza con la que sabía leer cualquier
 
 Asha contó las cabezas dos veces antes de aceptar el número.
 
-Tres. De los cinco que habían salido esa tarde a comprobar un rumor sobre un grupo grande escondido cerca de Porta Romana, solo tres habían llegado hasta ese callejón — el rumor había resultado cierto, pero el grupo grande había resultado más grande y más rápido de lo que nadie había calculado, y la retirada se había deshecho en el camino, cada uno tomando la salida que tenía más cerca en el momento en que quedó claro que quedarse a pelear no valía el riesgo.
+Tres. De los cinco que habían salido esa tarde a comprobar un rumor sobre un grupo grande escondido cerca de Porta Romana, solo tres habían llegado hasta ese callejón, el rumor había resultado cierto, pero el grupo grande había resultado más grande y más rápido de lo que nadie había calculado, y la retirada se había deshecho en el camino, cada uno tomando la salida que tenía más cerca en el momento en que quedó claro que quedarse a pelear no valía el riesgo.
 
 —Riku y Dara siguen sin responder —dijo Nadia, el comunicador pegado a la oreja, la voz más tensa de lo que quería dejar ver.
 
@@ -60,29 +60,29 @@ Un chico solo, cojeando, entró por una de las bocas de acceso y se detuvo en se
 
 Después llegaron los grupos.
 
-El de Johanna entró primero, cinco figuras moviéndose con la misma disciplina cansada de toda la semana, ocupando el lado este del campo sin necesitar palabras entre ellos. Treinta y ocho quedaban esa noche en toda la ciudad, según el propio dispositivo de Oliver, y Johanna seguía siendo la número tres de esa lista — dentro del podio, pese a todo lo que le había costado la semana.
+El de Johanna entró primero, cinco figuras moviéndose con la misma disciplina cansada de toda la semana, ocupando el lado este del campo sin necesitar palabras entre ellos. Treinta y ocho quedaban esa noche en toda la ciudad, según el propio dispositivo de Oliver, y Johanna seguía siendo la número tres de esa lista. Dentro del podio, pese a todo lo que le había costado la semana.
 
 Valais llegó descosido, no en un solo bloque.
 
-Asha entró primero, por el lado opuesto, Pier y Nadia un paso detrás de ella — los tres juntos, pero solo tres. Oliver los tenía a los tres localizados en el dispositivo desde hacía días sin necesitar mirar dos veces: Asha veintisiete, Pier veintinueve, Nadia treinta y seis. Fuera del corte, los tres, y el hueco se notaba en cómo se movían, más cerca los unos de los otros de lo normal.
+Asha entró primero, por el lado opuesto, Pier y Nadia un paso detrás de ella, los tres juntos, pero solo tres. Oliver los tenía a los tres localizados en el dispositivo desde hacía días sin necesitar mirar dos veces: Asha veintisiete, Pier veintinueve, Nadia treinta y seis. Fuera del corte, los tres, y el hueco se notaba en cómo se movían, más cerca los unos de los otros de lo normal.
 
-Riku llegó por su cuenta minutos después, por una boca de acceso completamente distinta, y algo en los hombros de Nadia bajó un grado en cuanto lo vio cruzar el campo hacia ellos. Treinta y tres, recordó Oliver del tablero — tampoco dentro, pese a todo lo aprendido.
+Riku llegó por su cuenta minutos después, por una boca de acceso completamente distinta, y algo en los hombros de Nadia bajó un grado en cuanto lo vio cruzar el campo hacia ellos. Treinta y tres, recordó Oliver del tablero, tampoco dentro, pese a todo lo aprendido.
 
 Dara fue la última de los cinco, entrando casi por donde había entrado Yegor, tan cerca que por un instante pareció que llegaban juntos antes de que ella se apartara hacia el resto de su grupo. Veintidós. La única de los cinco todavía dentro del corte, y por un margen que no invitaba a confiarse.
 
 Cinco, por fin completos, cuatro de ellos fuera de los veinticinco que importaban, aunque ninguno pareciera todavía capaz de relajar del todo los hombros por eso.
 
-Un tercer grupo llegó por la grada norte, más numeroso que los otros dos, liderado por un hombre robusto que Oliver reconoció del club de pelea sin recordar el nombre completo — Lukas, se acordó después, sexto del tablero, el que ocupaba el diez antes de que la semana empezara a deshacer todos los números que habían importado hasta entonces.
+Un tercer grupo llegó por la grada norte, más numeroso que los otros dos, liderado por un hombre robusto que Oliver reconoció del club de pelea sin recordar el nombre completo, Lukas, se acordó después, sexto del tablero, el que ocupaba el diez antes de que la semana empezara a deshacer todos los números que habían importado hasta entonces.
 
-Y por último, cuando ya parecía que el campo no podía llenarse más, llegó Yegor — solo al principio, hasta que Oliver entendió que no llegaba solo del todo. Detrás de él, un puñado de siluetas que se movían con la incomodidad de gente que preferiría estar en cualquier otro sitio. Treinta y uno, todavía, pese a todo lo que llevaba haciendo toda la semana para cambiar esa cifra.
+Y por último, cuando ya parecía que el campo no podía llenarse más, llegó Yegor, solo al principio, hasta que Oliver entendió que no llegaba solo del todo. Detrás de él, un puñado de siluetas que se movían con la incomodidad de gente que preferiría estar en cualquier otro sitio. Treinta y uno, todavía, pese a todo lo que llevaba haciendo toda la semana para cambiar esa cifra.
 
-Cuatro grupos, un solo en el centro, y un puñado de sueltos sin bando repartidos por los bordes. Oliver se recordó a sí mismo dónde estaba él en esa misma lista — segundo, detrás solo de Dax — y entendió que esa cifra, esa noche, no significaba tanto como el hecho de estar ahí, todavía de pie, para defenderla.
+Cuatro grupos, un solo en el centro, y un puñado de sueltos sin bando repartidos por los bordes. Oliver se recordó a sí mismo dónde estaba él en esa misma lista, segundo, detrás solo de Dax, y entendió que esa cifra, esa noche, no significaba tanto como el hecho de estar ahí, todavía de pie, para defenderla.
 
 ---
 
 El número cambió delante de todos antes de que nadie diera el primer paso.
 
-Treinta y ocho pasó a treinta y siete, en algún punto de la ciudad que ninguno de los presentes había visto, y el cambio corrió por todos los dispositivos a la vez — un recordatorio seco de que el reloj no esperaba a que el estadio decidiera nada. Oliver sintió el ánimo del campo entero cambiar con ese único dígito, la paciencia de dos minutos enteros de nadie moviéndose gastándose de golpe.
+Treinta y ocho pasó a treinta y siete, en algún punto de la ciudad que ninguno de los presentes había visto, y el cambio corrió por todos los dispositivos a la vez, un recordatorio seco de que el reloj no esperaba a que el estadio decidiera nada. Oliver sintió el ánimo del campo entero cambiar con ese único dígito, la paciencia de dos minutos enteros de nadie moviéndose gastándose de golpe.
 
 Fue Yegor quien rompió el silencio primero.
 
@@ -96,7 +96,7 @@ Eso, más que cualquier insulto directo, fue lo que encendió a Yegor de verdad.
 
 —No —dijo Dax, sin alzar la voz, la misma economía de siempre.
 
-El golpe que Yegor lanzó a medio grito no llegó a completarse. Dax se movió — no rápido en el sentido en que Oliver conocía la rapidez, sino de un modo distinto, un movimiento que su propio Registro apenas alcanzó a leer antes de que ya hubiera terminado — y Yegor salió despedido hacia atrás, un cuerpo entero volando sobre el césped, tan rápido que la mitad del campo ni siquiera llegó a ver el impacto que lo había causado, solo el resultado.
+El golpe que Yegor lanzó a medio grito no llegó a completarse. Dax se movió, no rápido en el sentido en que Oliver conocía la rapidez, sino de un modo distinto, un movimiento que su propio Registro apenas alcanzó a leer antes de que ya hubiera terminado, y Yegor salió despedido hacia atrás, un cuerpo entero volando sobre el césped, tan rápido que la mitad del campo ni siquiera llegó a ver el impacto que lo había causado, solo el resultado.
 
 Nadie necesitó una señal más clara que esa.
 
@@ -104,15 +104,15 @@ Nadie necesitó una señal más clara que esa.
 
 Se lanzaron todos a la vez.
 
-Dax cambió de modo en el mismo segundo en que el primero llegó a su alcance — Oliver, con el Registro abierto, vio la estructura reordenarse entera: la mirada cerrándose sobre un único punto cada vez, la postura bajando un grado, la respiración larga donde un momento antes había sido corta. Caza. La primera vez que Oliver lo veía usarlo de verdad, sin cortar el cambio a la mitad como en el foso semanas atrás.
+Dax cambió de modo en el mismo segundo en que el primero llegó a su alcance, Oliver, con el Registro abierto, vio la estructura reordenarse entera: la mirada cerrándose sobre un único punto cada vez, la postura bajando un grado, la respiración larga donde un momento antes había sido corta. Caza. La primera vez que Oliver lo veía usarlo de verdad, sin cortar el cambio a la mitad como en el foso semanas atrás.
 
-El primero en llegar —uno de los reclutas de Yegor— conectó un golpe real, de lleno en el hombro de Dax, y no le sirvió de nada. Dax absorbió el contacto sin apenas moverse y respondió con un codazo corto a la garganta que lo dejó en el suelo sin aire, convulsionando una vez antes de quedarse quieto del todo. El segundo, más precavido, intentó rodearlo por detrás; Dax giró sobre el propio talón sin necesitar verlo venir del todo, un puñetazo directo al plexo que lo dobló en dos y lo envió contra el césped a rodar.
+El primero en llegar, uno de los reclutas de Yegor, conectó un golpe real, de lleno en el hombro de Dax, y no le sirvió de nada. Dax absorbió el contacto sin apenas moverse y respondió con un codazo corto a la garganta que lo dejó en el suelo sin aire, convulsionando una vez antes de quedarse quieto del todo. El segundo, más precavido, intentó rodearlo por detrás; Dax giró sobre el propio talón sin necesitar verlo venir del todo, un puñetazo directo al plexo que lo dobló en dos y lo envió contra el césped a rodar.
 
-Alguien del grupo de Lukas —una mujer con algo cargado ya en los puños— leyó el patrón antes que los demás y amagó dos veces, buscando el ángulo que a todos los demás les había faltado. Dax no mordió el amague. Esperó al tercer movimiento, el real, y lo interceptó a medio camino con la mano abierta, cerrando los dedos alrededor del puño de ella un instante — el tiempo justo para que Oliver viera, con una punzada fría, cómo algo cambiaba en la propia estructura de la mujer, un brillo que se apagaba un grado, drenado hacia Dax sin que ella entendiera todavía por qué las piernas dejaban de responderle. Cayó de rodillas, consciente pero vaciada, y no volvió a levantarse.
+Alguien del grupo de Lukas, una mujer con algo cargado ya en los puños, leyó el patrón antes que los demás y amagó dos veces, buscando el ángulo que a todos los demás les había faltado. Dax no mordió el amague. Esperó al tercer movimiento, el real, y lo interceptó a medio camino con la mano abierta, cerrando los dedos alrededor del puño de ella un instante, el tiempo justo para que Oliver viera, con una punzada fría, cómo algo cambiaba en la propia estructura de la mujer, un brillo que se apagaba un grado, drenado hacia Dax sin que ella entendiera todavía por qué las piernas dejaban de responderle. Cayó de rodillas, consciente pero vaciada, y no volvió a levantarse.
 
-Lukas gritó una orden que nadie de su grupo obedeció del todo — dos de los suyos ya corrían hacia Dax por su cuenta, sin esperar ninguna señal, el mismo instinto de manada que llevaba toda la semana cazando a los débiles ahora vuelto contra el único objetivo que de verdad importaba. Johanna, al otro lado del campo, gritó algo parecido, y tampoco sirvió — dos de los suyos rompieron formación, atraídos hacia el centro como si el propio Dax generara su propia gravedad.
+Lukas gritó una orden que nadie de su grupo obedeció del todo. Dos de los suyos ya corrían hacia Dax por su cuenta, sin esperar ninguna señal, el mismo instinto de manada que llevaba toda la semana cazando a los débiles ahora vuelto contra el único objetivo que de verdad importaba. Johanna, al otro lado del campo, gritó algo parecido, y tampoco sirvió. Dos de los suyos rompieron formación, atraídos hacia el centro como si el propio Dax generara su propia gravedad.
 
-Dax siguió cayendo cuerpos, uno tras otro, ninguno de la misma forma que el anterior — un brazo doblado en un ángulo que no debía, un grito que no era palabra, alguien que simplemente dejó de moverse a media zancada sin que nadie viera el golpe exacto que lo había parado. El césped, ya removido en varios tramos, empezó a marcar el mapa entero de la pelea sin que hiciera falta preguntarle a nadie qué había pasado dónde.
+Dax siguió cayendo cuerpos, uno tras otro, ninguno de la misma forma que el anterior, un brazo doblado en un ángulo que no debía, un grito que no era palabra, alguien que simplemente dejó de moverse a media zancada sin que nadie viera el golpe exacto que lo había parado. El césped, ya removido en varios tramos, empezó a marcar el mapa entero de la pelea sin que hiciera falta preguntarle a nadie qué había pasado dónde.
 
 Nadie que quedara en pie discutía ya si intervenir. La única pregunta era cuánto iba a costar.
 

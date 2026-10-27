@@ -13,7 +13,7 @@ Park didn't try to prove anything. He couldn't, in the most literal sense: both 
 
 When he woke up, someone had left a new device on the nightstand, already set up with his access, alongside a glass of water he hadn't asked for.
 
-He spent the next three days in the medical wing of a facility nobody gave him a name for, put through a protocol he recognized from having seen it applied to others — never to himself — one that had less to do with actually healing and more to do with returning an agent to a state that could be logged, in a report, as fit for duty. They infused something into his right shoulder twice, a compound that smelled like nothing and hurt less than something that accelerated tissue growth had any right to. They taught him exercises that gave him back, in seventy-two hours, a range of motion a normal shoulder would have taken a full month to recover. Nobody explained what the compound was. Park didn't ask. He'd learned, in five years of service, that certain answers came with an obligation to know things you couldn't stop knowing afterward.
+He spent the next three days in the medical wing of a facility nobody gave him a name for, put through a protocol he recognized from having seen it applied to others, never to himself, one that had less to do with actually healing and more to do with returning an agent to a state that could be logged, in a report, as fit for duty. They infused something into his right shoulder twice, a compound that smelled like nothing and hurt less than something that accelerated tissue growth had any right to. They taught him exercises that gave him back, in seventy-two hours, a range of motion a normal shoulder would have taken a full month to recover. Nobody explained what the compound was. Park didn't ask. He'd learned, in five years of service, that certain answers came with an obligation to know things you couldn't stop knowing afterward.
 
 By the third day, he could hold a glass in his right hand without it shaking. The left was still in a cast from the wrist to halfway up the forearm, and would stay that way, they told him, until someone decided it wasn't needed anymore.
 
@@ -21,19 +21,19 @@ The message arrived that same afternoon.
 
 *New assignment. Hartford, Connecticut. Briefing in 36 hours.*
 
-Park read it twice, with the same calm he read everything else, and recognized, without any real surprise, the way that sentence managed to be exactly two things at once. Hartford was the kind of posting the agency reserved for agents who needed time to stabilize after a major incident — or for agents the agency wanted to keep busy and far away while it finished deciding something it didn't want anyone complicating.
+Park read it twice, with the same calm he read everything else, and recognized, without any real surprise, the way that sentence managed to be exactly two things at once. Hartford was the kind of posting the agency reserved for agents who needed time to stabilize after a major incident, or for agents the agency wanted to keep busy and far away while it finished deciding something it didn't want anyone complicating.
 
 Both things were true. An arm still in a cast and a lower-category assignment weren't, in any honest sense, a coincidence.
 
 Nobody had asked him about Oliver since the night of the incident. That, more than the message itself, was what confirmed for him which of the two readings weighed more.
 
-He signed his own discharge with his good hand. He left for Hartford two days later, his right arm nearly normal again and his left still rigid inside the cast, calculating, by the same old professional reflex, how long it was going to take the agency to finish deciding what the kid who'd unplugged an Authority with his bare hands actually was — and how much of that time would pass without it occurring to anyone to ask Park what he thought about it.
+He signed his own discharge with his good hand. He left for Hartford two days later, his right arm nearly normal again and his left still rigid inside the cast, calculating, by the same old professional reflex, how long it was going to take the agency to finish deciding what the kid who'd unplugged an Authority with his bare hands actually was, and how much of that time would pass without it occurring to anyone to ask Park what he thought about it.
 
 ---
 
 Voss arrived at the facility on a Tuesday, a fact he logged with no particular purpose, the same way he logged any other: time, coordinates, the angle of light coming through the lobby's side windows. The building was a converted administrative structure, thirty kilometers from Grayhaven, originally built for some other function. The geometry of the corridors said so clearly enough: they all converged on a central point that no longer existed, like spokes on a wheel with no hub. A bank, he guessed. Or something that had once needed a vault at its heart and had decided to make it invisible from the outside.
 
-The custody wing was a later addition. You could tell by the change in proportions past the second door: the ceiling dropped twelve centimeters, the corridors narrowed by a measure calculated to produce a certain discomfort without being identifiable as deliberate. It was a design Voss recognized — he'd seen it in four different AMAT facilities, always in active custody wings, always with the same signature. The logic was to suppress Domain activation through passive spatial disorientation.
+The custody wing was a later addition. You could tell by the change in proportions past the second door: the ceiling dropped twelve centimeters, the corridors narrowed by a measure calculated to produce a certain discomfort without being identifiable as deliberate. It was a design Voss recognized, he'd seen it in four different AMAT facilities, always in active custody wings, always with the same signature. The logic was to suppress Domain activation through passive spatial disorientation.
 
 It worked well for almost every Domain.
 
@@ -53,11 +53,11 @@ Voss sat down and opened the file.
 
 He read the first page twice. Not because the content was difficult, but because the first read had given him the shape of the incident, and he needed the second to confirm that shape was what he thought it was.
 
-A Class III Erasure Authority, born from a lie a Breakwater moneylender had sustained for nearly three decades and activated, according to the report, by a civilian with no prior training and no history in the agency's records. The blackout had lasted twenty-four minutes exactly — the figure appeared underlined in the document, with a note in the margin reading *see normalization protocol, reconcile with prior reports for the zone* — and had affected a twelve-block radius around Breakwater. Local media had covered it as a regional substation failure. Adequate cover. What appeared in no outlet was that those twelve blocks had operated, for twenty-four minutes, under the rules of an active Domain, and that the displaced — thirty-eight confirmed in the report, though the real figure was probably higher — had reappeared with the usual marks of exposure: temporal confusion, partial loss of memory sequencing, personal items missing or displaced.
+A Class III Erasure Authority, born from a lie a Breakwater moneylender had sustained for nearly three decades and activated, according to the report, by a civilian with no prior training and no history in the agency's records. The blackout had lasted twenty-four minutes exactly, the figure appeared underlined in the document, with a note in the margin reading *see normalization protocol, reconcile with prior reports for the zone*, and had affected a twelve-block radius around Breakwater. Local media had covered it as a regional substation failure. Adequate cover. What appeared in no outlet was that those twelve blocks had operated, for twenty-four minutes, under the rules of an active Domain, and that the displaced, thirty-eight confirmed in the report, though the real figure was probably higher, had reappeared with the usual marks of exposure: temporal confusion, partial loss of memory sequencing, personal items missing or displaced.
 
 No confirmed deaths.
 
-Voss noted that mentally. A Class III Authority with no deaths was unusual. Either the entity had some capacity for discrimination — rare, but documented — or something in the incident had altered its behavior before it reached full operational scale.
+Voss noted that mentally. A Class III Authority with no deaths was unusual. Either the entity had some capacity for discrimination, rare, but documented, or something in the incident had altered its behavior before it reached full operational scale.
 
 He moved to the second section.
 
@@ -67,7 +67,7 @@ The field operation had been assigned to a single agent. Voss found that less su
 
 The field agent appeared in the body of the report exclusively as a footnote.
 
-*³ Agent J. Park, AMAT-NA. Field level 4. Undercover, Yamal case (illicit lending, Breakwater), fourteen months. No prior incidents. Protocol signals ignored during the Domain's active period — see disciplinary annex 7C. Field injuries: both shoulders, wrist fracture. Currently assigned to Hartford, CT.*
+*³ Agent J. Park, AMAT-NA. Field level 4. Undercover, Yamal case (illicit lending, Breakwater), fourteen months. No prior incidents. Protocol signals ignored during the Domain's active period, see disciplinary annex 7C. Field injuries: both shoulders, wrist fracture. Currently assigned to Hartford, CT.*
 
 Voss read the footnote twice.
 
@@ -79,13 +79,13 @@ Agent Park had been inside the Domain. He'd been with the subject through the en
 
 Voss folded that information away mentally and filed it.
 
-The North American branch had spent forty-two years operating under a mandate that had set it apart from the European one from the start: field response, containment, normalization. It was an efficient model for most incidents — Class IV and III Authorities, localized thread anomalies, the recurring cases a city like Grayhaven generated with statistical regularity. Cartwright had built his entire institutional career inside that framework, and he'd built it well. The Breakwater incident's cover story was technically flawless. Handling of the displaced, correct. The field agent contained before he could become a vector for uncontrolled information.
+The North American branch had spent forty-two years operating under a mandate that had set it apart from the European one from the start: field response, containment, normalization. It was an efficient model for most incidents, Class IV and III Authorities, localized thread anomalies, the recurring cases a city like Grayhaven generated with statistical regularity. Cartwright had built his entire institutional career inside that framework, and he'd built it well. The Breakwater incident's cover story was technically flawless. Handling of the displaced, correct. The field agent contained before he could become a vector for uncontrolled information.
 
 All exactly as it should be, right up to the point where the system had found something the model didn't account for.
 
 Voss had known Cartwright for fifteen years. They'd met at three intercontinental coordination conferences and shared one field situation in Lisbon that neither of them had documented in the level of detail the protocol recommended. The relationship was cordial in the specific way relationships are between professionals who respect each other without needing to understand each other. Cartwright managed threats. Voss evaluated categories. They were complementary functions that rarely needed to coordinate directly.
 
-The referral of case GRH-094 hadn't been Cartwright's decision. It had been an automatic trigger of the classification system: the Registry hypothesis in the report had activated the protocol for referral to a senior evaluator, and Cartwright's signature on the transfer document was that of someone who'd approved the process without pausing over its contents. Voss knew this because the attached cover note used the phrase *"non-standard field anomaly"* — the vocabulary of someone who hadn't read past the first page.
+The referral of case GRH-094 hadn't been Cartwright's decision. It had been an automatic trigger of the classification system: the Registry hypothesis in the report had activated the protocol for referral to a senior evaluator, and Cartwright's signature on the transfer document was that of someone who'd approved the process without pausing over its contents. Voss knew this because the attached cover note used the phrase *"non-standard field anomaly"*, the vocabulary of someone who hadn't read past the first page.
 
 It wasn't a criticism. It was simply a description of how AMAT-NA worked.
 
@@ -93,7 +93,7 @@ It wasn't a criticism. It was simply a description of how AMAT-NA worked.
 
 The third section was the one that had justified the trip from Geneva.
 
-*GRH-094-S: male, twenty-two. No prior AMAT history. No known markers for latent Domain. Employed within a family-run pawnshop network (Yamal's pawnshop), Breakwater. First contact with anomalous activity documented two weeks before the main incident — retrospective analysis showing sustained passive exposure to a physical anchor not identified at the time.*
+*GRH-094-S: male, twenty-two. No prior AMAT history. No known markers for latent Domain. Employed within a family-run pawnshop network (Yamal's pawnshop), Breakwater. First contact with anomalous activity documented two weeks before the main incident, retrospective analysis showing sustained passive exposure to a physical anchor not identified at the time.*
 
 *Exposure during the incident: direct contact with active Odem. Estimated duration: twenty-four minutes. Observed manifestations:*
 
@@ -107,7 +107,7 @@ The third section was the one that had justified the trip from Geneva.
 
 Voss stopped on the last paragraph.
 
-Registry Domain was a classification that appeared in the agency's internal literature in two specific contexts: as a historical category documented three times in the last eighty years, and as a warning in the evaluation protocol — *if Registry Domain is suspected, refer immediately to a senior-level evaluator*.
+Registry Domain was a classification that appeared in the agency's internal literature in two specific contexts: as a historical category documented three times in the last eighty years, and as a warning in the evaluation protocol, *if Registry Domain is suspected, refer immediately to a senior-level evaluator*.
 
 There were three senior-level evaluators in AMAT with experience in Registry classifications.
 
@@ -115,11 +115,11 @@ He was one of them.
 
 He read the section again, more slowly.
 
-*Instinctive unbinding of the anchor node.* It wasn't the most operationally striking part, though it was the most impressive in terms of result. A Class III Authority didn't yield to brute force — what GRH-094-S had done wasn't strike the anchor but unmake, with his bare hands, the structure that kept it coherent. The difference was substantial. Any agent with a sufficient Domain level could apply pressure to an anchor; in fact, one had tried exactly that the same night, and the attempt had cost him both shoulders. No one without specific training knew where the anchor was, what shape it took, or which exact point made it vulnerable.
+*Instinctive unbinding of the anchor node.* It wasn't the most operationally striking part, though it was the most impressive in terms of result. A Class III Authority didn't yield to brute force, what GRH-094-S had done wasn't strike the anchor but unmake, with his bare hands, the structure that kept it coherent. The difference was substantial. Any agent with a sufficient Domain level could apply pressure to an anchor; in fact, one had tried exactly that the same night, and the attempt had cost him both shoulders. No one without specific training knew where the anchor was, what shape it took, or which exact point made it vulnerable.
 
 Unless he'd *read* the Authority.
 
-Not the surface behavior. Not the visible effects on the environment. The underlying structure. The pattern that made the entity what it was — in this case, as Voss understood from the previous section, twenty-nine years of the same hand crossing out the same circle, a lie sustained until it crystallized into something that collected on its own.
+Not the surface behavior. Not the visible effects on the environment. The underlying structure. The pattern that made the entity what it was, in this case, as Voss understood from the previous section, twenty-nine years of the same hand crossing out the same circle, a lie sustained until it crystallized into something that collected on its own.
 
 Voss closed the file.
 
@@ -127,9 +127,9 @@ Voss closed the file.
 
 He sat looking at the cover for a moment.
 
-In his line of work — and "line" was a word he used more literally than most people understood — the difference between a phenomenon and a variable was simple: a phenomenon happened, a variable could be employed. Authorities were phenomena. Field agents with combat Domains were tools. What the file described in GRH-094-S was another category entirely.
+In his line of work, and "line" was a word he used more literally than most people understood, the difference between a phenomenon and a variable was simple: a phenomenon happened, a variable could be employed. Authorities were phenomena. Field agents with combat Domains were tools. What the file described in GRH-094-S was another category entirely.
 
-If Registry Domain worked the way the theory indicated — accumulation of external structure, pattern copying, functional reproduction — then GRH-094-S wasn't an anomaly to contain.
+If Registry Domain worked the way the theory indicated, accumulation of external structure, pattern copying, functional reproduction, then GRH-094-S wasn't an anomaly to contain.
 
 He was an acquisition system for capabilities with no classified ceiling.
 
@@ -143,7 +143,7 @@ Probably the latter.
 
 The European branch had spent eighty years documenting Registry cases for a reason AMAT-NA had never needed to understand: all three prior historical cases had occurred on European soil, in a forty-year span running from the postwar years to the late eighties. Voss had read the full files. They made for uncomfortable reading, not for what they said about the subjects but for what they said about how the agency had handled them.
 
-The first had died during evaluation. Not from direct negligence, but because no one had understood that a Registry Domain still in its developing stage couldn't be subjected to the same suppression protocols as any other Domain — suppression didn't deactivate the Registry, it forced it to hunt for material to copy in the immediate environment, and the immediate environment was the evaluation team. The final report described the outcome in the clinical terminology the agency used to avoid saying what had actually happened.
+The first had died during evaluation. Not from direct negligence, but because no one had understood that a Registry Domain still in its developing stage couldn't be subjected to the same suppression protocols as any other Domain, suppression didn't deactivate the Registry, it forced it to hunt for material to copy in the immediate environment, and the immediate environment was the evaluation team. The final report described the outcome in the clinical terminology the agency used to avoid saying what had actually happened.
 
 The second had vanished from custody seventeen months after capture. He'd never been located. The file remained technically open.
 
@@ -157,7 +157,7 @@ That wasn't going to happen again.
 
 ---
 
-He knocked on the door. From outside, his assistant — a woman with short hair Voss had never once seen without a tablet in her hands — opened it without waiting for confirmation.
+He knocked on the door. From outside, his assistant, a woman with short hair Voss had never once seen without a tablet in her hands, opened it without waiting for confirmation.
 
 "Is the subject available for direct evaluation?"
 
@@ -185,7 +185,7 @@ Whoever had designed the containment hadn't understood that, which meant they'd 
 
 He stopped in front of the last door.
 
-Through the observation window, GRH-094-S sat on the edge of the bed, elbows on his knees, staring at a point on the floor that held nothing visible. Twenty-two years old. Brown hair, almost blond, deep shadows under his eyes. A trace of dried blood still visible on his upper lip, darkened now, that someone had wiped away only halfway. The rest of his face showed no new marks — nothing broken, nothing a fist or a piece of debris had left. Only the exhaustion of a body that had spent something no form had a name for yet.
+Through the observation window, GRH-094-S sat on the edge of the bed, elbows on his knees, staring at a point on the floor that held nothing visible. Twenty-two years old. Brown hair, almost blond, deep shadows under his eyes. A trace of dried blood still visible on his upper lip, darkened now, that someone had wiped away only halfway. The rest of his face showed no new marks, nothing broken, nothing a fist or a piece of debris had left. Only the exhaustion of a body that had spent something no form had a name for yet.
 
 Someone had put him in custody without fully cleaning up his face.
 

@@ -4,10 +4,10 @@
 Deivis Uzcátegui llevaba cuarenta y cinco minutos esperando a su hermana en la parada, y fue esa espera, no ninguna otra cosa, lo que lo puso en la calle a la hora exacta en que el punto de control apareció donde nunca había habido punto de control.
 
 
-Trabajaba arreglando neveras y aires acondicionados, cuando había repuestos que conseguir y clientes que pudieran pagar en algo que no fuera promesas. Esa tarde había sido un buen día — dos trabajos, efectivo de verdad en el bolsillo — y lo único que tenía en la cabeza mientras esperaba era si el efectivo alcanzaría para la cena de los dos, o si iba a tener que elegir entre comer él o que comiera su hermana.
+Trabajaba arreglando neveras y aires acondicionados, cuando había repuestos que conseguir y clientes que pudieran pagar en algo que no fuera promesas. Esa tarde había sido un buen día, dos trabajos, efectivo de verdad en el bolsillo, y lo único que tenía en la cabeza mientras esperaba era si el efectivo alcanzaría para la cena de los dos, o si iba a tener que elegir entre comer él o que comiera su hermana.
 
 
-No eran los mismos de siempre. Eso lo supo antes incluso de ver los uniformes mezclados, dos con parche oficial y tres sin nada, todos con el mismo fusil colgado igual de suelto del hombro. Los de siempre, al menos, fingían buscar algo — cédula, papeles del motor, la excusa habitual para el peaje que todos en el barrio ya sabían pagar sin discutir. Estos no fingieron nada.
+No eran los mismos de siempre. Eso lo supo antes incluso de ver los uniformes mezclados, dos con parche oficial y tres sin nada, todos con el mismo fusil colgado igual de suelto del hombro. Los de siempre, al menos, fingían buscar algo, cédula, papeles del motor, la excusa habitual para el peaje que todos en el barrio ya sabían pagar sin discutir. Estos no fingieron nada.
 
 
 —Usted, vale —dijo uno, señalándolo con la barbilla antes de que Deivis hubiera hecho un solo gesto sospechoso—. Contra la pared.
@@ -19,7 +19,7 @@ No eran los mismos de siempre. Eso lo supo antes incluso de ver los uniformes me
 El culatazo no le dejó terminar la frase. No dolió al principio, solo lo aturdió, y para cuando el dolor llegó ya estaba de rodillas con las manos atadas por una brida de plástico que se le clavaba en las muñecas cada vez que intentaba aflojarla.
 
 
-Había otros tres ya contra la misma pared — dos hombres jóvenes, no mucho mayores que él, y una mujer de mediana edad que no dejaba de repetir el nombre de alguien, bajito, como una oración que ya no esperaba que nadie contestara. Ninguno había hecho nada que Deivis pudiera identificar. Ese, entendió, con la clase de claridad que solo llega cuando ya es demasiado tarde para que sirva de algo, era exactamente el punto. No estaban buscando a nadie en particular. Estaban recogiendo.
+Había otros tres ya contra la misma pared, dos hombres jóvenes, no mucho mayores que él, y una mujer de mediana edad que no dejaba de repetir el nombre de alguien, bajito, como una oración que ya no esperaba que nadie contestara. Ninguno había hecho nada que Deivis pudiera identificar. Ese, entendió, con la clase de claridad que solo llega cuando ya es demasiado tarde para que sirva de algo, era exactamente el punto. No estaban buscando a nadie en particular. Estaban recogiendo.
 
 
 —¿A dónde nos llevan? —preguntó la mujer, la primera vez que alzó la voz lo suficiente para que alguien más allá de ella misma la oyera.
@@ -28,7 +28,7 @@ Había otros tres ya contra la misma pared — dos hombres jóvenes, no mucho ma
 Nadie contestó. Los subieron a la parte trasera de un camión de redilas con la lona rasgada en una esquina, y Deivis, mirando el pedazo de cielo que se veía por el desgarro, pensó en su hermana llegando a una parada vacía, sin saber todavía que iba a pasar el resto de la noche llamando a un teléfono que nadie iba a contestar.
 
 
-El camión recogió a cuatro más antes de que terminara el trayecto — un hombre mayor que no dejó de toser todo el camino, dos muchachas que no debían de tener ni veinte años, y un adolescente que se orinó encima del susto sin que nadie se lo reprochara, porque todos entendían, sin decirlo, que cualquiera de ellos podría haber hecho lo mismo. Nadie habló mucho. La mujer que repetía el nombre en voz baja siguió repitiéndolo, más despacio cada vez, como si las palabras mismas se le estuvieran gastando.
+El camión recogió a cuatro más antes de que terminara el trayecto, un hombre mayor que no dejó de toser todo el camino, dos muchachas que no debían de tener ni veinte años, y un adolescente que se orinó encima del susto sin que nadie se lo reprochara, porque todos entendían, sin decirlo, que cualquiera de ellos podría haber hecho lo mismo. Nadie habló mucho. La mujer que repetía el nombre en voz baja siguió repitiéndolo, más despacio cada vez, como si las palabras mismas se le estuvieran gastando.
 
 
 —¿A dónde nos llevan? —preguntó el adolescente, en algún punto, la voz quebrada.
@@ -43,7 +43,7 @@ El camión recogió a cuatro más antes de que terminara el trayecto — un homb
 Park no supo nada de Deivis Uzcátegui hasta mucho después.
 
 
-El camino de vuelta desde la casa de Casimira fue más lento que la ida — Ronald conducía con la clase de cuidado que solo aparece después de haber visto algo que preferiría no haber visto, tomando las curvas con medio gas de menos del habitual.
+El camino de vuelta desde la casa de Casimira fue más lento que la ida, Ronald conducía con la clase de cuidado que solo aparece después de haber visto algo que preferiría no haber visto, tomando las curvas con medio gas de menos del habitual.
 
 
 —Ella nunca se equivoca con esas cosas —dijo, en un tramo recto, sin girarse del todo—. Lo que dijo de usted. Los cuatro fuegos.
@@ -55,7 +55,7 @@ El camino de vuelta desde la casa de Casimira fue más lento que la ida — Rona
 —Me sirve para saber si puedo confiar en que usted haga algo, si hace falta, más allá de hacer preguntas —contestó Ronald—. ¿Puede?
 
 
-No llegó a contestar. El camino, en la siguiente curva, ya no era camino — un árbol entero, de los grandes, tumbado de lado a lado, las raíces todavía medio enterradas en un socavón fresco que no debía de tener más de un día. El mismo temblor de la noche anterior, entendió Park. La montaña dejando su firma en algo que no tenía nada que ver con Casimira ni con lecturas de Odem, solo con peso y gravedad.
+No llegó a contestar. El camino, en la siguiente curva, ya no era camino, un árbol entero, de los grandes, tumbado de lado a lado, las raíces todavía medio enterradas en un socavón fresco que no debía de tener más de un día. El mismo temblor de la noche anterior, entendió Park. La montaña dejando su firma en algo que no tenía nada que ver con Casimira ni con lecturas de Odem, solo con peso y gravedad.
 
 
 Ronald frenó, bajó de la moto, empujó el tronco con las dos manos por pura costumbre antes de rendirse.
@@ -67,7 +67,7 @@ Ronald frenó, bajó de la moto, empujó el tronco con las dos manos por pura co
 —Deme un segundo —dijo Park.
 
 
-Se plantó junto al tronco, calculó el punto donde la masa se repartía menos uniforme, y concentró ahí lo justo de Fuerza para que el propio peso del árbol trabajara a su favor en vez de en su contra — no un golpe, una presión sostenida, creciendo hasta que la madera cedió del terreno con un crujido húmedo y el tronco entero rodó dos metros hacia la cuneta, dejando el paso libre.
+Se plantó junto al tronco, calculó el punto donde la masa se repartía menos uniforme, y concentró ahí lo justo de Fuerza para que el propio peso del árbol trabajara a su favor en vez de en su contra. No un golpe, una presión sostenida, creciendo hasta que la madera cedió del terreno con un crujido húmedo y el tronco entero rodó dos metros hacia la cuneta, dejando el paso libre.
 
 
 Ronald se quedó mirando el espacio vacío donde había estado el árbol más tiempo del que tardó en pasarlo con la moto.
@@ -76,7 +76,7 @@ Ronald se quedó mirando el espacio vacío donde había estado el árbol más ti
 —No parezco gran cosa —dijo Park, subiéndose detrás de él, como si eso respondiera del todo la pregunta que Ronald ya no necesitaba repetir—. Pero pego más fuerte de lo que parezco. Si llega el momento, y hace falta, lo va a ver usted mismo.
 
 
-Ronald no dijo nada más en el resto del camino, pero algo en cómo conducía cambió — menos cuidado, más decisión, como si acabara de recuperar de golpe la prisa que el miedo en casa de Casimira le había quitado.
+Ronald no dijo nada más en el resto del camino, pero algo en cómo conducía cambió, menos cuidado, más decisión, como si acabara de recuperar de golpe la prisa que el miedo en casa de Casimira le había quitado.
 
 
 ---
@@ -103,7 +103,7 @@ Salcedo no pareció sorprendido por ninguna de las dos cosas.
 Park lo hizo, palabra por palabra, la sensación de Casimira retrocediendo ante él, los cuatro orígenes que había nombrado sin necesitar ningún expediente para hacerlo. Arismendi contestó por escrito, minutos después, una sola línea: *Confirmado. Seguir el hilo. Informe cuando tenga nombre.*
 
 
-Se quedó despierto más tiempo del que debía, mirando por la ventana del hotel hacia una calle donde la única luz que no venía de un generador era la de la luna. Había visto ciudades en guerra sin que hubiera guerra declarada — Hartford tenía sus cuatro manzanas acordonadas, Seúl su isla, Lisboa su barrio con una herida vieja. Nunca había visto un país entero comportarse como una herida — cada institución, cada uniforme, cada punto de control, funcionando lo suficiente para parecer normal y fallando lo suficiente para que nadie, ni siquiera la gente que vivía ahí, pudiera decir con certeza en quién confiar un martes cualquiera. No era una zona de Principado. Era algo que los propios humanos habían hecho solos, generación tras generación, sin que ningún Odem hiciera falta para que doliera igual.
+Se quedó despierto más tiempo del que debía, mirando por la ventana del hotel hacia una calle donde la única luz que no venía de un generador era la de la luna. Había visto ciudades en guerra sin que hubiera guerra declarada, Hartford tenía sus cuatro manzanas acordonadas, Seúl su isla, Lisboa su barrio con una herida vieja. Nunca había visto un país entero comportarse como una herida, cada institución, cada uniforme, cada punto de control, funcionando lo suficiente para parecer normal y fallando lo suficiente para que nadie, ni siquiera la gente que vivía ahí, pudiera decir con certeza en quién confiar un martes cualquiera. No era una zona de Principado. Era algo que los propios humanos habían hecho solos, generación tras generación, sin que ningún Odem hiciera falta para que doliera igual.
 
 
 Todavía estaba pensando en eso cuando el teléfono de Ronald vibró la primera vez.
@@ -154,7 +154,7 @@ Park no corrigió la palabra "oportunidad." Ya no le quedaba margen, esa noche, 
 ---
 
 
-El depósito era una nave industrial abandonada, techo de zinc oxidado, un patio de tierra compactada donde el camión ya estaba aparcado con las luces apagadas cuando llegaron. Park contó los hombres visibles desde la cobertura de los matorrales — seis alrededor del vehículo, tres más entrando y saliendo de una caseta lateral con lo que parecía ser una lista en la mano, comprobando algo contra los que ya estaban dentro.
+El depósito era una nave industrial abandonada, techo de zinc oxidado, un patio de tierra compactada donde el camión ya estaba aparcado con las luces apagadas cuando llegaron. Park contó los hombres visibles desde la cobertura de los matorrales, seis alrededor del vehículo, tres más entrando y saliendo de una caseta lateral con lo que parecía ser una lista en la mano, comprobando algo contra los que ya estaban dentro.
 
 
 —Nueve contra uno no es una pelea, agente —dijo Wilkins, a su lado, la voz baja—. Eso es un suicidio con testigos, y de los burdos.
@@ -175,22 +175,22 @@ Se quedaron agazapados entre los matorrales más tiempo del que a Park le hubier
 ---
 
 
-Se movió hacia el hombre más apartado del grupo primero — el que fumaba solo, a diez metros del resto, el fusil colgado del hombro en vez de en las manos. Park cerró la distancia por detrás sin que la tierra compactada delatara el paso, y el brazo que le rodeó el cuello no buscó dejarlo inconsciente con gentileza: lo apretó hasta que las piernas del hombre dejaron de sostenerlo, el cigarrillo cayendo encendido sobre su propia camisa sin que nadie estuviera ya despierto para apagarlo.
+Se movió hacia el hombre más apartado del grupo primero, el que fumaba solo, a diez metros del resto, el fusil colgado del hombro en vez de en las manos. Park cerró la distancia por detrás sin que la tierra compactada delatara el paso, y el brazo que le rodeó el cuello no buscó dejarlo inconsciente con gentileza: lo apretó hasta que las piernas del hombre dejaron de sostenerlo, el cigarrillo cayendo encendido sobre su propia camisa sin que nadie estuviera ya despierto para apagarlo.
 
 
 —¿Quién anda ahí? —dijo el segundo, girando el fusil a medio levantar, la voz ya quebrada de miedo antes de que Park terminara de aparecer.
 
 
-No tuvo tiempo de saber si alguien le contestó. Park ya estaba encima — un golpe al antebrazo que le partió algo con un chasquido seco antes de que el arma llegara a dispararse, y el segundo impacto, al mentón, con todo el peso de la rotación detrás, le reventó el labio contra los propios dientes y lo dejó tendido, ya no solo inconsciente, la mandíbula visiblemente desalineada.
+No tuvo tiempo de saber si alguien le contestó. Park ya estaba encima, un golpe al antebrazo que le partió algo con un chasquido seco antes de que el arma llegara a dispararse, y el segundo impacto, al mentón, con todo el peso de la rotación detrás, le reventó el labio contra los propios dientes y lo dejó tendido, ya no solo inconsciente, la mandíbula visiblemente desalineada.
 
 
-—¡Marico, están cayendo! —gritó el tercero hacia la caseta, sin esperar respuesta, y en vez de levantar el arma dio un paso atrás hacia la sombra del camión, obligando a Park a elegir entre perseguirlo a ciegas o dejarlo ir. Park fingió el primer paso hacia la sombra — lo suficiente para que el hombre, ya casi invisible entre la cabina y la caja, se confiara y sacara medio cuerpo para apuntar con más ángulo. Ese medio segundo de exposición fue el error real. Park cambió de dirección a mitad de zancada, cerrando por el lado corto en vez del largo, y el golpe al antebrazo llegó con suficiente fuerza para que el hueso cediera antes que el gatillo — un grito que no alcanzó a ser palabra, y el hombre cayó sujetándose el brazo en un ángulo que ningún brazo debería sostener.
+—¡Marico, están cayendo! —gritó el tercero hacia la caseta, sin esperar respuesta, y en vez de levantar el arma dio un paso atrás hacia la sombra del camión, obligando a Park a elegir entre perseguirlo a ciegas o dejarlo ir. Park fingió el primer paso hacia la sombra, lo suficiente para que el hombre, ya casi invisible entre la cabina y la caja, se confiara y sacara medio cuerpo para apuntar con más ángulo. Ese medio segundo de exposición fue el error real. Park cambió de dirección a mitad de zancada, cerrando por el lado corto en vez del largo, y el golpe al antebrazo llegó con suficiente fuerza para que el hueso cediera antes que el gatillo, un grito que no alcanzó a ser palabra, y el hombre cayó sujetándose el brazo en un ángulo que ningún brazo debería sostener.
 
 
-—¡No sabe con quién se mete, imbécil! —gritó el cuarto, sin disparar primero. Gritó algo más hacia la caseta, un número de frecuencia y una palabra que Park no conocía, y solo después levantó el arma — pidiendo refuerzo antes de defenderse, la clase de decisión que ningún manual de reacción rápida enseñaría pero que un hombre que sabe que está solo en una pelea perdida toma de todos modos. No le dio tiempo a terminar de apuntar. El golpe de Park, al pecho, lo dejó sin aire y sin arma, doblado en el suelo junto a los otros tres, tosiendo algo que no era solo saliva — pero la llamada ya había salido.
+—¡No sabe con quién se mete, imbécil! —gritó el cuarto, sin disparar primero. Gritó algo más hacia la caseta, un número de frecuencia y una palabra que Park no conocía, y solo después levantó el arma, pidiendo refuerzo antes de defenderse, la clase de decisión que ningún manual de reacción rápida enseñaría pero que un hombre que sabe que está solo en una pelea perdida toma de todos modos. No le dio tiempo a terminar de apuntar. El golpe de Park, al pecho, lo dejó sin aire y sin arma, doblado en el suelo junto a los otros tres, tosiendo algo que no era solo saliva, pero la llamada ya había salido.
 
 
-El quinto respondió desde la caseta lateral, y el disparo que soltó sí salió — le rozó el costado izquierdo a Park con un dolor caliente que archivó para después, sin pararse a evaluarlo del todo. No tenía Clase-R esta vez. No tenía nadie cubriéndole la espalda salvo gente sin entrenamiento a cien metros de distancia, esperando una señal.
+El quinto respondió desde la caseta lateral, y el disparo que soltó sí salió. Le rozó el costado izquierdo a Park con un dolor caliente que archivó para después, sin pararse a evaluarlo del todo. No tenía Clase-R esta vez. No tenía nadie cubriéndole la espalda salvo gente sin entrenamiento a cien metros de distancia, esperando una señal.
 
 
 El disparo fue la señal.
@@ -199,7 +199,7 @@ El disparo fue la señal.
 Las motos arrancaron a la vez, un rugido de siete motores que rompió cualquier posibilidad de que los hombres del camión mantuvieran la calma. Uno de ellos corrió hacia el camino de tierra, directo hacia donde Wilkins y los demás ya estaban bloqueando el paso con las propias motos cruzadas; otro se quedó firme, apuntando hacia el punto exacto de donde había salido el primer cuerpo caído.
 
 
-Park usó el segundo de confusión para cerrar contra el que acababa de dispararle desde la caseta — un salto corto, la inercia acumulada del golpe anterior redirigida en un ángulo bajo. El codo le abrió la ceja al hombre hasta el hueso, y salió por la puerta de la caseta de espaldas, la sangre ya cubriéndole medio rostro antes de terminar de entender que ya no tenía arma en las manos.
+Park usó el segundo de confusión para cerrar contra el que acababa de dispararle desde la caseta, un salto corto, la inercia acumulada del golpe anterior redirigida en un ángulo bajo. El codo le abrió la ceja al hombre hasta el hueso, y salió por la puerta de la caseta de espaldas, la sangre ya cubriéndole medio rostro antes de terminar de entender que ya no tenía arma en las manos.
 
 
 —¡Esto no se va a quedar así! —alcanzó a gritar, ya en el suelo, más por orgullo que porque le quedara alguna forma de sostener la amenaza.
@@ -208,7 +208,7 @@ Park usó el segundo de confusión para cerrar contra el que acababa de disparar
 Quedaban cuatro. Dos de ellos, viendo a sus compañeros caer en un orden que no tenía ninguna lógica que pudieran seguir, decidieron que el camión era más importante que la pelea, y corrieron hacia la cabina.
 
 
-No llegaron a arrancarlo. Freddy, desde su moto, lanzó algo pesado — una piedra, quizás una llave inglesa, Park no llegó a verlo bien — directo al parabrisas.
+No llegaron a arrancarlo. Freddy, desde su moto, lanzó algo pesado, una piedra, quizás una llave inglesa, Park no llegó a verlo bien, directo al parabrisas.
 
 
 —¡Toma esa, malandro! —gritó, la voz rajada de la adrenalina.
@@ -223,7 +223,7 @@ El que se había quedado firme no corrió a ningún lado. Fue derecho hacia la p
 —¡Quieto ahí, no joda! —gritó, la voz demasiado alta, demasiado rápida, la de alguien improvisando un plan que no tenía cinco minutos antes—. ¡Un paso más y lo dejo aquí mismo!
 
 
-Park se detuvo. No por la orden — por el ángulo: el hombre temblaba, y un fusil temblando contra la cabeza de alguien era, si acaso, más peligroso que uno sostenido con calma.
+Park se detuvo. No por la orden, por el ángulo: el hombre temblaba, y un fusil temblando contra la cabeza de alguien era, si acaso, más peligroso que uno sostenido con calma.
 
 
 —Baje el arma —dijo Park, sin acercarse, las manos visibles, abiertas—. Los otros ocho ya están libres. Usted solo tiene una salida de aquí, y no es esa.
@@ -235,31 +235,31 @@ Park se detuvo. No por la orden — por el ángulo: el hombre temblaba, y un fus
 —Sé que si aprieta ese gatillo, no le queda ninguna —dijo Park—. Y hasta ahora, todos los que se han quedado quietos cuando se lo pedí han salido caminando. Todos los que no, no.
 
 
-El hombre no bajó el arma del todo, pero el temblor en su brazo cambió de ritmo — la duda real, no fingida, de alguien que empezaba a hacer cuentas sobre cuánto le quedaba de esta noche. Fue suficiente. Park cerró los últimos tres metros en el instante exacto en que el cañón se desvió medio grado de la sien del chico, sujetó la muñeca del hombre y la giró hacia arriba antes de que el dedo terminara de decidir nada, el fusil cayendo al suelo sin haber llegado a dispararse.
+El hombre no bajó el arma del todo, pero el temblor en su brazo cambió de ritmo, la duda real, no fingida, de alguien que empezaba a hacer cuentas sobre cuánto le quedaba de esta noche. Fue suficiente. Park cerró los últimos tres metros en el instante exacto en que el cañón se desvió medio grado de la sien del chico, sujetó la muñeca del hombre y la giró hacia arriba antes de que el dedo terminara de decidir nada, el fusil cayendo al suelo sin haber llegado a dispararse.
 
 
 El adolescente cayó de rodillas, respirando como si llevara un minuto entero sin hacerlo del todo.
 
 
-El hombre, ya en el suelo, todavía llevaba puesto el parche oficial en el hombro — la bandera pequeña, cosida torcida, el mismo escudo que Park había visto esa mañana en el aeropuerto, en los carteles de bienvenida de un gobierno que ya no controlaba ni la mitad de lo que decía controlar. Se agachó, lo arrancó de un tirón seco, y se lo puso en la mano al adolescente en vez de guardárselo o tirarlo.
+El hombre, ya en el suelo, todavía llevaba puesto el parche oficial en el hombro, la bandera pequeña, cosida torcida, el mismo escudo que Park había visto esa mañana en el aeropuerto, en los carteles de bienvenida de un gobierno que ya no controlaba ni la mitad de lo que decía controlar. Se agachó, lo arrancó de un tirón seco, y se lo puso en la mano al adolescente en vez de guardárselo o tirarlo.
 
 
 —Esto no es suyo —le dijo al hombre en el suelo, sin alzar la voz—. Lo lleva puesto. Nunca fue suyo.
 
 
-El chico se quedó mirando el parche en su propia mano un momento, sin saber qué hacer con él, hasta que lo cerró en el puño y no dijo nada — pero algo en su cara, por primera vez desde que Park había llegado, no era solo miedo.
+El chico se quedó mirando el parche en su propia mano un momento, sin saber qué hacer con él, hasta que lo cerró en el puño y no dijo nada, pero algo en su cara, por primera vez desde que Park había llegado, no era solo miedo.
 
 
 ---
 
 
-Los últimos dos no esperaron a que Park llegara hasta ellos. Corrieron, y nadie los persiguió — ni Park, que ya tenía las manos ocupadas cortando bridas de plástico con la punta de una navaja que Wilkins le puso en la mano sin preguntar, ni los mototaxistas, más interesados en subir gente a sus motos que en cazar a nadie en la oscuridad.
+Los últimos dos no esperaron a que Park llegara hasta ellos. Corrieron, y nadie los persiguió, ni Park, que ya tenía las manos ocupadas cortando bridas de plástico con la punta de una navaja que Wilkins le puso en la mano sin preguntar, ni los mototaxistas, más interesados en subir gente a sus motos que en cazar a nadie en la oscuridad.
 
 
-Ocho personas salieron de la parte trasera del camión, ninguna en las mismas condiciones — un hombre con la mandíbula hinchada de un golpe recibido antes de que Park llegara, una mujer que no dejaba de repetir un nombre entre lágrimas, dos jóvenes que no decían nada en absoluto, la clase de silencio que Park ya había aprendido a reconocer como algo peor que el pánico.
+Ocho personas salieron de la parte trasera del camión, ninguna en las mismas condiciones, un hombre con la mandíbula hinchada de un golpe recibido antes de que Park llegara, una mujer que no dejaba de repetir un nombre entre lágrimas, dos jóvenes que no decían nada en absoluto, la clase de silencio que Park ya había aprendido a reconocer como algo peor que el pánico.
 
 
-La mujer fue la primera en llegar hasta Park, antes incluso de que él terminara de guardar la navaja. No dijo nada al principio — se quedó mirándolo como si todavía no confiara en que fuera real, y después lloró, de golpe, con todo el cuerpo.
+La mujer fue la primera en llegar hasta Park, antes incluso de que él terminara de guardar la navaja. No dijo nada al principio, se quedó mirándolo como si todavía no confiara en que fuera real, y después lloró, de golpe, con todo el cuerpo.
 
 
 —Jesucristo —dijo, la voz rota, casi sin aire, la misma palabra que había estado repitiendo toda la noche contra la pared del punto de control, en el camión, bajito, hasta que dejó de sonar a nombre y empezó a sonar a lo único que le quedaba para no gritar.
@@ -322,7 +322,7 @@ Park se quedó con la radio en la mano un momento, sintiendo el peso exacto de l
 ---
 
 
-Se llamaba Rosaura. Salcedo no tenía forma de saber que el nombre que ella había repetido toda la noche era una plegaria, no una pista — pero lo que quería que Park le preguntara no tenía nada que ver con eso. Tenía que ver con su sobrina, desaparecida cuatro semanas atrás — no de un camión, no de un punto de control, no de ningún sitio que un manifiesto pudiera registrar.
+Se llamaba Rosaura. Salcedo no tenía forma de saber que el nombre que ella había repetido toda la noche era una plegaria, no una pista, pero lo que quería que Park le preguntara no tenía nada que ver con eso. Tenía que ver con su sobrina, desaparecida cuatro semanas atrás, no de un camión, no de un punto de control, no de ningún sitio que un manifiesto pudiera registrar.
 
 
 Tenía las manos manchadas de tierra todavía, de cuando la habían tirado al suelo del camión al subirla, y no las había limpiado ni una sola vez en toda la conversación, como si le importara menos la tierra que cualquier otra cosa que tuviera que explicar esa noche.
@@ -349,10 +349,10 @@ Se detuvo, respiró, y cuando siguió ya sonaba más ella misma que la mujer que
 —Solo en la mía —dijo Rosaura—. No sé cuántas más en el resto de la zona. No sé si alguien lo sabe.
 
 
-Park pensó en el radio de la libreta mental que llevaba construyendo desde el aeropuerto, el mismo que se había ido estrechando alrededor de la montaña con cada nombre nuevo — y pensó que ese radio, hasta esa misma noche, solo había contado a la gente que un camión y unos hombres armados podían llevarse. Nadie había estado contando a la otra clase de desaparecidos. Los que se iban sin que nadie tuviera a quién odiar por ello.
+Park pensó en el radio de la libreta mental que llevaba construyendo desde el aeropuerto, el mismo que se había ido estrechando alrededor de la montaña con cada nombre nuevo, y pensó que ese radio, hasta esa misma noche, solo había contado a la gente que un camión y unos hombres armados podían llevarse. Nadie había estado contando a la otra clase de desaparecidos. Los que se iban sin que nadie tuviera a quién odiar por ello.
 
 
 Pensó, sin buscarlo, en las últimas veces que había visto a alguien llorar así de cerca. Mariana, sobre el cuerpo de Zoltán, llorando a alguien que ya no podía oírla. Katalin, sin soltar la muñeca de su primo mientras se apagaba. Rafa, antes de eso, en el suelo de una sala de máquinas que nadie lloró a tiempo. Cada una de esas veces había terminado con alguien llorando por lo que Park no había podido salvar. Esta noche, por primera vez en mucho tiempo, las lágrimas que le habían tocado la cara no eran de duelo. Eran de otra cosa, algo que Park no recordaba haber sentido tan de cerca desde que empezó a hacer este trabajo, y que por eso mismo le costó reconocer al principio.
 
 
-Park miró hacia la montaña, invisible en la oscuridad más allá del depósito, y sintió el mismo peso denso que llevaba notando desde el primer día — solo que esta vez, por primera vez, entendió que ese peso no tenía nada que ver con los hombres que acababa de dejar atados en el suelo.
+Park miró hacia la montaña, invisible en la oscuridad más allá del depósito, y sintió el mismo peso denso que llevaba notando desde el primer día, solo que esta vez, por primera vez, entendió que ese peso no tenía nada que ver con los hombres que acababa de dejar atados en el suelo.

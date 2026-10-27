@@ -4,29 +4,29 @@
 
 Las furgonetas llevaban ya un buen rato entre edificios cuando Oliver entendió que había dejado de reconocer nada del paisaje.
 
-Milán, había dicho Reber, sin dar más explicación, mientras subían — el nombre de la ciudad y nada más, dicho con la misma economía con la que anunciaba cualquier otra cosa. No era el macizo. No había piedra desnuda, ni aire fino, ni el silencio particular de la altitud. Había tráfico — un ruido de fondo constante, cláxones lejanos, un tranvía cruzando dos calles más allá con un chirrido metálico que Oliver sentía en los dientes. Un hombre discutía por teléfono en la acera sin bajar la voz. Una mujer empujaba un carrito de la compra con dos niños colgados de los laterales, ajena por completo a la fila de furgonetas sin distintivo que acababa de dejarla atrás. Olía a asfalto caliente, a algo frito de un puesto callejero, a ciudad de verdad — capas de olor que San Gotardo, encerrado en su montaña, nunca había tenido.
+Milán, había dicho Reber, sin dar más explicación, mientras subían, el nombre de la ciudad y nada más, dicho con la misma economía con la que anunciaba cualquier otra cosa. No era el macizo. No había piedra desnuda, ni aire fino, ni el silencio particular de la altitud. Había tráfico, un ruido de fondo constante, cláxones lejanos, un tranvía cruzando dos calles más allá con un chirrido metálico que Oliver sentía en los dientes. Un hombre discutía por teléfono en la acera sin bajar la voz. Una mujer empujaba un carrito de la compra con dos niños colgados de los laterales, ajena por completo a la fila de furgonetas sin distintivo que acababa de dejarla atrás. Olía a asfalto caliente, a algo frito de un puesto callejero, a ciudad de verdad. Capas de olor que San Gotardo, encerrado en su montaña, nunca había tenido.
 
 —Esto no es un ejercicio de campo —dijo Riku, con la cara casi pegada a la ventanilla—. Esto es una ciudad de verdad. Con gente de verdad. Que no sabe nada de nosotros.
 
 —Esa es la idea —dijo Pier, sin apartar la vista del cristal—. Que siga sin saberlo, pase lo que pase esta semana.
 
-Nadie respondió a eso. El silencio que siguió tenía un peso distinto al silencio de las furgonetas de siempre — no el de reservar energía antes de un ejercicio, sino el de entender, poco a poco, que esta vez el terreno mismo no era controlado por nadie que ellos conocieran.
+Nadie respondió a eso. El silencio que siguió tenía un peso distinto al silencio de las furgonetas de siempre. No el de reservar energía antes de un ejercicio, sino el de entender, poco a poco, que esta vez el terreno mismo no era controlado por nadie que ellos conocieran.
 
 ---
 
-Los metieron en un almacén reconvertido cerca de un puerto ferroviario de carga, contenedores apilados fuera, luces de neón industrial dentro, el suelo todavía manchado de aceite de maquinaria que ya no estaba. Todo San Gotardo cabía ahí — más de doscientos candidatos, de pie, en silencio, la misma disciplina de siempre aplicada a un espacio que no se parecía en nada al hangar del macizo.
+Los metieron en un almacén reconvertido cerca de un puerto ferroviario de carga, contenedores apilados fuera, luces de neón industrial dentro, el suelo todavía manchado de aceite de maquinaria que ya no estaba. Todo San Gotardo cabía ahí, más de doscientos candidatos, de pie, en silencio, la misma disciplina de siempre aplicada a un espacio que no se parecía en nada al hangar del macizo.
 
 Reber esperaba ya sobre una plataforma improvisada, sin necesitar micrófono, la misma voz de siempre llegando igual de lejos.
 
 —Una semana —dijo, sin preámbulo—. Empieza esta noche, a las doce en punto. Termina dentro de siete días, a la misma hora, ni un minuto más. Sobreviven en esta ciudad, con estas reglas, y al final contamos. Veinticinco plazas. Nada más.
 
-—La tabla general no se detiene esta semana —continuó Reber—. Sigue corriendo, y esto cuenta para ella. Cada placa ajena que consigan sube puntos. No el mismo número siempre — quitarle la placa a alguien por encima de ustedes en la tabla vale mucho más que quitársela a alguien por debajo. No importa el método a traves del cual consigáis una placa. Si un instructor os atrapa, quedáis fuera. Evadir una persecución activa — no solo no ser visto, sino ser visto y escapar — puntúa más que esconderse bien todo el tiempo. Llegar al final de la semana con la placa propia intacta puntúa por sí solo, aunque no hayan tocado a nadie. Los veinticinco primeros de la tabla al cierre, pasan. No hay empate que valga — el que queda en el puesto veintiséis, no pasa.
+—La tabla general no se detiene esta semana —continuó Reber—. Sigue corriendo, y esto cuenta para ella. Cada placa ajena que consigan sube puntos. No el mismo número siempre. Quitarle la placa a alguien por encima de ustedes en la tabla vale mucho más que quitársela a alguien por debajo. No importa el método a traves del cual consigáis una placa. Si un instructor os atrapa, quedáis fuera. Evadir una persecución activa, no solo no ser visto, sino ser visto y escapar, puntúa más que esconderse bien todo el tiempo. Llegar al final de la semana con la placa propia intacta puntúa por sí solo, aunque no hayan tocado a nadie. Los veinticinco primeros de la tabla al cierre, pasan. No hay empate que valga. El que queda en el puesto veintiséis, no pasa.
 
 Un murmullo recorrió el almacén, apagado casi al instante por la misma disciplina que lo había contenido siempre.
 
-—No es solo sobrevivir a los demás, ni a nosotros —continuó Reber—. Es sobrevivir a la ciudad misma sin que la ciudad se entere de que están aquí. Nadie llama la atención. Nadie deja un rastro que un civil recuerde dos veces. Un techo, dos personas — máximo. El grupo entero bajo el mismo techo se nota, se recuerda, se convierte en el vecino raro del quinto piso antes de que acabe la semana. Repártanse esta noche, no mañana. El que se descubre, se descubre solo — no hay equipo de contención detrás limpiando lo que deje suelto.
+—No es solo sobrevivir a los demás, ni a nosotros —continuó Reber—. Es sobrevivir a la ciudad misma sin que la ciudad se entere de que están aquí. Nadie llama la atención. Nadie deja un rastro que un civil recuerde dos veces. Un techo, dos personas, máximo. El grupo entero bajo el mismo techo se nota, se recuerda, se convierte en el vecino raro del quinto piso antes de que acabe la semana. Repártanse esta noche, no mañana. El que se descubre, se descubre solo. No hay equipo de contención detrás limpiando lo que deje suelto.
 
-Un instructor empezó a repartir cajas pequeñas, una por candidato. Oliver abrió la suya sobre la palma de la mano: la placa con su nombre grabado, sí, pero debajo, en capas ordenadas, mucho más. Un dispositivo plano, del tamaño de una tarjeta, con una pantalla que se encendió sola al tacto — el tablero, en miniatura, portátil, actualizándose ya con su propio nombre en algún puesto que todavía no había mirado. Un auricular diminuto, de comunicación de corto alcance. Un fajo de billetes en una moneda que no era la suya. Y, en el fondo, una tarjeta de identidad con su cara y un nombre que no era Oliver Webb.
+Un instructor empezó a repartir cajas pequeñas, una por candidato. Oliver abrió la suya sobre la palma de la mano: la placa con su nombre grabado, sí, pero debajo, en capas ordenadas, mucho más. Un dispositivo plano, del tamaño de una tarjeta, con una pantalla que se encendió sola al tacto, el tablero, en miniatura, portátil, actualizándose ya con su propio nombre en algún puesto que todavía no había mirado. Un auricular diminuto, de comunicación de corto alcance. Un fajo de billetes en una moneda que no era la suya. Y, en el fondo, una tarjeta de identidad con su cara y un nombre que no era Oliver Webb.
 
 —Esto es un despliegue real —dijo Nadia, la voz bajando sin que se lo propusiera—. No un ejercicio con red de seguridad. Nos han dado dinero. Identidad falsa. Como si de verdad tuviéramos que pasar por alguien más toda la semana.
 
@@ -38,33 +38,33 @@ Un instructor empezó a repartir cajas pequeñas, una por candidato. Oliver abri
 
 —Y perderla —dijo Dara, sin necesitar terminar la frase.
 
-Nadie la terminó por ella. No hacía falta. Perder la placa no era solo perder puntos. Era, de un modo literal que nadie había anunciado en voz alta, dejar que otro se quedara con tu plaza — o que el sistema mismo confirmara que no ibas a necesitarlo más.
+Nadie la terminó por ella. No hacía falta. Perder la placa no era solo perder puntos. Era, de un modo literal que nadie había anunciado en voz alta, dejar que otro se quedara con tu plaza, o que el sistema mismo confirmara que no ibas a necesitarlo más.
 
 —El año pasado fueron cincuenta —dijo Johanna, desde algún punto de la fila de al lado, sin dirigirse a nadie en particular, la voz completamente plana—. Este año, veinticinco. No pregunten por qué. Nadie explica los recortes.
 
-Nadie le preguntó. La forma en que lo dijo —sin sorpresa, sin indignación, como quien recita un dato ya digerido hace tiempo— le daba una autoridad que ninguno de los presentes había tenido que ganarse todavía. Ya había hecho esto. Sabía de qué hablaba.
+Nadie le preguntó. La forma en que lo dijo, sin sorpresa, sin indignación, como quien recita un dato ya digerido hace tiempo, le daba una autoridad que ninguno de los presentes había tenido que ganarse todavía. Ya había hecho esto. Sabía de qué hablaba.
 
 ---
 
 Fue entonces cuando llegó el tercero.
 
-Reber y Anka ya estaban en la plataforma, pero hasta ese momento nadie había mencionado a nadie más. El hombre que subió los escalones llevaba sotana negra, cuello clerical, un rosario visible en el cinturón que no parecía ornamental — todo en él decía Iglesia antes de que abriera la boca, y sin embargo nadie en la plataforma lo trató como a un invitado. Reber le cedió el sitio sin ceremonia, como quien cede el paso a alguien de rango superior sin necesitar que se lo pidan.
+Reber y Anka ya estaban en la plataforma, pero hasta ese momento nadie había mencionado a nadie más. El hombre que subió los escalones llevaba sotana negra, cuello clerical, un rosario visible en el cinturón que no parecía ornamental, todo en él decía Iglesia antes de que abriera la boca, y sin embargo nadie en la plataforma lo trató como a un invitado. Reber le cedió el sitio sin ceremonia, como quien cede el paso a alguien de rango superior sin necesitar que se lo pidan.
 
-El aire cambió antes de que hablara. No fue nada visible — ninguna luz, ningún gesto — pero Oliver sintió el pecho apretarse un grado, como si el propio espacio a su alrededor hubiera ganado densidad sin ganar volumen. A su lado, Dara se llevó la mano al esternón sin darse cuenta, y no fue la única — un movimiento pequeño se propagó por todo el almacén, doscientas personas ajustando la respiración al mismo tiempo sin decidirlo.
+El aire cambió antes de que hablara. No fue nada visible, ninguna luz, ningún gesto, pero Oliver sintió el pecho apretarse un grado, como si el propio espacio a su alrededor hubiera ganado densidad sin ganar volumen. A su lado, Dara se llevó la mano al esternón sin darse cuenta, y no fue la única, un movimiento pequeño se propagó por todo el almacén, doscientas personas ajustando la respiración al mismo tiempo sin decidirlo.
 
 —Padre Andrea Conti —dijo el hombre, el acento italiano marcado incluso en dos palabras—. AMAT-Italia. Estaré cazando, como los demás.
 
-No dio más explicación. Bajó la vista un momento hacia la primera fila, como si escogiera algo sin prisa, y por un segundo pareció que iba a añadir algo más — pero se limitó a santiguarse, un gesto rápido, casi automático, y dio un paso atrás. El peso en el aire no se fue del todo con él. Se quedó, más bajo, como un ruido de fondo que el cuerpo aprendía a ignorar sin llegar a olvidarlo.
+No dio más explicación. Bajó la vista un momento hacia la primera fila, como si escogiera algo sin prisa, y por un segundo pareció que iba a añadir algo más, pero se limitó a santiguarse, un gesto rápido, casi automático, y dio un paso atrás. El peso en el aire no se fue del todo con él. Se quedó, más bajo, como un ruido de fondo que el cuerpo aprendía a ignorar sin llegar a olvidarlo.
 
-Reber retomó la palabra un segundo después, como si la interrupción hubiera sido protocolaria, y terminó de explicar el resto de las reglas — perímetro de la ciudad marcado sin mapa físico, zonas fuera de límites que ya conocerían al acercarse, comunicación entre candidatos permitida, entre candidatos e instructores no.
+Reber retomó la palabra un segundo después, como si la interrupción hubiera sido protocolaria, y terminó de explicar el resto de las reglas. Perímetro de la ciudad marcado sin mapa físico, zonas fuera de límites que ya conocerían al acercarse, comunicación entre candidatos permitida, entre candidatos e instructores no.
 
 —Empiezan cuando salgan por esa puerta —dijo Reber, al fin—. No antes.
 
 ---
 
-Salieron en grupos pequeños, espaciados, hacia calles que Oliver no habría sabido nombrar ni con un mapa delante. El ruido de la ciudad los tragó casi de inmediato — un mercado callejero dos manzanas más allá, el olor de comida que no reconocía, alguien discutiendo en italiano por un aparcamiento sin que ninguno de los dos supiera que un centenar de agentes en entrenamiento acababan de cruzar la misma calle.
+Salieron en grupos pequeños, espaciados, hacia calles que Oliver no habría sabido nombrar ni con un mapa delante. El ruido de la ciudad los tragó casi de inmediato, un mercado callejero dos manzanas más allá, el olor de comida que no reconocía, alguien discutiendo en italiano por un aparcamiento sin que ninguno de los dos supiera que un centenar de agentes en entrenamiento acababan de cruzar la misma calle.
 
-Antes de perderse del todo entre los edificios, Oliver alcanzó a ver cómo se dispersaban los demás grupos. Johanna llevaba al suyo con la misma autoridad tranquila de siempre, señalando direcciones sin necesitar repetirlas. Noa, un poco más allá, hablaba en voz baja con dos de los suyos, la cabeza inclinada hacia un plano mental que solo ella parecía tener. Más atrás, el grupo que Riku reconoció sin necesitar mirar dos veces — Iker entre ellos, Yegor no, el resto del club de pelea moviéndose con una cohesión que no tenían en San Gotardo, como si la ciudad les hubiera dado, de golpe, un propósito compartido que el macizo nunca les había ofrecido del todo. Y en algún punto entre la salida del grupo Johanna y otro del cual no pudo identificar a nadie en particular, salió Dax. Solo, no sin nadie que lo siguiese, sino más bien nadie a quien dejase hacerlo.
+Antes de perderse del todo entre los edificios, Oliver alcanzó a ver cómo se dispersaban los demás grupos. Johanna llevaba al suyo con la misma autoridad tranquila de siempre, señalando direcciones sin necesitar repetirlas. Noa, un poco más allá, hablaba en voz baja con dos de los suyos, la cabeza inclinada hacia un plano mental que solo ella parecía tener. Más atrás, el grupo que Riku reconoció sin necesitar mirar dos veces, Iker entre ellos, Yegor no, el resto del club de pelea moviéndose con una cohesión que no tenían en San Gotardo, como si la ciudad les hubiera dado, de golpe, un propósito compartido que el macizo nunca les había ofrecido del todo. Y en algún punto entre la salida del grupo Johanna y otro del cual no pudo identificar a nadie en particular, salió Dax. Solo, no sin nadie que lo siguiese, sino más bien nadie a quien dejase hacerlo.
 
 —Se ven muy organizados —dijo Dara, siguiendo la misma mirada.
 
@@ -78,13 +78,13 @@ Se reunieron una última vez antes de las doce, en la azotea de un edificio a me
 
 —Y un sitio propio, cada uno, o cada dos —dijo Pier—. Nada de quedarnos los seis bajo el mismo techo. Ya oísteis a Reber.
 
-Riku propuso parejas rotativas para la caza durante el día — nadie solo más de un par de horas seguidas, aunque cada uno durmiera aparte. Nadia sugirió anotar patrones de los instructores, la misma disciplina de archivo que llevaba encima desde la Sala de clasificación, aplicada ahora a algo que de verdad importaba. Dara ofreció usar el Doble como señuelo en los primeros intentos, gastando lo mínimo hasta ver qué tan en serio iba la cosa.
+Riku propuso parejas rotativas para la caza durante el día, nadie solo más de un par de horas seguidas, aunque cada uno durmiera aparte. Nadia sugirió anotar patrones de los instructores, la misma disciplina de archivo que llevaba encima desde la Sala de clasificación, aplicada ahora a algo que de verdad importaba. Dara ofreció usar el Doble como señuelo en los primeros intentos, gastando lo mínimo hasta ver qué tan en serio iba la cosa.
 
 —Somos seis —dijo Asha, en algún punto, casi de pasada—. Si conseguimos suficientes placas entre todos, no hace falta que cada uno gane las suyas por separado.
 
-Nadie discutió eso todavía. Nadie hizo la cuenta completa esa noche — cuántas plazas quedaban, cuántos eran, cuánto exactamente iba a costar. Fue solo una frase, dicha con la misma confianza tranquila con la que todo lo demás se había dicho esa noche, y por ahora bastaba con eso.
+Nadie discutió eso todavía. Nadie hizo la cuenta completa esa noche, cuántas plazas quedaban, cuántos eran, cuánto exactamente iba a costar. Fue solo una frase, dicha con la misma confianza tranquila con la que todo lo demás se había dicho esa noche, y por ahora bastaba con eso.
 
-Se repartieron sin discutirlo mucho, pero no al azar — Asha había marcado en el mapa un radio de pocas manzanas, lo bastante separado para no parecer un solo grupo, lo bastante cerca para llegar corriendo si hacía falta. Asha y Dara se quedaron con un edificio de apartamentos con demasiadas escaleras para que nadie llevara la cuenta de quién entraba y salía. Nadia y Pier, dos calles más allá, con una pensión barata donde nadie preguntaba nombres. Oliver y Riku, cerrando el triángulo, con un cuarto sobre un taller mecánico cerrado a cinco minutos a pie de cualquiera de los otros dos, olor a grasa vieja filtrándose por el suelo de madera.
+Se repartieron sin discutirlo mucho, pero no al azar, Asha había marcado en el mapa un radio de pocas manzanas, lo bastante separado para no parecer un solo grupo, lo bastante cerca para llegar corriendo si hacía falta. Asha y Dara se quedaron con un edificio de apartamentos con demasiadas escaleras para que nadie llevara la cuenta de quién entraba y salía. Nadia y Pier, dos calles más allá, con una pensión barata donde nadie preguntaba nombres. Oliver y Riku, cerrando el triángulo, con un cuarto sobre un taller mecánico cerrado a cinco minutos a pie de cualquiera de los otros dos, olor a grasa vieja filtrándose por el suelo de madera.
 
 Con cada uno atento en su habitación, con el comunicador abierto, llegó la hora designada. Y nada. Todos pudieron escuchar desde su propio sitio un suspiro de Pier que pareció más a alivio que a decepción. 
 
@@ -116,7 +116,7 @@ Dara no dijo nada durante un rato largo, y cuando habló fue solo una frase, tan
 
 —A mí nadie me nota si voy a mirar.
 
-Nadie contestó eso tampoco, pero por la forma en que el silencio cambió, Oliver supo que la oferta de Dara no iba a llegar a nada esa noche — no porque nadie la creyera, sino porque ni siquiera ella parecía muy convencida de querer usarla. Y con eso bastó — la propuesta de Asha se cerró sobre el resto sin que nadie más la empujara del todo, y uno a uno los comunicadores fueron apagándose, hasta que solo quedó el cuarto sobre el taller, y Riku, de pie junto a la ventana con él.
+Nadie contestó eso tampoco, pero por la forma en que el silencio cambió, Oliver supo que la oferta de Dara no iba a llegar a nada esa noche. No porque nadie la creyera, sino porque ni siquiera ella parecía muy convencida de querer usarla. Y con eso bastó, la propuesta de Asha se cerró sobre el resto sin que nadie más la empujara del todo, y uno a uno los comunicadores fueron apagándose, hasta que solo quedó el cuarto sobre el taller, y Riku, de pie junto a la ventana con él.
 
 —Voy contigo —dijo Riku, sin que Oliver hubiera dicho nada todavía.
 
@@ -130,15 +130,15 @@ Oliver sintió algo parecido a la culpa moverse detrás de las costillas, rápid
 
 —Vale —dijo Riku, sin mirarlo, ya con la mano en el picaporte.
 
-Oliver aceptó ir con un gesto rápido, casi antes de terminar de pensarlo, y lo primero que hizo fue encender el Registro otra vez, buscando a Dax en el radio que todavía le alcanzaba. Ahí seguía, más lejos ya, pero ahí. Solo entonces se dio cuenta de con cuánta rapidez había reaccionado — la misma rapidez con la que se prepara alguien que ya sabía, de antes, que iba a decir que sí. Y no pudo evitar preguntarse, mientras seguía a Riku escaleras abajo hacia la calle, si lo que Riku había dicho de él no era, después de todo, del todo mentira.
+Oliver aceptó ir con un gesto rápido, casi antes de terminar de pensarlo, y lo primero que hizo fue encender el Registro otra vez, buscando a Dax en el radio que todavía le alcanzaba. Ahí seguía, más lejos ya, pero ahí. Solo entonces se dio cuenta de con cuánta rapidez había reaccionado, la misma rapidez con la que se prepara alguien que ya sabía, de antes, que iba a decir que sí. Y no pudo evitar preguntarse, mientras seguía a Riku escaleras abajo hacia la calle, si lo que Riku había dicho de él no era, después de todo, del todo mentira.
 
 ---
 
-Lo siguieron sin acercarse demasiado, guiándose más por el Registro que por la vista — Oliver lo mantenía encendido a ráfagas cortas, un parpadeo cada varias calles, usando Vacío el resto del tiempo, lo justo para confirmar dirección sin gastar más de lo necesario sin delatar su posición. Riku lo imitó casi por reflejo. Dax caminaba sin prisa, sin mirar atrás ni una vez, como si la posibilidad de que alguien lo siguiera no le hubiera cruzado la cabeza, o como si no le importara si lo hacía.
+Lo siguieron sin acercarse demasiado, guiándose más por el Registro que por la vista, Oliver lo mantenía encendido a ráfagas cortas, un parpadeo cada varias calles, usando Vacío el resto del tiempo, lo justo para confirmar dirección sin gastar más de lo necesario sin delatar su posición. Riku lo imitó casi por reflejo. Dax caminaba sin prisa, sin mirar atrás ni una vez, como si la posibilidad de que alguien lo siguiera no le hubiera cruzado la cabeza, o como si no le importara si lo hacía.
 
 —Va hacia el parque —dijo Riku, en voz baja, señalando con la barbilla una mancha oscura entre los edificios, dos calles más allá—. Ahí no hay luz.
 
-Cruzaron el resto del camino pegados a los muros, y fue Riku quien los detuvo primero, una mano en el pecho de Oliver, antes de llegar a la entrada del parque. Bajo los árboles, en un claro donde la única luz venía de una farola rota parpadeando a intervalos, había más de una silueta. Cuatro, contó Oliver, tal vez cinco, dispuestas sin orden aparente pero con la distancia justa entre ellas — un semicírculo, cerrándose despacio alrededor de un sexto punto que no se movía.
+Cruzaron el resto del camino pegados a los muros, y fue Riku quien los detuvo primero, una mano en el pecho de Oliver, antes de llegar a la entrada del parque. Bajo los árboles, en un claro donde la única luz venía de una farola rota parpadeando a intervalos, había más de una silueta. Cuatro, contó Oliver, tal vez cinco, dispuestas sin orden aparente pero con la distancia justa entre ellas, un semicírculo, cerrándose despacio alrededor de un sexto punto que no se movía.
 
 Dax.
 
@@ -148,11 +148,11 @@ Reconoció a Iker de perfil, la postura relajada de siempre, y a dos más del cl
 
 —No —dijo Riku—. Todavía no.
 
-Pero Dax sí. No hacia ellos — hacia el semicírculo que se cerraba, con la misma calma exacta con la que hacía cualquier otra cosa, como si cinco personas rodeándolo en un parque a oscuras fuera, para él, apenas una variación menor de una tarde cualquiera en el foso. No retrocedió. No buscó una salida entre los árboles. Ladeó la cabeza, un gesto pequeño, casi curioso, y por un instante pareció que estudiaba a Iker más de lo que Iker lo estudiaba a él.
+Pero Dax sí. No hacia ellos, hacia el semicírculo que se cerraba, con la misma calma exacta con la que hacía cualquier otra cosa, como si cinco personas rodeándolo en un parque a oscuras fuera, para él, apenas una variación menor de una tarde cualquiera en el foso. No retrocedió. No buscó una salida entre los árboles. Ladeó la cabeza, un gesto pequeño, casi curioso, y por un instante pareció que estudiaba a Iker más de lo que Iker lo estudiaba a él.
 
 —Habéis tardado —dijo Dax, y su voz llegó nítida hasta donde estaban Oliver y Riku, sin necesidad de alzarla—. Pensé que sería antes.
 
-Nadie en el semicírculo respondió. Iker dio un paso al frente, la mandíbula tensa, y algo en su postura — la vacilación de una fracción de segundo, el peso repartido mal entre los pies — dijo lo que su cara no quiso decir.
+Nadie en el semicírculo respondió. Iker dio un paso al frente, la mandíbula tensa, y algo en su postura, la vacilación de una fracción de segundo, el peso repartido mal entre los pies, dijo lo que su cara no quiso decir.
 
 Dax se movió primero.
 

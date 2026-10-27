@@ -1,22 +1,22 @@
 # Chapter 19 — Architecture
 
-The corridor was a hundred and four meters long. Voss had counted them on the way in, without meaning to, and again on the way back. It was a way of processing the world he'd had for as long as he could remember, one AMAT had turned into a tool — first through training, then through years of use, until the tool and the man became difficult to tell apart.
+The corridor was a hundred and four meters long. Voss had counted them on the way in, without meaning to, and again on the way back. It was a way of processing the world he'd had for as long as he could remember, one AMAT had turned into a tool, first through training, then through years of use, until the tool and the man became difficult to tell apart.
 
 But while the corridor's dimensions stayed the same, what occupied his head across those hundred and four meters didn't. On the way in, he'd been building a map of the Grayhaven incident from the fragments in the file, ordering them, hunting for the inconsistencies that always existed between what reports documented and what reports were incapable of capturing. On the way back, he was processing the conversation.
 
-Not the content — the content was what he'd expected. What he hadn't expected was the shape of it.
+Not the content, the content was what he'd expected. What he hadn't expected was the shape of it.
 
-GRH-094-S had been more careful than the file suggested. Not passive, not closed off — careful. He answered questions, but chose his words with a precision that wasn't typical of a twenty-two-year-old civilian in his first custody situation. Voss had seen that kind of control in agents with years of interrogation training, and in a handful of academics who knew exactly what each piece of information was worth giving up. Not in neighborhood-pawnshop employees with three days in a holding cell.
+GRH-094-S had been more careful than the file suggested. Not passive, not closed off, careful. He answered questions, but chose his words with a precision that wasn't typical of a twenty-two-year-old civilian in his first custody situation. Voss had seen that kind of control in agents with years of interrogation training, and in a handful of academics who knew exactly what each piece of information was worth giving up. Not in neighborhood-pawnshop employees with three days in a holding cell.
 
 There was something else he'd noted.
 
-When GRH-094-S had described his attempts to reproduce what he'd done during the incident, he'd deliberately avoided certain terms. The entity. The situation. The agent. Not Authority, not Domain, not Park. Voss had noted the absences with the same precision he noted presences. The subject was protecting something — or someone — without anyone asking him to, without anyone explaining that there was anything to protect.
+When GRH-094-S had described his attempts to reproduce what he'd done during the incident, he'd deliberately avoided certain terms. The entity. The situation. The agent. Not Authority, not Domain, not Park. Voss had noted the absences with the same precision he noted presences. The subject was protecting something, or someone, without anyone asking him to, without anyone explaining that there was anything to protect.
 
 The last question, before Voss stood to leave, had said it more clearly than any technical answer.
 
 *Is Park okay?*
 
-Not *what's going to happen to me?* Not *when do I get out of here?* Not *who are you?* — though he'd asked that one too, earlier, with the same controlled restraint of someone calculating the cost of every question. The question about Park had come out different. Not calculated. Direct, unprepared, like something that had been held back for three days and finally found its first reasonable window out.
+Not *what's going to happen to me?* Not *when do I get out of here?* Not *who are you?*, though he'd asked that one too, earlier, with the same controlled restraint of someone calculating the cost of every question. The question about Park had come out different. Not calculated. Direct, unprepared, like something that had been held back for three days and finally found its first reasonable window out.
 
 Voss had models for almost everything human beings did under pressure. Models for fear, for ambition, for survival, for instrumental loyalty. He didn't have a clean model for what that question represented. He filed it as a variable whose weight he hadn't yet calculated, and kept walking.
 
@@ -30,7 +30,7 @@ His assistant was waiting in the briefing room, tablet in hand, with the look of
 
 "I know. If she's available."
 
-The assistant dialed without adding anything else. Maren Steiger was the kind of person who answered secure lines at eleven at night because the work was interesting enough to make the hour secondary, and Voss knew that because it was the same reason he was still awake. He'd worked with her for six years in the Domain theory department in Geneva — she on the documentary side, he in the field — and the division of labor had worked well precisely because neither of them ever needed the other to explain why something mattered.
+The assistant dialed without adding anything else. Maren Steiger was the kind of person who answered secure lines at eleven at night because the work was interesting enough to make the hour secondary, and Voss knew that because it was the same reason he was still awake. He'd worked with her for six years in the Domain theory department in Geneva, she on the documentary side, he in the field, and the division of labor had worked well precisely because neither of them ever needed the other to explain why something mattered.
 
 The call connected in forty seconds.
 
@@ -62,7 +62,7 @@ Maren processed that.
 
 "Which wing do we put him in?"
 
-"Extended evaluation. Supervised training. Restricted access — three people maximum with direct contact, and I want to review the profiles before anyone gets near him." Voss leaned back slightly. "The second case disappeared because too many people knew he existed and no one had a clear protocol for what to do with him. We're not repeating that."
+"Extended evaluation. Supervised training. Restricted access, three people maximum with direct contact, and I want to review the profiles before anyone gets near him." Voss leaned back slightly. "The second case disappeared because too many people knew he existed and no one had a clear protocol for what to do with him. We're not repeating that."
 
 "Understood. What's he like?"
 
@@ -76,13 +76,13 @@ The question was more specific than it sounded. Maren had spent six years studyi
 
 Maren didn't answer that.
 
-They worked out the logistics over the next twelve minutes — minimal staff, an adapted passive suppression protocol since the standard design was useless against Registry, a direct communication line between the center and Geneva that bypassed the AMAT-NA chain. The longest point was transit containment.
+They worked out the logistics over the next twelve minutes, minimal staff, an adapted passive suppression protocol since the standard design was useless against Registry, a direct communication line between the center and Geneva that bypassed the AMAT-NA chain. The longest point was transit containment.
 
 "The Domain doesn't activate in space," Voss said. "It activates through direct observation. Perimeter inhibitors don't contain it because there's nothing to contain while he isn't reading."
 
 "Then the minimum effective containment is visual," Maren said.
 
-"In transport, and during periods without technical supervision: a blindfold. Block observation before he can read structure. It's not a permanent solution — it's the transit protocol until we have a full evaluation of his thresholds."
+"In transport, and during periods without technical supervision: a blindfold. Block observation before he can read structure. It's not a permanent solution, it's the transit protocol until we have a full evaluation of his thresholds."
 
 "The rest of the time he needs real supervision," Maren said. "Not inhibitors. Someone who knows what he's looking at when he looks."
 
@@ -136,23 +136,23 @@ Voss left the meeting room with what he'd come for, and with the comfortable cer
 
 That night, in the room assigned to him, Voss drafted the initial evaluation.
 
-Not the full report — that would take weeks. Just field notes: what he'd observed, what he'd inferred, what remained uncategorized. It was a document no one else would read for months, possibly years, which gave him the freedom to be precise without the concessions institutional prose required.
+Not the full report, that would take weeks. Just field notes: what he'd observed, what he'd inferred, what remained uncategorized. It was a document no one else would read for months, possibly years, which gave him the freedom to be precise without the concessions institutional prose required.
 
 He wrote for twenty minutes. When he finished, he read the last line twice.
 
-*GRH-094-S: structural Odem perception confirmed. Instinctive unbinding capability on first exposure. Real-time behavior reading — undocumented in prior cases. Capability ceiling assessment: indeterminate. Note: subject actively protects sensitive information with no instruction to do so. Non-utilitarian motivation. Requires follow-up.*
+*GRH-094-S: structural Odem perception confirmed. Instinctive unbinding capability on first exposure. Real-time behavior reading, undocumented in prior cases. Capability ceiling assessment: indeterminate. Note: subject actively protects sensitive information with no instruction to do so. Non-utilitarian motivation. Requires follow-up.*
 
-Non-utilitarian motivation was his way of documenting what he didn't know how to classify. In thirty years working with agents and anomalous subjects, Voss had learned that almost all behavior under pressure was, ultimately, rational — oriented toward survival, toward benefit, toward preserving something the subject valued in measurable terms. Oliver's caution in protecting Park's vocabulary was rational. The subject had correctly assessed that giving up information could carry consequences for a third party.
+Non-utilitarian motivation was his way of documenting what he didn't know how to classify. In thirty years working with agents and anomalous subjects, Voss had learned that almost all behavior under pressure was, ultimately, rational, oriented toward survival, toward benefit, toward preserving something the subject valued in measurable terms. Oliver's caution in protecting Park's vocabulary was rational. The subject had correctly assessed that giving up information could carry consequences for a third party.
 
 What wasn't rational, in the sense Voss used the term, was the question about Park itself.
 
-Because by that point, Oliver already knew Voss had access to the entire file. He knew any information he gave up would be logged and used. And he'd asked anyway. Not calculated — direct, the kind of question that gets out before the filter catches it.
+Because by that point, Oliver already knew Voss had access to the entire file. He knew any information he gave up would be logged and used. And he'd asked anyway. Not calculated, direct, the kind of question that gets out before the filter catches it.
 
 Voss had given an answer that compromised nothing and revealed nothing. It had been the tactically correct response.
 
 What he hadn't anticipated was that the question would stay with him for the rest of the day.
 
-Not because he didn't understand loyalty. He understood it as a concept, as a mechanism of social cohesion, as a variable that affected field agent behavior. What he didn't have was a model for the specific version he'd seen in that cell — the loyalty that doesn't calculate, doesn't measure the cost, asks even knowing the answer might be bad and that asking changes nothing.
+Not because he didn't understand loyalty. He understood it as a concept, as a mechanism of social cohesion, as a variable that affected field agent behavior. What he didn't have was a model for the specific version he'd seen in that cell, the loyalty that doesn't calculate, doesn't measure the cost, asks even knowing the answer might be bad and that asking changes nothing.
 
 It was the kind of thing that made cases more complicated than the files ever suggested.
 

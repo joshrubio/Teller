@@ -4,25 +4,25 @@
 
 Of the night at the stadium, Oliver kept fragments, not a whole story.
 
-He kept the helicopter — two of them, really, one for the people who could still sit up on their own and a slower one for those who couldn't. He kept the white room they were herded into the moment they landed, somewhere nobody bothered to name, and a doctor's hands checking his pupils with a penlight while someone at the back read names off a list in a low voice, crossing them out. He kept having slept — truly slept, with no dreams he could recall — for what they told him afterward had been almost fourteen hours.
+He kept the helicopter, two of them, really, one for the people who could still sit up on their own and a slower one for those who couldn't. He kept the white room they were herded into the moment they landed, somewhere nobody bothered to name, and a doctor's hands checking his pupils with a penlight while someone at the back read names off a list in a low voice, crossing them out. He kept having slept, truly slept, with no dreams he could recall, for what they told him afterward had been almost fourteen hours.
 
 Above all, he kept never having seen St. Gotthard again.
 
 Nobody took him back to collect anything. A bag with his things turned up already packed at the foot of a bed that wasn't his, in a room that wasn't his either, and that was the whole of the explanation he got for the fact that the center where he'd spent a full month of his life had closed behind him without his noticing it shut.
 
-The transfer itself he remembered better than the rest, because by then he was awake enough to pay attention: a windowless van to a small airfield, a short flight, another car, and roads that dropped from the mountains toward something green and flat that none of the six of them recognized. No one explained the destination on the way. Someone — Hana, over the radio, the only institutional voice left on the other end of all this — said just a name, twice, as if repeating it would make it less strange the second time.
+The transfer itself he remembered better than the rest, because by then he was awake enough to pay attention: a windowless van to a small airfield, a short flight, another car, and roads that dropped from the mountains toward something green and flat that none of the six of them recognized. No one explained the destination on the way. Someone, Hana, over the radio, the only institutional voice left on the other end of all this, said just a name, twice, as if repeating it would make it less strange the second time.
 
 The Quay.
 
-Officially it was the Lake Léman Center, a private medical research institute with a discreet plaque beside the gate, the kind of place nobody looks at twice from the road. A villa from before the First World War, with high walls and gardens that blocked any view from outside, and a private dock on a lake Oliver had only ever seen in photographs of other people's autumns. AMAT had bought it seventy years ago, when the market for large properties collapsed and no one else wanted a villa that size. By the little anyone had bothered to tell them, it served as a way station — the last step before a normal candidate, a European with years of training behind them, earned official access to AMAT.
+Officially it was the Lake Léman Center, a private medical research institute with a discreet plaque beside the gate, the kind of place nobody looks at twice from the road. A villa from before the First World War, with high walls and gardens that blocked any view from outside, and a private dock on a lake Oliver had only ever seen in photographs of other people's autumns. AMAT had bought it seventy years ago, when the market for large properties collapsed and no one else wanted a villa that size. By the little anyone had bothered to tell them, it served as a way station, the last step before a normal candidate, a European with years of training behind them, earned official access to AMAT.
 
-The Valais group didn't fit that description, and all of them knew it from the first day. They hadn't come as candidates for anything. They'd come as what was left of a center that no longer existed, with no clear category to put them in, and that — more than the lake, more than the gardens with no fence — was the first thing Oliver understood about the place: nobody here knew quite what to do with them, and for once that uncertainty wasn't dressed up as protocol.
+The Valais group didn't fit that description, and all of them knew it from the first day. They hadn't come as candidates for anything. They'd come as what was left of a center that no longer existed, with no clear category to put them in, and that, more than the lake, more than the gardens with no fence, was the first thing Oliver understood about the place: nobody here knew quite what to do with them, and for once that uncertainty wasn't dressed up as protocol.
 
 ---
 
 The Quay was emptying out, a little at a time, without announcements.
 
-Oliver noticed it first in the dining hall. On the first morning they'd had to wait for tables; by the fourth, there were empty seats at every one. Names disappeared from the board in the annex in small batches, two or three at a time, with a new label pasted over the old one — *reassigned*, always that word, never where to. No one said goodbye. People just stopped turning up at breakfast, and breakfast went on running exactly the same.
+Oliver noticed it first in the dining hall. On the first morning they'd had to wait for tables; by the fourth, there were empty seats at every one. Names disappeared from the board in the annex in small batches, two or three at a time, with a new label pasted over the old one, *reassigned*, always that word, never where to. No one said goodbye. People just stopped turning up at breakfast, and breakfast went on running exactly the same.
 
 The six from Valais stayed on the list.
 
@@ -74,7 +74,7 @@ She said it without self-pity, with the same precision she'd always used to reci
 
 Riku stayed away from the water.
 
-Oliver noticed it on the second day and said nothing until the fifth, when he found him on the strip of grass farthest from the lake, standing, moving his hands slowly through the air — not strikes, exactly. Placements. A foot that planted, lifted, and planted again.
+Oliver noticed it on the second day and said nothing until the fifth, when he found him on the strip of grass farthest from the lake, standing, moving his hands slowly through the air, not strikes, exactly. Placements. A foot that planted, lifted, and planted again.
 
 "Foot first," Oliver said.
 
@@ -96,7 +96,7 @@ Oliver noticed it on the second day and said nothing until the fifth, when he fo
 
 Dara did go near the water. Dara practically lived in it.
 
-She swam twice a day, morning and last thing at night, always alone, always the same route — from the dock to the mooring buoy and back, again, again. Oliver watched her climb out one afternoon and sit on the planks of the dock with her legs hanging over the edge, dripping, with no towel, staring at the exact spot she'd just come back from.
+She swam twice a day, morning and last thing at night, always alone, always the same route, from the dock to the mooring buoy and back, again, again. Oliver watched her climb out one afternoon and sit on the planks of the dock with her legs hanging over the edge, dripping, with no towel, staring at the exact spot she'd just come back from.
 
 "Two hundred forty meters there and back," she said, when she noticed him sitting down. "I counted. Three different times, in case I'd got it wrong."
 
@@ -146,7 +146,7 @@ She left before he could answer, the way she always did when the conversation wa
 
 Pier fished.
 
-He'd found a rod somewhere — Oliver never learned where, and suspected Pier wasn't going to explain — and from the third day on he sat at the end of the dock every afternoon on an overturned plastic crate, with the calm of someone who has done exactly this on other docks for decades.
+He'd found a rod somewhere, Oliver never learned where, and suspected Pier wasn't going to explain, and from the third day on he sat at the end of the dock every afternoon on an overturned plastic crate, with the calm of someone who has done exactly this on other docks for decades.
 
 "There's nothing here," Oliver said, sitting down on the planks.
 
@@ -176,11 +176,11 @@ And he went back to the water, without pressing, with the exact patience of some
 
 ---
 
-Nobody planned it. It was just that when evening came and the heat finally eased a little, they all ended up on the same stretch of shore without having said so — Pier still holding the rod, Asha with the laundry schedule forgotten for one night, Nadia sitting with her hands still for once, Riku no longer pretending he hadn't been training, Dara with her hair still damp from the last swim.
+Nobody planned it. It was just that when evening came and the heat finally eased a little, they all ended up on the same stretch of shore without having said so, Pier still holding the rod, Asha with the laundry schedule forgotten for one night, Nadia sitting with her hands still for once, Riku no longer pretending he hadn't been training, Dara with her hair still damp from the last swim.
 
-They sat in a row, bare feet in the water up to the ankle, touching now and then without meaning to — Riku's shoulder against Nadia's, Dara's foot brushing Oliver's when she moved her legs. No one talked about Milan. No one talked about what they still didn't know. Asha told a story about a building her father had worked on, one that fell down twice before it learned to stay up, and for the first time in days someone laughed for real, without the caution they'd all been laughing with since the stadium.
+They sat in a row, bare feet in the water up to the ankle, touching now and then without meaning to, Riku's shoulder against Nadia's, Dara's foot brushing Oliver's when she moved her legs. No one talked about Milan. No one talked about what they still didn't know. Asha told a story about a building her father had worked on, one that fell down twice before it learned to stay up, and for the first time in days someone laughed for real, without the caution they'd all been laughing with since the stadium.
 
-Pier was the first to notice, by sound — an engine unlike the town's launches, steadier, coming from the sky and not the water — but it was Oliver who, without thinking, without quite deciding, let the Registry open a second before anyone else understood what was happening.
+Pier was the first to notice, by sound, an engine unlike the town's launches, steadier, coming from the sky and not the water, but it was Oliver who, without thinking, without quite deciding, let the Registry open a second before anyone else understood what was happening.
 
 A helicopter was coming down toward the little airstrip in the north garden, barely more than a strip of packed earth and a windsock Oliver hadn't seen used in the ten days they'd been there.
 
@@ -188,11 +188,11 @@ A helicopter was coming down toward the little airstrip in the north garden, bar
 
 Nobody answered, but nobody moved to hide, either. The six of them stood watching, water still around their ankles, as the rotors slowed and the two silhouettes inside came into relief against the last of the light.
 
-Oliver recognized them before the skids touched down — the signature didn't lie, even at that distance. Voss. Maren.
+Oliver recognized them before the skids touched down, the signature didn't lie, even at that distance. Voss. Maren.
 
 "It's Voss," he said, and something in his own voice surprised him: relief, pure and unfiltered, the same one he felt run through the rest of the group at nearly the same moment, as if the simple fact that someone they knew had come for them were an answer in itself.
 
-They stood up. Someone — Dara — took a few steps toward the airstrip before the rest followed, all of them with the same held-in hurry of people who have spent ten days waiting for something, anything, to come and tell them what they were now.
+They stood up. Someone, Dara, took a few steps toward the airstrip before the rest followed, all of them with the same held-in hurry of people who have spent ten days waiting for something, anything, to come and tell them what they were now.
 
 The doors opened. Maren climbed down first, ducking her head under the still-turning blades.
 
@@ -202,4 +202,4 @@ It took Oliver a moment to find his face in the dusk, and when he did, the hope 
 
 It wasn't the face of a man bringing good news.
 
-It was grim, shut tight, with something underneath that Oliver had never fully seen in it before — not exhaustion, not worry. Something closer to anger, held down with the same discipline Voss used to hold down everything else, and for that very reason more visible than if he'd let it out.
+It was grim, shut tight, with something underneath that Oliver had never fully seen in it before, not exhaustion, not worry. Something closer to anger, held down with the same discipline Voss used to hold down everything else, and for that very reason more visible than if he'd let it out.

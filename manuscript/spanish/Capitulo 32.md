@@ -7,7 +7,7 @@ El hospital no pudo hacer nada por Bruno.
 No por falta de intento. Dos días de pruebas, un neurólogo que repitió el mismo escáner tres veces porque no confiaba en lo que veía la primera, ni la segunda, y al final un informe que decía, en el lenguaje más cuidadoso posible, que no encontraban nada que explicara por qué Bruno seguía sin responder del todo a su propio nombre. Park lo leyó dos veces en la sala de espera antes de subir. Cuatro páginas de vocabulario técnico para decir, básicamente, que no sabían.
 
 
-La habitación olía a desinfectante y a algo debajo del desinfectante que Park no quiso nombrar. Persiana a medio bajar, la luz de la tarde entrando en franjas sobre las sábanas. Bruno estaba despierto, sentado, con la vía todavía puesta en el dorso de la mano, pero cada pocos minutos su mirada se iba a un punto de la pared que no tenía nada especial —ni ventana, ni reloj, ni mancha— y volvía, como si algo tirara de él sin avisar y sin que él pudiera decidir cuánto tiempo dejarse llevar.
+La habitación olía a desinfectante y a algo debajo del desinfectante que Park no quiso nombrar. Persiana a medio bajar, la luz de la tarde entrando en franjas sobre las sábanas. Bruno estaba despierto, sentado, con la vía todavía puesta en el dorso de la mano, pero cada pocos minutos su mirada se iba a un punto de la pared que no tenía nada especial, ni ventana, ni reloj, ni mancha, y volvía, como si algo tirara de él sin avisar y sin que él pudiera decidir cuánto tiempo dejarse llevar.
 
 
 Ferreira estaba de pie junto a la ventana desde antes de que Park llegara. No se había movido de ahí en las dos visitas anteriores tampoco, según Costa. Park no le preguntó por qué. Algunas cosas un hombre las hace de guardia sin que nadie tenga que pedírselo.
@@ -28,7 +28,7 @@ Ferreira, junto a la ventana, no dijo nada durante ese comentario. Cuando Park l
 —¿Quién es esa persona, exactamente? —preguntó Park, sin dejar de caminar hacia el ascensor—. Por cómo lo dice, no suena a un contacto de trabajo cualquiera.
 
 
-—Mariana Vasconcelos. —Ferreira dijo el nombre como quien pone algo sobre la mesa con cuidado, sin soltarlo del todo—. La misma que estaba en Alfama la noche de la marca. Familia de guardianes, generaciones antes de que existiera AMAT-PT siquiera — protegen algo en esta ciudad de una forma que ni Salgado entiende del todo, y llevan haciéndolo el tiempo suficiente para que nadie en la rama se atreva a decirles cómo. No trabaja para nosotros. No trabaja contra nosotros tampoco, mientras no le demos motivo.
+—Mariana Vasconcelos. —Ferreira dijo el nombre como quien pone algo sobre la mesa con cuidado, sin soltarlo del todo—. La misma que estaba en Alfama la noche de la marca. Familia de guardianes, generaciones antes de que existiera AMAT-PT siquiera. Protegen algo en esta ciudad de una forma que ni Salgado entiende del todo, y llevan haciéndolo el tiempo suficiente para que nadie en la rama se atreva a decirles cómo. No trabaja para nosotros. No trabaja contra nosotros tampoco, mientras no le demos motivo.
 
 
 —Ya la conocí. —Park lo dijo sin darle peso, pero algo se le quedó atascado detrás de la frase: la forma exacta en que Ferreira había pronunciado el nombre completo, con el mismo cuidado con que se manipula algo que puede cortar si se agarra mal. Todavía no sabía cuánto.
@@ -49,13 +49,13 @@ Mariana los recibió en la puerta de una casa que no tenía nada de sede ni de r
 —No vinimos por trabajo —dijo Ferreira—. Vinimos porque uno de los míos despertó mal, y usted es la única persona que conozco que sabe qué hacer con eso antes de que se vuelva permanente.
 
 
-Algo en la cara de Mariana cambió —no sorpresa, algo más parecido a que la hubieran encontrado en un terreno que ella eligió, no que le hubieran invadido uno. Se apartó de la puerta sin prisa, como si llevara toda la mañana esperando ese gesto exacto.
+Algo en la cara de Mariana cambió, no sorpresa, algo más parecido a que la hubieran encontrado en un terreno que ella eligió, no que le hubieran invadido uno. Se apartó de la puerta sin prisa, como si llevara toda la mañana esperando ese gesto exacto.
 
 
 —Entren.
 
 
-El patio interior tenía más gente de la que Park esperaba para media tarde de un martes. Dos hombres mayores jugaban a las cartas en una mesa de plástico bajo un toldo remendado, sin prisa, una baraja tan usada que las esquinas se habían redondeado. Una mujer cosía algo en el porche —una tela oscura, tal vez un vestido de luto— la aguja moviéndose con una precisión que no tenía nada que ver con costura normal, un ritmo casi mecánico, sin dudas ni pausas para mirar el punto siguiente. Park lo notó antes de entender por qué lo había notado, y decidió no preguntar todavía. Y en un rincón, bajo la sombra de una parra que trepaba por un enrejado de hierro oxidado, tres jóvenes, ninguno mayor de veinte, estaban sentados en círculo alrededor de una vela encendida a plena luz del día, sin hablar, cada uno con los ojos cerrados, la llama recta como si el patio entero contuviera el aire.
+El patio interior tenía más gente de la que Park esperaba para media tarde de un martes. Dos hombres mayores jugaban a las cartas en una mesa de plástico bajo un toldo remendado, sin prisa, una baraja tan usada que las esquinas se habían redondeado. Una mujer cosía algo en el porche, una tela oscura, tal vez un vestido de luto, la aguja moviéndose con una precisión que no tenía nada que ver con costura normal, un ritmo casi mecánico, sin dudas ni pausas para mirar el punto siguiente. Park lo notó antes de entender por qué lo había notado, y decidió no preguntar todavía. Y en un rincón, bajo la sombra de una parra que trepaba por un enrejado de hierro oxidado, tres jóvenes, ninguno mayor de veinte, estaban sentados en círculo alrededor de una vela encendida a plena luz del día, sin hablar, cada uno con los ojos cerrados, la llama recta como si el patio entero contuviera el aire.
 
 
 —Están practicando Vacío —dijo Mariana, notando la mirada de Park detenerse ahí más de lo debido—. La vela no debería moverse por nada de lo que hagan. Es el ejercicio más simple, en teoría, y el que más tarda en aprenderse bien.
@@ -82,7 +82,7 @@ El chico llamado Rafa, sin abrir los ojos, levantó el dedo corazón en su direc
 —Ya, ya. —El chico no abrió los ojos, pero la sonrisa se le quedó un momento más de la cuenta, y algo en la forma en que Mariana lo miró después —más tiempo del que había mirado a los otros dos, con una atención que no era solo de maestra— hizo que Park archivara el detalle sin saber todavía qué hacer con él.
 
 
-Park se quedó un momento más de pie ahí, sin decir nada, dejando que el patio hiciera su trabajo antes de que nadie le pidiera opinión. El sol le llegaba en franjas irregulares a través de la parra. Alguien, arriba, apagó la radio a mitad de canción. Sintió algo aflojarse en el pecho que no sabía que llevaba tenso desde que cruzó la puerta. No era lo que había imaginado —no un culto, no un templo, no un peligro contenido a la fuerza detrás de una fachada tranquila. Era gente enseñándose unos a otros a vivir con algo que no habían pedido, con la misma paciencia exacta con la que alguien enseña a nadar a un niño que todavía le tiene miedo al agua.
+Park se quedó un momento más de pie ahí, sin decir nada, dejando que el patio hiciera su trabajo antes de que nadie le pidiera opinión. El sol le llegaba en franjas irregulares a través de la parra. Alguien, arriba, apagó la radio a mitad de canción. Sintió algo aflojarse en el pecho que no sabía que llevaba tenso desde que cruzó la puerta. No era lo que había imaginado, no un culto, no un templo, no un peligro contenido a la fuerza detrás de una fachada tranquila. Era gente enseñándose unos a otros a vivir con algo que no habían pedido, con la misma paciencia exacta con la que alguien enseña a nadar a un niño que todavía le tiene miedo al agua.
 
 
 ---
@@ -91,7 +91,7 @@ Park se quedó un momento más de pie ahí, sin decir nada, dejando que el patio
 —Tráiganlo —dijo Mariana, sin que nadie se lo hubiera pedido todavía.
 
 
-Trajeron a Bruno esa misma tarde, en silla de ruedas por precaución más que por necesidad —caminaba, pero despacio, como quien desconfía del suelo bajo sus propios pies— y Mariana lo instaló en el patio, lejos de la mesa de cartas, cerca de los tres jóvenes pero no tanto como para que su ejercicio se rompiera. Bruno miró alrededor con la desconfianza específica de alguien que ha pasado dos días rodeado de máquinas que no encontraban nada, y ahora se sienta frente a una mujer sin bata ni instrumentos, en un patio con ropa tendida sobre su cabeza.
+Trajeron a Bruno esa misma tarde, en silla de ruedas por precaución más que por necesidad, caminaba, pero despacio, como quien desconfía del suelo bajo sus propios pies, y Mariana lo instaló en el patio, lejos de la mesa de cartas, cerca de los tres jóvenes pero no tanto como para que su ejercicio se rompiera. Bruno miró alrededor con la desconfianza específica de alguien que ha pasado dos días rodeado de máquinas que no encontraban nada, y ahora se sienta frente a una mujer sin bata ni instrumentos, en un patio con ropa tendida sobre su cabeza.
 
 
 —Lo primero no es Vacío —dijo Mariana, sentándose frente a él, tan cerca que las rodillas casi se tocaban—. Vacío viene después, cuando ya sabes qué es lo que estás apagando. Lo primero es Manto.
@@ -139,7 +139,7 @@ Puso la mano de Bruno sobre su propio pecho, sin soltarla del todo, guiándola.
 —Respire. Y cuando respire, en vez de dejar que el aire entre y salga como siempre, imagine que lo que entra se queda un momento pegado a la piel, por dentro, antes de soltarse. No lo empuje. No lo apure. Solo déjelo quedarse un instante más de lo normal antes de dejarlo ir.
 
 
-Bruno cerró los ojos. Tardó tres intentos, la respiración entrecortándose cada vez, el pecho subiendo y bajando en un ritmo que se rompía justo antes de encontrar el suyo, hasta que en el cuarto algo en sus hombros bajó de golpe —no relajación, más parecido a un peso que encontraba, por fin, dónde apoyarse después de dos días buscando suelo firme sin encontrarlo.
+Bruno cerró los ojos. Tardó tres intentos, la respiración entrecortándose cada vez, el pecho subiendo y bajando en un ritmo que se rompía justo antes de encontrar el suyo, hasta que en el cuarto algo en sus hombros bajó de golpe. No relajación, más parecido a un peso que encontraba, por fin, dónde apoyarse después de dos días buscando suelo firme sin encontrarlo.
 
 
 —Eso —dijo Mariana, y por primera vez desde que habían llegado algo parecido a calidez le cruzó la cara—. Eso es Manto. Va a tener que hacerlo cada minuto de cada hora durante semanas antes de que se vuelva automático, y va a fallar más veces de las que le gustaría. Pero ya sabe cómo se siente cuando funciona. Eso es lo único que necesitaba hoy.
@@ -148,7 +148,7 @@ Bruno cerró los ojos. Tardó tres intentos, la respiración entrecortándose ca
 Park, de pie detrás de Ferreira, sintió algo parecido a oír una palabra en un idioma que llevaba años sin practicar conscientemente, y darse cuenta de que el cuerpo todavía la reconoce antes que la cabeza.
 
 
-Park lo había aprendido antes de darse cuenta de que era. Con otro nombre, otro idioma, otra voz, otro patio que no era este, pero el mismo gesto exacto: contener antes de dejar salir. No era algo que hubiera deducido solo con el Clase-R ni con años de Chukgi sin explicación — alguien se había sentado con él, como Mariana se sentaba ahora con Bruno, y le había enseñado esto primero, antes que cualquier otra cosa. Antes de aprender a usar Inercia, antes de entender como usar Masa, antes de entender la verdadera naturaleza de lo que en su familia y AMAT llamaban Fuerza, era un recuerdo gastado por el tiempo, pero el gesto seguía intacto.
+Park lo había aprendido antes de darse cuenta de que era. Con otro nombre, otro idioma, otra voz, otro patio que no era este, pero el mismo gesto exacto: contener antes de dejar salir. No era algo que hubiera deducido solo con el Clase-R ni con años de Chukgi sin explicación, alguien se había sentado con él, como Mariana se sentaba ahora con Bruno, y le había enseñado esto primero, antes que cualquier otra cosa. Antes de aprender a usar Inercia, antes de entender como usar Masa, antes de entender la verdadera naturaleza de lo que en su familia y AMAT llamaban Fuerza, era un recuerdo gastado por el tiempo, pero el gesto seguía intacto.
 
 
 —Esto... —dijo Park—. Lo conozco, desde hace mucho. Con otro nombre.
@@ -157,7 +157,7 @@ Park lo había aprendido antes de darse cuenta de que era. Con otro nombre, otro
 Mariana lo miró, sin sorpresa, con la clase de reconocimiento de quien encuentra a alguien que habla el mismo idioma con un acento distinto.
 
 
-—No me extraña. La técnica no le pertenece a nadie en particular — la casa que la enseña bien, se la enseña a todos sus hijos primero. Cambia el nombre, cambia la voz que la dice, pero es la misma mano cerrándose sobre lo mismo. —Volvió a mirar a Bruno, que respiraba ahora más despacio, los hombros todavía bajos—. Él no tuvo esa suerte. A él tuve que dársela hoy, de cero, en un hospital que no supo qué hacer con lo que le faltaba.
+—No me extraña. La técnica no le pertenece a nadie en particular. La casa que la enseña bien, se la enseña a todos sus hijos primero. Cambia el nombre, cambia la voz que la dice, pero es la misma mano cerrándose sobre lo mismo. —Volvió a mirar a Bruno, que respiraba ahora más despacio, los hombros todavía bajos—. Él no tuvo esa suerte. A él tuve que dársela hoy, de cero, en un hospital que no supo qué hacer con lo que le faltaba.
 
 Entonces Park pensó en Grayhaven, en Oliver, en Voss, en lo que fuera que Oliver hubiera visto escrito esa noche en la libreta.
 
@@ -189,13 +189,13 @@ Park encontró a Mariana sola un rato después, en el borde del patio, mirando a
 Park miró hacia el rincón donde los tres jóvenes seguían con la vela, y entendió sin que se lo confirmaran cuál de los tres era.
 
 
-Mariana lo notó, no lo negó. Tampoco lo confirmó con palabras —solo un asentimiento breve, el mismo gesto seco que usaba para todo lo que le importaba de verdad, como si decirlo en voz alta le costara algo que prefería no gastar.
+Mariana lo notó, no lo negó. Tampoco lo confirmó con palabras, solo un asentimiento breve, el mismo gesto seco que usaba para todo lo que le importaba de verdad, como si decirlo en voz alta le costara algo que prefería no gastar.
 
 
 —Él no es parte de lo que hace mi familia con A Saudade —dijo, después de un silencio que Park no interrumpió—. No va a heredar nada de eso, y no quiero que lo haga. Despertó solo, hace tres años, sin que nadie lo tocara, sin ritual, sin linaje detrás empujándolo. Le enseñé lo mismo que le enseño a cualquiera que llega por esa puerta, ni un minuto más de atención en la técnica. La única diferencia es que a él lo quiero de una forma que no quiero a los demás, y eso no debería cambiar nada de cómo lo protejo, pero cambia todo.
 
 
-Algo en la forma en que lo dijo —más bajo, más lento que el resto de la conversación— hizo que Park no preguntara más por ahí.
+Algo en la forma en que lo dijo, más bajo, más lento que el resto de la conversación, hizo que Park no preguntara más por ahí.
 
 
 —A Saudade —dijo Park en cambio, dejando pasar un momento antes de cambiar de tema—. Ferreira me contó lo que hace su familia. Lo que no sé es por qué usted, específicamente, lo sigue haciendo.
@@ -210,7 +210,7 @@ Mariana lo miró un largo momento antes de responder, como si decidiera cuánto 
 —El hombre que dejó la marca —dijo Park—. ¿Sabe ya quién es?
 
 
-Algo cruzó la cara de Mariana antes de que pudiera evitarlo — no sorpresa, algo más viejo, más cansado, del tipo de herida que ya sabe exactamente dónde tocarse para doler otra vez.
+Algo cruzó la cara de Mariana antes de que pudiera evitarlo, no sorpresa, algo más viejo, más cansado, del tipo de herida que ya sabe exactamente dónde tocarse para doler otra vez.
 
 
 —Sé quién es. —No dijo el nombre—. Y sé lo que piensa, mejor de lo que me gustaría saberlo. No es un extraño para mí. Fue... —se detuvo, escogiendo la palabra con más cuidado del que había usado en toda la conversación— alguien cercano. Hace tiempo. Antes de que decidiera que había una forma más rápida de hacer lo que hacemos las dos familias.
@@ -219,7 +219,7 @@ Algo cruzó la cara de Mariana antes de que pudiera evitarlo — no sorpresa, al
 —Pero no está de acuerdo con él —dijo Park. No era del todo pregunta.
 
 
-—No apoyo nada de lo que hace. —La voz se le endureció, pero no del todo — algo debajo seguía suave, sin querer estarlo—. Pero tampoco voy a entregárselo a ustedes en bandeja solo porque ya no comparta su método. Esto no es un expediente, agente. Es alguien a quien conocí bien, durante mucho tiempo, y todavía tengo derecho a no convertir eso en un nombre dentro de su informe.
+—No apoyo nada de lo que hace. —La voz se le endureció, pero no del todo, algo debajo seguía suave, sin querer estarlo—. Pero tampoco voy a entregárselo a ustedes en bandeja solo porque ya no comparta su método. Esto no es un expediente, agente. Es alguien a quien conocí bien, durante mucho tiempo, y todavía tengo derecho a no convertir eso en un nombre dentro de su informe.
 
 
 Park dejó pasar eso sin insistir. Había interrogado a suficiente gente para reconocer una puerta que no se abre a la fuerza, solo se rompe.
@@ -237,7 +237,7 @@ Mariana no respondió esa pregunta enseguida. Miró hacia el cielo, donde la tar
 ---
 
 
-Ferreira encontró a Park esa noche, ya de vuelta en la sede, revisando el informe médico de Bruno bajo la luz de una sola lámpara de escritorio, con una expresión que Park no le había visto antes —algo parecido al alivio, pero con un borde afilado debajo que no terminaba de desaparecer.
+Ferreira encontró a Park esa noche, ya de vuelta en la sede, revisando el informe médico de Bruno bajo la luz de una sola lámpara de escritorio, con una expresión que Park no le había visto antes, algo parecido al alivio, pero con un borde afilado debajo que no terminaba de desaparecer.
 
 
 —Va a dormir esta noche —dijo, sin que Park preguntara, dejándose caer en la silla frente al escritorio—. Primera vez en dos días. Costa se queda con él, por si acaso, pero la enfermera dice que el pulso ya no le salta cada dos minutos.

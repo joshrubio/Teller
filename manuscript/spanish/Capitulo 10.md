@@ -7,7 +7,7 @@ Primero el impacto de Park, un estallido de aire comprimido que Oliver ya conoc�
 
 Park no gritó. Cayó.
 
-El puño le había llegado a la silueta con fuerza suficiente para deformarla otra vez, para hacer temblar las líneas que la sostenían igual que antes — pero el hueco había respondido a tiempo, cerrándose sobre el mismo brazo que acababa de golpearlo, y por un instante los dos quedaron trabados en el mismo punto exacto del aire, ninguno cediendo, hasta que algo, en algún sitio, terminó de decidir el resultado sin que Oliver llegara a ver el momento en que se decidía. El brazo bueno de Park volvió a su lado en un ángulo que no tenía nada que ver con un hombro ni con un codo ni con nada que un cuerpo debiera doblar por sí mismo.
+El puño le había llegado a la silueta con fuerza suficiente para deformarla otra vez, para hacer temblar las líneas que la sostenían igual que antes, pero el hueco había respondido a tiempo, cerrándose sobre el mismo brazo que acababa de golpearlo, y por un instante los dos quedaron trabados en el mismo punto exacto del aire, ninguno cediendo, hasta que algo, en algún sitio, terminó de decidir el resultado sin que Oliver llegara a ver el momento en que se decidía. El brazo bueno de Park volvió a su lado en un ángulo que no tenía nada que ver con un hombro ni con un codo ni con nada que un cuerpo debiera doblar por sí mismo.
 
 Quedó de rodillas, los dos brazos inútiles contra el cuerpo, la respiración un silbido corto que ya no intentaba sonar entero.
 
@@ -17,7 +17,7 @@ La silueta se replegó un instante, sacudida, y Oliver vio, con la misma clarida
 
 Nadie más venía. No había ningún tercer intento de Park que esperar, ningún truco nuevo, ninguna reserva escondida en alguna parte de un cuerpo que ya había dado todo lo que tenía dos veces.
 
-Oliver miró el punto donde todas las líneas convergían — el mismo que había visto encenderse un instante durante el golpe de Park, capa sobre capa, veintinueve años de la misma mano tachando el mismo círculo — y entendió, sin que nadie se lo explicara, que esa era la única cuenta que de verdad importaba en toda la noche.
+Oliver miró el punto donde todas las líneas convergían, el mismo que había visto encenderse un instante durante el golpe de Park, capa sobre capa, veintinueve años de la misma mano tachando el mismo círculo, y entendió, sin que nadie se lo explicara, que esa era la única cuenta que de verdad importaba en toda la noche.
 
 No era su turno de correr.
 
@@ -33,21 +33,21 @@ Dio un paso hacia el hueco.
 
 —Oliver, no— La voz de Park le llegó rota, desde el suelo, sin fuerza para ser una orden.
 
-No se detuvo. Las líneas se volvieron hacia él en cuanto notaron el movimiento, tan rápido como se habían vuelto hacia Park segundos antes, y por primera vez en toda la noche Oliver no sintió que lo estuvieran cazando. Sintió que lo estaban, por fin, mirando de frente — la misma sensación exacta que llevaba dos semanas evitando nombrar cada vez que la libreta le devolvía la mirada desde el suelo del ático.
+No se detuvo. Las líneas se volvieron hacia él en cuanto notaron el movimiento, tan rápido como se habían vuelto hacia Park segundos antes, y por primera vez en toda la noche Oliver no sintió que lo estuvieran cazando. Sintió que lo estaban, por fin, mirando de frente, la misma sensación exacta que llevaba dos semanas evitando nombrar cada vez que la libreta le devolvía la mirada desde el suelo del ático.
 
 *Setenta y cuatro nombres.* Ninguno de ellos había tenido esto: alguien capaz de ver el trazo entero antes de que terminara de cerrarse.
 
 Metió las manos en el centro.
 
-No hubo ningún filo que cortara, ningún calor, ningún frío. Solo la misma sensación de sostener algo que pesaba menos de lo que debía —la misma que había sentido la primera noche, con la libreta entre los dedos— multiplicada por todas las cuentas que esa libreta había cerrado sin que nadie más las tocara nunca. Las líneas reaccionaron antes de que terminara de cerrar los puños, arrastrándose sobre su piel con una fricción que no era exactamente dolor pero que su cuerpo entero interpretó como si lo fuera — un frío que le subía por los antebrazos y se le metía debajo de las uñas. Cerró los puños de todas formas alrededor de las que pudo alcanzar, sintiendo cómo se tensaban contra su agarre, buscando soltarse, buscando volver a converger en cualquier otro punto que no fuera sus propias manos.
+No hubo ningún filo que cortara, ningún calor, ningún frío. Solo la misma sensación de sostener algo que pesaba menos de lo que debía, la misma que había sentido la primera noche, con la libreta entre los dedos, multiplicada por todas las cuentas que esa libreta había cerrado sin que nadie más las tocara nunca. Las líneas reaccionaron antes de que terminara de cerrar los puños, arrastrándose sobre su piel con una fricción que no era exactamente dolor pero que su cuerpo entero interpretó como si lo fuera, un frío que le subía por los antebrazos y se le metía debajo de las uñas. Cerró los puños de todas formas alrededor de las que pudo alcanzar, sintiendo cómo se tensaban contra su agarre, buscando soltarse, buscando volver a converger en cualquier otro punto que no fuera sus propias manos.
 
-Intentaron devolverle el favor. Sintió el tirón exacto que ya conocía de Dunmore, esta vez desde dentro de su propio pecho hacia afuera, como si algo estuviera decidiendo, en tiempo real, si él también contaba como una cuenta abierta. No cedió. No supo de dónde sacó la fuerza para no ceder — solo que la tenía, y que era suya, y que nadie iba a tacharla sin que él lo decidiera primero.
+Intentaron devolverle el favor. Sintió el tirón exacto que ya conocía de Dunmore, esta vez desde dentro de su propio pecho hacia afuera, como si algo estuviera decidiendo, en tiempo real, si él también contaba como una cuenta abierta. No cedió. No supo de dónde sacó la fuerza para no ceder, solo que la tenía, y que era suya, y que nadie iba a tacharla sin que él lo decidiera primero.
 
 *No*, pensó, con la misma certeza fría con la que llevaba media vida cerrando columnas que no cuadraban. *Esta cuenta no se cierra así.*
 
 Tiró.
 
-No fue elegante. Fue torpe, físico, desesperado — como arrancar algo que llevaba toda una vida creciendo hacia dentro de la tierra. Las líneas se estiraron hasta un punto que no debería haber sido posible y, una a una, empezaron a soltarse de todo lo demás, desconectándose de los cables, de las farolas, del propio asfalto que las había sostenido. La silueta se contrajo con cada una que cedía, perdiendo la forma incompleta que había tardado toda la huida en encontrar, reduciéndose a un núcleo cada vez más pequeño que ya no sabía hacia dónde tirar.
+No fue elegante. Fue torpe, físico, desesperado, como arrancar algo que llevaba toda una vida creciendo hacia dentro de la tierra. Las líneas se estiraron hasta un punto que no debería haber sido posible y, una a una, empezaron a soltarse de todo lo demás, desconectándose de los cables, de las farolas, del propio asfalto que las había sostenido. La silueta se contrajo con cada una que cedía, perdiendo la forma incompleta que había tardado toda la huida en encontrar, reduciéndose a un núcleo cada vez más pequeño que ya no sabía hacia dónde tirar.
 
 Oliver dio el último tirón con lo poco que le quedaba de aire en los pulmones.
 
@@ -65,7 +65,7 @@ No hubo dolor. Solo la certeza fría de estar cayendo, y después nada, salvo un
 
 Park lo vio caer desde el suelo, incapaz de moverse lo bastante rápido con dos brazos que ya no le obedecían, y llegó a su lado un segundo tarde, dejándose caer de costado junto a él para usar el propio peso del cuerpo y girarlo antes de que la cara terminara de golpear el asfalto.
 
-El chico temblaba. Una línea fina de sangre le bajaba desde la nariz, oscura contra la piel pálida, y los ojos, abiertos, no se fijaban en nada — un vacío que Park no supo nombrar todavía, solo registrar, con la misma atención profesional con la que registraba cualquier otro daño.
+El chico temblaba. Una línea fina de sangre le bajaba desde la nariz, oscura contra la piel pálida, y los ojos, abiertos, no se fijaban en nada, un vacío que Park no supo nombrar todavía, solo registrar, con la misma atención profesional con la que registraba cualquier otro daño.
 
 —Oye. —No pudo sacudirlo. No tenía con qué—. Oye, mírame.
 
@@ -79,13 +79,13 @@ Un hombre apareció sentado en mitad de la calzada, dos portales más allá, mir
 
 Más allá, junto a un buzón, una mujer apareció de pie, en la misma postura exacta en que debía de estar cuando la calle se la llevó, con el bolso todavía colgado del hombro y la mirada fija en un punto que ya no tenía nada delante. Tardó casi un minuto en moverse. Cuando lo hizo, fue para revisar el bolso, buscando dentro algo que ya no encontró, con la clase de gesto repetido de alguien que sabe que algo falta sin poder decir exactamente qué.
 
-Park contó tres más antes de dejar de contar. Expulsados, no destruidos — la misma distinción que había leído en un informe años atrás sin llegar a entender del todo lo que significaba de cerca: que la ciudad se los devolvía enteros por fuera y con algo menos por dentro, el mismo vacío que ya le había visto a Oliver, repartido ahora entre desconocidos, un hueco pequeño donde antes había un minuto, una cara, una certeza cualquiera que ya no iban a poder recuperar.
+Park contó tres más antes de dejar de contar. Expulsados, no destruidos, la misma distinción que había leído en un informe años atrás sin llegar a entender del todo lo que significaba de cerca: que la ciudad se los devolvía enteros por fuera y con algo menos por dentro, el mismo vacío que ya le había visto a Oliver, repartido ahora entre desconocidos, un hueco pequeño donde antes había un minuto, una cara, una certeza cualquiera que ya no iban a poder recuperar.
 
 Contó, sin decidir contar, el mismo reflejo profesional que lo llevaba a medir cualquier cosa que pudiera medirse. Diecinueve minutos desde que Dunmore se había quedado a oscuras. Quedaban, si la memoria no le fallaba de los informes que nunca había tenido que usar en campo, cinco más antes de que la red terminara de estabilizarse del todo.
 
 Cinco minutos era mucho tiempo para un chico que sangraba por la nariz y no respondía a su nombre.
 
-Con los dos brazos inútiles contra el cuerpo, Park hizo lo único que le quedaba: se dejó caer de rodillas junto a Oliver, apoyó la frente contra su hombro un segundo —no como gesto, sino porque las piernas también empezaban a fallarle— y buscó con la barbilla el bolsillo de su propia chaqueta, donde el teléfono llevaba vibrando, silencioso, desde que la Potestad había empezado a converger sobre él.
+Con los dos brazos inútiles contra el cuerpo, Park hizo lo único que le quedaba: se dejó caer de rodillas junto a Oliver, apoyó la frente contra su hombro un segundo, no como gesto, sino porque las piernas también empezaban a fallarle, y buscó con la barbilla el bolsillo de su propia chaqueta, donde el teléfono llevaba vibrando, silencioso, desde que la Potestad había empezado a converger sobre él.
 
 No podía sacarlo con las manos.
 
@@ -119,7 +119,7 @@ La llamada se cortó antes de que Park pudiera preguntar cuánto.
 
 No hizo falta preguntar.
 
-El primer coche llegó sin sirena, las luces cortando la oscuridad que ya empezaba a retirarse de la calle en la misma dirección en que había avanzado, como si alguien, en algún punto muy lejano, estuviera rebobinando la noche entera. Detrás llegó una furgoneta sin ningún distintivo, y de ella bajaron cuatro personas que no se molestaron en correr — el tipo de calma que solo se entrena, no se improvisa.
+El primer coche llegó sin sirena, las luces cortando la oscuridad que ya empezaba a retirarse de la calle en la misma dirección en que había avanzado, como si alguien, en algún punto muy lejano, estuviera rebobinando la noche entera. Detrás llegó una furgoneta sin ningún distintivo, y de ella bajaron cuatro personas que no se molestaron en correr, el tipo de calma que solo se entrena, no se improvisa.
 
 Una mujer se arrodilló junto a Oliver antes de que Park pudiera decir una sola palabra sobre quién era. Le tomó el pulso, le levantó un párpado, y dijo algo por un micrófono prendido en la solapa que Park no llegó a entender del todo, las palabras resbalándole por encima como agua sobre un cristal empañado.
 
@@ -141,9 +141,9 @@ Miró su propio reloj, torcido en la muñeca que ya no podía mover para consult
 
 La ciudad, a su alrededor, ya estaba completamente iluminada otra vez.
 
-Solo un chico de veintidós años, dormido entre los brazos de dos desconocidos, seguía a oscuras por dentro — y esa, Park lo sabía sin que nadie se lo hubiera dicho todavía, iba a ser la parte de la noche que ninguno de los dos podría devolverle nunca a nadie.
+Solo un chico de veintidós años, dormido entre los brazos de dos desconocidos, seguía a oscuras por dentro, y esa, Park lo sabía sin que nadie se lo hubiera dicho todavía, iba a ser la parte de la noche que ninguno de los dos podría devolverle nunca a nadie.
 
-Subieron a Oliver a la furgoneta sin ninguna prisa innecesaria, con la misma eficiencia silenciosa con la que habían hecho todo lo demás. A Park lo sentaron en el otro extremo, entre dos agentes que no le preguntaron nada todavía —eso, sabía por experiencia propia, vendría después, con preguntas mucho más precisas de las que cualquiera de los dos estaba preparado para responder esa noche.
+Subieron a Oliver a la furgoneta sin ninguna prisa innecesaria, con la misma eficiencia silenciosa con la que habían hecho todo lo demás. A Park lo sentaron en el otro extremo, entre dos agentes que no le preguntaron nada todavía. Eso, sabía por experiencia propia, vendría después, con preguntas mucho más precisas de las que cualquiera de los dos estaba preparado para responder esa noche.
 
 Antes de que cerraran las puertas, Park pensó en Dunmore, varias manzanas atrás, con las luces ya encendidas otra vez y el escaparate roto, y en que no iba a quedar ahí ningún rastro visible de que un hombre hubiera decidido en silencio y sin testigos que una deuda de veintinueve años valía la pena de un chico que nunca le había hecho nada más que devolverle una libreta a su sitio.
 

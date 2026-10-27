@@ -8,7 +8,7 @@ Reber said nothing during morning training. Only at the end, while the rest were
 
 "I'm not going to ask you who it was," he said, quietly, just for him. "But if you ever decide you want someone to ask, you know where to find me. There's no clock running on that offer."
 
-Riku didn't answer. Reber didn't wait for him to — he nodded once, like someone closing a door without shutting it all the way, and went to attend to the rest of the group.
+Riku didn't answer. Reber didn't wait for him to, he nodded once, like someone closing a door without shutting it all the way, and went to attend to the rest of the group.
 
 "He knows," Riku said, once Reber was far enough away. "Not the names. But he knows something real happened."
 
@@ -16,11 +16,11 @@ Riku didn't answer. Reber didn't wait for him to — he nodded once, like someon
 
 ---
 
-Asha treated it like a problem to solve, not gossip to chase. She didn't force anything — she simply used the one thing she already had: a board position high enough that candidates with more time at the center treated her as an equal, not a rookie asking strange questions.
+Asha treated it like a problem to solve, not gossip to chase. She didn't force anything, she simply used the one thing she already had: a board position high enough that candidates with more time at the center treated her as an equal, not a rookie asking strange questions.
 
-She spent the following days dropping by, no visible pattern, near whoever might know something — a knowledge candidate during an archive session, someone from the peer-evaluation group in the mess line, two sentences with an instructor who remembered her from Val Bedretto. Nothing that looked like an investigation. All it looked like was a curious candidate, with time to spare and a good memory for what people told her.
+She spent the following days dropping by, no visible pattern, near whoever might know something, a knowledge candidate during an archive session, someone from the peer-evaluation group in the mess line, two sentences with an instructor who remembered her from Val Bedretto. Nothing that looked like an investigation. All it looked like was a curious candidate, with time to spare and a good memory for what people told her.
 
-Johanna was the one who gave her the most, and she did it without Asha having to push much — they crossed paths during a shared ropes session, and it took no more than naming the storeroom without quite naming it for Johanna to understand exactly what she meant.
+Johanna was the one who gave her the most, and she did it without Asha having to push much, they crossed paths during a shared ropes session, and it took no more than naming the storeroom without quite naming it for Johanna to understand exactly what she meant.
 
 "That group isn't hard to understand," Johanna said, without lowering her voice, as if she didn't care who else heard her. "They're a handful of thugs who found a place with no cameras. That's all. There's no philosophy behind it, no matter how much Yegor wants to sell it to you like there is."
 
@@ -30,13 +30,13 @@ Johanna was the one who gave her the most, and she did it without Asha having to
 
 "And the rest of his group?"
 
-"Milan was top ten once, before all this — he carries the resentment more worn-in, quieter than Yegor's but just as solid. The other two are more recent, they joined once they saw there was a place where the board didn't rule. Not much more to say about them — they're the ones who make up the numbers, not the ones who decide anything."
+"Milan was top ten once, before all this, he carries the resentment more worn-in, quieter than Yegor's but just as solid. The other two are more recent, they joined once they saw there was a place where the board didn't rule. Not much more to say about them, they're the ones who make up the numbers, not the ones who decide anything."
 
 Johanna hesitated a second before continuing, something Asha hadn't seen her do until then.
 
 "Iker's the one who doesn't quite fit that picture," she said. "And not because he's necessarily a better person. It's that he cares about Dax more than he cares about Yegor's group. He spends his free hours watching Dax train when he thinks nobody notices. If you ask him how he learned something, the answer almost always starts with 'I saw Dax do...' I don't know if that makes him better or worse than the rest. I just know he's not there for the same reason the others are."
 
-Asha put the rest together in her head without needing more than that — the pattern was already clear enough without anyone having to draw it out for her.
+Asha put the rest together in her head without needing more than that, the pattern was already clear enough without anyone having to draw it out for her.
 
 That night, after dinner, she gathered the whole group in Oliver's room.
 
@@ -48,7 +48,7 @@ That night, after dinner, she gathered the whole group in Oliver's room.
 
 "There's more," Pier said, from the corner where he'd been quiet for a while. "I've been asking around on my own, my way. One of the more senior instructors confirmed the place has existed for years, long before anyone from Dax's group ever arrived. They never close it entirely because, according to him, 'a place like that always finds another door if you take this one away.' They'd rather know where it is than pretend it doesn't exist."
 
-"And Yegor isn't the only one who uses it that way," Petra said. "I talked to a couple of candidates from other groups, people who've never set foot in the storeroom and don't plan to. They all agree on the same thing: the club exists for people who lost something — a rank, recognition, the certainty of being the best in the room — and have no other way to get it back than taking it from someone else. This isn't about Riku. It was never about Riku."
+"And Yegor isn't the only one who uses it that way," Petra said. "I talked to a couple of candidates from other groups, people who've never set foot in the storeroom and don't plan to. They all agree on the same thing: the club exists for people who lost something, a rank, recognition, the certainty of being the best in the room, and have no other way to get it back than taking it from someone else. This isn't about Riku. It was never about Riku."
 
 Nobody said anything for a moment. It was Nadia who broke the silence, her voice quieter than usual.
 
@@ -58,11 +58,11 @@ Nobody contradicted her.
 
 ---
 
-The news about Lev and Sabine arrived two days later, in the same indirect way important things arrived at St. Gotthard — Pier brought it from the mess hall, behind two instructors who didn't lower their voices enough.
+The news about Lev and Sabine arrived two days later, in the same indirect way important things arrived at St. Gotthard, Pier brought it from the mess hall, behind two instructors who didn't lower their voices enough.
 
 "They're being hunted for real," he said, sitting down with his tray half finished. "Not routine surveillance. Active search. One of them said 'fugitives,' not 'hostiles.'"
 
-Nobody said anything for a moment. Oliver thought about Lev, about the unannounced conversation from months back, about what he'd taught him about managing a Domain alone that nobody else understood. He thought too, unable to help it, about Riku — about the exact same feeling, though at a different scale, that the system decided who deserved protection and who fell outside the calculation.
+Nobody said anything for a moment. Oliver thought about Lev, about the unannounced conversation from months back, about what he'd taught him about managing a Domain alone that nobody else understood. He thought too, unable to help it, about Riku, about the exact same feeling, though at a different scale, that the system decided who deserved protection and who fell outside the calculation.
 
 "It's not the same," Dara said, as if she'd read his thoughts. "Lev and Sabine left. Riku didn't go anywhere."
 
@@ -108,7 +108,7 @@ Oliver found her, two nights later, sitting alone in the outdoor courtyard almos
 
 "Sit a moment, if you're not in a hurry," she said, without turning.
 
-Oliver sat down, the cold of the stone seeping through his clothes, and for a while neither of them said anything — the kind of silence Anka, unlike almost everything else she did, didn't seem in any hurry to fill.
+Oliver sat down, the cold of the stone seeping through his clothes, and for a while neither of them said anything, the kind of silence Anka, unlike almost everything else she did, didn't seem in any hurry to fill.
 
 "I heard about Riku," she said, finally, without circling around it. "I'm not going to ask you what Reber asked him. But I want you to know that I know, and that this isn't the first time that place has done something like this."
 
@@ -134,12 +134,12 @@ Oliver didn't know what to say at first. He kept looking at the same sky she cou
 
 "Depends who's looking," she said. "For me, no. I can't do anything with what I see except name it. For someone else, with a different instrument, it might be a different kind of data."
 
-Oliver felt the weight of that sentence more than he'd expected. There was something in the way she said it — not as a question, not as an accusation — that made him feel, again, that he was being read in a way that had nothing to do with any instrument he'd ever seen at St. Gotthard.
+Oliver felt the weight of that sentence more than he'd expected. There was something in the way she said it, not as a question, not as an accusation, that made him feel, again, that he was being read in a way that had nothing to do with any instrument he'd ever seen at St. Gotthard.
 
 "How do you know that?" he said. "Mine, I mean. Not the Registry. The other thing."
 
-Anka didn't answer directly. She turned her head toward him — toward him, not toward any active Odem nearby, something Oliver noticed and didn't know how to name — and smiled, just barely, just enough not to look like an answer.
+Anka didn't answer directly. She turned her head toward him, toward him, not toward any active Odem nearby, something Oliver noticed and didn't know how to name, and smiled, just barely, just enough not to look like an answer.
 
 "Not yet," she said. "But someday I'm going to ask you for real, and you're going to have to decide whether you want to answer me. When that day comes, I hope you ask me too. It's going to be a longer conversation than you think."
 
-She said goodbye without further ceremony, leaving Oliver with the uncomfortable certainty that the conversation, though brief, had never once been casual — and with the new, still shapeless feeling that the next time they spoke, one of them was going to have to decide how much they were willing to risk by telling the truth.
+She said goodbye without further ceremony, leaving Oliver with the uncomfortable certainty that the conversation, though brief, had never once been casual, and with the new, still shapeless feeling that the next time they spoke, one of them was going to have to decide how much they were willing to risk by telling the truth.

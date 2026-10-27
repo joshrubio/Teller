@@ -1,7 +1,7 @@
 # Capítulo 9 — Líneas
 
 
-La nevera se apagó primero. Después el letrero de la ventana, después el resto de Dunmore de golpe, y en la oscuridad completa Oliver sintió que el tirón en el pecho no se quedaba en el pecho — se extendía hacia afuera, un hilo tenso saliendo de él en una dirección que su cuerpo reconocía sin que sus ojos hubieran visto nada todavía.
+La nevera se apagó primero. Después el letrero de la ventana, después el resto de Dunmore de golpe, y en la oscuridad completa Oliver sintió que el tirón en el pecho no se quedaba en el pecho. Se extendía hacia afuera, un hilo tenso saliendo de él en una dirección que su cuerpo reconocía sin que sus ojos hubieran visto nada todavía.
 
 —No te muevas —dijo Park, y la mano que le cerró alrededor del brazo no era la de alguien pidiendo calma. Era la de alguien calculando distancias.
 
@@ -25,7 +25,7 @@ Un hombre salió de un portal tres puertas más allá, en camiseta, el pelo revu
 
 —¡Muévase! —le gritó Oliver, sin aliento—. ¡No se pare ahí!
 
-El hombre lo miró a él, después miró la oscuridad, y no llegó a decidir a tiempo. Algo que no tenía forma de boca se cerró sobre el escalón entero, un mordisco limpio y sin dientes visibles que se lo llevó junto con la puerta, el felpudo, el buen trozo de fachada que había detrás — y cuando el polvo terminó de asentarse ya no había nadie ahí, ni sangre, ni ropa, solo un hueco con la forma exacta de un umbral.
+El hombre lo miró a él, después miró la oscuridad, y no llegó a decidir a tiempo. Algo que no tenía forma de boca se cerró sobre el escalón entero, un mordisco limpio y sin dientes visibles que se lo llevó junto con la puerta, el felpudo, el buen trozo de fachada que había detrás, y cuando el polvo terminó de asentarse ya no había nadie ahí, ni sangre, ni ropa, solo un hueco con la forma exacta de un umbral.
 
 Oliver se detuvo en seco.
 
@@ -33,7 +33,7 @@ Oliver se detuvo en seco.
 
 No caminaba, lo que los perseguía. Avanzaba con la paciencia de algo que sabe que va a alcanzar su comida tarde o temprano, y el sonido llegaba con retraso, un rasguño constante, como fauces enormes arrastrándose sin prisa por el suelo.
 
-Halloway se estrechaba hacia una hilera de edificios viejos, ladrillo ennegrecido, escaleras de incendios oxidadas — y uno de ellos, el más alto de la manzana, tenía el portal abierto de par en par, con el rótulo medio caído de un antiguo hotel de trabajadores del puerto.
+Halloway se estrechaba hacia una hilera de edificios viejos, ladrillo ennegrecido, escaleras de incendios oxidadas, y uno de ellos, el más alto de la manzana, tenía el portal abierto de par en par, con el rótulo medio caído de un antiguo hotel de trabajadores del puerto.
 
 —Ahí —dijo Park, y no esperó a que Oliver preguntara por qué.
 
@@ -65,21 +65,21 @@ Salieron a la azotea con los pulmones ardiendo. El tejado ya se estaba oscurecie
 
 El suelo cedió detrás de ellos con el mismo mordisco de siempre, y saltaron.
 
-El mundo desapareció bajo sus pies durante un instante sin ninguna lógica de tiempo — solo viento, y la calle acercándose demasiado rápido, y la mano de Park cerrada en la tela de su camisa con una fuerza que no dolía porque no había tiempo para que doliera. Y entonces la caída cambió. No se detuvo. Se transformó, la velocidad redistribuyéndose de una forma que Oliver no supo describir salvo que su estómago dejó de caer aunque el resto de su cuerpo siguiera bajando. Park se impulsó contra la fachada a mitad de trayecto —un golpe seco que dejó grietas en el ladrillo y cambió el ángulo del descenso— y aterrizaron.
+El mundo desapareció bajo sus pies durante un instante sin ninguna lógica de tiempo, solo viento, y la calle acercándose demasiado rápido, y la mano de Park cerrada en la tela de su camisa con una fuerza que no dolía porque no había tiempo para que doliera. Y entonces la caída cambió. No se detuvo. Se transformó, la velocidad redistribuyéndose de una forma que Oliver no supo describir salvo que su estómago dejó de caer aunque el resto de su cuerpo siguiera bajando. Park se impulsó contra la fachada a mitad de trayecto, un golpe seco que dejó grietas en el ladrillo y cambió el ángulo del descenso, y aterrizaron.
 
 Sus pies tocaron el asfalto con una violencia que debería haberles roto los tobillos.
 
-No lo hizo. Pero Park no rodó limpio: el hombro derecho pegó contra el suelo un instante antes que el resto de él, y el sonido que hizo al ponerse de pie fue distinto al de antes — más corto, más contenido.
+No lo hizo. Pero Park no rodó limpio: el hombro derecho pegó contra el suelo un instante antes que el resto de él, y el sonido que hizo al ponerse de pie fue distinto al de antes, más corto, más contenido.
 
 —¿Estás bien?
 
 —Funciona —dijo Park, sin mirarse el hombro—. Solo necesito no usarlo como palanca durante un rato.
 
-Corrieron. Oliver ya no miraba a la gente que huía a su alrededor, ni los coches sin conductor derrapando contra los contenedores — miraba los espacios entre las cosas, la red de filamentos que ahora podía distinguir con más claridad al nivel de la calle. Cuando convergían hacia un punto, ese punto dejaba de existir, tragado entero, sin dejar ni polvo.
+Corrieron. Oliver ya no miraba a la gente que huía a su alrededor, ni los coches sin conductor derrapando contra los contenedores. Miraba los espacios entre las cosas, la red de filamentos que ahora podía distinguir con más claridad al nivel de la calle. Cuando convergían hacia un punto, ese punto dejaba de existir, tragado entero, sin dejar ni polvo.
 
 —Ahí no —dijo, señalando un buzón sin dejar de correr.
 
-Park cambió de trayectoria sin preguntar, y el aire entre los dos edificios frente a ellos se comprimió de golpe hacia él en el mismo instante, demasiado rápido para esquivarlo del todo. Alcanzó a levantar el brazo derecho — el mismo hombro — y el mordisco lo lanzó contra un escaparate con un golpe que hizo temblar el cristal entero de la planta baja.
+Park cambió de trayectoria sin preguntar, y el aire entre los dos edificios frente a ellos se comprimió de golpe hacia él en el mismo instante, demasiado rápido para esquivarlo del todo. Alcanzó a levantar el brazo derecho, el mismo hombro, y el mordisco lo lanzó contra un escaparate con un golpe que hizo temblar el cristal entero de la planta baja.
 
 Se incorporó de inmediato. Pero algo en la forma en que sostenía ese brazo ya no era del todo suyo.
 
@@ -119,7 +119,7 @@ Se quedó plantado en mitad de la calle, los pies firmes sobre el asfalto agriet
 
 —Significa exactamente eso.
 
-El aire alrededor de Park empezó a vibrar de una forma distinta a la de antes — no un temblor externo, sino algo cargándose desde dentro, cada salto y cada golpe absorbido durante toda la huida condensándose ahora en la rigidez de sus hombros.
+El aire alrededor de Park empezó a vibrar de una forma distinta a la de antes. No un temblor externo, sino algo cargándose desde dentro, cada salto y cada golpe absorbido durante toda la huida condensándose ahora en la rigidez de sus hombros.
 
 Al final de la calle, el hueco apareció, sin materializarse, sin cruzar el espacio que los separaba: simplemente estuvo ahí, donde un segundo antes no había nada.
 
@@ -129,13 +129,13 @@ Al final de la calle, el hueco apareció, sin materializarse, sin cruzar el espa
 
 Las líneas empezaron a tensarse desde cada superficie inmóvil de la calle, convergiendo hacia el punto exacto donde Park había plantado los pies, y por primera vez en toda la noche Oliver entendió que lo que venía a continuación no iba a ser otra huida.
 
-No fue un paso lo que dio el hueco. Fue una acumulación: pliegues de ausencia superponiéndose unos sobre otros hasta encontrar, por fin, algo parecido a una forma. Casi humana en las proporciones, pero sin nada que un ojo pudiera fijar como rasgo — donde debería haber una cara solo había una concavidad, un punto que no devolvía la mirada sino que la tragaba, y aun así Oliver supo, sin necesitar ojos para confirmarlo, que los estaba mirando a los dos.
+No fue un paso lo que dio el hueco. Fue una acumulación: pliegues de ausencia superponiéndose unos sobre otros hasta encontrar, por fin, algo parecido a una forma. Casi humana en las proporciones, pero sin nada que un ojo pudiera fijar como rasgo, donde debería haber una cara solo había una concavidad, un punto que no devolvía la mirada sino que la tragaba, y aun así Oliver supo, sin necesitar ojos para confirmarlo, que los estaba mirando a los dos.
 
 Setenta y cuatro nombres habían terminado frente a esto, o frente a algo parecido a esto, en cuartos vacíos y muelles de carga y pensiones baratas por toda la ciudad, sin que nadie más lo viera nunca. A Oliver le pareció, de pronto, obsceno estar viéndolo en mitad de una calle, a plena vista de cualquier ventana que todavía tuviera luz.
 
 El aire se volvió tan pesado que respirar costaba un esfuerzo consciente, algo que había que decidir en vez de simplemente hacer. Park no apartó la vista del hueco.
 
-Dio un paso adelante. El asfalto se fracturó bajo ese paso, no por impacto sino por la presión que llevaba toda la huida guardando — cada salto, cada frenazo, cada golpe absorbido, convertido ahora en un solo cuerpo a punto de reventar.
+Dio un paso adelante. El asfalto se fracturó bajo ese paso, no por impacto sino por la presión que llevaba toda la huida guardando, cada salto, cada frenazo, cada golpe absorbido, convertido ahora en un solo cuerpo a punto de reventar.
 
 Las líneas se lanzaron hacia él, más rápidas que antes, cerrándose como una boca entera en vez de un mordisco.
 
@@ -143,11 +143,11 @@ Park no retrocedió.
 
 Exhaló. Y lo soltó todo.
 
-No fue un golpe que Oliver pudiera nombrar como golpe. Fue una descarga, aire comprimido saliendo de Park en una sola dirección, y chocó contra el centro exacto del hueco con un sonido que Oliver sintió en las muelas antes que en los oídos. Por medio segundo, en el momento exacto del impacto, las líneas enteras se iluminaron para él con un detalle que no había tenido nunca antes — no solo dónde estaban, sino de qué estaban hechas, capa sobre capa de algo que llevaba veintinueve años acumulándose sin que nadie lo mirara de frente. La silueta se deformó, plegándose sobre sí misma como si sus propias tensiones internas hubieran sido forzadas a ir en direcciones que se contradecían.
+No fue un golpe que Oliver pudiera nombrar como golpe. Fue una descarga, aire comprimido saliendo de Park en una sola dirección, y chocó contra el centro exacto del hueco con un sonido que Oliver sintió en las muelas antes que en los oídos. Por medio segundo, en el momento exacto del impacto, las líneas enteras se iluminaron para él con un detalle que no había tenido nunca antes. No solo dónde estaban, sino de qué estaban hechas, capa sobre capa de algo que llevaba veintinueve años acumulándose sin que nadie lo mirara de frente. La silueta se deformó, plegándose sobre sí misma como si sus propias tensiones internas hubieran sido forzadas a ir en direcciones que se contradecían.
 
 No desapareció.
 
-Retrocedió —un metro, quizás dos— y las líneas que la sostenían se aflojaron, temblando sin alinearse, incapaces por un instante de decidir hacia dónde tirar.
+Retrocedió, un metro, quizás dos, y las líneas que la sostenían se aflojaron, temblando sin alinearse, incapaces por un instante de decidir hacia dónde tirar.
 
 Park cayó sobre una rodilla. El brazo malo le colgaba ahora sin que pareciera decidir dejarlo colgar; el otro seguía en alto, temblando con el mismo temblor que sacudía el aire alrededor de los dos.
 

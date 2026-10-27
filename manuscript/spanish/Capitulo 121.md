@@ -4,7 +4,7 @@
 
 —...y por eso se lo pido como concesión, no como orden —decía Voss, la voz más baja de lo que Oliver se la había escuchado nunca delante de un grupo entero.
 
-Estaban en la sala común del edificio principal, las lámparas encendidas contra un anochecer que todavía no terminaba de cerrar del todo sobre el lago. Nadie se había sentado del todo — Riku apoyado contra el marco de la puerta, Dara de pie con los brazos cruzados cerca de la ventana, Pier en el único sillón, Asha y Nadia una junto a otra en el sofá. Maren, de pie detrás de Voss, no había dicho una palabra desde que empezaron.
+Estaban en la sala común del edificio principal, las lámparas encendidas contra un anochecer que todavía no terminaba de cerrar del todo sobre el lago. Nadie se había sentado del todo, Riku apoyado contra el marco de la puerta, Dara de pie con los brazos cruzados cerca de la ventana, Pier en el único sillón, Asha y Nadia una junto a otra en el sofá. Maren, de pie detrás de Voss, no había dicho una palabra desde que empezaron.
 
 —No tengo autoridad para dárselo yo mismo —siguió Voss—. El consejo me la quitó esta misma tarde, en Ginebra. Lo que les traigo no es mío para ofrecer. Es de otra rama, y viene con un precio que no voy a suavizar delante de ustedes.
 
@@ -34,7 +34,7 @@ Voss dudó un segundo, el tipo de pausa que en él nunca era nerviosismo, siempr
 
 —Internamente lo llaman Wardogs. No sé quién le puso ese nombre, ni si es más honesto o más cruel que no ponerle ninguno. —Miró a cada uno de ellos por turno, algo que rara vez hacía—. Podría no habérselos dicho. Nadie me lo habría preguntado si no lo mencionaba. Se los digo de todos modos.
 
-Oliver sintió, más que vio, el peso exacto en el Odem de Voss — no una lectura activa, solo la misma sensación de fondo que llevaba meses aprendiendo a distinguir sin necesidad de Registro completo. Algo contenido, apretado hacia dentro, del tamaño de una disculpa que no terminaba de decirse entera.
+Oliver sintió, más que vio, el peso exacto en el Odem de Voss. No una lectura activa, solo la misma sensación de fondo que llevaba meses aprendiendo a distinguir sin necesidad de Registro completo. Algo contenido, apretado hacia dentro, del tamaño de una disculpa que no terminaba de decirse entera.
 
 —Se los pido como concesión —repitió Voss— porque perdí el argumento que quería ganar por ustedes, y esto es lo único que queda sobre la mesa. Pueden rechazarlo. Nadie los va a obligar a firmar nada esta noche, ni esta semana. Pero les voy a pedir que no lo descarten solo porque venga de donde viene.
 
@@ -56,7 +56,7 @@ Voss no lo contradijo.
 
 —Es lo más parecido a una elección que les puedo entregar esta noche —dijo Voss—. No voy a fingir que es más que eso.
 
-Oliver no dijo nada todavía, pero sintió el peso de la pregunta aterrizar sobre él de una forma distinta a como aterrizaba sobre los demás — no porque fuera a decidir por nadie, sino porque llevaba meses siendo, sin que se lo pidieran, el que el resto miraba de reojo antes de decidir algo grande. No le gustó descubrirlo otra vez esa noche en concreto.
+Oliver no dijo nada todavía, pero sintió el peso de la pregunta aterrizar sobre él de una forma distinta a como aterrizaba sobre los demás. No porque fuera a decidir por nadie, sino porque llevaba meses siendo, sin que se lo pidieran, el que el resto miraba de reojo antes de decidir algo grande. No le gustó descubrirlo otra vez esa noche en concreto.
 
 ---
 
@@ -74,13 +74,13 @@ Maren y Voss cruzaron una mirada que duró menos de un segundo y que Oliver, aun
 
 —Lo sé —dijo Voss—. No tengo un canal mejor que ofrecerle a usted que al resto.
 
-Pier no insistió, pero algo en su postura —la espalda un poco más recta de lo necesario, las manos quietas sobre las rodillas— dejó claro que la respuesta se quedaba con él, no que la aceptara.
+Pier no insistió, pero algo en su postura, la espalda un poco más recta de lo necesario, las manos quietas sobre las rodillas, dejó claro que la respuesta se quedaba con él, no que la aceptara.
 
-El silencio que siguió tenía una textura distinta al anterior — menos sobre el futuro de todos, más sobre algo puntual que ninguno de ellos podía tocar desde ahí.
+El silencio que siguió tenía una textura distinta al anterior, menos sobre el futuro de todos, más sobre algo puntual que ninguno de ellos podía tocar desde ahí.
 
 ---
 
-La conversación ya empezaba a deshacerse en preguntas más pequeñas, logísticas —cuándo tendrían que decidir, si podían hablarlo entre ellos primero, si había alguna forma de saber más antes de firmar nada— el tipo de detalle que la gente hace cuando todavía no sabe qué hacer con lo grande. Alguien, Oliver no llegó a ver quién, hizo un comentario seco sobre lo que costaría reemplazar la caña de pescar de Pier si la unidad que fuera a reclamarlos no dejaba llevar equipaje personal, y por un segundo casi hubo algo parecido a risa en la sala — la primera desde que Voss había empezado a hablar.
+La conversación ya empezaba a deshacerse en preguntas más pequeñas, logísticas, cuándo tendrían que decidir, si podían hablarlo entre ellos primero, si había alguna forma de saber más antes de firmar nada, el tipo de detalle que la gente hace cuando todavía no sabe qué hacer con lo grande. Alguien, Oliver no llegó a ver quién, hizo un comentario seco sobre lo que costaría reemplazar la caña de pescar de Pier si la unidad que fuera a reclamarlos no dejaba llevar equipaje personal, y por un segundo casi hubo algo parecido a risa en la sala, la primera desde que Voss había empezado a hablar.
 
 El teléfono de Maren vibró en ese momento exacto, y la risa no llegó a completarse.
 
@@ -96,21 +96,21 @@ Nadie dijo nada durante lo que pareció mucho más de lo que fue.
 
 Voss fue el único que no se movió en absoluto, y fue justo esa quietud, más que cualquier gesto, la que Oliver leyó con claridad: había sido Voss quien le pidió a Yusuf que volviera al campo para esto, meses atrás, un favor puntual entre dos hombres que se conocían de mucho antes que este grupo existiera. Nadie en la sala lo dijo en voz alta. Nadie necesitaba hacerlo.
 
-Pier fue el primero en moverse, no en hablar — se levantó del sillón despacio, con el cuidado exacto de alguien que no confía en sus propias piernas para hacerlo rápido, y caminó hasta la ventana sin mirar a nadie. Se quedó ahí, de espaldas al resto, los hombros sin caerse del todo, como si sostenerlos rectos fuera lo único que todavía podía controlar.
+Pier fue el primero en moverse, no en hablar, se levantó del sillón despacio, con el cuidado exacto de alguien que no confía en sus propias piernas para hacerlo rápido, y caminó hasta la ventana sin mirar a nadie. Se quedó ahí, de espaldas al resto, los hombros sin caerse del todo, como si sostenerlos rectos fuera lo único que todavía podía controlar.
 
 —Le debo una botella —dijo, sin girarse, la voz tan baja que casi no llegó a sonar como frase.
 
 Riku se dejó caer del marco de la puerta al suelo, las rodillas contra el pecho, la misma postura exacta que Oliver le había visto en el corredor norte meses atrás, la noche que se cerró por completo al oír otras partidas. No dijo nada esta vez tampoco.
 
-Dara no se movió del sitio donde estaba, los brazos todavía cruzados, pero algo en su cara se reorganizó — no colapsó, se reorganizó, como si estuviera catalogando la información en la misma carpeta mental donde guardaba "¿quién sobrevivió?" sin nunca haber encontrado una respuesta limpia para esa pregunta tampoco.
+Dara no se movió del sitio donde estaba, los brazos todavía cruzados, pero algo en su cara se reorganizó. No colapsó, se reorganizó, como si estuviera catalogando la información en la misma carpeta mental donde guardaba "¿quién sobrevivió?" sin nunca haber encontrado una respuesta limpia para esa pregunta tampoco.
 
-Asha se puso de pie casi al mismo tiempo que Pier, pero se detuvo a mitad de camino hacia ninguna parte concreta, las manos buscando algo que hacer y no encontrándolo — la primera vez que Oliver la veía sin ningún problema técnico que resolver.
+Asha se puso de pie casi al mismo tiempo que Pier, pero se detuvo a mitad de camino hacia ninguna parte concreta, las manos buscando algo que hacer y no encontrándolo, la primera vez que Oliver la veía sin ningún problema técnico que resolver.
 
-Nadia fue la única que lloró en voz alta, sin esconderlo, las manos vendadas inútiles sobre el regazo, incapaz siquiera de cubrirse la cara con ellas. Asha se sentó a su lado otra vez, despacio, y le sostuvo el antebrazo por encima de la venda — no la mano, la venda no lo permitía — el único gesto de toda la sala que pareció decidido de verdad y no simplemente sucedido.
+Nadia fue la única que lloró en voz alta, sin esconderlo, las manos vendadas inútiles sobre el regazo, incapaz siquiera de cubrirse la cara con ellas. Asha se sentó a su lado otra vez, despacio, y le sostuvo el antebrazo por encima de la venda, no la mano, la venda no lo permitía, el único gesto de toda la sala que pareció decidido de verdad y no simplemente sucedido.
 
 Oliver se descubrió mirando la puerta, calculando sin quererlo cuánto tardaría un mensaje en llegar desde algún punto sin nombre de Venezuela hasta Ginebra y de ahí hasta aquí, cuántas manos lo habrían tocado antes de convertirse en la frase que Maren acababa de leer en voz alta. El cálculo no servía para nada. Lo hizo de todos modos, porque la alternativa era quedarse solo con lo otro.
 
-Voss no dijo nada durante un rato largo. Cuando habló, no fue para consolar a nadie — no era su función, y todos en la sala lo sabían.
+Voss no dijo nada durante un rato largo. Cuando habló, no fue para consolar a nadie, no era su función, y todos en la sala lo sabían.
 
 —No hay funeral que ofrecerles todavía —dijo—. Ni lo va a haber pronto. Lo siento.
 
@@ -136,13 +136,13 @@ El agua del lago, de noche, no reflejaba casi nada. Oliver se quedó de pie al f
 
 Detrás de él, las ventanas de la sala común seguían encendidas, formas moviéndose despacio detrás del cristal sin que Oliver necesitara Registro para saber que nadie ahí dentro se había ido a dormir todavía.
 
-Pensó en Sisi, en la última palabra que le había dejado sin cumplir todavía — *vuelve* — y en si ese hueco seguía siendo suyo para llenar o ya era, sin que nadie se lo hubiera dicho, de alguien más.
+Pensó en Sisi, en la última palabra que le había dejado sin cumplir todavía, *vuelve*, y en si ese hueco seguía siendo suyo para llenar o ya era, sin que nadie se lo hubiera dicho, de alguien más.
 
 Pensó en Kaspar, en la nota que le había dejado sobre Anke y que había decidido no entregarle a Voss, y en cuánto de lo que pasaba esta noche tenía, sin que ninguno de los presentes lo supiera todavía, una raíz que llegaba hasta él.
 
 Pensó en Anke, en la técnica que le había enseñado sin pedir nada a cambio salvo que la usara bien, y en si "bien" todavía significaba lo mismo después de esta noche.
 
-Pensó en Park, en "precarias" y en todo lo que esa palabra no decía, y en si alguna vez llegaría a saber cuál de las dos versiones — la que Park reportaría, o la que de verdad había pasado — era la que le iban a contar.
+Pensó en Park, en "precarias" y en todo lo que esa palabra no decía, y en si alguna vez llegaría a saber cuál de las dos versiones, la que Park reportaría, o la que de verdad había pasado, era la que le iban a contar.
 
 Y pensó en Yusuf, en una ventana de setenta y dos horas ya cerrada, en una frase que no confirmaba nada y que, precisamente por eso, no dejaba nada a lo que aferrarse.
 

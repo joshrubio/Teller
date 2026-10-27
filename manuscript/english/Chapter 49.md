@@ -16,7 +16,7 @@ What the agency needed this week was someone who could walk through walls.
 
 The news reached the dining hall before breakfast.
 
-Not all at once — that wasn't how things arrived at the Center. It arrived the way almost everything did: in the way someone was sitting, in the silences between sentences that normally had sentences, in the specific absence of Tomás at the table where Tomás always ate breakfast alone, because Tomás ate breakfast alone by choice, and that morning the choice was no longer his.
+Not all at once, that wasn't how things arrived at the Center. It arrived the way almost everything did: in the way someone was sitting, in the silences between sentences that normally had sentences, in the specific absence of Tomás at the table where Tomás always ate breakfast alone, because Tomás ate breakfast alone by choice, and that morning the choice was no longer his.
 
 Oliver arrived at eight-twenty, read the dining hall in the first ten seconds, and didn't pour himself coffee.
 
@@ -28,7 +28,7 @@ Oliver went.
 
 ---
 
-The room was one Oliver hadn't used before — not a session room, not the library, not the dining hall. A room in the west wing with four chairs, a sealed window, and the look of a space that existed for purposes no one had needed to define precisely until now. Sabine was already there when they arrived. Petra came in a minute later. Her calm looked deliberate — earned from enough hard conversations to know that calm is a tool before it's a state. Asha arrived last, closed the door without a sound, and stayed standing beside it.
+The room was one Oliver hadn't used before, not a session room, not the library, not the dining hall. A room in the west wing with four chairs, a sealed window, and the look of a space that existed for purposes no one had needed to define precisely until now. Sabine was already there when they arrived. Petra came in a minute later. Her calm looked deliberate, earned from enough hard conversations to know that calm is a tool before it's a state. Asha arrived last, closed the door without a sound, and stayed standing beside it.
 
 Lev wasn't there.
 
@@ -66,7 +66,7 @@ Oliver took it in, then looked at Pier.
 
 Petra spoke then. She had a way of entering conversations at the exact moment she added something the others hadn't said yet.
 
-"The formal collaboration protocol has two variants. One is what Sabine and I have — we stay here, we work with the Center, we have a degree of continuity. The other is external assignment." She looked at the sealed window. "Tomás has the second. What that means in practice is that AMAT is going to use him for whatever AMAT needs, and it's going to tell him exactly as much as it decides he needs to know about it."
+"The formal collaboration protocol has two variants. One is what Sabine and I have, we stay here, we work with the Center, we have a degree of continuity. The other is external assignment." She looked at the sealed window. "Tomás has the second. What that means in practice is that AMAT is going to use him for whatever AMAT needs, and it's going to tell him exactly as much as it decides he needs to know about it."
 
 "Did he choose it?"
 
@@ -110,7 +110,7 @@ Oliver waited. He'd learned to wait when the conversation hadn't yet reached the
 
 Another silence. This one had a different shape than the last.
 
-"Lev doesn't want to," Pier said. "We're making that clear so there's no confusion. His reluctance isn't about you — he doesn't want anyone, AMAT included, to have visibility into what his Domain does. He's managed alone for too long to hand it over easily."
+"Lev doesn't want to," Pier said. "We're making that clear so there's no confusion. His reluctance isn't about you, he doesn't want anyone, AMAT included, to have visibility into what his Domain does. He's managed alone for too long to hand it over easily."
 
 "I understand," Oliver said.
 
@@ -144,7 +144,7 @@ It was a real question, not a rhetorical one. The kind asked by someone who has 
 
 "I don't know yet. I've never been in this situation. But that's my intention."
 
-Sabine filed the answer away in some provisional category — not trust, not distrust. Information pending more data.
+Sabine filed the answer away in some provisional category, not trust, not distrust. Information pending more data.
 
 Pier spoke.
 
@@ -158,7 +158,7 @@ Pier spoke.
 
 The room went still.
 
-Oliver looked at the four of them — Pier with his back straight, Sabine with her hands in her lap, Petra calm now that she'd said what she meant to say, Asha by the door. Four people who had spent between two and eleven years navigating a system that made decisions about their lives with the same efficiency it used to make decisions about any other resource. Who had built, in that time, the ability to read the system from the inside without the system knowing it. And who were now offering Oliver something they hadn't offered anyone before.
+Oliver looked at the four of them, Pier with his back straight, Sabine with her hands in her lap, Petra calm now that she'd said what she meant to say, Asha by the door. Four people who had spent between two and eleven years navigating a system that made decisions about their lives with the same efficiency it used to make decisions about any other resource. Who had built, in that time, the ability to read the system from the inside without the system knowing it. And who were now offering Oliver something they hadn't offered anyone before.
 
 It wasn't a pact. It wasn't a conspiracy. It was, simply, the question of whether they shared a vision of what this place should be for them.
 
@@ -172,11 +172,11 @@ But he knew theirs didn't strike him as wrong.
 
 Tomás had been in transport three hours when he lost count of the time.
 
-It wasn't the blindfold — he'd already learned to calculate time without sight during the months of transfers to the Center. It was the combination of the blindfold with the restraints and with the knowledge that this transfer was different from all the others. The others had a known destination. They had an estimated duration. They had Maren waiting on the other side with a tablet and the question of how he'd slept.
+It wasn't the blindfold, he'd already learned to calculate time without sight during the months of transfers to the Center. It was the combination of the blindfold with the restraints and with the knowledge that this transfer was different from all the others. The others had a known destination. They had an estimated duration. They had Maren waiting on the other side with a tablet and the question of how he'd slept.
 
 This one had none of that.
 
-The restraints were organic — pressed wood, treated plant-fiber composite, the kind of material that blocked Transit because the Domain couldn't pass through something carrying living Odem, even processed wood. Someone had researched this. Someone had designed these restraints specifically for him. The idea of that — of being a problem specific enough to deserve a specific solution — should have produced something like satisfaction. It didn't.
+The restraints were organic, pressed wood, treated plant-fiber composite, the kind of material that blocked Transit because the Domain couldn't pass through something carrying living Odem, even processed wood. Someone had researched this. Someone had designed these restraints specifically for him. The idea of that, of being a problem specific enough to deserve a specific solution, should have produced something like satisfaction. It didn't.
 
 It produced fear. Tomás called it by another name, as he always did, but it was fear.
 
@@ -186,7 +186,7 @@ Months later, the anger was still easier to sustain than the rest.
 
 The vehicle stopped.
 
-It wasn't the usual stop — not the gradual deceleration of arriving somewhere, but the abrupt stop of something unexpected. Tomás heard voices outside, brief, the specific exchange of people resolving a problem with urgency. Then silence.
+It wasn't the usual stop, not the gradual deceleration of arriving somewhere, but the abrupt stop of something unexpected. Tomás heard voices outside, brief, the specific exchange of people resolving a problem with urgency. Then silence.
 
 Then footsteps.
 
@@ -194,7 +194,7 @@ Not the footsteps of the two guards who'd been in the vehicle since the start. F
 
 Tomás didn't move. The restraints wouldn't have allowed it anyway.
 
-The voice came from close — too close to be outside the vehicle, too low to be part of the protocol.
+The voice came from close, too close to be outside the vehicle, too low to be part of the protocol.
 
 "Easy."
 

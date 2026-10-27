@@ -236,7 +236,7 @@ Más allá de la cuenca, más allá del techo de hojas, en el sur, no se veía n
 
 ---
 
-*18 de julio, 02:41 — a bordo del barco de mando, doce millas al sur*
+*18 de julio, 02:41, a bordo del barco de mando, doce millas al sur*
 
 En la cubierta de popa, un hombre con el uniforme abrochado hasta el cuello pesó el aire.
 

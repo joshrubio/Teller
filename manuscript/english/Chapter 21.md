@@ -2,15 +2,15 @@
 
 Chukgi is practiced before dawn.
 
-Park had learned it in the context of a technical conversation with an AMAT-KR instructor who didn't call it Chukgi — he called it "receptivity practice," which was the term the manual used — but the Korean name had survived because it was more precise: accumulation, not receptivity. The difference mattered. Receptivity was passive. Accumulation had direction.
+Park had learned it in the context of a technical conversation with an AMAT-KR instructor who didn't call it Chukgi, he called it "receptivity practice," which was the term the manual used, but the Korean name had survived because it was more precise: accumulation, not receptivity. The difference mattered. Receptivity was passive. Accumulation had direction.
 
-The sequence lasted between twenty and forty minutes depending on the time available. Slow, deliberate movements, designed to maximize the surface of contact between the body and the ambient Odem of the environment: postures held for several breath cycles, transitions that always ended inward rather than outward. The effect wasn't visible. It didn't generate inertia — that was a common misunderstanding — it optimized the rate at which the body absorbed the passive Odem of the surrounding substrate. The difference between three days of accumulation and two.
+The sequence lasted between twenty and forty minutes depending on the time available. Slow, deliberate movements, designed to maximize the surface of contact between the body and the ambient Odem of the environment: postures held for several breath cycles, transitions that always ended inward rather than outward. The effect wasn't visible. It didn't generate inertia, that was a common misunderstanding, it optimized the rate at which the body absorbed the passive Odem of the surrounding substrate. The difference between three days of accumulation and two.
 
 With his left arm still in recovery, some positions weren't possible. Park adapted them. The right arm compensated for the range the left couldn't reach. The result was less efficient than the full sequence, which was better than not doing it.
 
 He'd been doing it for two weeks on the fourth-floor terrace before dawn, with Seoul waking up below without paying him any attention.
 
-He'd spent the other hours of the day studying the island. The maps — topographic, Odem activity, unit movement over the past eighteen months. The historical records since the provisional closure of 1954. The pattern of Authority density by sector, its distribution, the way it had migrated or not over the decades. He read all of it with the attention he'd learned to pay not to what the documents said but to the way they described what they described.
+He'd spent the other hours of the day studying the island. The maps, topographic, Odem activity, unit movement over the past eighteen months. The historical records since the provisional closure of 1954. The pattern of Authority density by sector, its distribution, the way it had migrated or not over the decades. He read all of it with the attention he'd learned to pay not to what the documents said but to the way they described what they described.
 
 The pattern the documents didn't name was the same one that had taken him three weeks to see in Hartford. He didn't write it down anywhere.
 
@@ -18,9 +18,9 @@ The pattern the documents didn't name was the same one that had taken him three 
 
 The unit gathered at the Incheon base helipad at 07:40.
 
-Twelve operatives counting Park. He'd crossed paths with some of them in the headquarters hallways over the past two weeks; others were new faces. Standard field equipment, plus a few items Park hadn't seen in the American branch — containment bags made of a material that wasn't the usual one, modified weapons in the holsters of two of the agents. Ji-ho wasn't at the helipad. Nobody mentioned it.
+Twelve operatives counting Park. He'd crossed paths with some of them in the headquarters hallways over the past two weeks; others were new faces. Standard field equipment, plus a few items Park hadn't seen in the American branch, containment bags made of a material that wasn't the usual one, modified weapons in the holsters of two of the agents. Ji-ho wasn't at the helipad. Nobody mentioned it.
 
-The island from the air was smaller than the maps suggested. The interior vegetation was dense, the kind of green that indicates years without systematic human intervention. The coastline was irregular — inlets, small coves, a profile that changed angle every few meters. The operations base was on the northern tip, on elevated ground facing the sea.
+The island from the air was smaller than the maps suggested. The interior vegetation was dense, the kind of green that indicates years without systematic human intervention. The coastline was irregular, inlets, small coves, a profile that changed angle every few meters. The operations base was on the northern tip, on elevated ground facing the sea.
 
 They landed.
 
@@ -44,7 +44,7 @@ The operations center was spread across the only flat stretch of the northern ti
 
 Park calculated. Higher density than the documents suggested. Kiki reached the eastern edge of the operational area, where the ground dropped and the trees began about thirty meters out. She stopped.
 
-From here you could see the island's interior — or what little the vegetation let you see. A line of dense green, no visible clearings, with the constant noise of something that could be wind or could be something else. Park had read that the interior vegetation hadn't been touched in decades. He believed it.
+From here you could see the island's interior, or what little the vegetation let you see. A line of dense green, no visible clearings, with the constant noise of something that could be wind or could be something else. Park had read that the interior vegetation hadn't been touched in decades. He believed it.
 
 "What's in sector two?" he said.
 
@@ -92,23 +92,23 @@ The main tent had the look of an operation that had been running for a while: ma
 
 Park followed the briefing. Everything they said was technically correct. The language was the right language for what it described. The pattern the data suggested if you read it with a different frame of reference didn't appear on any slide.
 
-The senior agent was in the middle of an answer — someone had asked about the extraction protocol in the southwest sector, sloped terrain, no vehicle access — when the tent door opened. The agent finished the sentence. Kept talking. But half the heads in the room turned without any of them deciding to.
+The senior agent was in the middle of an answer, someone had asked about the extraction protocol in the southwest sector, sloped terrain, no vehicle access, when the tent door opened. The agent finished the sentence. Kept talking. But half the heads in the room turned without any of them deciding to.
 
 Ji-ho walked in.
 
-He had what looked like blood on his neck and right forearm — not fresh, but recent. In his right hand, a short dagger, dark-bladed, the kind of weapon that wasn't standard in any AMAT catalog Park had ever seen. He explained neither. He crossed the room with the economy of someone who hadn't wasted a movement in thirty years.
+He had what looked like blood on his neck and right forearm, not fresh, but recent. In his right hand, a short dagger, dark-bladed, the kind of weapon that wasn't standard in any AMAT catalog Park had ever seen. He explained neither. He crossed the room with the economy of someone who hadn't wasted a movement in thirty years.
 
 The senior agent kept talking. The eyes in the room went back to the map, but the angle of the bodies took a moment longer to correct.
 
 What Park noticed wasn't the blood or the dagger. It was the other thing.
 
-The Odem concentrated inside Ji-ho was a quantity the environment registered before he opened his mouth. It wasn't pressure exactly. It was density — the kind of density Park had felt in Hartford's northern sector in the early days, when standing at the perimeter with Reyes had that specific quality of being near something that weighed more than it looked. Here it was the same thing, but contained. Organized. Voluntary.
+The Odem concentrated inside Ji-ho was a quantity the environment registered before he opened his mouth. It wasn't pressure exactly. It was density, the kind of density Park had felt in Hartford's northern sector in the early days, when standing at the perimeter with Reyes had that specific quality of being near something that weighed more than it looked. Here it was the same thing, but contained. Organized. Voluntary.
 
 He'd felt it as a child, on visits to the apartment, without knowing what it was. The apartment got smaller. The adults in the room redistributed their attention without deciding to. Park hadn't had the vocabulary for it then.
 
 He did now.
 
-Kiki raised her hand — not a protocol greeting, more the gesture of someone who'd been waiting for a specific person to arrive. Ji-ho gave her something brief, courteous, in return. He crossed toward Park. Looked at him for exactly one second — the second of someone measuring something he already had a hypothesis for — and nodded. Then he went to the corner of the tent, and the senior agent, who hadn't interrupted the sentence for anything, finally got to the point about the extraction protocol on sloped terrain.
+Kiki raised her hand, not a protocol greeting, more the gesture of someone who'd been waiting for a specific person to arrive. Ji-ho gave her something brief, courteous, in return. He crossed toward Park. Looked at him for exactly one second, the second of someone measuring something he already had a hypothesis for, and nodded. Then he went to the corner of the tent, and the senior agent, who hadn't interrupted the sentence for anything, finally got to the point about the extraction protocol on sloped terrain.
 
 The dagger was left on the table next to Ji-ho.
 
@@ -120,15 +120,15 @@ The island's operations center had between a hundred and a hundred twenty people
 
 Ji-ho was at the center of it all.
 
-Park watched from the edge of the group as an agent who'd been on the island longer than anyone bet something with Ji-ho — chips, or money, or maybe something with no agreed value — and Ji-ho lost the bet and found this genuinely funny. He accepted the drink someone passed him. Passed another in the opposite direction. People gravitated toward him with the naturalness of something that hadn't been decided.
+Park watched from the edge of the group as an agent who'd been on the island longer than anyone bet something with Ji-ho, chips, or money, or maybe something with no agreed value, and Ji-ho lost the bet and found this genuinely funny. He accepted the drink someone passed him. Passed another in the opposite direction. People gravitated toward him with the naturalness of something that hadn't been decided.
 
 "Tell the Sampoong one," someone said, and there was laughter, and an older agent started in.
 
-Sampoong had been in 1995. A shopping center in the heart of Seoul, five hundred and two people. The concentrated death in a few hours in the urban center generated an entity in under forty-eight hours — a formation speed the protocol of the time didn't account for because there wasn't enough reference data to account for it. AMAT-KR deployed what it had. Ji-ho, seventeen, still in training, went in without waiting for formal authorization. The training supervisor's report had two lines. *Resolved. See appendix.* The appendix described something AMAT's technical vocabulary didn't have a category for yet.
+Sampoong had been in 1995. A shopping center in the heart of Seoul, five hundred and two people. The concentrated death in a few hours in the urban center generated an entity in under forty-eight hours, a formation speed the protocol of the time didn't account for because there wasn't enough reference data to account for it. AMAT-KR deployed what it had. Ji-ho, seventeen, still in training, went in without waiting for formal authorization. The training supervisor's report had two lines. *Resolved. See appendix.* The appendix described something AMAT's technical vocabulary didn't have a category for yet.
 
 "The supervisor took four years to retire," the agent said. "Says it wasn't age."
 
-Someone mentioned Fukushima in passing — three months, Japan, 2011, the one-paragraph report that described what was found without describing what was done — and the tone of the conversation shifted slightly, the kind of shift that happens when something enters the margin of what people decide not to elaborate on. The older agent nodded and moved on to something else.
+Someone mentioned Fukushima in passing, three months, Japan, 2011, the one-paragraph report that described what was found without describing what was done, and the tone of the conversation shifted slightly, the kind of shift that happens when something enters the margin of what people decide not to elaborate on. The older agent nodded and moved on to something else.
 
 Ji-ho, across the fire, listened to the Sampoong story without correcting it. He drank slowly.
 
@@ -138,7 +138,7 @@ He'd been thinking about the message from the helicopter.
 
 *하트포드만이 아니야.*
 
-Ji-ho had sent it during first direct contact with the Saturation — before any official report, before the system had a description of what was happening in Hartford. What that implied wasn't that Ji-ho had been tracking the operation through channels. It was that Ji-ho had known what was in Hartford before Park had said it anywhere. And he hadn't reported it.
+Ji-ho had sent it during first direct contact with the Saturation, before any official report, before the system had a description of what was happening in Hartford. What that implied wasn't that Ji-ho had been tracking the operation through channels. It was that Ji-ho had known what was in Hartford before Park had said it anywhere. And he hadn't reported it.
 
 Across the fire, Ji-ho won the next hand and collected what he'd bet earlier with the expression of someone whose calculation had come out exactly right. The younger agent who'd won before protested something; Ji-ho answered him with a line Park didn't catch in full, and the people around them laughed.
 
@@ -148,7 +148,7 @@ Ji-ho appeared beside him.
 
 Not from the fire. From beside him, as if he'd been there long enough that Park couldn't remember when he'd arrived. Park hadn't seen him move.
 
-He looked at the same space Park was looking at — the treeline, the dark between the trunks — with the same economy he'd crossed the briefing tent with that morning. The same quality of attention. Across the fire, twenty meters back, he was still the man who'd lost a bet and laughed genuinely. Park didn't know which of the two modes was the real one and which was the one Ji-ho chose to show depending on the room. The likely answer was that neither was a performance.
+He looked at the same space Park was looking at, the treeline, the dark between the trunks, with the same economy he'd crossed the briefing tent with that morning. The same quality of attention. Across the fire, twenty meters back, he was still the man who'd lost a bet and laughed genuinely. Park didn't know which of the two modes was the real one and which was the one Ji-ho chose to show depending on the room. The likely answer was that neither was a performance.
 
 He said nothing for a moment.
 
@@ -158,7 +158,7 @@ Park didn't ask what he meant.
 
 "I didn't know exactly. Less than I expected."
 
-Ji-ho didn't answer right away. In the silence, Park thought about the first time he'd seen him — seven years old, maybe eight, a visit to the apartment in Incheon that hadn't lasted more than two hours. There was something about Ji-ho that made the adults in the room reorganize their position without deciding to; Park hadn't known what it was then and hadn't asked. After that there'd been two or three more visits, spaced out, brief. No Sampoong story told in any of them. Ji-ho brought food and didn't talk much, and his father talked even less when Ji-ho was in the room, which was its own way of talking.
+Ji-ho didn't answer right away. In the silence, Park thought about the first time he'd seen him, seven years old, maybe eight, a visit to the apartment in Incheon that hadn't lasted more than two hours. There was something about Ji-ho that made the adults in the room reorganize their position without deciding to; Park hadn't known what it was then and hadn't asked. After that there'd been two or three more visits, spaced out, brief. No Sampoong story told in any of them. Ji-ho brought food and didn't talk much, and his father talked even less when Ji-ho was in the room, which was its own way of talking.
 
 Park had more information about his uncle from the story he'd heard tonight, told by someone who wasn't Ji-ho, than from all the time they'd spent in the same room together.
 
@@ -178,17 +178,17 @@ Park took a second.
 
 "Standard protocol. Containment and archive."
 
-Ji-ho looked at him. Not for long — the same second from the morning, the second of someone measuring something he'd already modeled. Park noticed that Ji-ho had seen the arm in the sling when he walked into the briefing tent — the same thing his father had seen, the same beat of silence before continuing. But where his father had asked how long, Ji-ho asked nothing. He took it as data and moved on, which was different.
+Ji-ho looked at him. Not for long, the same second from the morning, the second of someone measuring something he'd already modeled. Park noticed that Ji-ho had seen the arm in the sling when he walked into the briefing tent, the same thing his father had seen, the same beat of silence before continuing. But where his father had asked how long, Ji-ho asked nothing. He took it as data and moved on, which was different.
 
 Park didn't know what that meant. He knew it meant something.
 
 The fire was twenty meters off; from here it was noise and light with no distinguishable voices. Kiki was somewhere in that noise, in some conversation that didn't need her presence to keep going. The treeline didn't move.
 
-Ji-ho had sent the message during first contact with the Saturation. Not after — during. Four words, unofficial channel, no signature. *It's not just Hartford.* Park had reread it six weeks after the operation, when Hartford already had a name and a file number and twenty-three pages of report, and the four words were still more precise than all of that. Ji-ho hadn't told him something he didn't know. He'd told him that Ji-ho knew it too. That was different.
+Ji-ho had sent the message during first contact with the Saturation. Not after, during. Four words, unofficial channel, no signature. *It's not just Hartford.* Park had reread it six weeks after the operation, when Hartford already had a name and a file number and twenty-three pages of report, and the four words were still more precise than all of that. Ji-ho hadn't told him something he didn't know. He'd told him that Ji-ho knew it too. That was different.
 
 "Do you know how long it takes the substrate to forget?"
 
-Park didn't answer. The question didn't require it — it was already working, already opening the space it pointed at, and answering would have closed that space before Park finished seeing what was in it.
+Park didn't answer. The question didn't require it, it was already working, already opening the space it pointed at, and answering would have closed that space before Park finished seeing what was in it.
 
 Standard protocol was containment and archive. Hartford's residual Odem was still in an AMAT depot somewhere, catalogued as a low-level dispersed signature, waiting on processing or review or simply waiting. The substrate remembered it. Ji-ho's question implied that the substrate always remembered it, that the archive wasn't a closure but a postponement, that every case resolved in AMAT's records was a note on something that was still there in another sense of *there* the protocol had no box to check.
 

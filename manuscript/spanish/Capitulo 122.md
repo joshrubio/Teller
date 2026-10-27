@@ -14,15 +14,15 @@ No había torre, ni luces, ni nadie con chaleco reflectante. Los mismos cuatro h
 
 —Bien. Mandaron decir que la escuela ya tiene techo.
 
-Daniel asintió, guardándose el dato con el mismo cuidado con que guardaba todos los demás. Había cinco sitios como este repartidos en tres países, cada uno construido con la misma paciencia de cuarenta años. No necesitaba visitarlos todos con la misma frecuencia. Este era, con diferencia, el que más le interesaba en este momento — no solo por lo que Kaspar había construido ahí, sino por lo que la montaña, sin que Kaspar lo hubiera pedido, había puesto a su disposición.
+Daniel asintió, guardándose el dato con el mismo cuidado con que guardaba todos los demás. Había cinco sitios como este repartidos en tres países, cada uno construido con la misma paciencia de cuarenta años. No necesitaba visitarlos todos con la misma frecuencia. Este era, con diferencia, el que más le interesaba en este momento. No solo por lo que Kaspar había construido ahí, sino por lo que la montaña, sin que Kaspar lo hubiera pedido, había puesto a su disposición.
 
 ---
 
-El pueblo apareció después de cuarenta minutos de camino sin asfalto, la misma niebla de siempre subiendo por la ladera. Antes de llegar a la clínica, Daniel vio a una mujer joven cruzar la plaza sin acercarse, cambiando de rumbo lo justo para no tener que saludar a nadie. Un hombre algo más joven, el brazo izquierdo todavía inmovilizado contra el pecho, la vio pasar sin intentar detenerla esta vez — parecía haber aprendido, en algún punto de los últimos días, que insistir no cambiaba nada.
+El pueblo apareció después de cuarenta minutos de camino sin asfalto, la misma niebla de siempre subiendo por la ladera. Antes de llegar a la clínica, Daniel vio a una mujer joven cruzar la plaza sin acercarse, cambiando de rumbo lo justo para no tener que saludar a nadie. Un hombre algo más joven, el brazo izquierdo todavía inmovilizado contra el pecho, la vio pasar sin intentar detenerla esta vez. Parecía haber aprendido, en algún punto de los últimos días, que insistir no cambiaba nada.
 
-Kaspar los esperaba de pie junto a la clínica sin cartel, solo, con la clase de quietud que no se aprende — se hereda de algo, o se paga con algo, y Daniel llevaba cuatro visitas sin decidir cuál de las dos cosas era.
+Kaspar los esperaba de pie junto a la clínica sin cartel, solo, con la clase de quietud que no se aprende. Se hereda de algo, o se paga con algo, y Daniel llevaba cuatro visitas sin decidir cuál de las dos cosas era.
 
-Nada en la cara de Kaspar cambió al verlo. Eso, más que cualquier otra cosa, era lo que Daniel encontraba genuinamente interesante en él: la ausencia total de sorpresa, en un hombre que llevaba cuarenta años siendo la única persona con motivos reales para sospechar de todo lo que se le acercaba. Un hombre de sesenta y tantos con cara de treinta y cinco, sin que ninguna cirugía del mundo dejara ese tipo de rastro, sin una sola gota de sudor pese al mismo calor que ya había empapado la camisa de Daniel dos veces desde que bajó del helicóptero. AMAT llevaba cuatro décadas sin encontrarlo. Daniel entendía perfectamente por qué — no porque Kaspar se escondiera bien, sino porque nadie, viéndolo ahí de pie, tan tranquilo, se le ocurriría buscar en él lo que en realidad había.
+Nada en la cara de Kaspar cambió al verlo. Eso, más que cualquier otra cosa, era lo que Daniel encontraba genuinamente interesante en él: la ausencia total de sorpresa, en un hombre que llevaba cuarenta años siendo la única persona con motivos reales para sospechar de todo lo que se le acercaba. Un hombre de sesenta y tantos con cara de treinta y cinco, sin que ninguna cirugía del mundo dejara ese tipo de rastro, sin una sola gota de sudor pese al mismo calor que ya había empapado la camisa de Daniel dos veces desde que bajó del helicóptero. AMAT llevaba cuatro décadas sin encontrarlo. Daniel entendía perfectamente por qué, no porque Kaspar se escondiera bien, sino porque nadie, viéndolo ahí de pie, tan tranquilo, se le ocurriría buscar en él lo que en realidad había.
 
 —Daniel —dijo Kaspar, el mismo tono de siempre, ni cálido ni frío.
 
@@ -60,11 +60,11 @@ Kaspar asintió, sin más comentario, y por un momento el silencio se instaló e
 
 —No —dijo Kaspar, y algo parecido a una sonrisa le cruzó la cara, breve, sin llegar del todo a asentarse—. Yo solo leo las noticias, como todo el mundo.
 
-Daniel no insistió. No hacía falta. Había en la mesa una satisfacción que ninguno de los dos iba a nombrar en voz alta — Kaspar con la certeza tranquila de quien acaba de recordarle a alguien exactamente cuánto vale, Daniel con la paciencia de quien deja que esa certeza crezca un poco más antes de necesitarla.
+Daniel no insistió. No hacía falta. Había en la mesa una satisfacción que ninguno de los dos iba a nombrar en voz alta, Kaspar con la certeza tranquila de quien acaba de recordarle a alguien exactamente cuánto vale, Daniel con la paciencia de quien deja que esa certeza crezca un poco más antes de necesitarla.
 
 ---
 
-—Hace unos meses empecé a revisar los libros del Fondo con más cuidado del que debería, dado lo que tú y yo tenemos entendido —dijo Kaspar—. Cuatro años haciendo negocios con alguien es tiempo suficiente para confiar, pero no para dejar de vigilar. Encontré una línea que no cuadraba con nada del resto — un nombre en clave, en los reportes internos que nunca llegan a las cuentas públicas. *Hunger.*
+—Hace unos meses empecé a revisar los libros del Fondo con más cuidado del que debería, dado lo que tú y yo tenemos entendido —dijo Kaspar—. Cuatro años haciendo negocios con alguien es tiempo suficiente para confiar, pero no para dejar de vigilar. Encontré una línea que no cuadraba con nada del resto, un nombre en clave, en los reportes internos que nunca llegan a las cuentas públicas. *Hunger.*
 
 Daniel no dijo nada.
 
@@ -138,7 +138,7 @@ Kaspar lo miró un momento largo, la clase de mirada que Daniel imaginaba que pr
 
 ---
 
-Pasaron el resto de la tarde sin hablar de negocios. Kaspar lo llevó a ver el generador nuevo, orgulloso de una forma que no tenía nada que ver con el dinero que había costado, y después se sentaron en el patio de atrás de la clínica a comer algo que Marlene había dejado listo antes de irse — arepas rellenas de lo que hubiera, café de verdad esta vez, servido sin la ceremonia de la reunión anterior. Kaspar habló de la cosecha de café de la zona, de un niño que había aprendido a leer ese año gracias a la maestra que el pueblo ya no recordaba no tener, de nada que se pareciera a Hesperia ni a Hunger ni a los cuarenta años que llevaba siendo otra persona. Daniel escuchó casi todo el tiempo, y cuando habló fue de cosas igual de pequeñas — un vuelo retrasado, una reunión aburrida en Ginebra — con la misma facilidad de alguien que también sabe, cuando le conviene, dejar descansar el peso de lo demás.
+Pasaron el resto de la tarde sin hablar de negocios. Kaspar lo llevó a ver el generador nuevo, orgulloso de una forma que no tenía nada que ver con el dinero que había costado, y después se sentaron en el patio de atrás de la clínica a comer algo que Marlene había dejado listo antes de irse. Arepas rellenas de lo que hubiera, café de verdad esta vez, servido sin la ceremonia de la reunión anterior. Kaspar habló de la cosecha de café de la zona, de un niño que había aprendido a leer ese año gracias a la maestra que el pueblo ya no recordaba no tener, de nada que se pareciera a Hesperia ni a Hunger ni a los cuarenta años que llevaba siendo otra persona. Daniel escuchó casi todo el tiempo, y cuando habló fue de cosas igual de pequeñas, un vuelo retrasado, una reunión aburrida en Ginebra, con la misma facilidad de alguien que también sabe, cuando le conviene, dejar descansar el peso de lo demás.
 
 ---
 
@@ -164,8 +164,8 @@ Kaspar no dijo nada durante un momento largo.
 
 —No —dijo Daniel—. Pero es lo único que tengo que ofrecerte que se parezca a una promesa real.
 
-Daniel subió a la camioneta sin más palabras. Kaspar se quedó de pie junto a la clínica, viendo las luces alejarse hacia el claro donde esperaba el helicóptero, sin acercarse a despedirse del todo — la misma distancia que guardaba siempre, ni hostil ni cálida, calculada con el mismo cuidado que aplicaba a todo lo demás en su vida.
+Daniel subió a la camioneta sin más palabras. Kaspar se quedó de pie junto a la clínica, viendo las luces alejarse hacia el claro donde esperaba el helicóptero, sin acercarse a despedirse del todo, la misma distancia que guardaba siempre, ni hostil ni cálida, calculada con el mismo cuidado que aplicaba a todo lo demás en su vida.
 
-El helicóptero despegó, dejando atrás un pueblo, un monte que guardaba algo que ninguno de los dos había terminado de nombrar del todo, y a Kaspar, de pie, con la certeza satisfecha de haber cobrado, por fin, algo real por cuatro años de paciencia — la misma certeza, pensó Daniel mientras el pueblo se encogía bajo el helicóptero hasta desaparecer, que Kaspar seguramente sentía cada vez que convencía a alguien nuevo de que había encontrado, por fin, a alguien que lo veía como persona y no como recurso.
+El helicóptero despegó, dejando atrás un pueblo, un monte que guardaba algo que ninguno de los dos había terminado de nombrar del todo, y a Kaspar, de pie, con la certeza satisfecha de haber cobrado, por fin, algo real por cuatro años de paciencia, la misma certeza, pensó Daniel mientras el pueblo se encogía bajo el helicóptero hasta desaparecer, que Kaspar seguramente sentía cada vez que convencía a alguien nuevo de que había encontrado, por fin, a alguien que lo veía como persona y no como recurso.
 
-Daniel esperó a que las luces del pueblo desaparecieran del todo bajo las nubes antes de permitirse sonreír — un gesto pequeño, privado, dirigido a nadie, del tipo que no necesita testigos para significar exactamente lo que significa.
+Daniel esperó a que las luces del pueblo desaparecieran del todo bajo las nubes antes de permitirse sonreír, un gesto pequeño, privado, dirigido a nadie, del tipo que no necesita testigos para significar exactamente lo que significa.

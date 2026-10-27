@@ -2,7 +2,7 @@
 
 Hana Ibáñez found him in the corridor at eight forty-five with the precision of someone who'd calculated exactly how much time she needed to say what she had to say before the session started.
 
-She was young — not much older than Oliver, probably — and she carried a tablet under her arm with the same naturalness Maren carried hers, though the use was different: where Maren wrote things down, Hana indexed them. Oliver noticed it in the way she held it: screen facing in, the content already organized. What mattered was having it on hand.
+She was young, not much older than Oliver, probably, and she carried a tablet under her arm with the same naturalness Maren carried hers, though the use was different: where Maren wrote things down, Hana indexed them. Oliver noticed it in the way she held it: screen facing in, the content already organized. What mattered was having it on hand.
 
 "Joint session with Riku at nine," she said, without preamble. "Different protocol from the observation session with Asha, so I need three minutes."
 
@@ -10,7 +10,7 @@ She was young — not much older than Oliver, probably — and she carried a tab
 
 Hana didn't thank him for the space. She used it.
 
-"Asha's session was in an interior space, with a separation panel and active monitoring equipment. Riku's can't be that way." She turned the tablet and Oliver saw a diagram of the east courtyard with annotations in red. "Interference radius under controlled activation: between two and three meters. Any electronic equipment in that radius fails — monitoring, communication, recording. Maren will observe from the south corridor, which has a direct sightline to the courtyard but is outside the estimated radius. No tablets, no phones, no digital watch."
+"Asha's session was in an interior space, with a separation panel and active monitoring equipment. Riku's can't be that way." She turned the tablet and Oliver saw a diagram of the east courtyard with annotations in red. "Interference radius under controlled activation: between two and three meters. Any electronic equipment in that radius fails, monitoring, communication, recording. Maren will observe from the south corridor, which has a direct sightline to the courtyard but is outside the estimated radius. No tablets, no phones, no digital watch."
 
 Oliver looked at the diagram.
 
@@ -38,13 +38,13 @@ Oliver looked at the empty space she'd left for a moment. *You don't have to pro
 
 ---
 
-Pier was already in the courtyard when Oliver arrived — not on the center bench but the one at the north end, leaning against the stone wall with his arms crossed. Oliver registered the position for what it was: the difference between an observer and a supervisor. Pier wasn't going to intervene in anything. He was there so that if something required intervention, it would be three meters away.
+Pier was already in the courtyard when Oliver arrived, not on the center bench but the one at the north end, leaning against the stone wall with his arms crossed. Oliver registered the position for what it was: the difference between an observer and a supervisor. Pier wasn't going to intervene in anything. He was there so that if something required intervention, it would be three meters away.
 
-Riku stood in the center of the courtyard. Not sitting like the day before — standing, feet spaced exactly shoulder-width, arms held slightly away from his body. The posture of someone who's learned that accidental contact amplifies things he'd rather not amplify.
+Riku stood in the center of the courtyard. Not sitting like the day before, standing, feet spaced exactly shoulder-width, arms held slightly away from his body. The posture of someone who's learned that accidental contact amplifies things he'd rather not amplify.
 
 Oliver positioned himself facing him, two and a half meters away.
 
-From the south corridor — Oliver didn't turn, but he knew — Maren had a direct sightline to the courtyard. Paper and pen.
+From the south corridor, Oliver didn't turn, but he knew, Maren had a direct sightline to the courtyard. Paper and pen.
 
 "Maren said partial activation," Riku said.
 
@@ -66,15 +66,15 @@ Riku looked at him a second before nodding.
 
 What happened was gradual.
 
-At first there was nothing visible — Riku still, his expression turned inward, focused. Oliver kept his eyes on the passive oscillation radius he'd seen the day before, and waited.
+At first there was nothing visible, Riku still, his expression turned inward, focused. Oliver kept his eyes on the passive oscillation radius he'd seen the day before, and waited.
 
 The oscillation changed.
 
-It intensified in layers, like a signal someone turns up carefully so it doesn't clip: the radius expanded from one meter to a meter and a half, and the Odem's movement grew more pronounced, easier to follow with the eyes. Oliver tracked it without trying to fix it in place, using the same attention technique Yusuf had asked of him the day before. Then the frequency changed — the regular cadence of the passive state grew irregular before reorganizing into something new, faster, with more energy in each cycle.
+It intensified in layers, like a signal someone turns up carefully so it doesn't clip: the radius expanded from one meter to a meter and a half, and the Odem's movement grew more pronounced, easier to follow with the eyes. Oliver tracked it without trying to fix it in place, using the same attention technique Yusuf had asked of him the day before. Then the frequency changed, the regular cadence of the passive state grew irregular before reorganizing into something new, faster, with more energy in each cycle.
 
 And in that new rhythm, Oliver could see the structure.
 
-Not Asha's dense layers. Something different: a network. Spokes from the center — from Riku — outward, with nodes at the points where the oscillation changed direction. The signature of a system that didn't generate but propagated. That took something already there and amplified it.
+Not Asha's dense layers. Something different: a network. Spokes from the center, from Riku, outward, with nodes at the points where the oscillation changed direction. The signature of a system that didn't generate but propagated. That took something already there and amplified it.
 
 "Something in the north bench," Oliver said, without looking away.
 
@@ -84,7 +84,7 @@ Not Asha's dense layers. Something different: a network. Spokes from the center 
 
 "Does anything happen to them?"
 
-"Not yet. But they vibrate differently." Oliver looked at the different elements of the courtyard — the bench, the ground, the far wall, the moss built up in the joints of the stone. "Can I ask you something?"
+"Not yet. But they vibrate differently." Oliver looked at the different elements of the courtyard, the bench, the ground, the far wall, the moss built up in the joints of the stone. "Can I ask you something?"
 
 "Yes."
 
@@ -92,9 +92,9 @@ Not Asha's dense layers. Something different: a network. Spokes from the center 
 
 Riku considered the question more carefully than Oliver expected.
 
-"Metal without circuits doesn't exactly fail. It heats up sometimes. And glass — like windows — sometimes creaks. But it doesn't break. What actually fails is always the circuits."
+"Metal without circuits doesn't exactly fail. It heats up sometimes. And glass, like windows, sometimes creaks. But it doesn't break. What actually fails is always the circuits."
 
-Oliver looked back at the network. The moss in the stone joints barely registered — Riku's Odem passed over the organic matter without affecting it, like water finding its own level. The bolts in the bench resonated. The stone itself, though, didn't resonate either — only the metal elements.
+Oliver looked back at the network. The moss in the stone joints barely registered, Riku's Odem passed over the organic matter without affecting it, like water finding its own level. The bolts in the bench resonated. The stone itself, though, didn't resonate either, only the metal elements.
 
 "That makes sense," he said. "The network passes through organic matter almost without touching it. The stone barely too. But anything metal picks it up, even without circuits."
 
@@ -102,7 +102,7 @@ Oliver looked back at the network. The moss in the stone joints barely registere
 
 "Looks that way."
 
-There was a silence between them — not uncomfortable, but the silence of two people organizing the same information from different angles.
+There was a silence between them, not uncomfortable, but the silence of two people organizing the same information from different angles.
 
 "There's one more thing," Oliver said. "The most active node is right above your left hand, about ten centimeters. More energy there than anywhere else in the network."
 
@@ -112,7 +112,7 @@ Riku exhaled slowly.
 
 "It's not just a sensation. It's the real origin. The propagation comes out from there and spreads outward. Further to the left, further forward. The right side reaches less far."
 
-The silence that followed was different from the one before. Riku looked at his left hand — not the gesture of someone examining something external, but of someone confirming something he'd already known from the inside and had just had confirmed from the outside for the first time.
+The silence that followed was different from the one before. Riku looked at his left hand, not the gesture of someone examining something external, but of someone confirming something he'd already known from the inside and had just had confirmed from the outside for the first time.
 
 "Can you see where the radius ends?" he asked. "The exact limit."
 
@@ -132,7 +132,7 @@ Oliver looked at him.
 
 "Conservative."
 
-Something in Riku's expression changed — not exactly a smile, but the loosening of a tension that had been present so long it had stopped registering as tension.
+Something in Riku's expression changed, not exactly a smile, but the loosening of a tension that had been present so long it had stopped registering as tension.
 
 "Can you try something?" Oliver said.
 
@@ -144,11 +144,11 @@ Something in Riku's expression changed — not exactly a smile, but the loosenin
 
 "Try anyway. You already know where the origin is."
 
-Riku considered it for a moment. Then something in his posture changed — not his weight, but the orientation of his attention, as if he were listening to something inside that he hadn't previously distinguished from the noise.
+Riku considered it for a moment. Then something in his posture changed, not his weight, but the orientation of his attention, as if he were listening to something inside that he hadn't previously distinguished from the noise.
 
 The network changed.
 
-The right side contracted. Not all at once — in layers, the same sequence reversed from how it had grown, but only in that direction. The left held steady. Oliver watched it happen in real time, and the process seemed more precise than Riku probably believed it was.
+The right side contracted. Not all at once, in layers, the same sequence reversed from how it had grown, but only in that direction. The left held steady. Oliver watched it happen in real time, and the process seemed more precise than Riku probably believed it was.
 
 "What are you doing?" Riku asked, without opening his eyes.
 
@@ -164,7 +164,7 @@ Riku opened his eyes.
 
 "You just did."
 
-He said it without particular inflection, without the weight of a dramatized achievement, because that wasn't what it was — it was a data point. Riku could do that. He had done it. The distance between knowing it and having done it was all the work of the coming months, but the first part had already happened.
+He said it without particular inflection, without the weight of a dramatized achievement, because that wasn't what it was, it was a data point. Riku could do that. He had done it. The distance between knowing it and having done it was all the work of the coming months, but the first part had already happened.
 
 Riku looked at his left hand again.
 
@@ -174,7 +174,7 @@ Riku looked at his left hand again.
 
 "When I'm calm it's smaller. When I'm... not calm, it's bigger." Riku looked at his own hands. "What nobody had told me was why or from where. Just the effect."
 
-Oliver understood that. It was the difference between reading that a system fails and reading the failure's log — the result was the same, but the usefulness was completely different.
+Oliver understood that. It was the difference between reading that a system fails and reading the failure's log, the result was the same, but the usefulness was completely different.
 
 "How long have you been here?" he asked.
 
@@ -218,7 +218,7 @@ Riku looked at him.
 
 "No." Oliver considered how to phrase it. "What she said was that the three earlier cases copied whatever was threatening them. That I copied what I found interesting."
 
-The silence that followed had a specific quality — that of someone who's just received information and is checking whether it changes anything they already knew.
+The silence that followed had a specific quality, that of someone who's just received information and is checking whether it changes anything they already knew.
 
 "Does it change anything?" Riku asked.
 
@@ -236,13 +236,13 @@ Riku nodded slowly.
 
 "Yeah." Riku looked at the space between them. "That's different."
 
-Oliver looked at Riku's passive signature — the meter of constant oscillation, the left asymmetry that now had a name and an origin. The Odem oscillated the same as before, but Oliver now had enough internal structure to follow it without trying to fix it in place. It was the difference between looking at a screen that's too bright and adjusting the contrast — the content didn't change, what you could read did.
+Oliver looked at Riku's passive signature, the meter of constant oscillation, the left asymmetry that now had a name and an origin. The Odem oscillated the same as before, but Oliver now had enough internal structure to follow it without trying to fix it in place. It was the difference between looking at a screen that's too bright and adjusting the contrast, the content didn't change, what you could read did.
 
 "There's one more thing I haven't told you," he said.
 
 "What."
 
-"When you brought it down on the right, the left node didn't just hold. It organized. The oscillation was cleaner for a few seconds — less noise in the signal, more visible structure."
+"When you brought it down on the right, the left node didn't just hold. It organized. The oscillation was cleaner for a few seconds, less noise in the signal, more visible structure."
 
 Riku turned that over.
 
@@ -254,13 +254,13 @@ Riku turned that over.
 
 "Say what you're thinking."
 
-"Maren says the radius varies with emotional state. Calmer, smaller. More agitated, bigger. But if what you just saw is right, it's not the size that changes with calm — it's the precision. The radius can be big and clean, or small and messy. It's not one variable."
+"Maren says the radius varies with emotional state. Calmer, smaller. More agitated, bigger. But if what you just saw is right, it's not the size that changes with calm, it's the precision. The radius can be big and clean, or small and messy. It's not one variable."
 
 Oliver looked at him.
 
 "That changes how Maren's measuring it."
 
-"Yes." Riku didn't smile, but there was something in his tone — the specific satisfaction of someone who's suspected something for a while without being able to verify it. "I've spent two years trying to tell her the radius measurements aren't consistent even when the emotional state is similar. She always told me it was normal variation."
+"Yes." Riku didn't smile, but there was something in his tone, the specific satisfaction of someone who's suspected something for a while without being able to verify it. "I've spent two years trying to tell her the radius measurements aren't consistent even when the emotional state is similar. She always told me it was normal variation."
 
 "It's not normal variation."
 
@@ -272,7 +272,7 @@ Oliver looked down at the stone floor between them for a moment. Three years her
 
 "You can bring the field down," he said.
 
-Riku did. The oscillation shrank in the same sequence it had grown — the active rhythm yielding to the base rhythm, the radius contracting toward the passive meter, the node network retreating. When it finished, what was left was the same constant signature as always: asymmetric, legible, one meter at the smaller radius.
+Riku did. The oscillation shrank in the same sequence it had grown, the active rhythm yielding to the base rhythm, the radius contracting toward the passive meter, the node network retreating. When it finished, what was left was the same constant signature as always: asymmetric, legible, one meter at the smaller radius.
 
 Riku exhaled.
 
@@ -300,7 +300,7 @@ Oliver considered that.
 
 Pier stood up from the bench when Riku went inside the building.
 
-He said nothing for a moment — the silence of someone choosing what comes next carefully, because he knows the rest won't need it.
+He said nothing for a moment, the silence of someone choosing what comes next carefully, because he knows the rest won't need it.
 
 "The real-time description," he said finally. "That wasn't in the protocol."
 
@@ -320,7 +320,7 @@ Oliver didn't answer.
 
 "That's not a small data point," Pier said. And left.
 
-Oliver stayed in the courtyard with the alpine cold and Riku's passive signature still present from inside the building — oscillating, asymmetric, one meter at the smaller radius, a meter twenty at the larger, cleaner on the side Riku had learned today he could control separately.
+Oliver stayed in the courtyard with the alpine cold and Riku's passive signature still present from inside the building, oscillating, asymmetric, one meter at the smaller radius, a meter twenty at the larger, cleaner on the side Riku had learned today he could control separately.
 
 The frequency was constant.
 

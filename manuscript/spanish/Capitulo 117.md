@@ -6,7 +6,7 @@ Dax rodó dos veces antes de que el cuerpo dejara de obedecer al impulso, y se d
 
 Le dolía. Eso, en sí mismo, ya era una noticia.
 
-Se incorporó despacio, un brazo primero, después el otro, y escupió algo de sangre antes de ponerse en pie del todo. El golpe de Oliver todavía le vibraba en el pecho, un eco que se negaba a apagarse tan rápido como los demás esa noche. Miró hacia el punto exacto donde había estado un segundo antes —el chico ya le había dado la espalda, de vuelta en su propio cruce contra Yegor, sin tiempo ni intención de perseguirlo.
+Se incorporó despacio, un brazo primero, después el otro, y escupió algo de sangre antes de ponerse en pie del todo. El golpe de Oliver todavía le vibraba en el pecho, un eco que se negaba a apagarse tan rápido como los demás esa noche. Miró hacia el punto exacto donde había estado un segundo antes, el chico ya le había dado la espalda, de vuelta en su propio cruce contra Yegor, sin tiempo ni intención de perseguirlo.
 
 El resto del campo no se había detenido a esperarlo.
 
@@ -20,7 +20,7 @@ No lo tuvo.
 
 La voz llegó desde detrás, tranquila, sin necesidad de alzarse por encima del ruido para llegar de todos modos. No hacía falta gritar cuando lo que la sostenía no era el volumen.
 
-Se giró, y ahí estaba ella, cruzando lo que quedaba del campo con el mismo paso constante que Dax le había visto usar en el foso, semanas atrás, la primera vez que se midieron sin saber todavía en qué se iban a convertir el uno para el otro. Johanna Richter. El aire a su alrededor ya no era solo aire —algo en él se había espesado, una presión que Dax sintió en la piel antes de verla del todo, la clase de cosa que ningún Domain podía fingir ni imitar. Ella no necesitaba uno. Nunca lo había necesitado.
+Se giró, y ahí estaba ella, cruzando lo que quedaba del campo con el mismo paso constante que Dax le había visto usar en el foso, semanas atrás, la primera vez que se midieron sin saber todavía en qué se iban a convertir el uno para el otro. Johanna Richter. El aire a su alrededor ya no era solo aire, algo en él se había espesado, una presión que Dax sintió en la piel antes de verla del todo, la clase de cosa que ningún Domain podía fingir ni imitar. Ella no necesitaba uno. Nunca lo había necesitado.
 
 —Johanna —dijo él, y algo parecido a una sonrisa, cansada pero real, le cruzó la cara partida—. Tardaste.
 
@@ -36,11 +36,11 @@ Se detuvo a unos metros, la postura relajada de un modo que Dax reconocía y que
 
 —Entonces saldemos la cuenta.
 
-No hubo gesto previo, ni el amague habitual que Dax leía en casi todos los que se le acercaban. Johanna simplemente cerró la distancia, el primer golpe ya en el aire antes de que la frase terminara de asentarse, un puño cargado de Odem crudo que Dax bloqueó con el antebrazo por puro instinto —el impacto le subió entero por el hueso, una vibración sorda que sintió hasta en los dientes.
+No hubo gesto previo, ni el amague habitual que Dax leía en casi todos los que se le acercaban. Johanna simplemente cerró la distancia, el primer golpe ya en el aire antes de que la frase terminara de asentarse, un puño cargado de Odem crudo que Dax bloqueó con el antebrazo por puro instinto, el impacto le subió entero por el hueso, una vibración sorda que sintió hasta en los dientes.
 
-La devolvió sin pensarlo, un cruzado directo que ella esquivó girando el cuerpo apenas lo necesario, y el intercambio se abrió de ahí en adelante en una cadencia que ninguno de los dos improvisaba del todo —golpe, bloqueo, respuesta, cada uno leyendo al otro con la familiaridad de quien ha entrenado, sin saberlo del todo, para este momento exacto.
+La devolvió sin pensarlo, un cruzado directo que ella esquivó girando el cuerpo apenas lo necesario, y el intercambio se abrió de ahí en adelante en una cadencia que ninguno de los dos improvisaba del todo. Golpe, bloqueo, respuesta, cada uno leyendo al otro con la familiaridad de quien ha entrenado, sin saberlo del todo, para este momento exacto.
 
-Johanna no usaba ningún Domain, no le hacía falta — cada golpe llevaba detrás una cantidad de Odem que Dax sentía chocar contra su propia reserva como una ola contra un muro, solo cantidad, sin técnica que la refinara. Dax encajó un gancho al costado que lo hizo retroceder medio paso.
+Johanna no usaba ningún Domain, no le hacía falta, cada golpe llevaba detrás una cantidad de Odem que Dax sentía chocar contra su propia reserva como una ola contra un muro, solo cantidad, sin técnica que la refinara. Dax encajó un gancho al costado que lo hizo retroceder medio paso.
 
 —Fuerte —dijo, casi con aprobación, la voz todavía firme pese al dolor.
 
@@ -52,36 +52,36 @@ Se separaron un paso, ambos respirando más rápido de lo que ninguno de los dos
 
 Fue entonces cuando Dax decidió que ya no bastaba con tanteos.
 
-Cambió de modo, el tell tan sutil que solo alguien que llevara semanas observándolo de cerca podría haberlo leído a tiempo —y Johanna, que llevaba exactamente eso, lo leyó. Algo en su postura se ajustó una fracción de segundo antes de que el siguiente golpe de Dax llegara, ya no cargado de fuerza bruta sino de otra cosa, la mirada cerrándose sobre ella y solo ella, el resto del campo desapareciendo de su campo de visión como si nunca hubiera existido.
+Cambió de modo, el tell tan sutil que solo alguien que llevara semanas observándolo de cerca podría haberlo leído a tiempo, y Johanna, que llevaba exactamente eso, lo leyó. Algo en su postura se ajustó una fracción de segundo antes de que el siguiente golpe de Dax llegara, ya no cargado de fuerza bruta sino de otra cosa, la mirada cerrándose sobre ella y solo ella, el resto del campo desapareciendo de su campo de visión como si nunca hubiera existido.
 
 Caza.
 
-El golpe apenas la rozó —el dorso de la mano contra el antebrazo que ella alzó para bloquear, un contacto que no debería haber significado nada— y sin embargo Johanna vaciló, un instante, algo drenándose de ella de un modo que ningún golpe anterior había conseguido. No dolor. Otra cosa.
+El golpe apenas la rozó, el dorso de la mano contra el antebrazo que ella alzó para bloquear, un contacto que no debería haber significado nada, y sin embargo Johanna vaciló, un instante, algo drenándose de ella de un modo que ningún golpe anterior había conseguido. No dolor. Otra cosa.
 
 —¿Qué...? —empezó a decir, y no terminó la pregunta.
 
-Dax no respondió. No podía, no en ese modo, no con la mirada ya fija en el siguiente contacto. Insistió en el mismo punto, un segundo roce, un tercero, cada uno llevándose una fracción más de la reserva monstruosa que la había sostenido toda la noche sin agotarse nunca del todo —hasta esa noche.
+Dax no respondió. No podía, no en ese modo, no con la mirada ya fija en el siguiente contacto. Insistió en el mismo punto, un segundo roce, un tercero, cada uno llevándose una fracción más de la reserva monstruosa que la había sostenido toda la noche sin agotarse nunca del todo, hasta esa noche.
 
-Johanna dejó que el golpe la alcanzara una vez más, y en el mismo instante que sintió algo drenarse en su interior, cerró los dedos alrededor de la muñeca de Dax en vez de retroceder — sabía, por el foso, cuánto margen le quedaba, y todavía no era este. Cerró la distancia a propósito. A esa cercanía no había amague que leer, ni postura que anticipar, solo codo, rodilla, peso puro, un intercambio cerrado y feo donde ninguno de los dos podía darse el lujo de tomar aire.
+Johanna dejó que el golpe la alcanzara una vez más, y en el mismo instante que sintió algo drenarse en su interior, cerró los dedos alrededor de la muñeca de Dax en vez de retroceder. Sabía, por el foso, cuánto margen le quedaba, y todavía no era este. Cerró la distancia a propósito. A esa cercanía no había amague que leer, ni postura que anticipar, solo codo, rodilla, peso puro, un intercambio cerrado y feo donde ninguno de los dos podía darse el lujo de tomar aire.
 
-Dax sintió la rodilla de Johanna hundirse en el costado y, en vez de responder con otro golpe, cerró los brazos alrededor de ella y hundió los dientes en el costado de su cuello — no lo decidió del todo, el modo ya llevaba las riendas de esa parte de él. Johanna se sacudió entera, un grito corto y ronco que no llegó a completarse, y el sabor de la sangre le llegó a Dax junto con lo otro, lo de siempre, ahora sin nada que lo separara.
+Dax sintió la rodilla de Johanna hundirse en el costado y, en vez de responder con otro golpe, cerró los brazos alrededor de ella y hundió los dientes en el costado de su cuello. No lo decidió del todo, el modo ya llevaba las riendas de esa parte de él. Johanna se sacudió entera, un grito corto y ronco que no llegó a completarse, y el sabor de la sangre le llegó a Dax junto con lo otro, lo de siempre, ahora sin nada que lo separara.
 
 —Suéltame —logró decir, la voz rota, buscando aire—. ¡Dax!
 
 —Ya casi —respondió él contra su piel, y no sonó a amenaza, sonó a algo más cerca de una disculpa que no llegó a terminar de decir.
 
-No fue un golpe lo que la venció. Fue el tiempo. Johanna se retorció contra el agarre, los músculos del cuello y los brazos marcándose bajo la piel con un esfuerzo que no debería haber hecho falta contra un simple abrazo, las venas del antebrazo saltando cuando intentó, y volvió a intentar, zafarse por pura fuerza. Le clavó las uñas en el brazo, buscando cualquier punto que aflojara el agarre — no lo consiguió. El color se le fue yendo de la cara con cada segundo que pasaba, del rojo del esfuerzo a algo más pálido, más gris, hasta que el último intento fue apenas un temblor de los dedos contra la espalda de Dax.
+No fue un golpe lo que la venció. Fue el tiempo. Johanna se retorció contra el agarre, los músculos del cuello y los brazos marcándose bajo la piel con un esfuerzo que no debería haber hecho falta contra un simple abrazo, las venas del antebrazo saltando cuando intentó, y volvió a intentar, zafarse por pura fuerza. Le clavó las uñas en el brazo, buscando cualquier punto que aflojara el agarre, no lo consiguió. El color se le fue yendo de la cara con cada segundo que pasaba, del rojo del esfuerzo a algo más pálido, más gris, hasta que el último intento fue apenas un temblor de los dedos contra la espalda de Dax.
 
 Dax se apartó de golpe, como si algo lo hubiera quemado, y por primera vez esa noche no fue el dolor lo que le cerró el estómago. Fue el sabor todavía en la boca, la claridad repentina que llevaba media vida temiendo, ahí otra vez, sin que él la hubiera pedido. Náusea real. Las manos le temblaban, y no por el esfuerzo. Miró el cuerpo de Johanna caer al césped, la marca oscura ya visible en el cuello, y no pudo permitirse mirarla más de un segundo.
 
 ---
 
 
-El estadio entero se había quedado, de golpe, extrañamente vacío de ruido —los últimos cruces dispersos se habían apagado uno a uno sin que Oliver los viera terminar, absorbido como estaba en lo suyo, y ahora solo quedaban los focos y el polvo asentándose despacio sobre el césped destrozado.
+El estadio entero se había quedado, de golpe, extrañamente vacío de ruido, los últimos cruces dispersos se habían apagado uno a uno sin que Oliver los viera terminar, absorbido como estaba en lo suyo, y ahora solo quedaban los focos y el polvo asentándose despacio sobre el césped destrozado.
 
 Oliver cruzó lo que quedaba del campo con pasos que ya no fingían tener prisa, cada uno más pesado que el anterior, y se detuvo a diez metros de donde Dax seguía de pie, la respiración todavía descontrolada, la sangre ajena todavía en la boca.
 
-Dax lo miró de arriba abajo, la mandíbula todavía apretada, algo detrás de los ojos que Oliver no supo nombrar del todo —no era el brillo de antes, ya se había apagado, pero tampoco había vuelto del todo a ser solo Dax.
+Dax lo miró de arriba abajo, la mandíbula todavía apretada, algo detrás de los ojos que Oliver no supo nombrar del todo. No era el brillo de antes, ya se había apagado, pero tampoco había vuelto del todo a ser solo Dax.
 
 —Toda la semana dando vueltas alrededor de esto —dijo, la voz más ronca de lo normal—. Es hora de terminarlo.
 
@@ -95,7 +95,7 @@ Algo parecido a una sonrisa le cruzó la cara a Dax.
 
 —Entonces no perdamos más tiempo con esto.
 
-El viento cruzó el campo entero, levantando polvo fino desde los cráteres que el Arsenal de Yegor había dejado, y por un segundo lo único que se movió entre los dos fue eso —tierra suspendida en el aire, cayendo despacio bajo la luz sucia de los focos.
+El viento cruzó el campo entero, levantando polvo fino desde los cráteres que el Arsenal de Yegor había dejado, y por un segundo lo único que se movió entre los dos fue eso. Tierra suspendida en el aire, cayendo despacio bajo la luz sucia de los focos.
 
 Dax dio el primer paso.
 
@@ -127,7 +127,7 @@ Gancho, cargado con todo el cuerpo al rostro. Oliver lo evadió pasando por deba
 
 Se lanzó se nuevo con un jab, que resultó en amague, el cuerpo de Oliver retrocedió, y Dax liberó el verdadero golpe, un gancho desde el lado contrario. Falló por apenas centímetros, el cuerpo del chico moviéndose con más agilidad que lo que su estado debería de permitir.
 
-Oliver no lo pensó del todo, lanzó un gancho, cargado con todo el cuerpo, directo al rostro de Dax, que él evadió pasando por debajo. Regresó con un codazo al hombro, y Dax giró el cuerpo, el brazo pasando limpio por sobre su pecho —la misma reacción, el mismo ángulo, como si estuviera viéndose a sí mismo un segundo antes. Oliver se reposicionó, giró y barrió con la pierna. Dax saltó, y algo en su cara cambió a media caída, el reconocimiento llegando tarde. Contraatacó con una patada en el aire que Oliver apenas desvió con la mano. Oliver lanzó el brazo hacia atrás, esperando dar aunque fuese por suerte y mientras lo esquivaba, Dax lo reconoció, era exactamente el mismo patrón, sus mismos movimientos. Cerró con un golpe directo al rostro, que hizo ceder la pierna del chico, y fue a rematar con un segundo —y a mitad de trayectoria, ya demasiado tarde, se percató. El brazo de Oliver convertido en borrón. Dax salió despedido varios metros en el aire. 
+Oliver no lo pensó del todo, lanzó un gancho, cargado con todo el cuerpo, directo al rostro de Dax, que él evadió pasando por debajo. Regresó con un codazo al hombro, y Dax giró el cuerpo, el brazo pasando limpio por sobre su pecho, la misma reacción, el mismo ángulo, como si estuviera viéndose a sí mismo un segundo antes. Oliver se reposicionó, giró y barrió con la pierna. Dax saltó, y algo en su cara cambió a media caída, el reconocimiento llegando tarde. Contraatacó con una patada en el aire que Oliver apenas desvió con la mano. Oliver lanzó el brazo hacia atrás, esperando dar aunque fuese por suerte y mientras lo esquivaba, Dax lo reconoció, era exactamente el mismo patrón, sus mismos movimientos. Cerró con un golpe directo al rostro, que hizo ceder la pierna del chico, y fue a rematar con un segundo, y a mitad de trayectoria, ya demasiado tarde, se percató. El brazo de Oliver convertido en borrón. Dax salió despedido varios metros en el aire. 
 
 No acabó ahí, en cambio, impulsado por una fuerza que parecía más animal que humana, Oliver le encontró a mitad del aire. Los brazos de Oliver se cerraron sobre sus hombros, y Dax se protegió el abdomen, advirtiendo el rodillazo, que pasó rozando su defensa, directo al rostro. 
 
@@ -135,7 +135,7 @@ No acabó ahí, en cambio, impulsado por una fuerza que parecía más animal que
 
 La visión se le nubló de inmediato, y sintió como el mundo se puso negro durante un instante, que Oliver usó para rematar juntando ambas manos, enviándole de un golpe hasta el suelo.
 
-Dax se quedó ahí, la mejilla contra la tierra removida, la oscuridad retrocediendo despacio de los bordes de la vista. No fue el dolor lo primero que registró al volver. Fue la certeza fría de que acababa de perder contra sus propios golpes, devueltos con una precisión que él nunca les había dado. Por un instante, algo ajeno le cruzó la cara —nada de instinto, nada de apetito, solo el cálculo puro de quien mide una distancia antes de decidir si vale la pena cruzarla. Un segundo, dos. Después se le pasó, y volvió a ser solo Dax, la mandíbula apretada, el cuerpo entero exigiéndole levantarse antes de que la cabeza terminara de aclararse del todo.
+Dax se quedó ahí, la mejilla contra la tierra removida, la oscuridad retrocediendo despacio de los bordes de la vista. No fue el dolor lo primero que registró al volver. Fue la certeza fría de que acababa de perder contra sus propios golpes, devueltos con una precisión que él nunca les había dado. Por un instante, algo ajeno le cruzó la cara, nada de instinto, nada de apetito, solo el cálculo puro de quien mide una distancia antes de decidir si vale la pena cruzarla. Un segundo, dos. Después se le pasó, y volvió a ser solo Dax, la mandíbula apretada, el cuerpo entero exigiéndole levantarse antes de que la cabeza terminara de aclararse del todo.
 
 No hubo palabras esta vez. No hacía falta.
 

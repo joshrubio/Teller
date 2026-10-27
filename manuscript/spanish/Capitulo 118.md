@@ -12,13 +12,13 @@ Oliver abrió los ojos a un cielo sin estrellas, el mismo que Dax había mirado 
 
 No recordaba haber caído.
 
-Lo último que tenía, nítido, era el paso adelante, la distancia cerrándose entre él y Dax en un instante, todo lo que le quedaba puesto en ese cruce — y después nada, un corte limpio, como si alguien hubiera apagado la luz a mitad de una frase. Entre eso y el cielo actual había un hueco que su cabeza no lograba llenar.
+Lo último que tenía, nítido, era el paso adelante, la distancia cerrándose entre él y Dax en un instante, todo lo que le quedaba puesto en ese cruce, y después nada, un corte limpio, como si alguien hubiera apagado la luz a mitad de una frase. Entre eso y el cielo actual había un hueco que su cabeza no lograba llenar.
 
-Alguien se lo llenó por él, más tarde, cuando pudo sentarse: Conti había aparecido de la nada, entre los dos, en el mismo instante en que el reloj de todo el examen marcaba las 00:00 — ni un segundo antes, ni uno después, como si hubiera estado esperando ese número exacto para moverse. No dijo nada que nadie recordara con claridad. Solo estaba ahí, y después Oliver ya no estaba de pie.
+Alguien se lo llenó por él, más tarde, cuando pudo sentarse: Conti había aparecido de la nada, entre los dos, en el mismo instante en que el reloj de todo el examen marcaba las 00:00, ni un segundo antes, ni uno después, como si hubiera estado esperando ese número exacto para moverse. No dijo nada que nadie recordara con claridad. Solo estaba ahí, y después Oliver ya no estaba de pie.
 
-Cuánto tiempo había pasado desde entonces, no lo sabía. Lo bastante para que el caos inmediato del combate se hubiera convertido en otra cosa, más lenta, más ordenada — el tipo de calma que solo llega después de que algo termina de verdad.
+Cuánto tiempo había pasado desde entonces, no lo sabía. Lo bastante para que el caos inmediato del combate se hubiera convertido en otra cosa, más lenta, más ordenada, el tipo de calma que solo llega después de que algo termina de verdad.
 
-A su alrededor, el resto de lo que quedaba de la noche se movía despacio. Alguien —no reconoció la cara bajo el chaleco— le presionaba un vendaje improvisado contra el brazo a Nadia, que seguía sentada donde había caído, los dos brazos ya inútiles colgando a los costados, la mirada perdida en algún punto del cielo, consciente pero sin fuerzas para nada más. Un poco más allá, Pier respiraba, boca arriba, alguien arrodillado a su lado contando en voz alta cada vez que subía el pecho. Riku estaba sentado, la cabeza entre las manos, dejándose revisar la sien sin protestar. Dara seguía inconsciente, trasladada ya en una camilla improvisada, dos personas cargándola entre los escombros hacia algún punto fuera del campo que Oliver no alcanzaba a ver. Asha se había incorporado por su cuenta, apoyada contra lo que quedaba de una grada, rechazando con la mano cualquier ayuda que se le acercara demasiado.
+A su alrededor, el resto de lo que quedaba de la noche se movía despacio. Alguien, no reconoció la cara bajo el chaleco, le presionaba un vendaje improvisado contra el brazo a Nadia, que seguía sentada donde había caído, los dos brazos ya inútiles colgando a los costados, la mirada perdida en algún punto del cielo, consciente pero sin fuerzas para nada más. Un poco más allá, Pier respiraba, boca arriba, alguien arrodillado a su lado contando en voz alta cada vez que subía el pecho. Riku estaba sentado, la cabeza entre las manos, dejándose revisar la sien sin protestar. Dara seguía inconsciente, trasladada ya en una camilla improvisada, dos personas cargándola entre los escombros hacia algún punto fuera del campo que Oliver no alcanzaba a ver. Asha se había incorporado por su cuenta, apoyada contra lo que quedaba de una grada, rechazando con la mano cualquier ayuda que se le acercara demasiado.
 
 Lukas seguía tendido donde había caído, el brazo en un ángulo que nadie se había atrevido a tocar todavía. Yegor, unos metros más allá, ya sentado, la mirada fija en nada, sin buscar pelea ni compañía.
 
@@ -32,11 +32,11 @@ Treinta y ocho habían llegado al estadio. Oliver no sabía todavía cuántos de
 
 Anka se sentó en cuclillas junto a él, sin tocarlo, la cabeza ladeada en ese ángulo suyo que nunca terminaba de apuntar a donde debería.
 
-— Aún sigue doliendo —dijo Oliver, la cabeza entre las manos — ¿Cuanto tiempo te tomó? —la voz cargada de dolor. 
+—Aún sigue doliendo —dijo Oliver, la cabeza entre las manos—. ¿Cuanto tiempo te tomó? —la voz cargada de dolor. 
 
 Anka se extrañó.
 
-— Perder la vista— aclaró Oliver — Se quien eres, no soy estúpido.
+—Perder la vista —aclaró Oliver—. Se quien eres, no soy estúpido.
 
 Anka bajó la vista, casi con vergüenza. Hubo un silencio.
 
@@ -44,7 +44,7 @@ Anka bajó la vista, casi con vergüenza. Hubo un silencio.
 
 — Treinta años no parece la mejor edad para quedarme ciego, aunque supongo que ninguna lo es— respondió Oliver, más con sorna que con humor. 
 
-— Es distinto, tu tienes más... —replicó ella — Yo nunca fui capaz de copiar nada que no fuesen movimientos, Odem crudo— la aclaración parecía importante — Siempre dependí de mis ojos para salir viva, apenas entera, de cada enfrentamiento.
+—Es distinto, tu tienes más... —replicó ella—. Yo nunca fui capaz de copiar nada que no fuesen movimientos, Odem crudo —la aclaración parecía importante—. Siempre dependí de mis ojos para salir viva, apenas entera, de cada enfrentamiento.
 
 Oliver frunció los ojos, un latigazo de dolor cruzándole desde la parte de atrás de los ojos hasta el cuello.
 
@@ -70,7 +70,7 @@ Se fue entre los escombros, y Oliver se quedó con su respuesta todavía flotand
 
 ---
 
-El tablero se actualizó por última vez un poco después de las dos de la madrugada, proyectado sobre los dispositivos que cada uno llevaba encima. Nadie gritó, nadie celebró — a esas alturas, solo quedaban ganas de ver el número final y sentarse.
+El tablero se actualizó por última vez un poco después de las dos de la madrugada, proyectado sobre los dispositivos que cada uno llevaba encima. Nadie gritó, nadie celebró, a esas alturas, solo quedaban ganas de ver el número final y sentarse.
 
 Dax cerraba el top: primero, con la misma ventaja que había cargado toda la semana, intacta pese a todo lo que le habían quitado esa noche. Oliver, segundo, justo donde había estado desde antes de que empezara la ronda final. Johanna entraba tercera pese a la derrota.
 
@@ -84,7 +84,7 @@ Nadie lo dijo en voz alta. No hacía falta.
 
 En Ginebra, a esa misma hora, la votación ya estaba en marcha.
 
-Voss la vio venir antes de que empezara — el mismo cálculo que hacía siempre, en silencio, mientras Furrer terminaba de presentar la moción. AMAT-JP y las dos ramas que Marcus Hale llevaba años cultivando desde la sombra iban a votar a favor, por interés propio más que por convicción. La rama española, con la madre de Hana en su delegación, probablemente también — una deuda social pequeña, pagada en un gesto sin coste real. Las cuatro ramas que se alineaban con Furrer desde antes de que Voss llegara a esta sala iban a votar en contra, sin necesitar oírlo dos veces. Quedaban las demás, las que no le debían nada a nadie en particular — esas eran, siempre, las que decidían, y esas eran, siempre, las que menos podía predecir.
+Voss la vio venir antes de que empezara, el mismo cálculo que hacía siempre, en silencio, mientras Furrer terminaba de presentar la moción. AMAT-JP y las dos ramas que Marcus Hale llevaba años cultivando desde la sombra iban a votar a favor, por interés propio más que por convicción. La rama española, con la madre de Hana en su delegación, probablemente también, una deuda social pequeña, pagada en un gesto sin coste real. Las cuatro ramas que se alineaban con Furrer desde antes de que Voss llegara a esta sala iban a votar en contra, sin necesitar oírlo dos veces. Quedaban las demás, las que no le debían nada a nadie en particular. Esas eran, siempre, las que decidían, y esas eran, siempre, las que menos podía predecir.
 
 Dejó de contar cuando llegó a la mitad de la mesa. No servía de nada terminar la cuenta si el resultado ya no dependía de nada que él pudiera todavía cambiar.
 
@@ -104,7 +104,7 @@ Marcus Hale llevaba el mismo traje que nunca se arrugaba, la misma sonrisa calcu
 
 —Si viene a decirme que lo lamenta, ya he tenido suficiente cortesía por un día.
 
-—No vengo a lamentar nada. Vengo a cobrar. —La sonrisa no cambió, pero algo detrás de ella sí—. Me debe un favor. De hace unos días, cuando le ofrecí mi apoyo con esto. Nunca especifiqué cuándo lo cobraría — lo cobro ahora, antes de que salga de este edificio.
+—No vengo a lamentar nada. Vengo a cobrar. —La sonrisa no cambió, pero algo detrás de ella sí—. Me debe un favor. De hace unos días, cuando le ofrecí mi apoyo con esto. Nunca especifiqué cuándo lo cobraría. Lo cobro ahora, antes de que salga de este edificio.
 
 —¿Qué quiere?
 
@@ -120,7 +120,7 @@ Voss lo miró.
 
 —No es una treta, es un contrato con fecha de expiración —Hale no elaboró, y el hecho de que no elaborara era, en sí mismo, la elaboración—. Algunos lo terminan rápido. Otros nunca. La rama que lo supervisa no publica estadísticas de retención, y no porque le falten datos.
 
-Voss lo procesó despacio, pieza por pieza, de la misma forma en que procesaba cualquier cosa que cambiara la forma de una situación por completo. Riesgo sin cifra publicada. Retención sin estadística. Un nombre interno que Voss había visto una vez, años atrás, en un memorando que nunca le correspondió leer del todo — *Wardogs* — archivado entonces como jerga de otra rama, irrelevante para su trabajo.
+Voss lo procesó despacio, pieza por pieza, de la misma forma en que procesaba cualquier cosa que cambiara la forma de una situación por completo. Riesgo sin cifra publicada. Retención sin estadística. Un nombre interno que Voss había visto una vez, años atrás, en un memorando que nunca le correspondió leer del todo, *Wardogs*, archivado entonces como jerga de otra rama, irrelevante para su trabajo.
 
 Ya no lo era.
 
@@ -128,9 +128,9 @@ Ya no lo era.
 
 —Yo no le estoy pidiendo nada —dijo Hale—. El consejo ya decidió por usted hace cinco minutos. Yo solo le estoy diciendo qué puerta queda abierta.
 
-—Tendrán que decidir ellos por su cuenta, no soy más su dueño de lo que ellos mismos lo son, ya ha visto como ha acabado la votación — dijo Voss.
+—Tendrán que decidir ellos por su cuenta, no soy más su dueño de lo que ellos mismos lo son, ya ha visto como ha acabado la votación —dijo Voss.
 
-—Eso es cierto, pero AMAT lo sigue siendo —la expresión de Hale se dividió en algo más parecido a acusación que a complicidad — Y usted es el único que tiene el poder de señalarles la única salida que tienen, o de dejarlos a la deriva en un sistema que no los ve como lo que son, personas— y por un segundo, Voss le creyó.
+—Eso es cierto, pero AMAT lo sigue siendo —la expresión de Hale se dividió en algo más parecido a acusación que a complicidad—. Y usted es el único que tiene el poder de señalarles la única salida que tienen, o de dejarlos a la deriva en un sistema que no los ve como lo que son, personas. —Y por un segundo, Voss le creyó.
 
 Hale ya se estaba dando la vuelta cuando añadió, casi de pasada, con el mismo tono con que se ofrece algo que no cuesta nada dar:
 
@@ -142,4 +142,4 @@ Voss se quedó solo en el pasillo vacío, con la sala todavía cerrada a su espa
 
 Esto no era lo que había venido a conseguir hoy.
 
-Era, de todas formas, lo que ellos habían conseguido — sin que a él le quedara ya ningún voto que pedir, ninguna puerta propia que abrir. Solo la que Hale acababa de dejar entornada, hacia un sitio que Voss no había elegido y que ahora no tenía forma de cerrar.
+Era, de todas formas, lo que ellos habían conseguido, sin que a él le quedara ya ningún voto que pedir, ninguna puerta propia que abrir. Solo la que Hale acababa de dejar entornada, hacia un sitio que Voss no había elegido y que ahora no tenía forma de cerrar.

@@ -2,9 +2,9 @@
 
 The meeting with Brenner lasted forty minutes.
 
-It wasn't a meeting Voss had called — Brenner had called it, which already said something about how he planned to handle what had gone wrong. Men who call meetings about their own mistakes have a particular relationship with control: they know that losing the narrative costs more than admitting the failure.
+It wasn't a meeting Voss had called, Brenner had called it, which already said something about how he planned to handle what had gone wrong. Men who call meetings about their own mistakes have a particular relationship with control: they know that losing the narrative costs more than admitting the failure.
 
-Brenner arrived with two documents. Voss arrived with nothing. At seven in the morning, the administrative corridor had the particular light of the Valais in January — angled, without sharp shadows, the kind of light that hides nothing but doesn't reveal more than it has to, either.
+Brenner arrived with two documents. Voss arrived with nothing. At seven in the morning, the administrative corridor had the particular light of the Valais in January, angled, without sharp shadows, the kind of light that hides nothing but doesn't reveal more than it has to, either.
 
 "The organic containment protocol was validated under laboratory conditions," Brenner said, without preamble. "Not in the field. That's Geneva coordination's responsibility, and I own Geneva coordination."
 
@@ -18,7 +18,7 @@ Voss looked at the documents on the table without picking them up.
 
 "Unhurt. No record of physical contact."
 
-Voss processed that. No physical contact, unhurt, a late report. The sequence had a particular shape — not a forced rescue, but an extraction that didn't want to leave the signature of an extraction.
+Voss processed that. No physical contact, unhurt, a late report. The sequence had a particular shape, not a forced rescue, but an extraction that didn't want to leave the signature of an extraction.
 
 "What does the vehicle's sensor say?"
 
@@ -44,7 +44,7 @@ Voss pushed the document aside.
 
 "Missing." Brenner said it with the economy of someone who's accepted a cost and is finishing the accounting on it. "The active search protocol is still running. The probability of recovery drops with every hour."
 
-Voss didn't answer that. He looked at the window facing the east courtyard — empty at this hour, the stone still damp with the previous night's fog — and let the weight of what Brenner had given him find its place.
+Voss didn't answer that. He looked at the window facing the east courtyard, empty at this hour, the stone still damp with the previous night's fog, and let the weight of what Brenner had given him find its place.
 
 *Passive absorption.* Cellular density loss at the interface. Ninety minutes of clean radius.
 
@@ -94,9 +94,9 @@ Park processed that.
 
 "With which subjects?"
 
-"Webb, Hayashi, Mihai. Pier in the role of tactical anchor. Possibly Asha Kaur once her modulation control allows it." Voss closed the folder. "Webb is the central variable. Not because of his potential level — you already know that number from the assignment. Because the Registry, correctly developed, is a tactical multiplier no other Domain in this Center can replicate."
+"Webb, Hayashi, Mihai. Pier in the role of tactical anchor. Possibly Asha Kaur once her modulation control allows it." Voss closed the folder. "Webb is the central variable. Not because of his potential level, you already know that number from the assignment. Because the Registry, correctly developed, is a tactical multiplier no other Domain in this Center can replicate."
 
-Park already knew that conclusion. He'd read it in the file. But hearing it out loud from Voss carried a different weight than reading it — the weight of someone who's been waiting a long time for this exact configuration, and has already calculated how much time he has left before someone else calculates it too.
+Park already knew that conclusion. He'd read it in the file. But hearing it out loud from Voss carried a different weight than reading it, the weight of someone who's been waiting a long time for this exact configuration, and has already calculated how much time he has left before someone else calculates it too.
 
 "What happened with Reyes?" Park said.
 
@@ -104,7 +104,7 @@ The question was direct, and both people in the room knew Park already had the a
 
 Voss considered it a moment.
 
-"An operational assignment that went wrong. Not the subject's deployment — the transfer methodology." A pause. "There's an anomaly in the incident the Geneva investigation hasn't resolved yet. Someone intercepted the transport. Someone with specific capabilities and no recognizable AMAT signature."
+"An operational assignment that went wrong. Not the subject's deployment, the transfer methodology." A pause. "There's an anomaly in the incident the Geneva investigation hasn't resolved yet. Someone intercepted the transport. Someone with specific capabilities and no recognizable AMAT signature."
 
 "Motive?"
 
@@ -120,11 +120,11 @@ Park let that hang in the air a second.
 
 "Or both." Voss opened the desk's second drawer and pulled out a sheet. "I'm not asking you to investigate this. I'm asking you to know it. If anything over the next few weeks looks off pattern to you, I want to know before it reaches Geneva."
 
-Park took the sheet. It was the incident summary — one page, no subject name, no coordinates, with the term *passive absorption* in the third paragraph. He read it twice.
+Park took the sheet. It was the incident summary, one page, no subject name, no coordinates, with the term *passive absorption* in the third paragraph. He read it twice.
 
 "How many subjects know about this?"
 
-"The core group knows something happened. Webb knows there was an anomaly — Pier told him the night I arrived." A pause. "They don't know about the restraint analysis."
+"The core group knows something happened. Webb knows there was an anomaly, Pier told him the night I arrived." A pause. "They don't know about the restraint analysis."
 
 Park handed the sheet back.
 
@@ -168,7 +168,7 @@ Park stood in the doorway a second longer.
 
 Voss stayed in the office after Park left.
 
-He opened the GRH-094-S folder. Not Oliver's page — the last sheet, added by hand, no case number, dated three weeks earlier, with a single line in his own handwriting:
+He opened the GRH-094-S folder. Not Oliver's page, the last sheet, added by hand, no case number, dated three weeks earlier, with a single line in his own handwriting:
 
 *Passive absorption. Eleven hours of contact. Ninety minutes of clean radius.*
 
@@ -178,11 +178,11 @@ Below it, dated that morning:
 
 He set down the pen.
 
-There were three technical explanations for the passive absorption of certified organic material through sustained contact. Two of them required equipment that would have left a trace. The third required a specific Domain operating passively for hours — the kind of operation that was only possible if the operator had spent enough time practicing it to make it invisible even to himself.
+There were three technical explanations for the passive absorption of certified organic material through sustained contact. Two of them required equipment that would have left a trace. The third required a specific Domain operating passively for hours, the kind of operation that was only possible if the operator had spent enough time practicing it to make it invisible even to himself.
 
 Voss closed the folder. Opened it again. Stared at the line *Passive absorption* for a length of time he himself would have called excessive if anyone had been watching.
 
-The case that had never closed. The case Voss had written off as dead or irrelevant when neither option was satisfying — only convenient.
+The case that had never closed. The case Voss had written off as dead or irrelevant when neither option was satisfying, only convenient.
 
 Nothing convenient had happened in the last three months.
 
@@ -202,7 +202,7 @@ The problem was what that name implied for the subject in week seventeen of the 
 
 Hana's session lasted an hour and ten minutes.
 
-It wasn't a class — Hana never used that word — but a theoretical-framework update for subjects who'd been at the Center long enough to process the typology without mistaking it for an evaluation. Oliver was in his seventeenth week. Riku, longer. Dara had arrived late and taken the end of the table without apologizing. Nadia already had half a page of notes by the time Hana put up the first diagram, and Lev sat in the chair farthest from the wall, as always, arms crossed, wearing the expression of someone who already knows what the diagram is going to say but listens anyway.
+It wasn't a class, Hana never used that word, but a theoretical-framework update for subjects who'd been at the Center long enough to process the typology without mistaking it for an evaluation. Oliver was in his seventeenth week. Riku, longer. Dara had arrived late and taken the end of the table without apologizing. Nadia already had half a page of notes by the time Hana put up the first diagram, and Lev sat in the chair farthest from the wall, as always, arms crossed, wearing the expression of someone who already knows what the diagram is going to say but listens anyway.
 
 "Domains by expression axis," she said, without preamble. "It's not a classification of potential. It's a classification of channel. Where the Odem comes out when the Domain is active."
 
@@ -218,9 +218,9 @@ Oliver looked at the internal-passive quadrant. Empty on the diagram, or nearly.
 
 Hana looked at him.
 
-"Less common, but they exist." Hana pointed at the empty quadrant. "Domains where the expression happens entirely inside another system — perception, cognition, someone else's internal state. No external Odem footprint. No active signature legible from outside. The operator acts; anyone watching from the outside sees nothing."
+"Less common, but they exist." Hana pointed at the empty quadrant. "Domains where the expression happens entirely inside another system, perception, cognition, someone else's internal state. No external Odem footprint. No active signature legible from outside. The operator acts; anyone watching from the outside sees nothing."
 
-Riku asked two more things — whether joint users grouped together on the diagram, or whether there were users with a double axis without formally being classified as such. Hana answered with the precision of someone who's spent years documenting exceptions. Oliver listened, took notes, and asked one question about signature degradation in passive-accumulation Domains, and how long it took to go unreadable without activation.
+Riku asked two more things, whether joint users grouped together on the diagram, or whether there were users with a double axis without formally being classified as such. Hana answered with the precision of someone who's spent years documenting exceptions. Oliver listened, took notes, and asked one question about signature degradation in passive-accumulation Domains, and how long it took to go unreadable without activation.
 
 The session ended with no announcement. Hana put the diagram away.
 
@@ -230,15 +230,15 @@ They filed out into the corridor.
 
 ---
 
-The inner courtyard was covered in snow. Five or six centimeters over the stone, none of it touching the edges the roof kept dry. The January light at five in the afternoon wasn't direct anymore — it was reflection, the white of the snow giving back what was left of the day.
+The inner courtyard was covered in snow. Five or six centimeters over the stone, none of it touching the edges the roof kept dry. The January light at five in the afternoon wasn't direct anymore, it was reflection, the white of the snow giving back what was left of the day.
 
 Oliver saw him before he registered that he was looking.
 
-Park was in the middle of the courtyard. Training clothes, no jacket, standing alone in the snow with his feet shoulder-width apart. He moved through slow sequences — weight shifts, torso rotations, position changes that meant nothing tactical on their own. It wasn't a combat drill. It wasn't stretching.
+Park was in the middle of the courtyard. Training clothes, no jacket, standing alone in the snow with his feet shoulder-width apart. He moved through slow sequences, weight shifts, torso rotations, position changes that meant nothing tactical on their own. It wasn't a combat drill. It wasn't stretching.
 
 It wasn't what he was doing. It was what Oliver was reading while he did it.
 
-Park's signature in Wednesday's session — the three steps, the momentum discharged into the stone floor — had been a release. Built-up pressure finding an exit through movement. What Oliver was watching now was the other half of that: accumulation with no exit. The signature growing, building with every shift, with no step releasing it yet. Like a system charging. Like a file that never finishes executing because nobody's given the instruction.
+Park's signature in Wednesday's session, the three steps, the momentum discharged into the stone floor, had been a release. Built-up pressure finding an exit through movement. What Oliver was watching now was the other half of that: accumulation with no exit. The signature growing, building with every shift, with no step releasing it yet. Like a system charging. Like a file that never finishes executing because nobody's given the instruction.
 
 Park wasn't practicing the movements.
 
@@ -248,7 +248,7 @@ He was practicing the accumulation.
 
 "In Wednesday's fight I saw the end of something." Oliver didn't take his eyes off the courtyard. "This is the beginning."
 
-Riku opened his left hand — the gesture Oliver had learned to recognize as *processing something I'm not going to say yet* — and closed it.
+Riku opened his left hand, the gesture Oliver had learned to recognize as *processing something I'm not going to say yet*, and closed it.
 
 In the courtyard, Park made a short turn toward the north corridor.
 
@@ -266,15 +266,15 @@ Oliver took a second to follow.
 
 He got to his room at six-thirty.
 
-He opened the notebook. The notes from Hana's session took up two pages — the diagram reproduced from memory, the axes with each Domain's name and position, Riku's questions about joint users marked with a question mark where Oliver hadn't quite followed the answer. In the internal-passive quadrant he'd drawn a dot with a circle around it. No name.
+He opened the notebook. The notes from Hana's session took up two pages, the diagram reproduced from memory, the axes with each Domain's name and position, Riku's questions about joint users marked with a question mark where Oliver hadn't quite followed the answer. In the internal-passive quadrant he'd drawn a dot with a circle around it. No name.
 
 He closed the notebook.
 
-He stood. The floor of the room was smooth — less space than the courtyard, less cold, no snow. Enough.
+He stood. The floor of the room was smooth, less space than the courtyard, less cold, no snow. Enough.
 
 He set his feet shoulder-width apart.
 
-He knew the sequence. He'd watched it for seventeen minutes from the north corridor. It wasn't complicated — weight shift, torso rotation, lateral position change. Movements that meant nothing on their own. He'd done variations of it with Yusuf. His body remembered the shape.
+He knew the sequence. He'd watched it for seventeen minutes from the north corridor. It wasn't complicated, weight shift, torso rotation, lateral position change. Movements that meant nothing on their own. He'd done variations of it with Yusuf. His body remembered the shape.
 
 What it didn't remember — what he couldn't reproduce — was the other part.
 
@@ -282,9 +282,9 @@ In the courtyard, Park's signature had grown with every shift. Here, nothing gre
 
 He repeated the sequence.
 
-That wasn't how it worked. He knew that. He'd watched Asha activate Tension with the specific attention of someone who's done it for years — structure visible in the Odem before the first physical effect. He'd watched Riku's left hand and the interference arcs Oliver now had in rotation, practicable, because he'd spent weeks reading the pattern until the pattern became legible. It wasn't imitating the movement. It was reading the structure and rebuilding it from the Odem, not from the muscle.
+That wasn't how it worked. He knew that. He'd watched Asha activate Tension with the specific attention of someone who's done it for years, structure visible in the Odem before the first physical effect. He'd watched Riku's left hand and the interference arcs Oliver now had in rotation, practicable, because he'd spent weeks reading the pattern until the pattern became legible. It wasn't imitating the movement. It was reading the structure and rebuilding it from the Odem, not from the muscle.
 
-The problem was that he still hadn't read Park's structure. He'd seen the signature. He'd seen the accumulation. He hadn't seen the mechanism — how the Odem linked to the movement, where it was built from, what sat at the origin of the process that made the momentum something other than physical.
+The problem was that he still hadn't read Park's structure. He'd seen the signature. He'd seen the accumulation. He hadn't seen the mechanism, how the Odem linked to the movement, where it was built from, what sat at the origin of the process that made the momentum something other than physical.
 
 He stopped. Opened the notebook.
 

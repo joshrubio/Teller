@@ -16,13 +16,13 @@ Ronald "el Pana" Peña reached the hotel at seven in the morning, on a motorcycl
 
 "My brother was sixteen," he said, without Park asking, five minutes after they set off. "Went fishing at the river one afternoon and never came back. That's what the last people who saw him said. I don't think he drowned. Nobody around here thinks so."
 
-He knew every shortcut in the area out of necessity, not preference — dirt paths between thickets no vehicle with more than two wheels could take, wooden bridges that sounded on the verge of giving out and never did. He skipped two whole checkpoints without Park understanding how until Ronald explained, shouting over the engine: he knew the men on duty, or knew someone who knew them, which in this part of the country amounted to almost the same thing.
+He knew every shortcut in the area out of necessity, not preference, dirt paths between thickets no vehicle with more than two wheels could take, wooden bridges that sounded on the verge of giving out and never did. He skipped two whole checkpoints without Park understanding how until Ronald explained, shouting over the engine: he knew the men on duty, or knew someone who knew them, which in this part of the country amounted to almost the same thing.
 
 "You're the first person from outside who's come to ask for real," he said, at a stop in the road, pulling off his helmet to wipe the sweat. "Most just want a quote for their story and they're gone before dark. I hope you stay longer than that."
 
 Park didn't promise him anything. Ronald seemed to take that better than Park expected, as if he'd gone so long without promises he no longer knew what to do with one if it was given to him.
 
-The road kept narrowing as they approached the base of the mountain — cracked asphalt, then packed dirt, then something that no longer deserved to be called a road but was simply the gap between the trees where others had passed often enough to keep the vegetation from closing all the way. The air changed before the landscape did: more humid, more still, with a weight that reminded Park, against his will, of the first time he'd felt the pressure system in Alfama — except this had no single point of origin like a mark on a stone. This came from the whole mountain, like a background breathing that had been there longer than Park could calculate.
+The road kept narrowing as they approached the base of the mountain, cracked asphalt, then packed dirt, then something that no longer deserved to be called a road but was simply the gap between the trees where others had passed often enough to keep the vegetation from closing all the way. The air changed before the landscape did: more humid, more still, with a weight that reminded Park, against his will, of the first time he'd felt the pressure system in Alfama, except this had no single point of origin like a mark on a stone. This came from the whole mountain, like a background breathing that had been there longer than Park could calculate.
 
 "How much further?" he asked, shouting over the engine.
 
@@ -38,9 +38,9 @@ The road kept narrowing as they approached the base of the mountain — cracked 
 
 ---
 
-Casimira Blanco's house sat deeper in than any official map of the area would recognize as settled land — a block-and-wood structure at the end of a path the forest seemed to be reclaiming inch by inch. It smelled, from ten meters out, of tobacco and something sweet and alcoholic underneath, and the air carried the same dense weight Park had been learning to read since Lisbon — except here it came from no fixed point. It came from everywhere at once, as if the whole forest were breathing slowly.
+Casimira Blanco's house sat deeper in than any official map of the area would recognize as settled land, a block-and-wood structure at the end of a path the forest seemed to be reclaiming inch by inch. It smelled, from ten meters out, of tobacco and something sweet and alcoholic underneath, and the air carried the same dense weight Park had been learning to read since Lisbon, except here it came from no fixed point. It came from everywhere at once, as if the whole forest were breathing slowly.
 
-Casimira met them at the door with a half-smoked cigar between two fingers, a woman in her sixties, white hair gathered under a red kerchief, beaded bracelets of different colors on each wrist — one per court, she would explain later. She carried the kind of quiet authority Park had seen before in people who'd spent decades doing the same dangerous work without the danger ever fully getting used to them. She looked at Ronald with the distracted fondness of someone who'd known him since he was a boy, asked after his mother without waiting for a full answer. She looked at Park, and everything in her face changed.
+Casimira met them at the door with a half-smoked cigar between two fingers, a woman in her sixties, white hair gathered under a red kerchief, beaded bracelets of different colors on each wrist, one per court, she would explain later. She carried the kind of quiet authority Park had seen before in people who'd spent decades doing the same dangerous work without the danger ever fully getting used to them. She looked at Ronald with the distracted fondness of someone who'd known him since he was a boy, asked after his mother without waiting for a full answer. She looked at Park, and everything in her face changed.
 
 ---
 
@@ -70,7 +70,7 @@ Ronald stepped back half a pace, not hiding it.
 
 "I'm human," Park said, as directly as he could without it sounding like the kind of lie someone tells when they're not. "What I'm carrying is residue. From work. From places where I had to face things similar to whatever's happening here."
 
-Casimira studied him a moment longer, and something in her shoulders eased — not quite relief, more the kind of adjustment made by someone used to recalibrating fast when the first reading doesn't match the second.
+Casimira studied him a moment longer, and something in her shoulders eased, not quite relief, more the kind of adjustment made by someone used to recalibrating fast when the first reading doesn't match the second.
 
 "That would explain why it doesn't smell like anything I know," she said. "The spirits I work with have an origin. You recognize them by where they were born. You're carrying four different origins stuck to your skin, and none of them is from here." She picked the cigar up off the ground, shook it, relit it with hands that had almost stopped shaking. "Come in. If you're really here to ask what I think you're here to ask, better to do it sitting down."
 
@@ -82,7 +82,7 @@ That seemed to be enough for him. He went in behind Park, though he stayed near 
 
 ---
 
-A woman came out of the back room before Casimira had finished closing the door — forties, a small cross at her neck, the kind of look that had already judged the whole scene before anyone explained anything.
+A woman came out of the back room before Casimira had finished closing the door, forties, a small cross at her neck, the kind of look that had already judged the whole scene before anyone explained anything.
 
 "Mamá," she said, without greeting the newcomers, "candles and rum again at this hour? I told you one of these days one of those men is going to find you here alone."
 
@@ -94,11 +94,11 @@ Casimira didn't defend herself. She simply poured one more glass of rum, the fif
 
 "She doesn't agree with me about almost any of this," she told Park, with a calm that already sounded well practiced. "But she's the first to come running when someone tries to hurt me for refusing what those men ask. Both things are true at the same time. Learn to live with that kind of contradiction in this country, agent, or you won't understand anything you find here."
 
-Yolanda didn't answer that. She stayed standing, near the back door, not quite leaving — the same kind of reluctant vigilance Ronald had kept up from the entrance, two people who didn't fully trust what was happening at that table, but weren't willing to leave the woman who'd raised them alone either.
+Yolanda didn't answer that. She stayed standing, near the back door, not quite leaving, the same kind of reluctant vigilance Ronald had kept up from the entrance, two people who didn't fully trust what was happening at that table, but weren't willing to leave the woman who'd raised them alone either.
 
 ---
 
-The inside of the house was a single large room, divided more by function than by wall: a table holding three untouched glasses of liquor, candles in at least five different colors grouped in clusters — red for one court, white for another, yellow for one Ronald couldn't name for Park afterward when he asked. In one corner, a wood carving of an indigenous man with a bow, next to another of a man in a white coat with a stethoscope, and at the center of it all, larger than the rest, a framed photo of a woman with a serpent coiled around her arm and a deer at her feet — the queen of the mountain, no doubt possible about who she was. The smoke from Casimira's cigar hung near the ceiling, never quite dispersing, as if the room's own air resisted letting it go. It smelled of rum, of melted wax, and beneath all of it, of earth — the same wet earth Park had been smelling since they entered the path.
+The inside of the house was a single large room, divided more by function than by wall: a table holding three untouched glasses of liquor, candles in at least five different colors grouped in clusters, red for one court, white for another, yellow for one Ronald couldn't name for Park afterward when he asked. In one corner, a wood carving of an indigenous man with a bow, next to another of a man in a white coat with a stethoscope, and at the center of it all, larger than the rest, a framed photo of a woman with a serpent coiled around her arm and a deer at her feet, the queen of the mountain, no doubt possible about who she was. The smoke from Casimira's cigar hung near the ceiling, never quite dispersing, as if the room's own air resisted letting it go. It smelled of rum, of melted wax, and beneath all of it, of earth, the same wet earth Park had been smelling since they entered the path.
 
 "I've spent months refusing to do something a man in uniform asked me to do," Casimira said, pouring rum into a fourth glass no one had asked for, setting it on the table without drinking it. "Other mediums in the area didn't refuse. I did, and that's why I'm still breathing, though I don't know for how much longer."
 
@@ -114,7 +114,7 @@ She drank a little of the rum she'd left untouched, more to have something to do
 
 "I have this house far from everything, and I don't have much left that anyone could threaten to take from me," Casimira said. "That's not bravery, agent. It's that I already did my math a long time ago. Since they started doing it anyway, with other mediums that did give in, something in the mountain stopped being asleep the way it had been asleep my whole life."
 
-Park described, in the most neutral vocabulary he could find, the readings Arismendi had shown him before leaving Caracas — the speed of accumulation, the total absence of precedent, the tremor from the night before with no cause any instrument could name.
+Park described, in the most neutral vocabulary he could find, the readings Arismendi had shown him before leaving Caracas, the speed of accumulation, the total absence of precedent, the tremor from the night before with no cause any instrument could name.
 
 Casimira listened without interrupting. When Park finished, she stayed quiet longer than the question warranted, the cigar burning down between her fingers without her taking another draw.
 
@@ -126,7 +126,7 @@ Casimira didn't answer right away. She got up, crossed the room to the framed ph
 
 "There are stories about this mountain that don't even get told on festival nights," she said, without turning. "Stories from before there were courts, before there were pretty names for what happens here. I heard them from my grandmother, who heard them from hers. I never thought I'd live to see whether they were true."
 
-Ronald, from the doorway, said nothing. His hand was no longer near the motorcycle — it was near Park's, a small gesture, almost involuntary, the kind made by someone who suddenly needs to know there's someone else nearby capable of doing something if it came to that.
+Ronald, from the doorway, said nothing. His hand was no longer near the motorcycle, it was near Park's, a small gesture, almost involuntary, the kind made by someone who suddenly needs to know there's someone else nearby capable of doing something if it came to that.
 
 Casimira raised her eyes to the photo, and for the first time since Park had walked through the door, the fear on her face had nothing to do with him.
 

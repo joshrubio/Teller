@@ -1,6 +1,6 @@
 Capítulo 155 — Personal en lista
 
-*4 de julio, 01:50 — Pacífico oriental, a doce millas de la Isla del Coco*
+*4 de julio, 01:50, Pacífico oriental, a doce millas de la Isla del Coco*
 
 El *Corcovado* era un barco de investigación de la Fundación Pacífico Verde, treinta y cuatro metros de eslora, casco blanco y una A invertida pintada en la chimenea que según los papeles significaba *ciencia marina para el trópico oriental*. Tenía dos grúas, una lancha auxiliar, un laboratorio húmedo con acuarios vacíos y una dotación civil de seis personas que no hacía preguntas porque cobraba por no hacerlas. Debajo del laboratorio, en lo que el plano llamaba bodega de muestras, dormían o fingían dormir catorce personas que no eran biólogos.
 

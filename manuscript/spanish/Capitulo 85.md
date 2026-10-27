@@ -8,11 +8,11 @@ El aviso esta vez no venía pegado a ninguna puerta. Reber los esperaba ya en la
 
 Nadie preguntó qué era "esto" todavía. Todos lo entendieron a los quince minutos.
 
-Empezó con carreras — no una, varias, cada una más corta que la anterior pero con menos descanso entre ellas, hasta que el descanso dejó de existir del todo y solo quedó el ritmo. Después vinieron las cargas: sacos de arena repartidos por parejas, un recorrido marcado con conos que subía y bajaba una pendiente artificial construida contra el muro este del complejo, ida y vuelta, sin límite de tiempo anunciado, lo cual resultó ser peor que cualquier límite.
+Empezó con carreras, no una, varias, cada una más corta que la anterior pero con menos descanso entre ellas, hasta que el descanso dejó de existir del todo y solo quedó el ritmo. Después vinieron las cargas: sacos de arena repartidos por parejas, un recorrido marcado con conos que subía y bajaba una pendiente artificial construida contra el muro este del complejo, ida y vuelta, sin límite de tiempo anunciado, lo cual resultó ser peor que cualquier límite.
 
-Oliver lo sintió en los primeros cinco minutos: el Registro no tenía nada que ofrecerle aquí. No había Domain que leer, ni estructura ajena que estudiar mientras el cuerpo trabajaba — solo sus propias piernas, su propio pecho quemándose de un modo que ningún atajo iba a aliviar. Se descubrió pensando, entre la tercera y la cuarta repetición, en la conversación de Anka sobre Manto —contener antes de emitir, endurecer lo que aguanta un golpe— y probó, sin mucha fe, a mantener algo apretado alrededor de las costillas mientras corría. No notó diferencia real. O la notó y no supo distinguirla del efecto placebo de estar pensando en otra cosa.
+Oliver lo sintió en los primeros cinco minutos: el Registro no tenía nada que ofrecerle aquí. No había Domain que leer, ni estructura ajena que estudiar mientras el cuerpo trabajaba, solo sus propias piernas, su propio pecho quemándose de un modo que ningún atajo iba a aliviar. Se descubrió pensando, entre la tercera y la cuarta repetición, en la conversación de Anka sobre Manto, contener antes de emitir, endurecer lo que aguanta un golpe, y probó, sin mucha fe, a mantener algo apretado alrededor de las costillas mientras corría. No notó diferencia real. O la notó y no supo distinguirla del efecto placebo de estar pensando en otra cosa.
 
-A su lado, Petra corría con la mandíbula apretada y la respiración perfectamente controlada durante los primeros dos recorridos, y visiblemente menos controlada a partir del tercero — no se quejó, no dijo una palabra, pero Oliver la vio, en un momento, mirar hacia la cima de la pendiente con la misma expresión que ponía frente a un problema diplomático que no tenía salida elegante.
+A su lado, Petra corría con la mandíbula apretada y la respiración perfectamente controlada durante los primeros dos recorridos, y visiblemente menos controlada a partir del tercero. No se quejó, no dijo una palabra, pero Oliver la vio, en un momento, mirar hacia la cima de la pendiente con la misma expresión que ponía frente a un problema diplomático que no tenía salida elegante.
 
 — Esto no se negocia —le dijo a nadie en particular, entre dientes, subiendo el saco un centímetro más alto sobre el hombro—. Esto solo se aguanta.
 
@@ -22,13 +22,13 @@ Riku, dos pasos detrás, encontró aliento para una broma en algún punto que ya
 
 Nadie se rió. Nadie tenía el aire de sobra para hacerlo.
 
-Pier llevaba el recorrido de un modo distinto al resto — no más rápido, pero sí más constante, un ritmo que no subía ni bajaba entre repeticiones, la clase de disciplina que Oliver reconoció, sin poder nombrarla del todo, como la de alguien que ya había hecho esto mismo, o algo parecido, muchas veces antes en algún punto de sus años en el sistema. No sonrió, no comentó nada, pero cuando pasó junto a Riku en un cruce del recorrido, le puso una mano un segundo en el hombro — no aliento verbal, solo el gesto, y siguió caminando.
+Pier llevaba el recorrido de un modo distinto al resto, no más rápido, pero sí más constante, un ritmo que no subía ni bajaba entre repeticiones, la clase de disciplina que Oliver reconoció, sin poder nombrarla del todo, como la de alguien que ya había hecho esto mismo, o algo parecido, muchas veces antes en algún punto de sus años en el sistema. No sonrió, no comentó nada, pero cuando pasó junto a Riku en un cruce del recorrido, le puso una mano un segundo en el hombro. No aliento verbal, solo el gesto, y siguió caminando.
 
 Asha, más adelante en la fila, se movía con la misma atención contenida que ponía en todo lo demás, sin desperdiciar energía en gestos innecesarios, cada zancada calculada para durar hasta el final en vez de destacar al principio. Terminó su serie sin ser la primera ni la última, y se quedó junto a la línea de salida, recuperando el aliento en silencio, observando al resto con la misma atención de siempre.
 
 Nadia fue distinta.
 
-Llevaba el brazo izquierdo todavía protegido, la clavícula no del todo curada, y el propio ejercicio no estaba diseñado para alguien en su situación — pero cuando llegó su turno con el saco, lo cargó de todos modos, cambiando el peso hacia el lado derecho de un modo que a cualquiera con ojos le habría dolido con solo mirarlo.
+Llevaba el brazo izquierdo todavía protegido, la clavícula no del todo curada, y el propio ejercicio no estaba diseñado para alguien en su situación, pero cuando llegó su turno con el saco, lo cargó de todos modos, cambiando el peso hacia el lado derecho de un modo que a cualquiera con ojos le habría dolido con solo mirarlo.
 
 — Nadia —dijo Reber, sin alzar mucho la voz, pero con la clase de tono que no dejaba espacio para fingir que no lo había oído—. Modificado. Medio saco, lado sano únicamente.
 
@@ -44,7 +44,7 @@ Nadia no respondió, pero bajó el saco completo y aceptó el medio que alguien 
 
 Dara fue la última en terminar la última repetición.
 
-No por falta de esfuerzo — todo lo contrario. Llevaba el cuerpo más pequeño del grupo, menos masa muscular de la que los candidatos militares traían de fábrica, y cada subida de la pendiente le costaba visiblemente más que a cualquiera de los demás. Para cuando el resto del grupo ya había terminado y se había apartado a los lados a recuperar el aliento, a Dara todavía le quedaba una repetición completa por delante.
+No por falta de esfuerzo, todo lo contrario. Llevaba el cuerpo más pequeño del grupo, menos masa muscular de la que los candidatos militares traían de fábrica, y cada subida de la pendiente le costaba visiblemente más que a cualquiera de los demás. Para cuando el resto del grupo ya había terminado y se había apartado a los lados a recuperar el aliento, a Dara todavía le quedaba una repetición completa por delante.
 
 — Puedes parar —le dijo Reber, sin dureza, cuando pasó cerca de ella en su recorrido—. El tiempo ya no cuenta para nadie más. No hay nada que demostrar terminando la serie entera.
 
@@ -52,7 +52,7 @@ No por falta de esfuerzo — todo lo contrario. Llevaba el cuerpo más pequeño 
 
 Reber no insistió. Se quedó cerca, sin ayudarla, sin decir nada más, mientras ella completaba la subida final con las piernas visiblemente temblando y el saco resbalando del hombro cada pocos pasos, hasta que llegó arriba, dejó caer el peso donde correspondía, y se sentó directamente en el suelo, sin fuerzas ni para buscar un sitio mejor.
 
-El resto del grupo, ya recuperado, la aplaudió — no con burla, con algo que se parecía más a respeto genuino, y Riku, sentándose a su lado, le pasó una botella de agua sin decir nada.
+El resto del grupo, ya recuperado, la aplaudió, no con burla, con algo que se parecía más a respeto genuino, y Riku, sentándose a su lado, le pasó una botella de agua sin decir nada.
 
 — No hacía falta que terminaras entera —le dijo Oliver, acercándose.
 
@@ -64,13 +64,13 @@ Reber anotó algo en su tableta sin comentario visible, pero Oliver, que llevaba
 
 Lo que vino después fue peor, en el sentido de que dolía menos físicamente y humillaba más.
 
-Un grupo del contingente militar —seis hombres y mujeres que Oliver no conocía por nombre, ninguno del grupo de Dax ni del de Johanna, simplemente candidatos de fondo que llevaban ya semanas o meses en El Reducto— hizo la misma serie completa, sin descanso entre repeticiones, en poco más de la mitad del tiempo que le había costado al grupo de Valais. No presumieron. No hicieron ningún comentario dirigido a ellos. Simplemente terminaron, se sentaron aparte, y empezaron a hablar entre sí de otra cosa completamente ajena al ejercicio, como si la diferencia de nivel fuera algo tan obvio que ni merecía mención.
+Un grupo del contingente militar, seis hombres y mujeres que Oliver no conocía por nombre, ninguno del grupo de Dax ni del de Johanna, simplemente candidatos de fondo que llevaban ya semanas o meses en El Reducto, hizo la misma serie completa, sin descanso entre repeticiones, en poco más de la mitad del tiempo que le había costado al grupo de Valais. No presumieron. No hicieron ningún comentario dirigido a ellos. Simplemente terminaron, se sentaron aparte, y empezaron a hablar entre sí de otra cosa completamente ajena al ejercicio, como si la diferencia de nivel fuera algo tan obvio que ni merecía mención.
 
 — Esto es humillante de una forma muy específica —dijo Riku, todavía sentado en el suelo, mirándolos—. No la humillación de perder. La humillación de que ni siquiera se den cuenta de que has estado compitiendo.
 
 — No estábamos compitiendo —dijo Petra, secándose el sudor de la cara con el dorso de la mano—. Ese es el problema. Ellos sí.
 
-Pier, de pie un poco apartado, observó a los militares con una expresión que Oliver no supo leer del todo —no envidia, no admiración exactamente, algo más parecido a reconocimiento profesional, la clase de mirada que un artesano le daría a un trabajo bien hecho aunque no fuera el suyo.
+Pier, de pie un poco apartado, observó a los militares con una expresión que Oliver no supo leer del todo. No envidia, no admiración exactamente, algo más parecido a reconocimiento profesional, la clase de mirada que un artesano le daría a un trabajo bien hecho aunque no fuera el suyo.
 
 — Llevan años de esto —dijo, sin que nadie se lo preguntara—. No es magia, ni es Domain. Es tiempo acumulado, entrenando el cuerpo antes de que nadie les pidiera hacerlo por trabajo. Nosotros llevamos días.
 
@@ -78,7 +78,7 @@ Pier, de pie un poco apartado, observó a los militares con una expresión que O
 
 — No —dijo Pier—. Pero ayuda a saber contra qué estás perdiendo, en vez de sentir solo que pierdes.
 
-Oliver, mirándolos de cerca por primera vez desde que se habían sentado, no estaba tan seguro de que fuera solo tiempo acumulado. El contorno alrededor de sus antebrazos y torsos no estaba del todo apagado —un contraste bajo, constante, la misma clase de firma difusa que Anka había mostrado dos días antes al hablar de Manto. Ninguno de ellos tenía Domain activo. Pero tampoco estaban del todo vacíos.
+Oliver, mirándolos de cerca por primera vez desde que se habían sentado, no estaba tan seguro de que fuera solo tiempo acumulado. El contorno alrededor de sus antebrazos y torsos no estaba del todo apagado, un contraste bajo, constante, la misma clase de firma difusa que Anka había mostrado dos días antes al hablar de Manto. Ninguno de ellos tenía Domain activo. Pero tampoco estaban del todo vacíos.
 
 — No es solo tiempo —dijo, casi sin querer decirlo en voz alta—. Llevan Manto puesto ahora mismo. Contenido, casi nada, pero está ahí. Por eso el cuerpo no les cobra la factura igual que a nosotros.
 
@@ -88,7 +88,7 @@ Pier lo miró, sorprendido de verdad por primera vez en toda la mañana.
 
 — No —dijo Oliver—. Reber dijo sin Domain. No dijo sin Odem.
 
-El silencio que siguió tuvo un peso distinto al de hace un momento — no resignación, sino el principio de algo parecido a una estrategia. Si la ventaja militar era en parte técnica y no solo genética, entonces no era un muro. Era, simplemente, algo que todavía no habían aprendido a hacer bien.
+El silencio que siguió tuvo un peso distinto al de hace un momento. No resignación, sino el principio de algo parecido a una estrategia. Si la ventaja militar era en parte técnica y no solo genética, entonces no era un muro. Era, simplemente, algo que todavía no habían aprendido a hacer bien.
 
 Maren se acercó al grupo completo cuando Reber se alejó a organizar la siguiente tanda, la tableta todavía contra el pecho, y por primera vez habló para todos a la vez en vez de en privado.
 
@@ -106,7 +106,7 @@ Las pantallas del hangar se encendieron esa misma tarde, sin ceremonia, exactame
 
 Oliver buscó su número antes de decidir si quería encontrarlo. #109 a #112. No una caída dramática, no lo bastante para que nadie más lo notara sin buscarlo directamente, pero suficiente para que la cifra se sintiera real de un modo que no se había sentido cuando era solo un número fijo en una pantalla apagada.
 
-Petra bajó de #103 a #105. Riku, de #172 a #173. Pier se mantuvo casi exacto —#58 a #59—, una fluctuación mínima que probablemente reflejaba mejor su ritmo constante que cualquier otra cosa. Asha subió, de #45 a #41, la única del grupo cuyo número mejoró esa tarde. Nadia, con el medio saco y el brazo protegido, cayó de #211 a #213 — última de la lista entera, ahora más corta en uno desde la noche anterior. No dijo nada al respecto, la cara ya de vuelta a la sonrisa rápida y practicada de siempre.
+Petra bajó de #103 a #105. Riku, de #172 a #173. Pier se mantuvo casi exacto, #58 a #59, una fluctuación mínima que probablemente reflejaba mejor su ritmo constante que cualquier otra cosa. Asha subió, de #45 a #41, la única del grupo cuyo número mejoró esa tarde. Nadia, con el medio saco y el brazo protegido, cayó de #211 a #213. Última de la lista entera, ahora más corta en uno desde la noche anterior. No dijo nada al respecto, la cara ya de vuelta a la sonrisa rápida y practicada de siempre.
 
 Dara bajó también, de #167 a #168, a pesar de haber terminado la serie entera cuando nadie se lo exigía.
 
@@ -114,11 +114,11 @@ Dara bajó también, de #167 a #168, a pesar de haber terminado la serie entera 
 
 — El tablero no mide voluntad —dijo Dara, sin amargura real en la voz, solo la clase de cansancio que ya no tenía energía para indignarse por algo que ya sabía de antemano—. Mide tiempo y peso movido. Yo tardé más y moví menos que el resto. La cifra tiene razón, aunque no cuente toda la historia.
 
-Oliver se quedó mirando el tablero un rato más, después de que el resto empezara a dispersarse hacia la cena, pensando en la diferencia exacta entre lo que un número podía medir y lo que había visto con sus propios ojos esa mañana —una chica más pequeña que cualquiera de los candidatos militares, terminando una serie completa con las piernas temblando, sin que nadie se lo exigiera, solo porque necesitaba saber que podía. El tablero no tenía una casilla para eso. Quizás, pensó, ninguna cifra la tendría nunca.
+Oliver se quedó mirando el tablero un rato más, después de que el resto empezara a dispersarse hacia la cena, pensando en la diferencia exacta entre lo que un número podía medir y lo que había visto con sus propios ojos esa mañana, una chica más pequeña que cualquiera de los candidatos militares, terminando una serie completa con las piernas temblando, sin que nadie se lo exigiera, solo porque necesitaba saber que podía. El tablero no tenía una casilla para eso. Quizás, pensó, ninguna cifra la tendría nunca.
 
 ---
 
-La cena, esa noche, tuvo el ritmo lento y silencioso de un grupo entero con las piernas hechas de otra cosa. Nadie habló mucho al principio — comieron con la clase de concentración que normalmente se reserva para tareas más importantes que masticar, y durante un rato el único sonido en la mesa fue el de los cubiertos.
+La cena, esa noche, tuvo el ritmo lento y silencioso de un grupo entero con las piernas hechas de otra cosa. Nadie habló mucho al principio, comieron con la clase de concentración que normalmente se reserva para tareas más importantes que masticar, y durante un rato el único sonido en la mesa fue el de los cubiertos.
 
 Fue Nadia quien rompió el silencio, empujando la comida por el plato con la mano buena sin comérsela del todo.
 
@@ -144,8 +144,8 @@ Dara, todavía con la botella de agua que Riku le había dado antes, la levantó
 
 — Por terminar series enteras que nadie nos pide terminar —dijo.
 
-Riku chocó su vaso contra la botella, y después de un segundo, uno por uno, el resto de la mesa hizo lo mismo — Petra, Nadia con la mano buena, Asha con un gesto mínimo, Pier al final, con algo parecido a una sonrisa real por primera vez en todo el día.
+Riku chocó su vaso contra la botella, y después de un segundo, uno por uno, el resto de la mesa hizo lo mismo, Petra, Nadia con la mano buena, Asha con un gesto mínimo, Pier al final, con algo parecido a una sonrisa real por primera vez en todo el día.
 
-Oliver levantó su vaso también, un segundo más tarde que los demás, y pensó, mientras el gesto se disolvía otra vez en el ruido normal de la cena, que ese pequeño brindis torpe probablemente no iba a cambiar nada del número que había visto en la pantalla esa tarde. Pero tampoco necesitaba hacerlo. Había cosas, estaba empezando a entender, que el tablero simplemente no estaba diseñado para medir — y sospechaba, sin poder probarlo todavía, que ese iba a ser el aprendizaje real de El Reducto, mucho más que cualquier cifra en cualquier pantalla.
+Oliver levantó su vaso también, un segundo más tarde que los demás, y pensó, mientras el gesto se disolvía otra vez en el ruido normal de la cena, que ese pequeño brindis torpe probablemente no iba a cambiar nada del número que había visto en la pantalla esa tarde. Pero tampoco necesitaba hacerlo. Había cosas, estaba empezando a entender, que el tablero simplemente no estaba diseñado para medir, y sospechaba, sin poder probarlo todavía, que ese iba a ser el aprendizaje real de El Reducto, mucho más que cualquier cifra en cualquier pantalla.
 
-Esa noche, cada uno por su lado, sin que ninguno se lo comentara al otro, los siete probaron lo mismo a su manera — cada uno con la torpeza propia de dos días de práctica, cada uno buscando el mismo contorno apretado alrededor del cansancio que Anka había nombrado sin prometer resultados. Ninguno lo habría llamado igual. Todos, esa noche, se durmieron intentándolo.
+Esa noche, cada uno por su lado, sin que ninguno se lo comentara al otro, los siete probaron lo mismo a su manera, cada uno con la torpeza propia de dos días de práctica, cada uno buscando el mismo contorno apretado alrededor del cansancio que Anka había nombrado sin prometer resultados. Ninguno lo habría llamado igual. Todos, esa noche, se durmieron intentándolo.

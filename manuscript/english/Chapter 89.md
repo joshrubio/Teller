@@ -2,11 +2,11 @@
 
 ---
 
-The market had the slow rhythm of a weekday mid-morning, enough people that nobody would notice three people sitting at a café terrace without ordering much, not so many that picking one face out from the rest would be hard. Kaspar had chosen the spot for that — not for the coffee, which he hadn't touched, but for the exact balance of noise and visibility an exercise like this needed.
+The market had the slow rhythm of a weekday mid-morning, enough people that nobody would notice three people sitting at a café terrace without ordering much, not so many that picking one face out from the rest would be hard. Kaspar had chosen the spot for that, not for the coffee, which he hadn't touched, but for the exact balance of noise and visibility an exercise like this needed.
 
 "The one at the flower stand," he said, without pointing, without needing to. "He's been there since we arrived. Don't buy anything from him. Just make him stop looking over here for the next three minutes, without him knowing he's stopped."
 
-Sisi didn't answer right away. She held the cup between her hands without drinking, her eyes fixed on a point that wasn't exactly the florist, closer to wherever her attention lived when the Domain was active — a place Kaspar, after days of watching her closely, had learned to recognize without being able to fully describe it.
+Sisi didn't answer right away. She held the cup between her hands without drinking, her eyes fixed on a point that wasn't exactly the florist, closer to wherever her attention lived when the Domain was active, a place Kaspar, after days of watching her closely, had learned to recognize without being able to fully describe it.
 
 There was nothing to see. No flicker, no visible tension in the air, nothing an instrument could have registered even pointed straight at her. That was, precisely, what made Sisi what she was.
 
@@ -30,7 +30,7 @@ Sisi spoke for the first time since letting the florist go, her voice as control
 
 "It's not the same because you can do it without anyone ever knowing it happened," Tomás said. "That's exactly what worries me."
 
-Kaspar let the argument burn itself out without stepping in — not because he had no opinion, but because part of him, the old part that had spent forty years watching how people organize themselves around power they don't understand, found it useful to watch the two of them square off against each other every time the subject came up. Tomás needed to object. Sisi needed someone to object, so she could define with more precision the limits she was setting for herself. Neither of them would have admitted they needed each other that way. Kaspar had no intention of telling them.
+Kaspar let the argument burn itself out without stepping in, not because he had no opinion, but because part of him, the old part that had spent forty years watching how people organize themselves around power they don't understand, found it useful to watch the two of them square off against each other every time the subject came up. Tomás needed to object. Sisi needed someone to object, so she could define with more precision the limits she was setting for herself. Neither of them would have admitted they needed each other that way. Kaspar had no intention of telling them.
 
 ---
 
@@ -40,9 +40,9 @@ A man Kaspar knew only by sight, a middleman who worked the station area for mon
 
 Kaspar's expression didn't change. He stirred the cold coffee he had no intention of drinking, and let the information settle in alongside everything else he already knew.
 
-It wasn't a surprise. He'd left the gap in the footage himself, careful enough that it would look like a system oversight and not a deliberate move. The photograph on the employee's bed — the same employee Kaspar had paid well enough to disappear without a fight, and not quite well enough to make him feel he owed more than silence — had also been his, placed face-down with the exact precision of someone who knows an object found "by accident" convinces more than one handed over directly.
+It wasn't a surprise. He'd left the gap in the footage himself, careful enough that it would look like a system oversight and not a deliberate move. The photograph on the employee's bed, the same employee Kaspar had paid well enough to disappear without a fight, and not quite well enough to make him feel he owed more than silence, had also been his, placed face-down with the exact precision of someone who knows an object found "by accident" convinces more than one handed over directly.
 
-He'd spent weeks scattering that kind of breadcrumb across half of Switzerland, each one calculated to look like an oversight and to double as a test of patience. Most of the people who found them — if anyone found them at all — stopped right there, satisfied with having come that far, never understanding that reaching the gap in the footage wasn't the end of anything, just the first of several doors. That someone had walked through that door and kept pushing, instead of reporting the find and waiting for instructions, told him something specific about who that person was: someone used to working alone, with the kind of patience an institution rarely managed to cultivate in its own people without it slipping entirely out of their hands.
+He'd spent weeks scattering that kind of breadcrumb across half of Switzerland, each one calculated to look like an oversight and to double as a test of patience. Most of the people who found them, if anyone found them at all, stopped right there, satisfied with having come that far, never understanding that reaching the gap in the footage wasn't the end of anything, just the first of several doors. That someone had walked through that door and kept pushing, instead of reporting the find and waiting for instructions, told him something specific about who that person was: someone used to working alone, with the kind of patience an institution rarely managed to cultivate in its own people without it slipping entirely out of their hands.
 
 Someone had taken the bait. Someone with patience, too, because finding that gap in the footage without anyone pointing it out required exactly the kind of attention Kaspar had spent weeks waiting to see show up.
 
@@ -62,17 +62,17 @@ Sisi hadn't looked away from the florist, even though the exercise was already o
 
 ---
 
-Sisi took longer to start this time — not from any lack of confidence, but the kind of deliberate pause Kaspar already recognized from these few days of watching her: the one that came before an effort she knew was going to cost her something real, weighing whether the cost was worth it before she paid it.
+Sisi took longer to start this time, not from any lack of confidence, but the kind of deliberate pause Kaspar already recognized from these few days of watching her: the one that came before an effort she knew was going to cost her something real, weighing whether the cost was worth it before she paid it.
 
-When she finally did, the florist, mid-conversation with a customer about a bunch of tulips, simply stopped being fully present in his own conversation for five full minutes — answering, smiling, making correct change, the whole time with part of his attention completely absent in a way even he wouldn't be able to name afterward. The customer didn't notice anything strange. Neither did the florist, when Sisi finally let the cut go with the same gradual smoothness she'd used to hold it, with no jolt at all that a trained observer could have pinned down as the exact moment it snapped back.
+When she finally did, the florist, mid-conversation with a customer about a bunch of tulips, simply stopped being fully present in his own conversation for five full minutes, answering, smiling, making correct change, the whole time with part of his attention completely absent in a way even he wouldn't be able to name afterward. The customer didn't notice anything strange. Neither did the florist, when Sisi finally let the cut go with the same gradual smoothness she'd used to hold it, with no jolt at all that a trained observer could have pinned down as the exact moment it snapped back.
 
-Kaspar had watched Sisi do remarkable things since she'd left with him, but this — five full minutes, no crack in it, on a target who kept actively interacting with other people the whole time — was different from anything she'd managed at the Center, under the constant watch of people who treated her as a contained danger before they ever treated her as someone with a gift that just needed room to grow.
+Kaspar had watched Sisi do remarkable things since she'd left with him, but this, five full minutes, no crack in it, on a target who kept actively interacting with other people the whole time, was different from anything she'd managed at the Center, under the constant watch of people who treated her as a contained danger before they ever treated her as someone with a gift that just needed room to grow.
 
 "You couldn't have done that at the Center," he said, not overselling the praise, just stating it.
 
 "At the Center I had no reason to try it for that long at a stretch," Sisi said. "Nobody let me."
 
-Tomás didn't say anything to that, but something in his expression — the same tension as before, still not fully resolved — loosened by a degree, as if Sisi's words had touched something he understood better than he wanted to admit: what it felt like to have someone else decide, for you, how far you were allowed to go.
+Tomás didn't say anything to that, but something in his expression, the same tension as before, still not fully resolved, loosened by a degree, as if Sisi's words had touched something he understood better than he wanted to admit: what it felt like to have someone else decide, for you, how far you were allowed to go.
 
 "The warm-up," Sisi said, repeating the word as if testing it. "What's the other thing, then?"
 
@@ -84,11 +84,11 @@ Sisi didn't ask why she'd need that. Tomás did, the earlier tension coming back
 
 "What exactly are you training her for, Kaspar? Not for flower stands and boring banks. Say it plainly, for once."
 
-"I'm training her so nobody ever gets to decide again what she can or can't try," Kaspar said, his tone unchanged, though something in the way he said it closed off the conversation more firmly than any shout could have. "That's all I'm going to tell you today, because it's all I know for certain is true. The rest of it — where this takes her, what she does with it once she doesn't need me guiding her anymore — isn't mine to decide, and I'm not going to pretend it is."
+"I'm training her so nobody ever gets to decide again what she can or can't try," Kaspar said, his tone unchanged, though something in the way he said it closed off the conversation more firmly than any shout could have. "That's all I'm going to tell you today, because it's all I know for certain is true. The rest of it, where this takes her, what she does with it once she doesn't need me guiding her anymore, isn't mine to decide, and I'm not going to pretend it is."
 
-Tomás didn't look satisfied with the answer, but he didn't press it either, and Kaspar recognized in that silence the same kind of uneasy truce he'd been watching between the two of them for weeks now — not full trust, not a break, just the discipline of two people who'd each decided, for their own reasons, that staying was worth more than a certainty neither of them had.
+Tomás didn't look satisfied with the answer, but he didn't press it either, and Kaspar recognized in that silence the same kind of uneasy truce he'd been watching between the two of them for weeks now, not full trust, not a break, just the discipline of two people who'd each decided, for their own reasons, that staying was worth more than a certainty neither of them had.
 
-Sisi took a moment before starting the second exercise, her eyes moving between the two guards with the same deliberate pause as before, calculating. When she finally did it, Kaspar noticed, for the first time all morning, something like real effort cross her face — not pain, nothing that dramatic, just the kind of concentration it takes to hold two separate threads without letting them tangle.
+Sisi took a moment before starting the second exercise, her eyes moving between the two guards with the same deliberate pause as before, calculating. When she finally did it, Kaspar noticed, for the first time all morning, something like real effort cross her face, not pain, nothing that dramatic, just the kind of concentration it takes to hold two separate threads without letting them tangle.
 
 One of the guards, for no apparent reason, stopped watching the main door just long enough to miss a delivery man slipping in through the side entrance without fully identifying himself. The other, at the same time, got distracted by something on his own phone that shouldn't have been as interesting as it apparently was.
 
@@ -96,7 +96,7 @@ Ten seconds. Then both of them settled back into their uniformed boredom with no
 
 "Ten seconds with two targets," Kaspar said. "Against five minutes with one. That's not a failure. It's exactly where someone should be after a few days of actually trying this, instead of years. Next time, fifteen seconds. Not today."
 
-Sisi nodded without saying anything, her breathing a degree heavier than it had been with the florist — the only outward sign, minimal, that the second exercise had cost her something the first hadn't.
+Sisi nodded without saying anything, her breathing a degree heavier than it had been with the florist, the only outward sign, minimal, that the second exercise had cost her something the first hadn't.
 
 Kaspar finished the cold coffee he hadn't touched all morning in a single swallow, no real need for it, just the habit of not leaving things half-done on a table. Somewhere in the city, he knew, someone with enough patience was still pulling on a thread he'd left loose himself, convinced they were close to something. Forty years of practice had taught him to tell the difference between a pursuer who was a real problem and one who was simply an interesting variable to watch while he did what actually mattered. This one, for now, was the second kind. Kaspar had no intention of making it easier for them. Not yet, either, of making it impossible.
 

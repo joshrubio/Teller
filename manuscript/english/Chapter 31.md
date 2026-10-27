@@ -2,7 +2,7 @@
 
 Cartwright left that same afternoon, without saying where.
 
-There was no formal goodbye — Park heard about it from Ferreira, who took a two-minute call and hung up with the same expression he greeted almost everything with.
+There was no formal goodbye, Park heard about it from Ferreira, who took a two-minute call and hung up with the same expression he greeted almost everything with.
 
 "He's gone," he said, pocketing the phone. "Says he trusts the team's judgment. He'll be back when he's needed."
 
@@ -32,7 +32,7 @@ Ferreira kept staring at the folder a moment longer than necessary.
 
 They found the first one before noon.
 
-It wasn't hard — Ferreira knew the city's underworld well enough to know who to ask, and the answer came faster than Park expected: a man, around thirty, lived in an apartment over a record shop in Mouraria, and hadn't left it in three weeks.
+It wasn't hard, Ferreira knew the city's underworld well enough to know who to ask, and the answer came faster than Park expected: a man, around thirty, lived in an apartment over a record shop in Mouraria, and hadn't left it in three weeks.
 
 The door opened before Ferreira had finished knocking.
 
@@ -40,7 +40,7 @@ The door opened before Ferreira had finished knocking.
 
 "What others?" Ferreira asked, not forcing the door, not stepping in.
 
-The man — Park never learned his name, and something about the way he stayed in the shadow of the hallway suggested he preferred it that way — went quiet a beat too long.
+The man, Park never learned his name, and something about the way he stayed in the shadow of the hallway suggested he preferred it that way, went quiet a beat too long.
 
 "Doesn't matter." He started closing the door.
 
@@ -70,7 +70,7 @@ The man reached a hand toward the low table in front of the couch, without touch
 
 "Can you help him?" Park asked.
 
-Ferreira stepped closer, slowly, hands open so the man could see he was carrying nothing. He closed his eyes a moment, and something in the air of the room shifted in a different way — not the foreign weight of a freshly awakened gift, but something finer, almost imperceptible, as if Ferreira were pulling on a thread only he could see.
+Ferreira stepped closer, slowly, hands open so the man could see he was carrying nothing. He closed his eyes a moment, and something in the air of the room shifted in a different way, not the foreign weight of a freshly awakened gift, but something finer, almost imperceptible, as if Ferreira were pulling on a thread only he could see.
 
 "I can't take it away," he said, opening his eyes. "Nobody can. But I can show you where the knot slips loose every time you try to control it." He pointed at a spot in the air, level with the man's chest, that was nothing to Park but that the man looked at as if he could suddenly see it too. "There. When you feel something wanting to move, squeeze there, not outward."
 
@@ -118,7 +118,7 @@ The man smiled, the kind of smile that didn't reach the eyes.
 
 "A colleague, in a sense. From a different branch, with a problem similar to yours." He looked straight at Park, appraising him with the same attention Mariana had used on him the night before, but with none of her care behind it. "And you must be the agent from Korea. I'd heard Cartwright was playing his game again, placing pieces in interesting spots."
 
-Park didn't answer. The air in the room carried the same weight he'd felt in the Alfama courtyard — not ambient this time, but a single point, standing in front of him, smiling.
+Park didn't answer. The air in the room carried the same weight he'd felt in the Alfama courtyard, not ambient this time, but a single point, standing in front of him, smiling.
 
 "Did you leave the mark in the courtyard?" Park asked.
 
@@ -132,11 +132,11 @@ He turned toward the exit, and Bruno, on instinct or the accumulated frustration
 
 Ferreira shouted something Park didn't fully process before it happened.
 
-The man didn't touch Bruno. He simply passed close, and something left him in that same instant — not a blow, a thread of Odem Park couldn't see but felt pass by, weight concentrated in a point so small that neither he nor anyone else in the room had time to get in the way.
+The man didn't touch Bruno. He simply passed close, and something left him in that same instant, not a blow, a thread of Odem Park couldn't see but felt pass by, weight concentrated in a point so small that neither he nor anyone else in the room had time to get in the way.
 
 Ferreira tried anyway.
 
-In the fraction of a second between the man's gesture and the moment it reached Bruno, Ferreira closed his hand in the air, the way you'd catch a loose thread — and something gave, deflected a degree, not enough to stop it entirely but enough that it didn't land whole. Bruno dropped to his knees with a cry that wasn't physical pain, something deeper, something that drained the color out of his face in a second. Costa caught him before he hit the floor.
+In the fraction of a second between the man's gesture and the moment it reached Bruno, Ferreira closed his hand in the air, the way you'd catch a loose thread, and something gave, deflected a degree, not enough to stop it entirely but enough that it didn't land whole. Bruno dropped to his knees with a cry that wasn't physical pain, something deeper, something that drained the color out of his face in a second. Costa caught him before he hit the floor.
 
 It was less bad than it should have been. Park knew that from the way Ferreira stood there staring at his own hand, breathing faster than normal, as if he'd just held something far heavier than his Domain was built to hold.
 

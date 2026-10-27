@@ -14,15 +14,15 @@ No tower, no lights, no one in a reflective vest. The same four men as always, o
 
 "Fine. Word came that the school finally has a roof."
 
-Daniel nodded, filing the detail away with the same care he filed all the others. There were five sites like this one spread across three countries, each built with the same forty years of patience. He didn't need to visit them all with the same frequency. This one, by far, interested him most right now — not only for what Kaspar had built here, but for what the mountain, without Kaspar ever asking for it, had put within reach.
+Daniel nodded, filing the detail away with the same care he filed all the others. There were five sites like this one spread across three countries, each built with the same forty years of patience. He didn't need to visit them all with the same frequency. This one, by far, interested him most right now, not only for what Kaspar had built here, but for what the mountain, without Kaspar ever asking for it, had put within reach.
 
 ---
 
-The village appeared after forty minutes on a road with no pavement, the same mist as always climbing the hillside. Before they reached the clinic, Daniel saw a young woman cross the square without coming any closer, changing course just enough not to have to greet anyone. A somewhat younger man, his left arm still immobilized against his chest, watched her pass without trying to stop her this time — he seemed to have learned, at some point over the last few days, that insisting changed nothing.
+The village appeared after forty minutes on a road with no pavement, the same mist as always climbing the hillside. Before they reached the clinic, Daniel saw a young woman cross the square without coming any closer, changing course just enough not to have to greet anyone. A somewhat younger man, his left arm still immobilized against his chest, watched her pass without trying to stop her this time, he seemed to have learned, at some point over the last few days, that insisting changed nothing.
 
-Kaspar was waiting on his feet by the clinic with no sign, alone, with the kind of stillness that isn't learned — it's inherited from something, or paid for with something, and Daniel had spent four visits without deciding which of the two it was.
+Kaspar was waiting on his feet by the clinic with no sign, alone, with the kind of stillness that isn't learned, it's inherited from something, or paid for with something, and Daniel had spent four visits without deciding which of the two it was.
 
-Nothing in Kaspar's face changed at the sight of him. That, more than anything else, was what Daniel found genuinely interesting about him: the total absence of surprise, in a man who'd spent forty years as the one person with real reasons to suspect everything that came near him. A man in his sixties with the face of thirty-five, with no surgery in the world capable of leaving that particular kind of trace, without a single drop of sweat despite the same heat that had already soaked through Daniel's shirt twice since he stepped off the helicopter. AMAT had gone four decades without finding him. Daniel understood exactly why — not because Kaspar hid well, but because no one, looking at him standing there, so calm, would think to look for what was actually there.
+Nothing in Kaspar's face changed at the sight of him. That, more than anything else, was what Daniel found genuinely interesting about him: the total absence of surprise, in a man who'd spent forty years as the one person with real reasons to suspect everything that came near him. A man in his sixties with the face of thirty-five, with no surgery in the world capable of leaving that particular kind of trace, without a single drop of sweat despite the same heat that had already soaked through Daniel's shirt twice since he stepped off the helicopter. AMAT had gone four decades without finding him. Daniel understood exactly why, not because Kaspar hid well, but because no one, looking at him standing there, so calm, would think to look for what was actually there.
 
 "Daniel," Kaspar said, the same tone as always, neither warm nor cold.
 
@@ -60,11 +60,11 @@ Kaspar nodded, without further comment, and for a moment the silence settled bet
 
 "No," Kaspar said, and something like a smile crossed his face, brief, never quite settling. "I just read the news, like everyone else."
 
-Daniel didn't press. He didn't need to. There was a satisfaction on the table that neither of them was going to name out loud — Kaspar with the quiet certainty of someone who's just reminded another person exactly how much they're worth, Daniel with the patience of someone letting that certainty grow a little more before he needed it.
+Daniel didn't press. He didn't need to. There was a satisfaction on the table that neither of them was going to name out loud, Kaspar with the quiet certainty of someone who's just reminded another person exactly how much they're worth, Daniel with the patience of someone letting that certainty grow a little more before he needed it.
 
 ---
 
-"A few months ago I started going through the Fund's books more carefully than I probably should," Kaspar said. "Four years of doing business with someone is enough time to trust them, but not enough to stop watching. I found a line that didn't square with the rest of it — a code name, in the internal reports that never make it to the public accounts. *Hunger.*"
+"A few months ago I started going through the Fund's books more carefully than I probably should," Kaspar said. "Four years of doing business with someone is enough time to trust them, but not enough to stop watching. I found a line that didn't square with the rest of it, a code name, in the internal reports that never make it to the public accounts. *Hunger.*"
 
 Daniel said nothing.
 
@@ -138,7 +138,7 @@ Kaspar looked at him for a long moment, the kind of look Daniel imagined precede
 
 ---
 
-They spent the rest of the afternoon without talking business. Kaspar took him to see the new generator, proud in a way that had nothing to do with the money it had cost, and afterward they sat in the clinic's back patio eating something Marlene had left ready before heading out — arepas stuffed with whatever there was, real coffee this time, served without the ceremony of the earlier meeting. Kaspar talked about the region's coffee harvest, about a boy who'd learned to read that year thanks to the teacher the village no longer remembered not having, about nothing that resembled Hesperia or Hunger or the forty years he'd spent being someone else. Daniel listened most of the time, and when he spoke it was about things just as small — a delayed flight, a boring meeting in Geneva — with the same ease of someone who also knows, when it suits him, how to let the weight of everything else rest.
+They spent the rest of the afternoon without talking business. Kaspar took him to see the new generator, proud in a way that had nothing to do with the money it had cost, and afterward they sat in the clinic's back patio eating something Marlene had left ready before heading out, arepas stuffed with whatever there was, real coffee this time, served without the ceremony of the earlier meeting. Kaspar talked about the region's coffee harvest, about a boy who'd learned to read that year thanks to the teacher the village no longer remembered not having, about nothing that resembled Hesperia or Hunger or the forty years he'd spent being someone else. Daniel listened most of the time, and when he spoke it was about things just as small, a delayed flight, a boring meeting in Geneva, with the same ease of someone who also knows, when it suits him, how to let the weight of everything else rest.
 
 ---
 
@@ -156,7 +156,7 @@ Daniel stopped halfway.
 
 "Why that one, out of everyone who's come through here in four years?"
 
-"It's not just him," Daniel said. "I remember all of them. Every one — which settlement they ended up in, whether they're still alive, what name they go by now that isn't theirs anymore. I don't keep it written down anywhere. I keep it the old way, because what gets written down can get lost, and this can't."
+"It's not just him," Daniel said. "I remember all of them. Every one, which settlement they ended up in, whether they're still alive, what name they go by now that isn't theirs anymore. I don't keep it written down anywhere. I keep it the old way, because what gets written down can get lost, and this can't."
 
 Kaspar said nothing for a long moment.
 
@@ -164,8 +164,8 @@ Kaspar said nothing for a long moment.
 
 "No," Daniel said. "But it's the only thing I have to offer you that resembles a real promise."
 
-Daniel climbed into the truck without another word. Kaspar stood by the clinic, watching the lights recede toward the clearing where the helicopter waited, not quite coming close enough to see him off — the same distance he always kept, neither hostile nor warm, measured with the same care he applied to everything else in his life.
+Daniel climbed into the truck without another word. Kaspar stood by the clinic, watching the lights recede toward the clearing where the helicopter waited, not quite coming close enough to see him off, the same distance he always kept, neither hostile nor warm, measured with the same care he applied to everything else in his life.
 
-The helicopter took off, leaving behind a village, a hillside holding something neither of them had finished naming out loud, and Kaspar, standing there, with the satisfied certainty of having finally collected something real for four years of patience — the same certainty, Daniel thought as the village shrank beneath the helicopter until it disappeared, that Kaspar probably felt every time he convinced someone new that he'd finally found someone who saw him as a person and not a resource.
+The helicopter took off, leaving behind a village, a hillside holding something neither of them had finished naming out loud, and Kaspar, standing there, with the satisfied certainty of having finally collected something real for four years of patience, the same certainty, Daniel thought as the village shrank beneath the helicopter until it disappeared, that Kaspar probably felt every time he convinced someone new that he'd finally found someone who saw him as a person and not a resource.
 
-Daniel waited until the village lights disappeared completely under the clouds before letting himself smile — a small, private gesture, meant for no one, the kind that needs no witness to mean exactly what it means.
+Daniel waited until the village lights disappeared completely under the clouds before letting himself smile, a small, private gesture, meant for no one, the kind that needs no witness to mean exactly what it means.

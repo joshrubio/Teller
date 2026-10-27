@@ -10,7 +10,7 @@ No era un temblor que se sintiera y pasara. Crecía, despacio, cada segundo un g
 
 
 
-Park se quedó donde estaba, el brazo derecho inútil colgando, escuchando el sonido que subía desde algún punto más profundo del interior — no un rugido, no todavía, algo más parecido al crujido de una estructura demasiado grande cediendo un grado a la vez. Kiki no bajó la katana del todo. Ji-ho miraba fijo hacia el sendero destruido, la expresión que había mantenido toda la noche empezando a cambiar en algo que Park no supo nombrar hasta más tarde.
+Park se quedó donde estaba, el brazo derecho inútil colgando, escuchando el sonido que subía desde algún punto más profundo del interior. No un rugido, no todavía, algo más parecido al crujido de una estructura demasiado grande cediendo un grado a la vez. Kiki no bajó la katana del todo. Ji-ho miraba fijo hacia el sendero destruido, la expresión que había mantenido toda la noche empezando a cambiar en algo que Park no supo nombrar hasta más tarde.
 
 
 
@@ -18,7 +18,7 @@ El interior se abrió.
 
 
 
-No fue una entrada — fue una acumulación. Primero una curva entre los árboles que no correspondía a ningún tronco, un segmento de superficie que reflejaba la poca luz de una forma que la corteza no reflejaba. Luego otra curva, más lejos, y Park entendió que las dos formaban parte de lo mismo antes de poder ver el cuerpo completo. El aire se desplazaba sin viento. La tierra, bajo los pies de todos en el perímetro, transmitía un peso que no correspondía a nada que hubieran medido esa noche.
+No fue una entrada, fue una acumulación. Primero una curva entre los árboles que no correspondía a ningún tronco, un segmento de superficie que reflejaba la poca luz de una forma que la corteza no reflejaba. Luego otra curva, más lejos, y Park entendió que las dos formaban parte de lo mismo antes de poder ver el cuerpo completo. El aire se desplazaba sin viento. La tierra, bajo los pies de todos en el perímetro, transmitía un peso que no correspondía a nada que hubieran medido esa noche.
 
 
 
@@ -28,7 +28,7 @@ Era el imugi.
 
 El mito coreano lo describe como un dragón interrumpido — una serpiente que lleva siglos intentando completar la transformación en yong, el dragón real, y que no puede hacerlo porque le falta la yeouiju, la perla que otorga la forma final. Sin ella queda varado entre lo que fue y lo que quiere ser: serpentino, masivo, con fragmentos de escama donde la transformación avanzó y piel desnuda donde no llegó a tocarla. AMAT no tiene una categoría para eso. El protocolo lo archiva como "acumulador de umbral" — un eufemismo administrativo para algo que ningún formulario predijo tener que nombrar.
 
-Hasta mediados del siglo pasado, antes de que la isla fuera una operación, había sido un templo. Los restos seguían ahí, en algún punto del interior que ninguna generación de agentes había cartografiado del todo — piedra tallada, un altar sin ofrendas desde antes de la guerra. La gente de la costa lo había adorado como se adora a algo que puede ahogarte o puede darte la pesca del año, sin diferencia real entre las dos cosas. AMAT llegó después. El culto no.
+Hasta mediados del siglo pasado, antes de que la isla fuera una operación, había sido un templo. Los restos seguían ahí, en algún punto del interior que ninguna generación de agentes había cartografiado del todo. Piedra tallada, un altar sin ofrendas desde antes de la guerra. La gente de la costa lo había adorado como se adora a algo que puede ahogarte o puede darte la pesca del año, sin diferencia real entre las dos cosas. AMAT llegó después. El culto no.
 
 
 
@@ -40,7 +40,7 @@ Ji-ho sonrió.
 
 
 
-Fue la primera vez en toda la noche que Park le vio hacer algo parecido. Cruzó el espacio entre Kiki y Park, entre los restos de los dos combates, caminando hacia el imugi con el mismo paso que había usado para cruzar el briefing cubierto de sangre horas antes — sin prisa, sin ceremonia, como si llevara toda la noche esperando que apareciera algo que mereciera su atención completa.
+Fue la primera vez en toda la noche que Park le vio hacer algo parecido. Cruzó el espacio entre Kiki y Park, entre los restos de los dos combates, caminando hacia el imugi con el mismo paso que había usado para cruzar el briefing cubierto de sangre horas antes, sin prisa, sin ceremonia, como si llevara toda la noche esperando que apareciera algo que mereciera su atención completa.
 
 
 
@@ -48,7 +48,7 @@ El imugi se irguió.
 
 
 
-No fue rápido. Fue simplemente demasiado — el cuerpo entero elevándose sobre el terreno destruido, el peso desplazado hacia arriba en una cantidad que el ojo no terminaba de aceptar, y con el movimiento el aire alrededor se comprimió lo suficiente para que Park sintiera la presión en el pecho a treinta metros de distancia. Los árboles que quedaban en pie se doblaron hacia adentro, no hacia afuera. El Odem de siglos acumulado en esa forma incompleta se desplegó por un segundo como si fuera a decidir, finalmente, terminar lo que nunca había podido terminar.
+No fue rápido. Fue simplemente demasiado, el cuerpo entero elevándose sobre el terreno destruido, el peso desplazado hacia arriba en una cantidad que el ojo no terminaba de aceptar, y con el movimiento el aire alrededor se comprimió lo suficiente para que Park sintiera la presión en el pecho a treinta metros de distancia. Los árboles que quedaban en pie se doblaron hacia adentro, no hacia afuera. El Odem de siglos acumulado en esa forma incompleta se desplegó por un segundo como si fuera a decidir, finalmente, terminar lo que nunca había podido terminar.
 
 
 
@@ -60,7 +60,7 @@ Saltó, cerró la distancia en el aire, y golpeó.
 
 
 
-No hubo acumulación visible, no hubo gesto de carga — el mismo principio que Park llevaba toda la noche ejecutando con esfuerzo, semanas de reserva, coste estructural, ejecutado por Ji-ho como algo que ya no necesitaba pensar. El puño conectó con el cuerpo del imugi en un punto que Park no habría sabido elegir.
+No hubo acumulación visible, no hubo gesto de carga, el mismo principio que Park llevaba toda la noche ejecutando con esfuerzo, semanas de reserva, coste estructural, ejecutado por Ji-ho como algo que ya no necesitaba pensar. El puño conectó con el cuerpo del imugi en un punto que Park no habría sabido elegir.
 
 
 
@@ -68,7 +68,7 @@ El resultado no fue un impacto. Fue una onda.
 
 
 
-Se expandió desde el punto de contacto y barrió el bosque en un radio que Park no pudo medir desde donde estaba — árboles completos desapareciendo, no cayendo, la vegetación entera de ese sector aplanada en una fracción de segundo por algo que no era viento ni fuego ni nada que un informe pudiera describir con precisión.
+Se expandió desde el punto de contacto y barrió el bosque en un radio que Park no pudo medir desde donde estaba. Árboles completos desapareciendo, no cayendo, la vegetación entera de ese sector aplanada en una fracción de segundo por algo que no era viento ni fuego ni nada que un informe pudiera describir con precisión.
 
 
 
@@ -80,7 +80,7 @@ El cuerpo del imugi se deshizo.
 
 
 
-No en el sentido en que un gwisin se deshace, ni en el sentido en que el anciano había perdido un brazo. Se separó en partes — segmentos de lo que había sido un cuerpo continuo, cada uno todavía con Odem denso, cayendo entre los árboles restantes sin coherencia entre sí. No desapareció. En alguna parte de ese radio, entre los troncos caídos, quedaba lo que había sido su núcleo — Park no lo vio, pero supo, con la misma certeza intuitiva con la que leía todo lo demás esa noche, que seguía ahí, esperando que alguien lo recogiera.
+No en el sentido en que un gwisin se deshace, ni en el sentido en que el anciano había perdido un brazo. Se separó en partes, segmentos de lo que había sido un cuerpo continuo, cada uno todavía con Odem denso, cayendo entre los árboles restantes sin coherencia entre sí. No desapareció. En alguna parte de ese radio, entre los troncos caídos, quedaba lo que había sido su núcleo, Park no lo vio, pero supo, con la misma certeza intuitiva con la que leía todo lo demás esa noche, que seguía ahí, esperando que alguien lo recogiera.
 
 
 
@@ -92,7 +92,7 @@ El resto de la noche pasó en fragmentos.
 
 
 
-Equipo médico trabajando en los tres agentes del cuenco — dos estables, uno en traslado urgente, ninguno muerto, lo cual Park archivó como el único dato que realmente le importaba de ese conteo. El escuadrón de deposición entrando al interior con contenedores que Park nunca había visto usar, para recolectar lo que quedaba del imugi junto con los restos del anciano y la quimera, todo catalogado con el mismo procedimiento indiferente.
+Equipo médico trabajando en los tres agentes del cuenco, dos estables, uno en traslado urgente, ninguno muerto, lo cual Park archivó como el único dato que realmente le importaba de ese conteo. El escuadrón de deposición entrando al interior con contenedores que Park nunca había visto usar, para recolectar lo que quedaba del imugi junto con los restos del anciano y la quimera, todo catalogado con el mismo procedimiento indiferente.
 
 
 
@@ -104,7 +104,7 @@ Park Taeho llegó al amanecer.
 
 
 
-Llegó como llegaba siempre — sin anunciarse, el helicóptero todavía con las hélices girando detrás de él, tres asistentes con tabletas siguiéndole el paso sin que él pareciera notar que estaban ahí. No habló primero con Park. Habló con Ji-ho, algo breve, en coreano demasiado rápido para que Park siguiera cada palabra — vio a su padre asentir dos veces, la segunda más lenta que la primera, y a Ji-ho responder con algo que hizo que Taeho mirara, por encima del hombro de su hermano, hacia el punto donde había estado el imugi.
+Llegó como llegaba siempre, sin anunciarse, el helicóptero todavía con las hélices girando detrás de él, tres asistentes con tabletas siguiéndole el paso sin que él pareciera notar que estaban ahí. No habló primero con Park. Habló con Ji-ho, algo breve, en coreano demasiado rápido para que Park siguiera cada palabra. Vio a su padre asentir dos veces, la segunda más lenta que la primera, y a Ji-ho responder con algo que hizo que Taeho mirara, por encima del hombro de su hermano, hacia el punto donde había estado el imugi.
 
 
 
@@ -112,7 +112,7 @@ Después se giró hacia el resto del equipo con la autoridad de alguien que llev
 
 
 
-—Nivel 2 confirmado en la entidad del cuenco sur —dijo, la voz de reporte, no la de padre—. Nivel 3 en la entidad evolucionada, pendiente de reclasificación final — probablemente Nivel 2 también, pero eso lo decide el laboratorio, no el campo. Imugi, Nivel 1. Sector norte, gwisin y dokkaebi estándar, Nivel 4.
+—Nivel 2 confirmado en la entidad del cuenco sur —dijo, la voz de reporte, no la de padre—. Nivel 3 en la entidad evolucionada, pendiente de reclasificación final, probablemente Nivel 2 también, pero eso lo decide el laboratorio, no el campo. Imugi, Nivel 1. Sector norte, gwisin y dokkaebi estándar, Nivel 4.
 
 
 
@@ -120,7 +120,7 @@ Nadie respondió. No hacía falta.
 
 
 
-Taeho caminó hasta quedar frente a Park. Lo miró de arriba abajo una vez — el brazo colgando, la sangre seca en la sien que Park ni siquiera recordaba de dónde había salido, el uniforme que ya no tenía forma reconocible de uniforme.
+Taeho caminó hasta quedar frente a Park. Lo miró de arriba abajo una vez, el brazo colgando, la sangre seca en la sien que Park ni siquiera recordaba de dónde había salido, el uniforme que ya no tenía forma reconocible de uniforme.
 
 
 
@@ -136,7 +136,7 @@ Taeho caminó hasta quedar frente a Park. Lo miró de arriba abajo una vez — e
 
 
 
-Se quedó un segundo más de lo necesario, como si fuera a añadir algo distinto — algo que no tenía que ver con niveles ni con rangos — y luego decidió no hacerlo.
+Se quedó un segundo más de lo necesario, como si fuera a añadir algo distinto, algo que no tenía que ver con niveles ni con rangos, y luego decidió no hacerlo.
 
 
 
@@ -176,7 +176,7 @@ Ji-ho se quedó con Park mientras el equipo médico terminaba de trabajar.
 
 
 
-No dijo nada al principio. Se sentó en un tronco caído a un metro de Park, los codos en las rodillas, mirando el mismo punto vacío donde había estado el imugi con una atención que no tenía nada que ver con vigilancia. Park lo dejó sentarse ahí un minuto entero antes de que ninguno de los dos dijera nada — el silencio de Ji-ho tenía un peso distinto al de todos los demás silencios de esa noche, y Park no sabía todavía si era peso de cansancio o de otra cosa.
+No dijo nada al principio. Se sentó en un tronco caído a un metro de Park, los codos en las rodillas, mirando el mismo punto vacío donde había estado el imugi con una atención que no tenía nada que ver con vigilancia. Park lo dejó sentarse ahí un minuto entero antes de que ninguno de los dos dijera nada, el silencio de Ji-ho tenía un peso distinto al de todos los demás silencios de esa noche, y Park no sabía todavía si era peso de cansancio o de otra cosa.
 
 
 
@@ -222,7 +222,7 @@ Kiki lo encontró en el helipuerto, horas después, los dos todavía con el unif
 
 
 
-Se sentó a su lado sin preguntar si podía. El sol ya estaba lo bastante alto para que Park pudiera verla con claridad por primera vez desde el claro — y lo que vio no lo había registrado del todo en medio del combate. La quemadura de Odem no se quedaba en los dedos y la muñeca derecha: subía por el antebrazo en una franja irregular, más oscura donde el contacto había sido directo, y otra marca menor le cruzaba el dorso de la mano izquierda que Park no recordaba de qué intercambio había salido. Heridas que la noche entera de adrenalina no le había dejado sentir del todo, y que ahora, quietas, empezaban a doler de verdad. El pelo suelto de la coleta que se había hecho horas antes, mechones pegados a la sien por el sudor seco.
+Se sentó a su lado sin preguntar si podía. El sol ya estaba lo bastante alto para que Park pudiera verla con claridad por primera vez desde el claro, y lo que vio no lo había registrado del todo en medio del combate. La quemadura de Odem no se quedaba en los dedos y la muñeca derecha: subía por el antebrazo en una franja irregular, más oscura donde el contacto había sido directo, y otra marca menor le cruzaba el dorso de la mano izquierda que Park no recordaba de qué intercambio había salido. Heridas que la noche entera de adrenalina no le había dejado sentir del todo, y que ahora, quietas, empezaban a doler de verdad. El pelo suelto de la coleta que se había hecho horas antes, mechones pegados a la sien por el sudor seco.
 
 
 
@@ -258,7 +258,7 @@ Ninguno de los dos lo creía del todo, y ninguno de los dos lo dijo.
 
 
 
-Park no supo qué responder a eso, así que no respondió nada. Se quedaron así un rato, el silencio distinto de todos los silencios de la noche — este no pedía nada, no vigilaba nada, no esperaba que ninguno de los dos hiciera un movimiento.
+Park no supo qué responder a eso, así que no respondió nada. Se quedaron así un rato, el silencio distinto de todos los silencios de la noche. Este no pedía nada, no vigilaba nada, no esperaba que ninguno de los dos hiciera un movimiento.
 
 
 
@@ -274,7 +274,7 @@ Park no supo qué responder a eso, así que no respondió nada. Se quedaron así
 
 
 
-Kiki lo miró, algo cruzando su cara demasiado rápido para que Park lo leyera del todo — sorpresa, tal vez, o algo más cerca de alivio, como si hubiera estado esperando esa frase sin saber que la estaba esperando.
+Kiki lo miró, algo cruzando su cara demasiado rápido para que Park lo leyera del todo. Sorpresa, tal vez, o algo más cerca de alivio, como si hubiera estado esperando esa frase sin saber que la estaba esperando.
 
 
 

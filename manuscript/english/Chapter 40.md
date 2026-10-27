@@ -6,29 +6,29 @@ Park chose the freshest lead. The ticket to Miskolc would still be a ticket to M
 
 ---
 
-The factory had made textiles, decades back, and had stood empty long enough for trees to start growing through the broken windows. The collapsed section was the main hall — a third of the roof caved inward, rusted steel beams bent at angles no ordinary structural calculation explained. Hungarian emergency services had already cordoned off the perimeter; an ambulance was pulling away with the last of the twelve injured when Park arrived, flashing a credential nobody looked at too closely in the middle of the chaos.
+The factory had made textiles, decades back, and had stood empty long enough for trees to start growing through the broken windows. The collapsed section was the main hall, a third of the roof caved inward, rusted steel beams bent at angles no ordinary structural calculation explained. Hungarian emergency services had already cordoned off the perimeter; an ambulance was pulling away with the last of the twelve injured when Park arrived, flashing a credential nobody looked at too closely in the middle of the chaos.
 
-Park felt it before he reached the police line — the same ambient weight he'd been learning to recognize since Lisbon, diffuse, with no clear direction, like a headache coming from every part of the building at once instead of one point. It wasn't the sharp pressure of an active Domain. It was closer to what he'd felt near the Saturation in Hartford: something residual, accumulated, that had been there long enough to stop feeling like a specific threat and start feeling like weather.
+Park felt it before he reached the police line, the same ambient weight he'd been learning to recognize since Lisbon, diffuse, with no clear direction, like a headache coming from every part of the building at once instead of one point. It wasn't the sharp pressure of an active Domain. It was closer to what he'd felt near the Saturation in Hartford: something residual, accumulated, that had been there long enough to stop feeling like a specific threat and start feeling like weather.
 
 He found the first witness sitting on the curb, wrapped in a thermal blanket, his hands shaking from something that wasn't the cold.
 
 "I saw the walls breathe," the man said, in halting English, before anyone had even asked him. "Before they fell. They breathed inward, like something needed them to inhale."
 
-A younger woman, sitting two meters further along, wrapped in the same kind of blanket, added something the man hadn't said — her voice flat, still in shock: that a second before the collapse she'd felt the air go out of her, not from smoke, not from dust, but as if someone had stolen a whole breath out of her chest without touching her. The two of them were strangers. Neither had any way to have agreed on that description beforehand.
+A younger woman, sitting two meters further along, wrapped in the same kind of blanket, added something the man hadn't said, her voice flat, still in shock: that a second before the collapse she'd felt the air go out of her, not from smoke, not from dust, but as if someone had stolen a whole breath out of her chest without touching her. The two of them were strangers. Neither had any way to have agreed on that description beforehand.
 
-Park didn't need to translate that into any technical vocabulary. He knew exactly what it was: a violent, uncontrolled Odem drain, not a detonation like Báthory's, something closer to what Mariana did with A Saudade, but without generations of discipline behind it. Environmental, diffuse, with no point signature Park could trace back to a source — the exact same problem Ilona had described to him in the office that same morning. The crisis wasn't waiting for Báthory to arrive anywhere to manifest. It was already loose, feeding on whatever the whole city had been generating without knowing it.
+Park didn't need to translate that into any technical vocabulary. He knew exactly what it was: a violent, uncontrolled Odem drain, not a detonation like Báthory's, something closer to what Mariana did with A Saudade, but without generations of discipline behind it. Environmental, diffuse, with no point signature Park could trace back to a source, the exact same problem Ilona had described to him in the office that same morning. The crisis wasn't waiting for Báthory to arrive anywhere to manifest. It was already loose, feeding on whatever the whole city had been generating without knowing it.
 
-He walked over to the nearest beam and ran a hand along the bent metal, looking for something he couldn't name until he had it under his fingers: the steel hadn't failed from fatigue or overload. It had folded inward, uniform, as if the whole hall had been sucked toward a central point that wasn't there anymore for anyone to find. No crater. No epicenter. Only the shape something leaves behind when it withdraws all at once — the same logic Salgado had explained to him months earlier about A Saudade, a sudden vacuum, not an explosion, applied here without the generations of discipline that kept the drain inside recognizable limits back in Lisbon.
+He walked over to the nearest beam and ran a hand along the bent metal, looking for something he couldn't name until he had it under his fingers: the steel hadn't failed from fatigue or overload. It had folded inward, uniform, as if the whole hall had been sucked toward a central point that wasn't there anymore for anyone to find. No crater. No epicenter. Only the shape something leaves behind when it withdraws all at once, the same logic Salgado had explained to him months earlier about A Saudade, a sudden vacuum, not an explosion, applied here without the generations of discipline that kept the drain inside recognizable limits back in Lisbon.
 
 "Agent Park."
 
-The voice came from behind him, in careful English, with just enough of an accent to give away that it wasn't her first language. Park turned and found a woman in her thirties, dark coat, an AMAT-HU credential hanging from her neck that Park didn't quite recognize — the design was different from the one Ilona had worn that morning.
+The voice came from behind him, in careful English, with just enough of an accent to give away that it wasn't her first language. Park turned and found a woman in her thirties, dark coat, an AMAT-HU credential hanging from her neck that Park didn't quite recognize, the design was different from the one Ilona had worn that morning.
 
 "We haven't met," Park said, not taking her hand yet.
 
 "Not yet." Katalin didn't seem offended by the hand left hanging in the air. She lowered it slowly. "Katalin. I'm here for the same reason you are, though probably not for the same ones."
 
-Park looked at the credential with more attention than he'd have given an ordinary ID. The format didn't match Ilona's — a different band color, a serial number with a prefix he didn't recognize from any European branch he'd seen so far.
+Park looked at the credential with more attention than he'd have given an ordinary ID. The format didn't match Ilona's, a different band color, a serial number with a prefix he didn't recognize from any European branch he'd seen so far.
 
 "That's not standard clearance," he said.
 
@@ -58,7 +58,7 @@ Park stayed quiet a moment, running back through everything Ilona had told him t
 
 ---
 
-They made the trip to Miskolc in Katalin's car, not by train — two hours of highway heading northeast, hills climbing slowly toward the Slovak border, the landscape shifting from the flatness of Pest into something greener and older. They spent the first half hour in silence, Katalin with both hands on the wheel and her eyes fixed on the road, Park scrolling through the backlog of messages from Ferreira and Vitória on his phone without answering any of them yet.
+They made the trip to Miskolc in Katalin's car, not by train, two hours of highway heading northeast, hills climbing slowly toward the Slovak border, the landscape shifting from the flatness of Pest into something greener and older. They spent the first half hour in silence, Katalin with both hands on the wheel and her eyes fixed on the road, Park scrolling through the backlog of messages from Ferreira and Vitória on his phone without answering any of them yet.
 
 "How long have you been tracking your cousin?" Park asked, when the silence started weighing more than the unasked questions.
 
@@ -80,7 +80,7 @@ Park said nothing. There was no answer that wouldn't sound hollow coming from hi
 
 "It's where he goes when he needs something only that house has." Katalin didn't take her eyes off the road. "You're going to have to ask me for more detail if you want a full answer, Agent. And I'm going to have to decide how much of my family I'm willing to show a stranger, to stop my cousin."
 
-They arrived in the mid-afternoon. The property wasn't grand — a two-story stone house, a barn converted into something that no longer stored grain, a garden with more history than upkeep, woodsmoke drifting slowly from a chimney even though no one had been warned they were coming. An old dog lifted its head from the porch at the sound of the engine and lowered it again without barking, like something that already knew the sound of that particular car.
+They arrived in the mid-afternoon. The property wasn't grand, a two-story stone house, a barn converted into something that no longer stored grain, a garden with more history than upkeep, woodsmoke drifting slowly from a chimney even though no one had been warned they were coming. An old dog lifted its head from the porch at the sound of the engine and lowered it again without barking, like something that already knew the sound of that particular car.
 
 Katalin parked by the entrance and sat a moment with her hands on the wheel, not getting out yet. Park waited, not filling the silence, recognizing in her the same kind of pause he used himself before saying something that cost him.
 
@@ -104,10 +104,10 @@ She opened the car door.
 
 ---
 
-Park felt the weight the moment both feet touched the garden's dirt — different from the factory's, different from the Vigília's. Not diffuse, and not sharp like an active Domain. It was still. Contained. The kind of pressure you only feel near something that's spent a long time learning not to overflow, generation after generation, until the containment itself becomes almost indistinguishable from calm. He looked toward the back of the property, where the ground sloped gently down to a line of trees that had to end, he calculated, at the riverbank.
+Park felt the weight the moment both feet touched the garden's dirt, different from the factory's, different from the Vigília's. Not diffuse, and not sharp like an active Domain. It was still. Contained. The kind of pressure you only feel near something that's spent a long time learning not to overflow, generation after generation, until the containment itself becomes almost indistinguishable from calm. He looked toward the back of the property, where the ground sloped gently down to a line of trees that had to end, he calculated, at the riverbank.
 
 "Down there," he said, not as a question.
 
 "Down there," Katalin confirmed, not surprised he'd felt it so fast. "You learn quickly, Agent. I'll give you that much, at least, before we go in."
 
-They walked toward the house instead of the river, and Park understood, without anyone telling him, that whatever Katalin wanted to show him first wasn't outside but in — something that needed explaining in words before she'd let him see it up close.
+They walked toward the house instead of the river, and Park understood, without anyone telling him, that whatever Katalin wanted to show him first wasn't outside but in, something that needed explaining in words before she'd let him see it up close.

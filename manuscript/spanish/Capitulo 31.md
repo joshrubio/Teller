@@ -4,7 +4,7 @@
 Cartwright se fue esa misma tarde, sin decir a dónde.
 
 
-No hubo despedida formal — Park lo supo por Ferreira, que recibió una llamada de dos minutos y colgó con la misma expresión con la que recibía casi todo.
+No hubo despedida formal, Park lo supo por Ferreira, que recibió una llamada de dos minutos y colgó con la misma expresión con la que recibía casi todo.
 
 
 —Se fue —dijo, guardando el teléfono—. Dice que confía en el criterio del equipo. Que volverá cuando haga falta.
@@ -49,7 +49,7 @@ Ferreira se quedó mirando la carpeta un momento más de lo necesario.
 Encontraron al primero antes del mediodía.
 
 
-No fue difícil — Ferreira conocía el submundo de la ciudad lo suficiente para saber a quién preguntar, y la respuesta llegó más rápido de lo que Park esperaba: un hombre, unos treinta años, vivía en un piso sobre una tienda de discos en Mouraria, y llevaba tres semanas sin salir.
+No fue difícil, Ferreira conocía el submundo de la ciudad lo suficiente para saber a quién preguntar, y la respuesta llegó más rápido de lo que Park esperaba: un hombre, unos treinta años, vivía en un piso sobre una tienda de discos en Mouraria, y llevaba tres semanas sin salir.
 
 
 La puerta se abrió antes de que Ferreira llamara del todo.
@@ -61,7 +61,7 @@ La puerta se abrió antes de que Ferreira llamara del todo.
 —¿Qué otros? —preguntó Ferreira, sin forzar la puerta, sin entrar.
 
 
-El hombre — Park no llegó a saber su nombre, y algo en la forma en que se mantenía en la sombra del pasillo sugería que prefería seguir así — se quedó callado un segundo de más.
+El hombre, Park no llegó a saber su nombre, y algo en la forma en que se mantenía en la sombra del pasillo sugería que prefería seguir así, se quedó callado un segundo de más.
 
 
 —Da igual. —Empezó a cerrar la puerta.
@@ -88,7 +88,7 @@ El piso olía a encerrado, cortinas corridas en pleno día. El hombre se sentó 
 —¿Cómo empezó exactamente? —preguntó Park.
 
 
-—Un hombre. Extranjero, aunque hablaba portugués casi perfecto. Me paró en la calle, me dijo algo sobre mi... — buscó la palabra— potencial. Me tocó el hombro. Nada más. Un segundo, tal vez dos.
+—Un hombre. Extranjero, aunque hablaba portugués casi perfecto. Me paró en la calle, me dijo algo sobre mi... —buscó la palabra— potencial. Me tocó el hombro. Nada más. Un segundo, tal vez dos.
 
 
 Park sintió que el aire de la sala cambiaba de peso, aunque nada en la sala había cambiado. Miró a Ferreira, que ya había captado la misma señal.
@@ -106,7 +106,7 @@ El hombre extendió la mano hacia la mesa baja frente al sofá, sin tocarla. La 
 —¿Puede ayudarlo? —preguntó Park.
 
 
-Ferreira se acercó, despacio, las manos abiertas para que el hombre viera que no llevaba nada. Cerró los ojos un momento, y algo en el aire de la sala cambió de una forma distinta — no el peso ajeno del don recién despertado, sino algo más fino, casi imperceptible, como si Ferreira estuviera tirando de un hilo que solo él podía ver.
+Ferreira se acercó, despacio, las manos abiertas para que el hombre viera que no llevaba nada. Cerró los ojos un momento, y algo en el aire de la sala cambió de una forma distinta. No el peso ajeno del don recién despertado, sino algo más fino, casi imperceptible, como si Ferreira estuviera tirando de un hilo que solo él podía ver.
 
 
 —No puedo quitárselo —dijo, abriendo los ojos—. Nadie puede. Pero puedo mostrarle dónde está el nudo que se le escapa cada vez que intenta controlarlo. —Señaló un punto en el aire, a la altura del pecho del hombre, que no era nada para Park pero que el hombre miró como si de pronto pudiera verlo también—. Ahí. Cuando sienta que algo quiere moverse, apriete ahí, no hacia afuera.
@@ -178,7 +178,7 @@ El hombre sonrió, el tipo de sonrisa que no llegaba a los ojos.
 —Un colega, en cierto sentido. De una rama distinta, con un problema parecido al suyo. —Miró a Park directamente, evaluándolo con la misma atención con la que Mariana lo había mirado la noche anterior, pero sin nada del cuidado de ella detrás—. Y usted debe ser el agente de Korea. Había oído que Cartwright estaba jugando otra vez a colocar piezas en sitios interesantes.
 
 
-Park no respondió. El aire de la sala tenía el mismo peso que había sentido en el patio de Alfama — no ambiental esta vez, sino un punto concreto, de pie frente a él, sonriendo.
+Park no respondió. El aire de la sala tenía el mismo peso que había sentido en el patio de Alfama. No ambiental esta vez, sino un punto concreto, de pie frente a él, sonriendo.
 
 
 —¿Fue usted quien dejó la marca en el patio? —preguntó Park.
@@ -199,13 +199,13 @@ Se giró hacia la salida, y Bruno, por instinto o por rabia acumulada de toda la
 Ferreira gritó algo que Park no llegó a procesar del todo antes de que pasara.
 
 
-El hombre no tocó a Bruno. Simplemente pasó cerca, y algo salió de él en el mismo instante — no un golpe, un hilo de Odem que Park no podía ver pero que sintió pasar, un peso concentrado en un punto tan pequeño que ni él ni nadie más en la sala tuvo tiempo de interponerse.
+El hombre no tocó a Bruno. Simplemente pasó cerca, y algo salió de él en el mismo instante. No un golpe, un hilo de Odem que Park no podía ver pero que sintió pasar, un peso concentrado en un punto tan pequeño que ni él ni nadie más en la sala tuvo tiempo de interponerse.
 
 
 Ferreira sí lo intentó.
 
 
-En la fracción de segundo entre el gesto del hombre y el momento en que llegó a Bruno, Ferreira cerró la mano en el aire, como quien atrapa un hilo suelto — y algo cedió, se desvió un grado, no lo suficiente para detenerlo del todo pero sí para que no llegara entero. Bruno cayó de rodillas con un grito que no era de dolor físico, algo más profundo, algo que le vació la cara de color en un segundo. Costa lo sostuvo antes de que se golpeara contra el suelo.
+En la fracción de segundo entre el gesto del hombre y el momento en que llegó a Bruno, Ferreira cerró la mano en el aire, como quien atrapa un hilo suelto, y algo cedió, se desvió un grado, no lo suficiente para detenerlo del todo pero sí para que no llegara entero. Bruno cayó de rodillas con un grito que no era de dolor físico, algo más profundo, algo que le vació la cara de color en un segundo. Costa lo sostuvo antes de que se golpeara contra el suelo.
 
 
 Fue menos malo de lo que debería haber sido. Park lo supo por la forma en que Ferreira se quedó mirando su propia mano, respirando más rápido de lo normal, como si hubiera sostenido algo mucho más pesado de lo que su Domain estaba hecho para sostener.

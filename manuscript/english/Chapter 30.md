@@ -1,6 +1,6 @@
 # Chapter 30 — Alfama
 
-The streets narrowed as they climbed, until the car couldn't follow anymore and the three of them ended up walking — Ferreira in front, no need to check any map, Salgado behind him with the case knocking against his hip at every step, Park closing the group, reading the terrain on operational instinct even though nobody had asked him to.
+The streets narrowed as they climbed, until the car couldn't follow anymore and the three of them ended up walking, Ferreira in front, no need to check any map, Salgado behind him with the case knocking against his hip at every step, Park closing the group, reading the terrain on operational instinct even though nobody had asked him to.
 
 Alfama looked nothing like anything Park had seen in Seoul. Alleys climbing and dropping with no grid logic, laundry strung balcony to balcony over the street, faded azulejos on every facade, some cracked, none replaced. In an open window, someone had a radio on, a woman's voice singing something slow, in Portuguese, with a guitar that seemed to be crying more than playing.
 
@@ -8,13 +8,13 @@ Alfama looked nothing like anything Park had seen in Seoul. Alleys climbing and 
 
 Park said nothing. The song stayed with him two more streets, until they turned a corner and it faded out completely.
 
-The courtyard was at the end of a dead-end alley, behind a wooden door someone had left ajar — not forced, ajar, as if whoever went in had expected someone else to come after.
+The courtyard was at the end of a dead-end alley, behind a wooden door someone had left ajar, not forced, ajar, as if whoever went in had expected someone else to come after.
 
 Ferreira turned on a flashlight and a device screen at the same time, the two motions moving in practiced sync.
 
 "There," he said.
 
-The symbol was carved into the center of the courtyard, into a stone slab that had sat there for generations with no mark on it until that morning. Up close, the cut was cleaner than the photo had suggested — not chipped, not irregular, a continuous line that curved back on itself three times before closing.
+The symbol was carved into the center of the courtyard, into a stone slab that had sat there for generations with no mark on it until that morning. Up close, the cut was cleaner than the photo had suggested, not chipped, not irregular, a continuous line that curved back on itself three times before closing.
 
 Salgado knelt by the slab without touching it, the device in his hand shaking a degree before it steadied.
 
@@ -24,9 +24,9 @@ Salgado knelt by the slab without touching it, the device in his hand shaking a 
 
 "I can tell you it comes from further east. Beyond that, not without equipment I don't have here."
 
-Park stepped up to the edge of the slab, not crouching the way Salgado had — his own reading had never worked that way. He didn't see Odem, didn't smell it, had no sense that showed it to him directly. The first thing he noticed was his breath — it caught a degree, as if the air in that square meter of courtyard cost more effort to draw than the rest of the night. Nothing dramatic. Just a small, constant weight on every inhale while he stayed close.
+Park stepped up to the edge of the slab, not crouching the way Salgado had, his own reading had never worked that way. He didn't see Odem, didn't smell it, had no sense that showed it to him directly. The first thing he noticed was his breath, it caught a degree, as if the air in that square meter of courtyard cost more effort to draw than the rest of the night. Nothing dramatic. Just a small, constant weight on every inhale while he stayed close.
 
-Underneath that, something more specific: his own passive accumulation, the one he'd spent weeks building without thinking about it, a process so constant he'd stopped noticing it, stopped entirely. Not reversed, not painful, not a drain — simply nothing, a silence in a process that had been running since before Hartford.
+Underneath that, something more specific: his own passive accumulation, the one he'd spent weeks building without thinking about it, a process so constant he'd stopped noticing it, stopped entirely. Not reversed, not painful, not a drain, simply nothing, a silence in a process that had been running since before Hartford.
 
 He stepped back half a pace, almost on instinct. His breath let go, and the accumulation came back, as unobtrusive as ever.
 
@@ -34,13 +34,13 @@ He stepped back half a pace, almost on instinct. His breath let go, and the accu
 
 Salgado looked up from the device, genuinely interested, the kind of interest that made no distinction between urgency and curiosity.
 
-"Good," he said. "That's exactly what you're supposed to feel, and I'm glad you noticed it without anyone telling you first. Most agents who come in from outside expect to see something. It isn't like that for almost anyone. It's weight. Pressure." He stood, gesturing with his hands as if he could sketch the concept in the air. "The more concentrated the Odem, the more it weighs. Our own Dona Filipa, forty years in this branch, can tell the difference between a minor moura and one of the old enchanted ones — a well moura — just by walking into the room where it is. That's point pressure — a specific source, something you can point a finger at. What you have here is different."
+"Good," he said. "That's exactly what you're supposed to feel, and I'm glad you noticed it without anyone telling you first. Most agents who come in from outside expect to see something. It isn't like that for almost anyone. It's weight. Pressure." He stood, gesturing with his hands as if he could sketch the concept in the air. "The more concentrated the Odem, the more it weighs. Our own Dona Filipa, forty years in this branch, can tell the difference between a minor moura and one of the old enchanted ones, a well moura, just by walking into the room where it is. That's point pressure, a specific source, something you can point a finger at. What you have here is different."
 
 "Different how?"
 
 "This doesn't have a point," Salgado said, tilting his chin at the slab instead of pointing. "It isn't that A Saudade is here, concentrated, a weight you can turn your back on and stop feeling. It's ambient. Diffuse. That's why it's hard to place, why our own instruments have never read it well anywhere in this city, after generations of trying. There's no 'there' to point at. All of Lisbon is, to some degree, the 'there.'"
 
-Park didn't say what that made him think — that he already knew this kind of problem, from somewhere else, under a different name, and nobody in this room needed to know that.
+Park didn't say what that made him think, that he already knew this kind of problem, from somewhere else, under a different name, and nobody in this room needed to know that.
 
 "Is this what the family does?" Park asked. "Is this A Saudade?"
 
@@ -52,7 +52,7 @@ Ferreira and Salgado exchanged a glance before Ferreira answered.
 
 Ferreira nodded, as if that confirmed something he already suspected about how Cartwright worked.
 
-"A Saudade is what's been under this city since before the 1755 earthquake. It wasn't born from it — we believe it stirred that day, and what moved down there is what broke half of Lisbon apart in a couple of hours. Seventy thousand dead from a tremor that started, as best we've been able to reconstruct across generations, inside something that was already here long before there was a kingdom to govern.
+"A Saudade is what's been under this city since before the 1755 earthquake. It wasn't born from it, we believe it stirred that day, and what moved down there is what broke half of Lisbon apart in a couple of hours. Seventy thousand dead from a tremor that started, as best we've been able to reconstruct across generations, inside something that was already here long before there was a kingdom to govern.
 
 "And the family I introduced you to a few hours ago has spent generations doing what no AMAT instrument knows how to do well: keeping it calm. They don't feed it out of ambition. They feed it because every time it stirs, something is lost in the city that doesn't come back, and they're the only ones who've found a way to make that happen as rarely as possible." Ferreira looked at the slab, not at Park. "This isn't that. A Saudade doesn't leave marks. It doesn't need to. This is something else, and it comes from somewhere else, and I don't like either piece of news, together or apart."
 
@@ -62,7 +62,7 @@ Salgado was still kneeling, passing a hand over the stone without quite touching
 
 "Who leaves a card in an empty courtyard at three in the morning?" Park asked.
 
-"Nobody who wants us to see them do it," Ferreira said. "The report came through the usual channel. Someone in the neighborhood saw it, told someone, and that someone ended up calling me before dawn had fully broken. That's how it's always worked with this part of the city — they don't trust an emergency line, they trust the right person."
+"Nobody who wants us to see them do it," Ferreira said. "The report came through the usual channel. Someone in the neighborhood saw it, told someone, and that someone ended up calling me before dawn had fully broken. That's how it's always worked with this part of the city, they don't trust an emergency line, they trust the right person."
 
 "And does the right person know where all this is coming from?" Park asked.
 
@@ -70,7 +70,7 @@ Ferreira didn't get to answer. A sound in the alley behind them cut him off befo
 
 "Wait," he said, lowering his arm.
 
-A woman stood in the courtyard's entrance, where the door had been left ajar. She wore nothing that marked her as a threat — plain clothes, dark, hair pulled back practically, hands empty and visible at her sides. But she stayed there, in the doorway, not fully crossing in, watching the three of them with the calm of someone who'd done this many times before and knew exactly how close she could come before the situation changed.
+A woman stood in the courtyard's entrance, where the door had been left ajar. She wore nothing that marked her as a threat, plain clothes, dark, hair pulled back practically, hands empty and visible at her sides. But she stayed there, in the doorway, not fully crossing in, watching the three of them with the calm of someone who'd done this many times before and knew exactly how close she could come before the situation changed.
 
 "Dona Mariana," Ferreira said, his voice carefully neutral, no surprise in it at all. "I figured you'd come see for yourself."
 
@@ -82,7 +82,7 @@ A woman stood in the courtyard's entrance, where the door had been left ajar. Sh
 
 "It was never only yours," Ferreira said, without harshness, more like someone repeating something already said many times between them. "We just left it that way."
 
-Mariana didn't answer that. She looked past them, at the carved slab, and something in her expression shifted — not surprise, Park realized, but the confirmation of something she'd already feared.
+Mariana didn't answer that. She looked past them, at the carved slab, and something in her expression shifted, not surprise, Park realized, but the confirmation of something she'd already feared.
 
 "This isn't ours," she said, unknowingly echoing Salgado's words from earlier. "And if it's reached this far, into the heart of Alfama, then it isn't just visiting anymore."
 
@@ -98,7 +98,7 @@ She turned to leave, and made it two steps before stopping, without turning all 
 
 She disappeared back down the alley she'd come from, unhurried, without looking back.
 
-Salgado got to his feet, brushing the dust off his knees, and looked at Ferreira with an expression Park couldn't fully read — half relief, half something heavier.
+Salgado got to his feet, brushing the dust off his knees, and looked at Ferreira with an expression Park couldn't fully read, half relief, half something heavier.
 
 "Well," Salgado said. "Now you've met Mariana Vasconcelos."
 
@@ -112,7 +112,7 @@ He looked at the slab once more, then toward the alley Mariana had disappeared d
 
 ---
 
-The next morning, the AMAT-PT office had more people in it than Park had seen the day before — and more noise. The whole team fit in a room that in Seoul would have been a single sector's break room, and that morning they were using it to argue, not to work in silence.
+The next morning, the AMAT-PT office had more people in it than Park had seen the day before, and more noise. The whole team fit in a room that in Seoul would have been a single sector's break room, and that morning they were using it to argue, not to work in silence.
 
 "If you take my device again without asking, you're the next thing that breaks."
 
@@ -126,29 +126,29 @@ The voice came from a young man, left sleeve rolled up over an arm covered in ol
 
 "Because it broke again at seven," Bruno said, not looking up from the parts.
 
-At the long table in back, two younger agents were finishing a check of field gear — straps, chargers, something that looked like modified ammunition. One of them, a woman with her arms crossed and the posture of someone who spent more time training than sitting, was the first to turn when she noticed Park.
+At the long table in back, two younger agents were finishing a check of field gear, straps, chargers, something that looked like modified ammunition. One of them, a woman with her arms crossed and the posture of someone who spent more time training than sitting, was the first to turn when she noticed Park.
 
 "You must be the one from Korea." She tilted her chin at him, sizing him up just long enough. "Vitória. If you see something coming at you twice in a row, it won't miss the third time. I can make sure it does."
 
-The partner beside her said nothing — just raised two fingers in greeting, without pausing his check of a magazine's weight in his hand.
+The partner beside her said nothing, just raised two fingers in greeting, without pausing his check of a magazine's weight in his hand.
 
 "That's Rui," Vitória said, answering for him before Park could ask. "Talks just enough. But if you ever need something to weigh three times what it should, he's the right person."
 
-In the corner by the window, an older woman with reading glasses hanging from a chain wasn't part of any of this — she'd been sitting with an open folder for a while now, the same kind of meticulous attention Salgado had given the slab the night before.
+In the corner by the window, an older woman with reading glasses hanging from a chain wasn't part of any of this, she'd been sitting with an open folder for a while now, the same kind of meticulous attention Salgado had given the slab the night before.
 
 "Don't even bother asking her anything yet," Costa said, following Park's gaze. "Dona Filipa talks when she has something to say, not before. Historical archive. She knows more about Alfama than the official file does, probably more than the family itself."
 
-Filipa didn't look up, but the hand gesture — brief, almost administrative — made clear she'd heard every word.
+Filipa didn't look up, but the hand gesture, brief, almost administrative, made clear she'd heard every word.
 
 The smell of fresh coffee didn't quite cover the smell of old paper that filled the whole building.
 
-Ferreira was at his desk, deaf to Bruno and Costa's argument the way someone is who's heard it a hundred times before, in the same clothes as the day before — as if he hadn't slept, or had decided sleep could wait.
+Ferreira was at his desk, deaf to Bruno and Costa's argument the way someone is who's heard it a hundred times before, in the same clothes as the day before, as if he hadn't slept, or had decided sleep could wait.
 
 "How long since you've rested?" Park asked.
 
 "Long enough that the answer doesn't matter." Ferreira pointed to a chair across from his desk. "Salgado's comparing the signature against the archive. It'll take a while. Sit."
 
-Park sat. On the wall behind Ferreira hung a map of the old city marked up in layers that weren't from this year — different colored inks, decades of someone else logging the same things they were logging now.
+Park sat. On the wall behind Ferreira hung a map of the old city marked up in layers that weren't from this year, different colored inks, decades of someone else logging the same things they were logging now.
 
 "How long have you been doing this?" Park asked.
 
@@ -166,7 +166,7 @@ Salgado walked in at that moment with a tablet in hand and his glasses pushed up
 
 "Tell me."
 
-"This isn't the first time something has crossed borders like this. There are files — old, half-sealed — on other small branches with the same kind of tacit arrangement we have here with the Vasconcelos. Families who manage what AMAT can't fully close, tolerated instead of intervened on." Salgado took the glasses off his forehead and cleaned them, unnecessarily. "I've never seen one of those arrangements start interfering with another. Until now."
+"This isn't the first time something has crossed borders like this. There are files, old, half-sealed, on other small branches with the same kind of tacit arrangement we have here with the Vasconcelos. Families who manage what AMAT can't fully close, tolerated instead of intervened on." Salgado took the glasses off his forehead and cleaned them, unnecessarily. "I've never seen one of those arrangements start interfering with another. Until now."
 
 Ferreira said nothing for a moment. When he spoke, it was slower than usual.
 
@@ -174,11 +174,11 @@ Ferreira said nothing for a moment. When he spoke, it was slower than usual.
 
 "I'm telling you the signature isn't an accident or a random attack. Someone came, left a mark, and left without anyone seeing them. That takes knowing exactly what you're looking for."
 
-The office door opened without anyone knocking. Cartwright walked in as if he'd spent the whole morning waiting for the right moment to do it — no coat this time, the same tired expression as always, and something in the way he looked at Park that made clear he already knew, somehow, exactly what had just been said in that room.
+The office door opened without anyone knocking. Cartwright walked in as if he'd spent the whole morning waiting for the right moment to do it, no coat this time, the same tired expression as always, and something in the way he looked at Park that made clear he already knew, somehow, exactly what had just been said in that room.
 
 "Tell me about last night," he said, not greeting anyone else.
 
-Park gave him the facts, in order — the slab, the symbol's accent, Mariana's appearance. Cartwright listened without interrupting, all the way to the end.
+Park gave him the facts, in order, the slab, the symbol's accent, Mariana's appearance. Cartwright listened without interrupting, all the way to the end.
 
 "You didn't detain her," he said then. "Vasconcelos. You had the angle, you had the time, and you let her go without asking for anything more than what she chose to give you."
 
@@ -186,7 +186,7 @@ Park gave him the facts, in order — the slab, the symbol's accent, Mariana's a
 
 "That's not what I asked." Cartwright didn't say it harshly, but he didn't let it slide either. "I asked why you didn't detain her."
 
-Park took a second before answering, understanding the question wasn't looking for justification — it was looking to see how he arrived at the decision.
+Park took a second before answering, understanding the question wasn't looking for justification, it was looking to see how he arrived at the decision.
 
 "Because detaining her would have closed off the only source we have who already reads this city better than any instrument in the branch. Losing that over procedure would have cost more than what we'd have gained by holding her one night."
 
@@ -202,6 +202,6 @@ Park didn't answer that. Cartwright didn't seem to expect him to.
 
 "Keep going like that," he said, already turning toward the door. "Not because of the stone. Because of how you decide when it isn't your call to make."
 
-He stopped in the doorway without fully turning back — the same gesture Mariana had made the night before, though Cartwright had no way of knowing that.
+He stopped in the doorway without fully turning back, the same gesture Mariana had made the night before, though Cartwright had no way of knowing that.
 
 "One more thing," he added. "What Salgado said about other arrangements, other branches. Don't put that in any report yet. That thread is mine."

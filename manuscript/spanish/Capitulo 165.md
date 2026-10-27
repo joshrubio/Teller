@@ -110,7 +110,7 @@ No dijo nada más. Era una frase de cinco palabras, y Voss, que había pasado tr
 
 ---
 
-*18 de julio, 02:50 — a bordo del transporte de ER-5, doce millas al sur*
+*18 de julio, 02:50, a bordo del transporte de ER-5, doce millas al sur*
 
 El mar no hacía ruido.
 

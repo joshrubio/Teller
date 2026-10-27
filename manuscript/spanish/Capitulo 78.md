@@ -4,15 +4,15 @@
 
 La sala no tenía nombre oficial que nadie usara. Voss llevaba dos días presentándose ahí, y en ese tiempo ya había adoptado la misma costumbre que todos los demás: la sala, sin más, con el tono de algo que ya no necesita presentación.
 
-Mesa en herradura, dieciséis sillas, una por cada rama con voto propio, más las que se añadían sin voto cuando el tema lo requería. Voss había entrado con dos carpetas, no una — las había llevado juntas a propósito, sabiendo que separarlas solo le daría al consejo dos oportunidades de decir que no en vez de una.
+Mesa en herradura, dieciséis sillas, una por cada rama con voto propio, más las que se añadían sin voto cuando el tema lo requería. Voss había entrado con dos carpetas, no una, las había llevado juntas a propósito, sabiendo que separarlas solo le daría al consejo dos oportunidades de decir que no en vez de una.
 
-Park Taeho, director de AMAT-KR, ocupaba su asiento con la misma cortesía distante que llevaba dándole desde que se conocían — atención completa, ninguna señal de hacia dónde se inclinaba. El director de AMAT-Suiza, un hombre de rasgos afilados y gafas sin montura que Voss conocía desde hacía años sin que ninguno le debiera nada al otro, tenía delante una copia impresa de la primera carpeta con anotaciones ya hechas en el margen — había llegado preparado para hacer las preguntas difíciles, lo cual, en cierto modo, era mejor que llegar sin ellas.
+Park Taeho, director de AMAT-KR, ocupaba su asiento con la misma cortesía distante que llevaba dándole desde que se conocían. Atención completa, ninguna señal de hacia dónde se inclinaba. El director de AMAT-Suiza, un hombre de rasgos afilados y gafas sin montura que Voss conocía desde hacía años sin que ninguno le debiera nada al otro, tenía delante una copia impresa de la primera carpeta con anotaciones ya hechas en el margen. Había llegado preparado para hacer las preguntas difíciles, lo cual, en cierto modo, era mejor que llegar sin ellas.
 
 Cartwright estaba al fondo, sin voto en ese punto del orden del día, con la clase de quietud que en él no significaba desinterés.
 
-Fuera, Ginebra amanecía con la clase de cielo gris uniforme que no terminaba de decidir si iba a llover. Voss había cruzado la ciudad a pie desde el hotel, cuarenta minutos que solía usar para ordenar lo que iba a decir, aunque a estas alturas del proceso ya no necesitaba ordenar nada — las dos carpetas llevaban meses escritas, revisadas, reescritas hasta que cada frase decía exactamente lo que tenía que decir y nada más. Lo que necesitaba ordenar, esta mañana, era la paciencia.
+Fuera, Ginebra amanecía con la clase de cielo gris uniforme que no terminaba de decidir si iba a llover. Voss había cruzado la ciudad a pie desde el hotel, cuarenta minutos que solía usar para ordenar lo que iba a decir, aunque a estas alturas del proceso ya no necesitaba ordenar nada, las dos carpetas llevaban meses escritas, revisadas, reescritas hasta que cada frase decía exactamente lo que tenía que decir y nada más. Lo que necesitaba ordenar, esta mañana, era la paciencia.
 
-Voss sintió el espacio antes de sentarse, la costumbre de años leyendo proporciones sin decidir hacerlo — el volumen de la sala, dieciséis sillas y las paredes que las contenían, algo más denso hoy de lo habitual. No era una lectura activa, solo la percepción de fondo que nunca terminaba de apagarse del todo: más gente en los asientos sin voto, más pantallas conectadas desde ramas que normalmente no se molestaban en seguir sesiones de este tipo en directo. Alguien había corrido la voz de que hoy iba a presentar los dos documentos juntos. Eso, en sí mismo, ya le decía algo sobre cuánta gente consideraba que el resultado de hoy importaba.
+Voss sintió el espacio antes de sentarse, la costumbre de años leyendo proporciones sin decidir hacerlo, el volumen de la sala, dieciséis sillas y las paredes que las contenían, algo más denso hoy de lo habitual. No era una lectura activa, solo la percepción de fondo que nunca terminaba de apagarse del todo: más gente en los asientos sin voto, más pantallas conectadas desde ramas que normalmente no se molestaban en seguir sesiones de este tipo en directo. Alguien había corrido la voz de que hoy iba a presentar los dos documentos juntos. Eso, en sí mismo, ya le decía algo sobre cuánta gente consideraba que el resultado de hoy importaba.
 
 — Empecemos por el grupo —dijo el presidente de sesión, sin levantar la vista de sus propios papeles—. El estatus del grupo de Valais.
 
@@ -30,7 +30,7 @@ El director de AMAT-Suiza levantó la vista por primera vez.
 
 — Es una forma exacta de decirlo —dijo Voss—. Sí.
 
-Silencio breve. Park Taeho no había dicho nada todavía, y Voss sabía, por seis años de sesiones compartidas, que ese silencio no era indiferencia — era el tipo de espera que precede a una pregunta que ya está formada, solo pendiente del momento correcto.
+Silencio breve. Park Taeho no había dicho nada todavía, y Voss sabía, por seis años de sesiones compartidas, que ese silencio no era indiferencia. Era el tipo de espera que precede a una pregunta que ya está formada, solo pendiente del momento correcto.
 
 — San Gotardo —dijo Park Taeho, al fin—. ¿Por qué ahí, y no en una instalación civil?
 
@@ -46,15 +46,15 @@ Una voz desde uno de los asientos sin voto, más al fondo de la herradura, se ad
 
 — Ninguna —dijo Voss—. La misma garantía que tenía este consejo antes de aprobar mi clasificación, hace treinta años, o la de cualquier otro evaluador senior en esta sala. El riesgo no desaparece con el marco. El marco solo decide quién es responsable de gestionarlo cuando aparezca.
 
-Nadie respondió a eso de inmediato. El presidente de sesión hizo una anotación breve, y Voss reconoció el gesto —no acuerdo, solo el registro de que la pregunta había sido formulada y contestada, disponible para quien quisiera revisarlo después.
+Nadie respondió a eso de inmediato. El presidente de sesión hizo una anotación breve, y Voss reconoció el gesto. No acuerdo, solo el registro de que la pregunta había sido formulada y contestada, disponible para quien quisiera revisarlo después.
 
 Abrió la segunda carpeta.
 
-Era más gruesa que la primera, con el desgaste visible de nueve meses de revisiones — páginas reordenadas, anotaciones de al menos tres manos distintas, un membrete que databa de la última vez que Voss la había presentado formalmente, en enero, antes de que nadie en esa sala tuviera motivo para prestarle atención especial.
+Era más gruesa que la primera, con el desgaste visible de nueve meses de revisiones. Páginas reordenadas, anotaciones de al menos tres manos distintas, un membrete que databa de la última vez que Voss la había presentado formalmente, en enero, antes de que nadie en esa sala tuviera motivo para prestarle atención especial.
 
 — Metodología de evaluación para Dominios sin expresión exterior medible —dijo Voss—. La propuesta lleva nueve meses en este consejo. La razón por la que la traigo junto con el grupo de Valais no es casualidad. Uno de los siete sujetos de ese grupo tiene exactamente el tipo de Dominio que esta metodología está diseñada para evaluar. No hay forma honesta de aprobar el primer marco sin resolver el segundo. Estarían formalizando protocolos para gente que ya saben que no pueden clasificar del todo.
 
-— Esto es sobre 2025-UK-004 —dijo Cartwright, desde el fondo, la primera vez que hablaba. El código no necesitaba traducción para nadie en esa sala con más de un año en el puesto — todos sabían que detrás de esa designación estaba Isabel Heredia, aunque nadie en el consejo la llamara nunca por su nombre.
+—Esto es sobre 2025-UK-004 —dijo Cartwright, desde el fondo, la primera vez que hablaba. El código no necesitaba traducción para nadie en esa sala con más de un año en el puesto. Todos sabían que detrás de esa designación estaba Isabel Heredia, aunque nadie en el consejo la llamara nunca por su nombre.
 
 — Es sobre el hecho de que hace nueve meses propuse este grupo de trabajo después de perder a alguien por no tenerlo, y este consejo todavía no ha aprobado una sola línea —dijo Voss, sin volverse hacia él—. 2025-UK-004 es la razón por la que lo propuse. No es la única razón por la que hace falta.
 
@@ -64,7 +64,7 @@ El presidente de sesión pasó una página sin decir nada. El director de AMAT-S
 
 — Entiendo la posición —dijo Voss—. También entiendo que "el marco no existe todavía" es una frase que puede repetirse indefinidamente sin que nadie sea responsable de que siga sin existir.
 
-Nadie respondió a eso directamente. El presidente de sesión miró alrededor de la mesa, contando algo que no eran votos formales todavía — la temperatura de la sala antes de que la temperatura se convirtiera en decisión.
+Nadie respondió a eso directamente. El presidente de sesión miró alrededor de la mesa, contando algo que no eran votos formales todavía, la temperatura de la sala antes de que la temperatura se convirtiera en decisión.
 
 — Vamos a revisar ambos documentos con más tiempo del que tenemos hoy —dijo—. No es un no. Tampoco es un sí. Es lo que es: más tiempo.
 
@@ -76,11 +76,11 @@ El presidente de sesión levantó la vista, la primera reacción visible que hab
 
 — Me sirve —dijo Voss—. Que conste en acta el compromiso.
 
-Alguien al fondo de la sala tecleó algo, y Voss supuso que era exactamente eso — quedando registrado donde nadie podría pretender después que no se había fijado.
+Alguien al fondo de la sala tecleó algo, y Voss supuso que era exactamente eso, quedando registrado donde nadie podría pretender después que no se había fijado.
 
 Park Taeho asintió, una vez, sin comprometerse a nada más que a haber escuchado. El director de AMAT-Suiza cerró su copia de la carpeta con un gesto que no era hostil, pero tampoco era una promesa.
 
-Voss cerró las dos carpetas. No era la respuesta que había ido a buscar. Tampoco era la que había esperado recibir hoy — dos días de reuniones no cambiaban nueve meses de inercia institucional de golpe, y lo sabía antes de entrar. Lo que se llevaba de esta sesión no era una victoria. Era una fecha futura en la que la pregunta iba a hacerse otra vez, con menos margen para que la respuesta siguiera siendo "más tiempo."
+Voss cerró las dos carpetas. No era la respuesta que había ido a buscar. Tampoco era la que había esperado recibir hoy, dos días de reuniones no cambiaban nueve meses de inercia institucional de golpe, y lo sabía antes de entrar. Lo que se llevaba de esta sesión no era una victoria. Era una fecha futura en la que la pregunta iba a hacerse otra vez, con menos margen para que la respuesta siguiera siendo "más tiempo."
 
 Salió al pasillo con Cartwright un paso por detrás.
 
@@ -98,7 +98,7 @@ Caminaron un tramo del pasillo en silencio, el eco de la sesión anterior todav�
 
 — Creo que alguien quería que constara en acta que se preguntó, sin que quien lo pidiera tuviera que hacerlo con su propio nombre —dijo Voss—. No sé todavía quién. Lo voy a averiguar antes de la próxima sesión.
 
-Cartwright no dijo nada a eso, pero Voss reconoció el silencio como archivado, no descartado —Cartwright llevaba media vida guardando ese tipo de detalles para el momento en que resultaran útiles.
+Cartwright no dijo nada a eso, pero Voss reconoció el silencio como archivado, no descartado, Cartwright llevaba media vida guardando ese tipo de detalles para el momento en que resultaran útiles.
 
 Llegaron al ascensor. Voss pulsó el botón y esperó, la vista fija en el número que descendía piso a piso, sin prisa aparente por llenar el silencio.
 

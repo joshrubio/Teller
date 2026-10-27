@@ -92,7 +92,7 @@ El cuerpo se quedó un segundo de pie, sujeto por las piernas de Park, mientras 
 
 Lo que quedaba del tirador no se deshizo en polvo. Se quedó un cuerpo flaco, de uniforme americano, con el casco torcido y la boca abierta como si hubiera terminado de silbar a la mitad de una nota. A su lado, volcado de lado, un saco de lona. Park lo abrió con la punta de los dedos.
 
-Placas. Docenas, de las que cuelgan del cuello, amontonadas como las monedas de un cepillo. Metal gastado, cadenas enredadas. Cogió una al azar: *SOSA R. — AMAT-CARIBE*. Otra: *MARÍN J.* Las cuatro de Alfa estaban allí, y otras que no reconoció. Y debajo de todas, con la cadena todavía caliente, una que no tenía nada que hacer en aquel saco, porque la habían llevado a la cornisa un par de horas antes y la habían dejado en el cuello de un hombre muerto.
+Placas. Docenas, de las que cuelgan del cuello, amontonadas como las monedas de un cepillo. Metal gastado, cadenas enredadas. Cogió una al azar: *SOSA R. AMAT-CARIBE*. Otra: *MARÍN J.* Las cuatro de Alfa estaban allí, y otras que no reconoció. Y debajo de todas, con la cadena todavía caliente, una que no tenía nada que hacer en aquel saco, porque la habían llevado a la cornisa un par de horas antes y la habían dejado en el cuello de un hombre muerto.
 
 *ARRIETA N.*
 

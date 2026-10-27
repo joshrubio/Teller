@@ -8,15 +8,15 @@ The Case 2 file had been cold for a decade when he opened it for the first time,
 
 He found the first real thread in a minor report from a rural gendarmerie, filed without AMAT classification because nobody at that station had known what they were looking at: repeated electrical failures in a group home, always around the same girl, always without technical explanation. The report was two years old when Voss read it. He requested three days off and went anyway, without authorization, without opening an operation file, on the thin pretext of a family visit nobody checked.
 
-The town was small, the kind of place where a stranger gets noticed within the first hour. The group home had the tired look of every building that exists to gather up children nobody has claimed — paint peeling off the window frames, a yard with more dirt than grass. The woman who ran it hadn't slept well in weeks; it showed on her face before she said a word.
+The town was small, the kind of place where a stranger gets noticed within the first hour. The group home had the tired look of every building that exists to gather up children nobody has claimed, paint peeling off the window frames, a yard with more dirt than grass. The woman who ran it hadn't slept well in weeks; it showed on her face before she said a word.
 
 "I don't know what's wrong with her," she said, once Voss got her talking, introducing himself with a false name and a flimsy excuse about social services the woman didn't question much, more relieved that someone was asking than suspicious of why. "She just stares at people like she's seeing something that isn't there. The lights flicker when she gets upset. The other kids don't want to sleep in her room."
 
-Voss found her that same afternoon, sitting alone in the dirt yard, set apart from the rest without anyone having set her apart — the kind of distance a child learns to put between herself and others on her own, without anyone teaching her to. She couldn't have been more than eight or nine. Something in the way she looked — not at him, exactly, but at something around him Voss didn't yet have the vocabulary to name — told him, before any instrument did, that he'd found what he'd spent four months looking for without telling anyone.
+Voss found her that same afternoon, sitting alone in the dirt yard, set apart from the rest without anyone having set her apart, the kind of distance a child learns to put between herself and others on her own, without anyone teaching her to. She couldn't have been more than eight or nine. Something in the way she looked, not at him, exactly, but at something around him Voss didn't yet have the vocabulary to name, told him, before any instrument did, that he'd found what he'd spent four months looking for without telling anyone.
 
 He never got close enough. A man was already sitting beside her, on the bottom step of the outdoor staircase, with the patience of someone who'd been there longer than he looked.
 
-Voss stopped dead. Not from fear — from the kind of cold certainty that arrives before fear and sometimes replaces it entirely. The man didn't turn right away. When he did, he did it slowly, without urgency, as if the interruption didn't deserve more than that.
+Voss stopped dead. Not from fear, from the kind of cold certainty that arrives before fear and sometimes replaces it entirely. The man didn't turn right away. When he did, he did it slowly, without urgency, as if the interruption didn't deserve more than that.
 
 His hair was dark then, the face of someone in his thirties, nothing that matched the blurred 1982 photograph Voss had memorized. But the eyes didn't change. Grayish blue, pale, exactly the ones in the only real image that existed of Case 2—the one trait, Voss would learn much later, no Appearance Domain ever managed to disguise.
 
@@ -36,7 +36,7 @@ It was true, and that was the part he'd find hardest to admit later: he hadn't c
 
 "Why are you here?"
 
-The man kept looking at her for a moment — at her, not at Voss — with an expression that didn't fit anything the file said about him. It wasn't greed. It wasn't the instrumental interest of someone assessing a resource.
+The man kept looking at her for a moment, at her, not at Voss, with an expression that didn't fit anything the file said about him. It wasn't greed. It wasn't the instrumental interest of someone assessing a resource.
 
 "Because in a few years she's going to need to know someone saw her before an entire system decided what she is," he said. "And because I want to know what that system does with her when it thinks nobody else is watching."
 
@@ -46,7 +46,7 @@ The man kept looking at her for a moment — at her, not at Voss — with an exp
 
 "Why aren't you fighting?" Voss said, and the question came out more honest than he'd planned. "I've got ten years of file saying you don't let yourself get caught without a reason."
 
-The man got to his feet, slowly, no hurry or threat in the movement, and for an instant — only an instant, one Voss would spend decades trying to reconstruct without ever quite managing it — it seemed like he was going to say something more. Something about what that system had done to someone else, at some point before, somewhere Voss had no way of naming yet. The sentence trailed off, or Voss never managed to remember it whole, not even on the nights, years later, when he still tried to reconstruct it word by word before falling asleep.
+The man got to his feet, slowly, no hurry or threat in the movement, and for an instant, only an instant, one Voss would spend decades trying to reconstruct without ever quite managing it, it seemed like he was going to say something more. Something about what that system had done to someone else, at some point before, somewhere Voss had no way of naming yet. The sentence trailed off, or Voss never managed to remember it whole, not even on the nights, years later, when he still tried to reconstruct it word by word before falling asleep.
 
 "Because I'm not the one you need to watch," he said instead, and that was all.
 
@@ -58,7 +58,7 @@ He never told anyone. Not the colleagues he shared an office with for the next t
 
 ---
 
-Cartwright was in the United States that week — something administrative at AMAT-NA he'd been putting off for months, the kind of trip nobody cancels twice. Voss walked into the horseshoe room alone, and noticed, with uncomfortable clarity, how much he'd come to depend on that presence without ever admitting it to himself.
+Cartwright was in the United States that week, something administrative at AMAT-NA he'd been putting off for months, the kind of trip nobody cancels twice. Voss walked into the horseshoe room alone, and noticed, with uncomfortable clarity, how much he'd come to depend on that presence without ever admitting it to himself.
 
 Furrer didn't waste time on preamble.
 
@@ -68,13 +68,13 @@ Furrer didn't waste time on preamble.
 
 "The Verhoeven find," Furrer said.
 
-The room didn't react right away — most of those present wouldn't recognize the surname without context. But Voss felt the name as something physical, a concrete weight set down on a table that until that moment had felt secure.
+The room didn't react right away, most of those present wouldn't recognize the surname without context. But Voss felt the name as something physical, a concrete weight set down on a table that until that moment had felt secure.
 
 "A clean field discovery," Voss said. "Documented at the time, approved without objection."
 
 "Documented by you, without an independent witness," Furrer said. "And here's where it gets interesting. I located the director of the institution where Verhoeven was living at the time. Still alive. Still willing to talk, thirty years later, about a stranger who showed up asking about the girl, and about the fact that you, evaluator Voss, weren't the only visitor that week."
 
-Voss said nothing. Somewhere in his body, something that had been still for thirty years moved again — the exact same sensation he'd felt at the Center, the night of the Incursion, listening to Park describe the man who had passed through the north wall. Back then he'd allowed himself not to chase it. Now, with Furrer's file open on the table, he no longer had that option: Kaspar hadn't just been near him once, thirty years ago. He'd apparently spent an entire career getting close to every Registry case AMAT managed to find — and Voss, without fully knowing it until this moment, had spent that same career serving as the entry point.
+Voss said nothing. Somewhere in his body, something that had been still for thirty years moved again, the exact same sensation he'd felt at the Center, the night of the Incursion, listening to Park describe the man who had passed through the north wall. Back then he'd allowed himself not to chase it. Now, with Furrer's file open on the table, he no longer had that option: Kaspar hadn't just been near him once, thirty years ago. He'd apparently spent an entire career getting close to every Registry case AMAT managed to find, and Voss, without fully knowing it until this moment, had spent that same career serving as the entry point.
 
 "I don't have a name, a photograph, or a signature," Furrer went on. "What I have is a woman who remembers a second man, vaguely described, present on the same property, the same day, according to her memory, mere hours before you took the girl away. And I have your own report, evaluator Voss, which doesn't mention anyone else at all."
 
@@ -100,7 +100,7 @@ Voss nodded once, because he didn't trust his voice to come out whole if he trie
 
 He left the building alone, no Cartwright waiting for him in the hallway this time, no one to share the exact weight of what had just happened. He walked four blocks before taking out his phone, not because he needed the distance, but because he needed to reach a point where his own voice, speaking, wouldn't still sound like someone freshly hit.
 
-Maren picked up on the third ring, the background noise of St. Gotthard behind her — footsteps, a door, something metallic.
+Maren picked up on the third ring, the background noise of St. Gotthard behind her, footsteps, a door, something metallic.
 
 "The review's been opened," Voss said, without preamble, because he'd never needed one with her. "Formal this time. Date still unset, but it's serious now."
 

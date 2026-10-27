@@ -4,7 +4,7 @@ The access came through at nine in the morning, with no advance notice, carrying
 
 AMAT-HU had opened its file.
 
-Filipa already had it projected on the meeting room screen when Park walked in, Ferreira behind him, Salgado closing the door with the care of someone who didn't want the sound to interrupt what was about to be said. Costa was already seated, uniform crisp as always, a notebook open in front of her. Vitória and Rui took the two chairs at the back — Rui with his arms crossed, Vitória leaning forward, elbows on her knees, the kind of posture only people have when they know they'll be the ones going in first once this stops being a slide.
+Filipa already had it projected on the meeting room screen when Park walked in, Ferreira behind him, Salgado closing the door with the care of someone who didn't want the sound to interrupt what was about to be said. Costa was already seated, uniform crisp as always, a notebook open in front of her. Vitória and Rui took the two chairs at the back, Rui with his arms crossed, Vitória leaning forward, elbows on her knees, the kind of posture only people have when they know they'll be the ones going in first once this stops being a slide.
 
 "Are we finally going to find out who he is?" Vitória asked, before Ferreira had finished sitting down.
 
@@ -28,7 +28,7 @@ Park stared at the two words a moment longer than necessary. A name shouldn't we
 
 "Start from the beginning," Ferreira said, already seated, arms crossed. "All of it."
 
-"He was an AMAT-HU agent," Filipa said. "Trained inside the system, not a guardian the organization discovered late — someone who knew the protocols from the inside before deciding they didn't serve him. That explains a lot about how he's moved these past years without any branch catching him: he knows exactly which classification to avoid, which incident to keep under the threshold that triggers a joint investigation."
+"He was an AMAT-HU agent," Filipa said. "Trained inside the system, not a guardian the organization discovered late, someone who knew the protocols from the inside before deciding they didn't serve him. That explains a lot about how he's moved these past years without any branch catching him: he knows exactly which classification to avoid, which incident to keep under the threshold that triggers a joint investigation."
 
 "So he knows how we think," Rui said, the first thing he'd said since Park walked in.
 
@@ -36,7 +36,7 @@ Park stared at the two words a moment longer than necessary. A name shouldn't we
 
 "Why did he leave?" Park asked.
 
-"The files don't say it in so many words, but the reading between the lines is clear." Filipa advanced another slide: a family tree, a whole branch of it marked in a different shade. "His own family rejected him first. The traditional Báthory lineage manages their Domain with a method a lot closer to the Vasconcelos' than he'd ever admit — patient, ritual, contained. When he proposed speeding the process up at scale, industrializing it, most of his own blood said no. Some of them, according to this, actively avoid him now. They consider him a disgrace."
+"The files don't say it in so many words, but the reading between the lines is clear." Filipa advanced another slide: a family tree, a whole branch of it marked in a different shade. "His own family rejected him first. The traditional Báthory lineage manages their Domain with a method a lot closer to the Vasconcelos' than he'd ever admit, patient, ritual, contained. When he proposed speeding the process up at scale, industrializing it, most of his own blood said no. Some of them, according to this, actively avoid him now. They consider him a disgrace."
 
 Salgado, who hadn't said anything until then, leaned forward.
 
@@ -60,17 +60,17 @@ Filipa and Ferreira exchanged a glance, the kind two people share when deciding 
 
 "That's everything Budapest lets us see from here," Ferreira said. "And probably more than we should know without setting foot in the city."
 
-"There's more," Filipa said, and something in her tone shifted, slower, like someone who knows the next part matters more than everything before it. "October twenty-third, 2011. The fifty-fifth anniversary of the 1956 uprising. The Hungarian opposition protests that day are real, documented — you probably remember them from the news: tens of thousands in front of Parliament, several days of tension."
+"There's more," Filipa said, and something in her tone shifted, slower, like someone who knows the next part matters more than everything before it. "October twenty-third, 2011. The fifty-fifth anniversary of the 1956 uprising. The Hungarian opposition protests that day are real, documented, you probably remember them from the news: tens of thousands in front of Parliament, several days of tension."
 
 "I remember," Ferreira said. "It was in every paper in Europe that week."
 
-"What wasn't in any paper," Filipa said, "is that AMAT-HU logged, that same night, a spike in spontaneous awakenings around a point nobody managed to isolate at the time. He was sixteen. Not an agent, not a guardian in training — one more teenager in the middle of the crowd. His own Odem, barely waking, reacted uncontrolled to the fury of the people around him. Nobody knew it then. Not even him, probably."
+"What wasn't in any paper," Filipa said, "is that AMAT-HU logged, that same night, a spike in spontaneous awakenings around a point nobody managed to isolate at the time. He was sixteen. Not an agent, not a guardian in training, one more teenager in the middle of the crowd. His own Odem, barely waking, reacted uncontrolled to the fury of the people around him. Nobody knew it then. Not even him, probably."
 
 Park felt something settle, cold, in his stomach.
 
 "And he figured it out later?" he asked.
 
-"Years later, already an agent, he found the archived file and recognized the coordinates. Presumably — this part is conjecture," Filipa nodded. "A proof of concept, I'd guess. Mariana feeds her Domain with ritual mourning, generation after generation, slow. He discovered, by accident, in a square full of furious people, that collective rage could do something similar, faster. Everything that came after — the break with his family, the fourteen years that followed — starts there."
+"Years later, already an agent, he found the archived file and recognized the coordinates. Presumably, this part is conjecture," Filipa nodded. "A proof of concept, I'd guess. Mariana feeds her Domain with ritual mourning, generation after generation, slow. He discovered, by accident, in a square full of furious people, that collective rage could do something similar, faster. Everything that came after, the break with his family, the fourteen years that followed, starts there."
 
 "Why did he leave the branch?" Park asked.
 
@@ -78,7 +78,7 @@ Park felt something settle, cold, in his stomach.
 
 The next slide was a map of Europe with a dozen points marked, dates beside each one, spreading like an irregular scar from Budapest west and south.
 
-"Prague, 2014. Vienna, 2017. Marseille, 2020. A minor incident in Zagreb, 2023, barely on the record. Each one classified separately, by a different branch, no shared code between them because none was severe enough on its own to justify a joint investigation. Small, irregular awakenings, always near something that hurt that particular city — an anniversary, a disaster, an economic collapse. Fourteen years of small trials, refining the same method, city by city, always leaving before anyone accumulated enough to see the whole shape."
+"Prague, 2014. Vienna, 2017. Marseille, 2020. A minor incident in Zagreb, 2023, barely on the record. Each one classified separately, by a different branch, no shared code between them because none was severe enough on its own to justify a joint investigation. Small, irregular awakenings, always near something that hurt that particular city, an anniversary, a disaster, an economic collapse. Fourteen years of small trials, refining the same method, city by city, always leaving before anyone accumulated enough to see the whole shape."
 
 "Four cities in fourteen years," Rui said. "That's patience, not carelessness."
 
@@ -168,38 +168,38 @@ Mariana, alone, cutting against the flow of the line, the face of someone who'd 
 
 Three streets up, at the Santa Catarina viewpoint, Zoltán Báthory watched the city spread out toward the river, a point of lights and candles rising like a slow tide toward the Carmo.
 
-He hadn't bothered to hide. No need — nobody looks twice at a well-dressed man leaning on a viewpoint railing, not even tonight.
+He hadn't bothered to hide. No need, nobody looks twice at a well-dressed man leaning on a viewpoint railing, not even tonight.
 
 "I never had to provoke her," he said, without turning toward the five waiting behind him, spread among the shadows of the closed kiosk. "In Budapest I had to get inside a furious crowd and wait for the rage to do what I didn't yet know how to ask of it. Here I don't even have to push. The whole city offers itself up on its own, every first of November, punctual as the bells."
 
-The Hungarian lieutenant, at his right, stood with arms crossed and the face of someone who'd already seen this work before — not blind faith, quiet calculation, the patience of someone paid in results. Beside him, two of the Lisbon recruits passed a cigarette back and forth without fully smoking it, their hands a little more restless than their faces wanted to admit. The fifth, younger than the rest, had stayed a step behind everyone else, not looking at the river of candles — staring at the ground, both feet planted, like someone running through a gesture in his head he'd never actually made in front of anyone before.
+The Hungarian lieutenant, at his right, stood with arms crossed and the face of someone who'd already seen this work before, not blind faith, quiet calculation, the patience of someone paid in results. Beside him, two of the Lisbon recruits passed a cigarette back and forth without fully smoking it, their hands a little more restless than their faces wanted to admit. The fifth, younger than the rest, had stayed a step behind everyone else, not looking at the river of candles, staring at the ground, both feet planted, like someone running through a gesture in his head he'd never actually made in front of anyone before.
 
 "When the Carmo bells strike the quarter hour," Báthory said, "you should each already be in position. No need to shout, no need to touch anyone. Just hold the edge of what's already there and let it tip toward me." He finally stepped away from the railing, and for the first time something close to impatience crossed his face, quick, controlled. "Fourteen years of small trials to get here. I'm not wasting it on haste."
 
-Before the group scattered, Báthory walked up to the youngest — the only one who hadn't said a word the whole meeting — and took his face between both hands, with a gentleness that didn't fit anything he'd just said. The boy didn't pull away. Maybe he didn't know how.
+Before the group scattered, Báthory walked up to the youngest, the only one who hadn't said a word the whole meeting, and took his face between both hands, with a gentleness that didn't fit anything he'd just said. The boy didn't pull away. Maybe he didn't know how.
 
 "You're going to be the first this city has felt tremble since 1755," he told him, almost fondly, his thumb brushing the boy's cheek the way a proud father would. "Not one of the three hundred thousand out there will know your name tonight. Doesn't need to. You'll be the first note, not the whole song." He let go of the boy's face slowly, unhurried, and smiled in a way that didn't reach his eyes. "That's a gift too, if you think about it right."
 
 The boy didn't answer. He swallowed, nodded once, and was the first to vanish into the lines of candles, alone, heading toward the Carmo.
 
-The other four scattered without a word soon after, swallowed one by one into the same silent lines — indistinguishable, from where Park stood, from any other mourner with a candle in hand.
+The other four scattered without a word soon after, swallowed one by one into the same silent lines, indistinguishable, from where Park stood, from any other mourner with a candle in hand.
 
 ---
 
 The first sign wasn't a scream. It was the ground.
 
-It started so faint Park nearly wrote it off as his own legs playing tricks — a low vibration climbing up through the cobblestone, the kind a heavy truck two streets over could explain. Nobody around him seemed to notice it yet. But it didn't stop. A second later it wasn't vibration anymore, it was movement: the ground under his feet actually moving, a slow sway from side to side, and somewhere up the hillside glass shattered against the stones.
+It started so faint Park nearly wrote it off as his own legs playing tricks, a low vibration climbing up through the cobblestone, the kind a heavy truck two streets over could explain. Nobody around him seemed to notice it yet. But it didn't stop. A second later it wasn't vibration anymore, it was movement: the ground under his feet actually moving, a slow sway from side to side, and somewhere up the hillside glass shattered against the stones.
 
 "Báthory," Park said, more to himself than to anyone, when the tremor had already run five seconds and was still climbing instead of dropping.
 
-That was when people started to notice. A candle fell from one hand, then another, then ten at once, and the murmur of the procession broke into a single collective sound, halfway between question and panic. Above them, a piece of masonry broke loose from the top of one of the Carmo's roofless walls and fell into the crowd with a dull impact someone screamed at. The tremor kept going. Ten seconds now, stronger than at the start, not weaker — something no real earthquake did, and Park, his stomach dropping, understood before he'd even finished feeling it: this wasn't going to fade on its own.
+That was when people started to notice. A candle fell from one hand, then another, then ten at once, and the murmur of the procession broke into a single collective sound, halfway between question and panic. Above them, a piece of masonry broke loose from the top of one of the Carmo's roofless walls and fell into the crowd with a dull impact someone screamed at. The tremor kept going. Ten seconds now, stronger than at the start, not weaker, something no real earthquake did, and Park, his stomach dropping, understood before he'd even finished feeling it: this wasn't going to fade on its own.
 
-The silence that followed the first real scream was worse than the tremor itself — a sudden void where a second earlier there had been a thousand overlapping voices, as if someone had cut the sound off the whole hillside at once. Then, with no pause at all, the panic: a woman halfway up the slope dropping to her knees with both hands on her chest, another dragging a child toward the staircase, someone else shouting that the convent was coming down even though the convent had had no roof for two hundred seventy years.
+The silence that followed the first real scream was worse than the tremor itself, a sudden void where a second earlier there had been a thousand overlapping voices, as if someone had cut the sound off the whole hillside at once. Then, with no pause at all, the panic: a woman halfway up the slope dropping to her knees with both hands on her chest, another dragging a child toward the staircase, someone else shouting that the convent was coming down even though the convent had had no roof for two hundred seventy years.
 
-Park felt it at the same moment he saw it: the dense, cold undertow of shared grief, the whole tide he'd felt rising since they'd arrived, swinging all at once into pure terror — the same substance, far more concentrated, far easier to move now that the ground itself had just reminded the whole city, with fifteen seconds of real shaking, exactly what it was there to commemorate.
+Park felt it at the same moment he saw it: the dense, cold undertow of shared grief, the whole tide he'd felt rising since they'd arrived, swinging all at once into pure terror, the same substance, far more concentrated, far easier to move now that the ground itself had just reminded the whole city, with fifteen seconds of real shaking, exactly what it was there to commemorate.
 
-And then he understood what Filipa had told them that morning, for real: that in 2011 Báthory hadn't provoked anything, he'd only found the rage of an already-furious crowd and pushed it where he wanted it to go. Tonight he hadn't had to invent the fear either. He'd only had to hand it back to a city that had spent two hundred seventy years waiting for the ground to shake again on that exact date — and hand it back strong enough that nobody would doubt it was real.
+And then he understood what Filipa had told them that morning, for real: that in 2011 Báthory hadn't provoked anything, he'd only found the rage of an already-furious crowd and pushed it where he wanted it to go. Tonight he hadn't had to invent the fear either. He'd only had to hand it back to a city that had spent two hundred seventy years waiting for the ground to shake again on that exact date, and hand it back strong enough that nobody would doubt it was real.
 
 "Ferreira!" he shouted, already moving against the current of people who'd stopped walking and started running.
 
-The tremor faded as gradually as it had started, but it no longer mattered. The whole procession, thousands of people who a minute earlier had been moving in silence toward the Carmo, had broken in one direction — downhill, toward the narrow streets, pushing, falling, shouting names nobody beside them could hear. It wasn't the moment before the stampede anymore. It was the stampede.
+The tremor faded as gradually as it had started, but it no longer mattered. The whole procession, thousands of people who a minute earlier had been moving in silence toward the Carmo, had broken in one direction, downhill, toward the narrow streets, pushing, falling, shouting names nobody beside them could hear. It wasn't the moment before the stampede anymore. It was the stampede.

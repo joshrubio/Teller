@@ -4,7 +4,7 @@
 El sol terminó de subir sobre Sorte mientras Park todavía contaba lo que había ganado contra lo que había perdido, sin que la cuenta le saliera limpia en ninguna de las dos columnas. Yorman no se movió del lado de su hermano hasta que Salcedo, con la delicadeza práctica de alguien que ya había hecho esto antes en otro país, le puso una mano en el hombro y le dijo que había que moverse antes de que amaneciera del todo sobre un patio lleno de cuerpos que nadie con autoridad debía encontrar ahí.
 
 
-Se movieron. Los siete rescatados —ocho, contando a Yorman— fueron repartidos entre el pick-up y dos vehículos que Casimira consiguió llamar desde un número que Park no le preguntó de dónde había sacado. Nadie preguntó por qué un extranjero cubierto de sangre ajena estaba dando las órdenes. Para entonces, ya nadie en esa montaña esperaba que las cosas tuvieran una explicación que tuviera sentido del todo.
+Se movieron. Los siete rescatados, ocho, contando a Yorman, fueron repartidos entre el pick-up y dos vehículos que Casimira consiguió llamar desde un número que Park no le preguntó de dónde había sacado. Nadie preguntó por qué un extranjero cubierto de sangre ajena estaba dando las órdenes. Para entonces, ya nadie en esa montaña esperaba que las cosas tuvieran una explicación que tuviera sentido del todo.
 
 
 El cuerpo de Ronald viajó en la parte trasera del pick-up de Salcedo, envuelto en la única manta limpia que alguien encontró, con Yorman sentado a su lado todo el trayecto sin decir una palabra. Park condujo detrás, en el segundo vehículo, mirando por el retrovisor cada pocos minutos como si necesitara comprobar que ese detalle, al menos, seguía siendo verdad.
@@ -46,7 +46,7 @@ Arismendi no pareció sorprendida.
 —Más de los que a usted le gustaría saber —dijo Arismendi—. Esto no es Lisboa ni Budapest, agente. Aquí no tenemos el lujo de una rama que pueda darse el gusto de investigar todo lo que encuentra. Tenemos un país entero de cosas sin categoría, y una rama del tamaño de un puñado de personas para decidir cuáles de esas cosas pueden esperar y cuáles no.
 
 
-Escribió el informe esa misma noche, en la habitación del hotel, con más precisión de la que había usado en ningún reporte anterior — la niña, la fecha aproximada en que la habían tomado, el mecanismo del sacrificio, la advertencia de Casimira sobre lo que nacía de diez años de sangre y no tenía versión buena esperando debajo. No suavizó nada. No sabía, mientras lo escribía, si alguien más aparte de Arismendi iba a leerlo alguna vez completo, pero lo escribió como si alguien fuera a hacerlo, algún día, cuando ya fuera demasiado tarde para que la advertencia sirviera de consuelo y solo sirviera de mapa.
+Escribió el informe esa misma noche, en la habitación del hotel, con más precisión de la que había usado en ningún reporte anterior, la niña, la fecha aproximada en que la habían tomado, el mecanismo del sacrificio, la advertencia de Casimira sobre lo que nacía de diez años de sangre y no tenía versión buena esperando debajo. No suavizó nada. No sabía, mientras lo escribía, si alguien más aparte de Arismendi iba a leerlo alguna vez completo, pero lo escribió como si alguien fuera a hacerlo, algún día, cuando ya fuera demasiado tarde para que la advertencia sirviera de consuelo y solo sirviera de mapa.
 
 
 ---
@@ -58,7 +58,7 @@ Nélida lo recibió en la puerta de su casa dos días después, las fotografías
 —No era él —dijo Park—. Ninguno de los que sacamos esa noche era su hijo.
 
 
-Nélida asintió, despacio, sin llorar — la clase de dolor que ya había pasado por todas las fases posibles y se había instalado, hacía tiempo, en una especie de resistencia tranquila que no tenía nada que ver con la aceptación.
+Nélida asintió, despacio, sin llorar, la clase de dolor que ya había pasado por todas las fases posibles y se había instalado, hacía tiempo, en una especie de resistencia tranquila que no tenía nada que ver con la aceptación.
 
 
 —Lo sabía —dijo—. Lo supe en cuanto vi que usted venía solo, sin traerlo de la mano. Pero gracias por venir a decírmelo en persona en vez de dejar que me enterara por Yusmary.
@@ -103,7 +103,7 @@ Yorman fue el más difícil. Park lo encontró en la casa de un tío, en las afu
 Park no tuvo una respuesta que estuviera a la altura de eso, así que no intentó dar una. Se quedó sentado con él un rato más, en silencio, y por primera vez desde que había llegado a Venezuela sintió que el silencio, esta vez, no era un fracaso de su parte.
 
 
-Antes de irse, le dejó a Yorman el número directo de Salcedo, no el suyo — sabía, con la misma certeza fría de toda la semana, que él mismo no iba a estar disponible mucho más tiempo para nadie en ese país, y prefería dejarle a Yorman algo que de verdad pudiera funcionar cuando lo necesitara, en vez de una promesa con fecha de caducidad más como la que ya le había dado a Nélida.
+Antes de irse, le dejó a Yorman el número directo de Salcedo, no el suyo. Sabía, con la misma certeza fría de toda la semana, que él mismo no iba a estar disponible mucho más tiempo para nadie en ese país, y prefería dejarle a Yorman algo que de verdad pudiera funcionar cuando lo necesitara, en vez de una promesa con fecha de caducidad más como la que ya le había dado a Nélida.
 
 
 Casimira se despidió en la puerta de su casa, con un tabaco nuevo ya encendido entre los dedos.
@@ -127,10 +127,10 @@ Le dio la mano al despedirse, un gesto formal que no encajaba del todo con todo 
 ---
 
 
-El teléfono de Park vibró esa misma noche con un número que no reconoció al principio, hasta que el mensaje de texto se abrió solo: *Me enteré por Salgado que andas en Venezuela. Papá dice que tengas cuidado con el dengue. Yo digo que tengas cuidado con todo lo demás. — K.*
+El teléfono de Park vibró esa misma noche con un número que no reconoció al principio, hasta que el mensaje de texto se abrió solo: *Me enteré por Salgado que andas en Venezuela. Papá dice que tengas cuidado con el dengue. Yo digo que tengas cuidado con todo lo demás. K.*
 
 
-Park no supo qué contestar durante un rato largo. Al final escribió solo tres palabras — *Lo tendré, Kiki* — y volvió a guardar el teléfono, con la sensación extraña de que esa era, de toda la semana, la única conversación que no le había costado nada.
+Park no supo qué contestar durante un rato largo. Al final escribió solo tres palabras, *Lo tendré, Kiki*, y volvió a guardar el teléfono, con la sensación extraña de que esa era, de toda la semana, la única conversación que no le había costado nada.
 
 
 ---
@@ -154,7 +154,7 @@ Cartwright llamó dos días después, la voz con la clase de satisfacción conte
 Cartwright se quedó callado un momento, el tipo de silencio que Park había aprendido a reconocer como cálculo, no como duda.
 
 
-—No puedo prometerle una operación de contención para una entidad sin categoría en un país que todavía no tiene gobierno estable —dijo, al final—. Pero puedo mantenerlo a usted cerca de donde el problema sigue siendo un problema. Washington va a necesitar gente en Caracas las próximas semanas, quizás meses, asegurando zonas, facilitando la transición, conteniendo lo que haga falta contener mientras el país decide en qué se convierte. Le estoy asignando esa fase. Va a seguir haciendo exactamente lo que hizo en Yaracuy — contener, asegurar, facilitar — solo que ahora con autorización de sobra y una ciudad entera mirando en vez de una montaña que nadie quiere nombrar.
+—No puedo prometerle una operación de contención para una entidad sin categoría en un país que todavía no tiene gobierno estable —dijo, al final—. Pero puedo mantenerlo a usted cerca de donde el problema sigue siendo un problema. Washington va a necesitar gente en Caracas las próximas semanas, quizás meses, asegurando zonas, facilitando la transición, conteniendo lo que haga falta contener mientras el país decide en qué se convierte. Le estoy asignando esa fase. Va a seguir haciendo exactamente lo que hizo en Yaracuy, contener, asegurar, facilitar, solo que ahora con autorización de sobra y una ciudad entera mirando en vez de una montaña que nadie quiere nombrar.
 
 
 —¿Y la niña?
@@ -169,22 +169,22 @@ Park lo tomó.
 ---
 
 
-Las semanas que siguieron se parecieron poco a Yaracuy y menos todavía a Budapest — menos combate, más perímetros, más reuniones con oficiales de un ejército que ya no sabía a quién le debía lealtad esa semana, más horas explicándole a gente con más rango que él por qué cierta zona necesitaba quedar despejada antes de que llegara cierto convoy. Contener, asegurar, facilitar. Ninguna de las tres palabras se sentía como fuerza, en el sentido en que él siempre había entendido la palabra. Se sentía más bien como sostener algo con las dos manos mientras otros decidían, en otro país, qué hacer con lo que él estaba sosteniendo.
+Las semanas que siguieron se parecieron poco a Yaracuy y menos todavía a Budapest, menos combate, más perímetros, más reuniones con oficiales de un ejército que ya no sabía a quién le debía lealtad esa semana, más horas explicándole a gente con más rango que él por qué cierta zona necesitaba quedar despejada antes de que llegara cierto convoy. Contener, asegurar, facilitar. Ninguna de las tres palabras se sentía como fuerza, en el sentido en que él siempre había entendido la palabra. Se sentía más bien como sostener algo con las dos manos mientras otros decidían, en otro país, qué hacer con lo que él estaba sosteniendo.
 
 
-Park pensó, más de una vez en esas semanas, en Ji-ho despachando al imugi de la isla sin que pareciera costarle nada — la misma clase de control absoluto que él mismo había sentido, por primera vez de verdad, arrasando el patio de Roa. Pero Ji-ho nunca había tenido que quedarse de pie, después, con las manos temblando, delante de algo que podía matarlo sin moverse y que él mismo había decidido dejar correr hacia un bosque en vez de terminar el trabajo. Park no sabía si Ji-ho alguna vez había sentido eso. Sospechaba que no. Sospechaba que esa era, quizás, la diferencia real entre los dos.
+Park pensó, más de una vez en esas semanas, en Ji-ho despachando al imugi de la isla sin que pareciera costarle nada, la misma clase de control absoluto que él mismo había sentido, por primera vez de verdad, arrasando el patio de Roa. Pero Ji-ho nunca había tenido que quedarse de pie, después, con las manos temblando, delante de algo que podía matarlo sin moverse y que él mismo había decidido dejar correr hacia un bosque en vez de terminar el trabajo. Park no sabía si Ji-ho alguna vez había sentido eso. Sospechaba que no. Sospechaba que esa era, quizás, la diferencia real entre los dos.
 
 
-Park nunca llegó a saber si esa niña seguía en la montaña, si crecería, si algo peor había terminado de nacer en el tiempo que tardara alguien en leer lo que él había dejado escrito. Lo que sí sabía, con la misma certeza fría con la que sabía todo lo demás, era que Casimira tenía razón: no había nada bueno esperando debajo de lo que había visto en ese cuarto sin ventanas. Era real, era peligrosa, y la había dejado suelta. Se fue de Yaracuy cargando esa certeza como un peso físico, no como una pregunta abstracta — convencido de que algún día, en algún informe, alguien iba a tener que responder por lo que él no había podido detener cuando tuvo la oportunidad más clara que iba a tener nunca.
+Park nunca llegó a saber si esa niña seguía en la montaña, si crecería, si algo peor había terminado de nacer en el tiempo que tardara alguien en leer lo que él había dejado escrito. Lo que sí sabía, con la misma certeza fría con la que sabía todo lo demás, era que Casimira tenía razón: no había nada bueno esperando debajo de lo que había visto en ese cuarto sin ventanas. Era real, era peligrosa, y la había dejado suelta. Se fue de Yaracuy cargando esa certeza como un peso físico, no como una pregunta abstracta. Convencido de que algún día, en algún informe, alguien iba a tener que responder por lo que él no había podido detener cuando tuvo la oportunidad más clara que iba a tener nunca.
 
 
 ---
 
 
-El aeropuerto de Maiquetía, días después, no se parecía en nada al resto del país que Park había recorrido — filas ordenadas, luces que no se apagaban, una calma artificial que solo existía porque ahí el mundo entero estaba mirando. Esperó su vuelo a Ginebra en una silla de plástico atornillada al suelo, la maleta entre los pies, y por primera vez desde Hartford se permitió pensar en las cinco misiones seguidas sin dividirlas por país, como si fueran, todas juntas, una sola pregunta que no había terminado de contestar.
+El aeropuerto de Maiquetía, días después, no se parecía en nada al resto del país que Park había recorrido. Filas ordenadas, luces que no se apagaban, una calma artificial que solo existía porque ahí el mundo entero estaba mirando. Esperó su vuelo a Ginebra en una silla de plástico atornillada al suelo, la maleta entre los pies, y por primera vez desde Hartford se permitió pensar en las cinco misiones seguidas sin dividirlas por país, como si fueran, todas juntas, una sola pregunta que no había terminado de contestar.
 
 
-La llamada de Voss llegó nueve días después de la de Cartwright, mientras Park todavía estaba en Caracas haciendo exactamente eso, y le cerró, sin que Voss lo supiera ni lo hubiera podido saber, cualquier ventana que le quedara para volver a Yaracuy y terminar de escribir lo que el primer informe había dejado incompleto. Para entonces, Arismendi ya había archivado todo lo que Park le había mandado bajo la clasificación más alta que su rama podía ofrecer sin recursos reales detrás — un expediente esperando, en algún servidor de AMAT, a que alguien con más autoridad y más urgencia que cualquiera de los dos decidiera, algún día, que valía la pena abrirlo.
+La llamada de Voss llegó nueve días después de la de Cartwright, mientras Park todavía estaba en Caracas haciendo exactamente eso, y le cerró, sin que Voss lo supiera ni lo hubiera podido saber, cualquier ventana que le quedara para volver a Yaracuy y terminar de escribir lo que el primer informe había dejado incompleto. Para entonces, Arismendi ya había archivado todo lo que Park le había mandado bajo la clasificación más alta que su rama podía ofrecer sin recursos reales detrás, un expediente esperando, en algún servidor de AMAT, a que alguien con más autoridad y más urgencia que cualquiera de los dos decidiera, algún día, que valía la pena abrirlo.
 
 
 En Hartford había aprendido que la fuerza servía para saber cuándo el protocolo estaba equivocado y actuar de todas formas. En Seúl, que servía para ganar incluso con alguien mejor que él mirando. En Lisboa, que servía para hacer lo correcto cuando nadie más lo veía. En Budapest, que servía para quedarse de pie después de cruzar una línea que no había forma de volver a cruzar hacia atrás. Cuatro respuestas, cada una verdadera a su manera, y ninguna de las cuatro le había servido de nada frente a una fila de gente esperando su turno para llenar un cubo de agua, o frente a una muchacha de vestido descolorido a la que ningún golpe suyo, por preciso que fuera, le iba a cambiar la vida.
@@ -193,17 +193,17 @@ En Hartford había aprendido que la fuerza servía para saber cuándo el protoco
 Se preguntó, sin encontrar todavía una respuesta que le gustara, si esa pregunta era la que importaba, o si era, en realidad, la misma pregunta de las otras cuatro dicha por fin en voz alta: qué era exactamente lo que tenía, si lo que tenía no alcanzaba para lo que más le importaba que alcanzara. No parecía fuerza, no como él la entendía.
 
 
-Llamaron su vuelo. Park se levantó, cargó la maleta al hombro con más cuidado del que hacía falta para un peso así, y caminó hacia la puerta de embarque pensando que se llevaba de Venezuela algo más que un informe archivado y un nombre que nadie más sabía todavía que había que temer — se llevaba la primera vez, en cinco misiones, en que la pregunta de su propia familia había dejado de sonarle a herencia y había empezado a sonarle a duda real, suya, sin resolver.
+Llamaron su vuelo. Park se levantó, cargó la maleta al hombro con más cuidado del que hacía falta para un peso así, y caminó hacia la puerta de embarque pensando que se llevaba de Venezuela algo más que un informe archivado y un nombre que nadie más sabía todavía que había que temer. Se llevaba la primera vez, en cinco misiones, en que la pregunta de su propia familia había dejado de sonarle a herencia y había empezado a sonarle a duda real, suya, sin resolver.
 
 
 El teléfono le vibró en el bolsillo justo cuando entregaba el pasaporte en la puerta de embarque. Por costumbre, más que por urgencia, lo revisó antes de guardarlo para las próximas ocho horas.
 
-No era Arismendi, ni Cartwright, ni ningún canal de la misión que acababa de cerrar. Era el sistema de solicitudes de AMAT-EU, el mismo que llevaba cinco misiones sin decirle nada más que *pendiente* — las tres solicitudes que había dejado presentadas antes de Hartford, sobre las cuarenta y tres páginas de 1952 clasificadas bajo Ginebra, y que había dejado de mirar en algún punto entre Lisboa y Budapest. Las tres seguían ahí, en la misma pantalla, con el mismo estado de siempre.
+No era Arismendi, ni Cartwright, ni ningún canal de la misión que acababa de cerrar. Era el sistema de solicitudes de AMAT-EU, el mismo que llevaba cinco misiones sin decirle nada más que *pendiente*, las tres solicitudes que había dejado presentadas antes de Hartford, sobre las cuarenta y tres páginas de 1952 clasificadas bajo Ginebra, y que había dejado de mirar en algún punto entre Lisboa y Budapest. Las tres seguían ahí, en la misma pantalla, con el mismo estado de siempre.
 
 Salvo una.
 
 *Informe de seguimiento 1952-HFD-002 — acceso concedido. Revisor: Oficina de Operaciones, Ginebra.*
 
-Park se quedó de pie un segundo de más, la fila detrás de él empezando a impacientarse, mirando el nombre de la oficina que acababa de abrirle, sin explicación, el archivo que llevaba cinco misiones sin que nadie tocara. No el testimonio de nadie en particular, no un nombre ni una fecha de desaparición — el informe de seguimiento completo, el que resumía lo que AMAT-EU había entendido de 1952 en las décadas después del evento. La clase de documento que, si de verdad decía lo que Park sospechaba que decía, era menos sobre lo que había pasado en Hartford y más sobre qué era, en general, un Principado. La misma oficina que, según Voss, había iniciado su traslado a Valais antes de que Cartwright tuviera siquiera copia del memorando.
+Park se quedó de pie un segundo de más, la fila detrás de él empezando a impacientarse, mirando el nombre de la oficina que acababa de abrirle, sin explicación, el archivo que llevaba cinco misiones sin que nadie tocara. No el testimonio de nadie en particular, no un nombre ni una fecha de desaparición, el informe de seguimiento completo, el que resumía lo que AMAT-EU había entendido de 1952 en las décadas después del evento. La clase de documento que, si de verdad decía lo que Park sospechaba que decía, era menos sobre lo que había pasado en Hartford y más sobre qué era, en general, un Principado. La misma oficina que, según Voss, había iniciado su traslado a Valais antes de que Cartwright tuviera siquiera copia del memorando.
 
 Guardó el teléfono sin abrir el archivo, porque ocho horas de vuelo no eran tiempo suficiente para leer algo así por primera vez con la cabeza que tenía esa noche, y subió al avión pensando que, por primera vez desde que presentó esas tres solicitudes, alguien en Ginebra había decidido que ya tenía el nivel de acceso necesario.

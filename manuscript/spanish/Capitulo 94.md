@@ -8,7 +8,7 @@ Reber no dijo nada durante el entrenamiento de la mañana. Solo al final, mientr
 
 — No voy a preguntarte quién fue —dijo, en voz baja, solo para él—. Pero si algún día decides que quieres que alguien lo pregunte, sabes dónde encontrarme. No hay reloj corriendo en esa oferta.
 
-Riku no respondió. Reber tampoco esperó que lo hiciera — asintió una vez, como quien cierra una puerta sin cerrarla del todo, y se fue a atender al resto del grupo.
+Riku no respondió. Reber tampoco esperó que lo hiciera, asintió una vez, como quien cierra una puerta sin cerrarla del todo, y se fue a atender al resto del grupo.
 
 — Sabe —dijo Riku, cuando Reber ya estaba lo bastante lejos—. No los nombres. Pero sabe que pasó algo real.
 
@@ -16,11 +16,11 @@ Riku no respondió. Reber tampoco esperó que lo hiciera — asintió una vez, c
 
 ---
 
-Asha se lo tomó como un problema que resolver, no como un cotilleo que perseguir. No forzó nada — se limitó a usar lo único que ya tenía: una posición en el tablero lo bastante alta para que candidatos con más tiempo en el centro la trataran como a una igual, no como a una novata haciendo preguntas raras.
+Asha se lo tomó como un problema que resolver, no como un cotilleo que perseguir. No forzó nada, se limitó a usar lo único que ya tenía: una posición en el tablero lo bastante alta para que candidatos con más tiempo en el centro la trataran como a una igual, no como a una novata haciendo preguntas raras.
 
-Pasó los siguientes días dejándose caer, sin patrón visible, cerca de quien pudiera saber algo — un candidato de conocimiento durante una sesión de archivo, alguien del grupo de evaluación de pares en la cola del comedor, dos frases con un instructor que la recordaba de Val Bedretto. Nada que pareciera investigación. Todo lo que parecía era una candidata curiosa, con tiempo de sobra y buena memoria para lo que le contaban.
+Pasó los siguientes días dejándose caer, sin patrón visible, cerca de quien pudiera saber algo, un candidato de conocimiento durante una sesión de archivo, alguien del grupo de evaluación de pares en la cola del comedor, dos frases con un instructor que la recordaba de Val Bedretto. Nada que pareciera investigación. Todo lo que parecía era una candidata curiosa, con tiempo de sobra y buena memoria para lo que le contaban.
 
-Johanna fue quien más le dio, y lo hizo sin que Asha tuviera que insistir demasiado — se cruzaron durante un tramo de cuerdas compartido, y bastó con nombrar el almacén sin nombrarlo del todo para que Johanna entendiera exactamente de qué hablaba.
+Johanna fue quien más le dio, y lo hizo sin que Asha tuviera que insistir demasiado. Se cruzaron durante un tramo de cuerdas compartido, y bastó con nombrar el almacén sin nombrarlo del todo para que Johanna entendiera exactamente de qué hablaba.
 
 — Ese grupo no es nada complicado de entender —dijo Johanna, sin bajar la voz, como si no le importara quién más la oyera—. Son un puñado de matones que encontraron un sitio sin cámaras. Eso es todo. No hay ninguna filosofía detrás, por mucho que Yegor quiera vendértela como si la hubiera.
 
@@ -30,13 +30,13 @@ Johanna fue quien más le dio, y lo hizo sin que Asha tuviera que insistir demas
 
 — ¿Y el resto de su grupo?
 
-— Milan fue top diez una vez, antes de todo esto — lleva el resentimiento más rodado, menos ruidoso que el de Yegor pero igual de firme. Los otros dos son más recientes, se sumaron cuando vieron que había un sitio donde el tablero no mandaba. No hay mucho más que contar de ellos — son los que hacen el número, no los que deciden nada.
+—Milan fue top diez una vez, antes de todo esto. Lleva el resentimiento más rodado, menos ruidoso que el de Yegor pero igual de firme. Los otros dos son más recientes, se sumaron cuando vieron que había un sitio donde el tablero no mandaba. No hay mucho más que contar de ellos. Son los que hacen el número, no los que deciden nada.
 
 Johanna dudó un segundo antes de seguir, algo que Asha no le había visto hacer hasta entonces.
 
 — Iker es el que no encaja del todo en esa foto —dijo—. Y no porque sea mejor persona, necesariamente. Es que le importa Dax más de lo que le importa el grupo de Yegor. Se pasa las horas libres mirando entrenar a Dax cuando cree que nadie lo nota. Si le preguntas cómo aprendió algo, la respuesta casi siempre empieza por "vi que Dax hacía..." No sé si eso lo hace mejor o peor que el resto. Solo sé que no está ahí por lo mismo que están los otros.
 
-Asha reunió el resto en su cabeza sin necesitar más de eso — el patrón ya era bastante claro sin que nadie tuviera que dibujárselo del todo.
+Asha reunió el resto en su cabeza sin necesitar más de eso, el patrón ya era bastante claro sin que nadie tuviera que dibujárselo del todo.
 
 Esa noche, después de la cena, reunió al grupo entero en el cuarto de Oliver.
 
@@ -48,7 +48,7 @@ Esa noche, después de la cena, reunió al grupo entero en el cuarto de Oliver.
 
 — Hay más —dijo Pier, desde el rincón donde llevaba un rato callado—. He estado preguntando por mi cuenta, a mi manera. Uno de los instructores más veteranos me confirmó que el sitio existe desde hace años, mucho antes de que nadie de Dax llegara siquiera. Nunca lo cierran del todo porque, según él, "un sitio así siempre encuentra otra puerta si le quitas esta." Prefieren saber dónde está a fingir que no existe.
 
-— Y no es solo Yegor el que lo usa así —dijo Petra—. Hablé con un par de candidatos de otros grupos, gente que nunca ha pisado el almacén ni piensa hacerlo. Todos coinciden en lo mismo: el club existe para gente que perdió algo — puesto, reconocimiento, la certeza de ser el mejor de la sala — y no tiene otra forma de recuperarlo que quitárselo a alguien más. No es sobre Riku. Nunca fue sobre Riku.
+—Y no es solo Yegor el que lo usa así —dijo Petra—. Hablé con un par de candidatos de otros grupos, gente que nunca ha pisado el almacén ni piensa hacerlo. Todos coinciden en lo mismo: el club existe para gente que perdió algo, puesto, reconocimiento, la certeza de ser el mejor de la sala, y no tiene otra forma de recuperarlo que quitárselo a alguien más. No es sobre Riku. Nunca fue sobre Riku.
 
 Nadie dijo nada durante un momento. Fue Nadia quien rompió el silencio, en voz más baja de lo habitual en ella.
 
@@ -58,11 +58,11 @@ Nadie la contradijo.
 
 ---
 
-La noticia sobre Lev y Sabine llegó dos días después, de la misma forma indirecta en que llegaban las cosas importantes en San Gotardo — Pier la trajo del comedor, detrás de dos instructores que no bajaron la voz lo suficiente.
+La noticia sobre Lev y Sabine llegó dos días después, de la misma forma indirecta en que llegaban las cosas importantes en San Gotardo, Pier la trajo del comedor, detrás de dos instructores que no bajaron la voz lo suficiente.
 
 — Los están buscando en serio —dijo, sentándose con la bandeja a medio terminar—. No vigilancia de rutina. Búsqueda activa. Uno de ellos dijo "fugitivos", no "hostiles".
 
-Nadie dijo nada durante un momento. Oliver pensó en Lev, en la conversación sin anuncio de meses atrás, en lo que le había enseñado sobre gestionar solo un Domain que nadie más entendía. Pensó también, sin poder evitarlo, en Riku — en la misma sensación exacta, aunque a escala distinta, de que el sistema decidía quién merecía protección y quién quedaba fuera del cálculo.
+Nadie dijo nada durante un momento. Oliver pensó en Lev, en la conversación sin anuncio de meses atrás, en lo que le había enseñado sobre gestionar solo un Domain que nadie más entendía. Pensó también, sin poder evitarlo, en Riku, en la misma sensación exacta, aunque a escala distinta, de que el sistema decidía quién merecía protección y quién quedaba fuera del cálculo.
 
 — No es lo mismo —dijo Dara, como si le hubiera leído el pensamiento—. Lev y Sabine se fueron. Riku no se fue a ningún lado.
 
@@ -108,7 +108,7 @@ Oliver la encontró a ella, dos noches después, sentada sola en el patio exteri
 
 — Siéntate un momento, si no tienes prisa —dijo, sin girarse.
 
-Oliver se sentó, el frío de piedra colándose a través de la ropa, y durante un rato ninguno de los dos dijo nada — el tipo de silencio que Anka, a diferencia de casi todo lo demás que hacía, no parecía tener ninguna prisa por llenar.
+Oliver se sentó, el frío de piedra colándose a través de la ropa, y durante un rato ninguno de los dos dijo nada, el tipo de silencio que Anka, a diferencia de casi todo lo demás que hacía, no parecía tener ninguna prisa por llenar.
 
 — He oído lo de Riku —dijo, al fin, sin rodeos—. No voy a preguntarte lo que le preguntó Reber. Pero quiero que sepas que lo sé, y que no es la primera vez que ese sitio hace algo así.
 
@@ -134,12 +134,12 @@ Oliver no supo qué responder al principio. Se quedó mirando el mismo cielo que
 
 — Depende de quién lo mire —dijo ella—. Para mí, no. Yo no puedo hacer nada con lo que veo salvo nombrarlo. Para otra persona, con otro instrumento, podría ser un dato distinto.
 
-Oliver sintió el peso de esa frase más de lo que esperaba. Había algo en la forma en que ella lo decía —no como pregunta, no como acusación— que le hizo sentir, otra vez, que estaba siendo leído de un modo que no tenía nada que ver con ningún instrumento que hubiera visto nunca en San Gotardo.
+Oliver sintió el peso de esa frase más de lo que esperaba. Había algo en la forma en que ella lo decía, no como pregunta, no como acusación, que le hizo sentir, otra vez, que estaba siendo leído de un modo que no tenía nada que ver con ningún instrumento que hubiera visto nunca en San Gotardo.
 
 — ¿Cómo sabe eso? —dijo—. Lo mío, quiero decir. No el Registro. Lo otro.
 
-Anka no respondió directamente. Giró la cabeza hacia él —hacia él, no hacia ningún Odem activo cercano, algo que Oliver notó y no supo nombrar— y sonrió apenas, lo justo para no parecer una respuesta.
+Anka no respondió directamente. Giró la cabeza hacia él, hacia él, no hacia ningún Odem activo cercano, algo que Oliver notó y no supo nombrar, y sonrió apenas, lo justo para no parecer una respuesta.
 
 — Todavía no —dijo—. Pero algún día te lo voy a preguntar en serio, y vas a tener que decidir si quieres contestarme. Cuando llegue ese día, espero que también me preguntes tú a mí. Va a ser una conversación más larga de lo que crees.
 
-Se despidió sin más ceremonia, dejando a Oliver con la certeza incómoda de que la conversación, aunque breve, no había sido casual en ningún momento — y con la sensación nueva, todavía sin forma, de que la próxima vez que hablaran, alguno de los dos iba a tener que decidir cuánto estaba dispuesto a arriesgar diciendo la verdad.
+Se despidió sin más ceremonia, dejando a Oliver con la certeza incómoda de que la conversación, aunque breve, no había sido casual en ningún momento, y con la sensación nueva, todavía sin forma, de que la próxima vez que hablaran, alguno de los dos iba a tener que decidir cuánto estaba dispuesto a arriesgar diciendo la verdad.

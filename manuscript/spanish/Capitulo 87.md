@@ -4,13 +4,13 @@
 
 Dos días antes de la sesión, Voss dejó de revisar carpetas.
 
-Encontró a Park Taeho en el vestíbulo de un hotel que no era el suyo, a una hora que no era casual — Voss sabía, por seis años de sesiones compartidas, que Park cenaba solo los martes, sin excepción, en el mismo restaurante a quince minutos a pie de donde se alojaba cuando Ginebra lo requería. No fue coincidencia. Fue la clase de información que un evaluador senior acumulaba sin proponérselo, y que solo se volvía útil el día en que decidía dejar de fingir que no la tenía.
+Encontró a Park Taeho en el vestíbulo de un hotel que no era el suyo, a una hora que no era casual, Voss sabía, por seis años de sesiones compartidas, que Park cenaba solo los martes, sin excepción, en el mismo restaurante a quince minutos a pie de donde se alojaba cuando Ginebra lo requería. No fue coincidencia. Fue la clase de información que un evaluador senior acumulaba sin proponérselo, y que solo se volvía útil el día en que decidía dejar de fingir que no la tenía.
 
 — No voy a preguntarle cómo sabía que estaría aquí —dijo Park Taeho, sin sorpresa real en la voz, indicándole la silla vacía frente a él.
 
 — Mejor —dijo Voss, sentándose—. Así no tengo que mentirle sobre lo fácil que fue.
 
-Park Taeho no sonrió del todo, pero algo cerca de eso le cruzó la cara. Pidió para los dos sin consultarlo —algo local, sin pretensión, el tipo de plato que un hombre pide cuando lleva años comiendo solo en la misma ciudad y ya dejó de mirar la carta— y esperó a que el camarero se alejara antes de volver a hablar.
+Park Taeho no sonrió del todo, pero algo cerca de eso le cruzó la cara. Pidió para los dos sin consultarlo, algo local, sin pretensión, el tipo de plato que un hombre pide cuando lleva años comiendo solo en la misma ciudad y ya dejó de mirar la carta, y esperó a que el camarero se alejara antes de volver a hablar.
 
 — Hace seis años que compartimos sala —dijo—. Es la primera vez que me busca fuera de ella.
 
@@ -20,7 +20,7 @@ Park Taeho no sonrió del todo, pero algo cerca de eso le cruzó la cara. Pidió
 
 — Nada que usted no pueda dar sin comprometerse a nada —dijo Voss—. No le pido apoyo para mi caso. Le pido que, si alguien lo pone a prueba en sesión, responda con lo que de verdad piensa en vez de con lo cómodo. Eso es todo lo que necesito de usted.
 
-Park Taeho se quedó callado un momento, la clase de silencio que Voss ya conocía bien — no indecisión, sino el tiempo exacto que le tomaba a Park Taeho decidir si la pregunta que iba a hacer merecía hacerse en voz alta.
+Park Taeho se quedó callado un momento, la clase de silencio que Voss ya conocía bien. No indecisión, sino el tiempo exacto que le tomaba a Park Taeho decidir si la pregunta que iba a hacer merecía hacerse en voz alta.
 
 — ¿Por qué yo, y no Furrer, si busca algo que suene neutral?
 
@@ -30,13 +30,13 @@ Park Taeho se quedó callado un momento, la clase de silencio que Voss ya conoc�
 
 — Podría —dijo Voss, sin negarlo—. La pregunta que le hago no es si eso es cierto. Es si le importa que lo sea, siempre que lo que yo le pida sea, en sí mismo, honesto.
 
-Park Taeho lo estudió un momento más, y algo en su expresión —el mismo reajuste mínimo que Voss vería después, en la sala, cuando Furrer nombrara el patrón de sus casos de Registro— sugería que ya había tomado la decisión antes de que la conversación llegara a este punto, y que lo que quedaba era solo la formalidad de decirlo.
+Park Taeho lo estudió un momento más, y algo en su expresión, el mismo reajuste mínimo que Voss vería después, en la sala, cuando Furrer nombrara el patrón de sus casos de Registro, sugería que ya había tomado la decisión antes de que la conversación llegara a este punto, y que lo que quedaba era solo la formalidad de decirlo.
 
 — Voy a escuchar el caso con seriedad —dijo Park Taeho—. Eso es cierto de todos modos, con o sin esta cena. Si me pregunta algo en sesión, no voy a fingir que no hablamos hoy. Pero tampoco voy a mentir a su favor si la respuesta honesta no lo favorece.
 
 — No le pido que mienta —dijo Voss—. Le pido exactamente lo contrario.
 
-La comida llegó, y hablaron de otras cosas durante un rato —AMAT-KR, un caso reciente que Park Taeho mencionó de pasada sin entrar en detalle, el clima de Ginebra comparado con el de Seúl en esta época del año— la clase de conversación neutral que dos personas mantienen cuando ya han dicho lo que de verdad importaba y ninguna quiere que la cena entera se sienta como una transacción. Voss no volvió a mencionar el caso. Park Taeho tampoco. Fue, de un modo extraño, la parte de la noche que Voss disfrutó más — no porque olvidara por qué estaba ahí, sino porque durante unos minutos pudo fingir, con la complicidad silenciosa de Park Taeho, que no lo estaba.
+La comida llegó, y hablaron de otras cosas durante un rato, AMAT-KR, un caso reciente que Park Taeho mencionó de pasada sin entrar en detalle, el clima de Ginebra comparado con el de Seúl en esta época del año, la clase de conversación neutral que dos personas mantienen cuando ya han dicho lo que de verdad importaba y ninguna quiere que la cena entera se sienta como una transacción. Voss no volvió a mencionar el caso. Park Taeho tampoco. Fue, de un modo extraño, la parte de la noche que Voss disfrutó más. No porque olvidara por qué estaba ahí, sino porque durante unos minutos pudo fingir, con la complicidad silenciosa de Park Taeho, que no lo estaba.
 
 Se despidieron en la puerta del hotel sin apretón de manos ni promesa formal, solo un gesto breve de cabeza que, dos días después, en esa misma sala, se traduciría en una pregunta hecha en el momento exacto en que más falta hacía.
 
@@ -46,11 +46,11 @@ No hablaron mucho más después de eso. Voss se fue con lo que había ido a busc
 
 La sesión, dos días después, no fue lo que Voss había ido a ganar. Fue, en el mejor de los casos, lo que había ido a evitar perder.
 
-Furrer llegó con las mismas anotaciones meticulosas de siempre, y esta vez no se limitó a señalar el ángulo que Voss ya sabía que iba a encontrar — la insistencia personal en el caso, la velocidad con la que se había ofrecido a viajar en persona. Lo llevó un paso más allá de lo que Voss había previsto.
+Furrer llegó con las mismas anotaciones meticulosas de siempre, y esta vez no se limitó a señalar el ángulo que Voss ya sabía que iba a encontrar, la insistencia personal en el caso, la velocidad con la que se había ofrecido a viajar en persona. Lo llevó un paso más allá de lo que Voss había previsto.
 
-— Propongo formalmente abrir una revisión de conducta sobre el manejo de este caso por parte del evaluador Voss —dijo Furrer, sin levantar la voz, cada palabra ya redactada de antemano—. No sobre el grupo de Valais. Sobre él. Seis meses documentándolo personalmente desde Centro Valais, una insistencia que ha llegado hasta esta sala dos veces en un mes, y un patrón que este consejo debería empezar a mirar con más atención: cada caso de Registro documentado en el expediente histórico de AMAT tiene, en algún punto de su trayectoria, la huella personal del evaluador Voss — más cerca, más presente, más involucrado de lo que su cargo exigiría en cualquier caso normal. Este consejo tiene derecho a saber si lo que estamos escuchando es el juicio de un evaluador senior, o el de alguien que ya no puede separar ningún caso de este tipo de sí mismo.
+—Propongo formalmente abrir una revisión de conducta sobre el manejo de este caso por parte del evaluador Voss —dijo Furrer, sin levantar la voz, cada palabra ya redactada de antemano—. No sobre el grupo de Valais. Sobre él. Seis meses documentándolo personalmente desde Centro Valais, una insistencia que ha llegado hasta esta sala dos veces en un mes, y un patrón que este consejo debería empezar a mirar con más atención: cada caso de Registro documentado en el expediente histórico de AMAT tiene, en algún punto de su trayectoria, la huella personal del evaluador Voss, más cerca, más presente, más involucrado de lo que su cargo exigiría en cualquier caso normal. Este consejo tiene derecho a saber si lo que estamos escuchando es el juicio de un evaluador senior, o el de alguien que ya no puede separar ningún caso de este tipo de sí mismo.
 
-La sala se quedó más callada de lo que Voss la había oído nunca. Una revisión de conducta no era un trámite menor — significaba semanas de expediente abierto, colegas convocados a declarar, y en el peor de los casos, la posibilidad real de que Voss quedara apartado del caso entero mientras se resolvía, dejando a Oliver y al resto del grupo sin nadie que los defendiera en esa sala.
+La sala se quedó más callada de lo que Voss la había oído nunca. Una revisión de conducta no era un trámite menor, significaba semanas de expediente abierto, colegas convocados a declarar, y en el peor de los casos, la posibilidad real de que Voss quedara apartado del caso entero mientras se resolvía, dejando a Oliver y al resto del grupo sin nadie que los defendiera en esa sala.
 
 — Es exactamente la definición de un conflicto de interés —dijo Furrer—. Solo que usted lo llama experiencia.
 
@@ -72,13 +72,13 @@ El presidente de sesión dejó pasar un momento antes de hablar, sopesando algo 
 
 — No vamos a abrir una revisión de conducta hoy —dijo, al fin—. La propuesta queda registrada, no descartada. Si en los próximos meses aparece un elemento concreto, no solo una preocupación general, este consejo la retomará sin necesidad de que nadie vuelva a proponerla desde cero.
 
-Furrer asintió, una vez, sin ocultar que aceptaba la derrota parcial como eso — parcial, no definitiva.
+Furrer asintió, una vez, sin ocultar que aceptaba la derrota parcial como eso, parcial, no definitiva.
 
 — Que conste que la propuesta sigue viva —dijo—. No retirada.
 
 — Registrado —dijo el presidente de sesión.
 
-No hubo votación del marco de estatus. No hubo tiempo, ni ánimo en la sala, para llegar hasta ahí después de lo anterior — y Voss, por primera vez en toda la sesión, sintió algo parecido a alivio en que así fuera: pedir cualquier cosa más hoy, con la sombra de la revisión de conducta todavía fresca sobre la mesa, habría sido presionar una puerta que ya estaba a punto de cerrarse sola.
+No hubo votación del marco de estatus. No hubo tiempo, ni ánimo en la sala, para llegar hasta ahí después de lo anterior, y Voss, por primera vez en toda la sesión, sintió algo parecido a alivio en que así fuera: pedir cualquier cosa más hoy, con la sombra de la revisión de conducta todavía fresca sobre la mesa, habría sido presionar una puerta que ya estaba a punto de cerrarse sola.
 
 — Volveremos al estatus del grupo de Valais y a la metodología de clasificación en la próxima sesión —dijo el presidente—. Ninguno de los dos puntos avanza hoy. No es un no. Tampoco es un sí.
 
@@ -110,7 +110,7 @@ Voss no respondió enseguida, y el silencio que siguió tuvo un peso distinto al
 
 — Porque cuanta menos gente sepa exactamente cómo se mueve cada pieza en esta ciudad —dijo Voss, al fin—, más difícil es para quien sea que mandó a ese hombre de la rama menor averiguar cómo pararme la próxima vez.
 
-Eso pareció aterrizar de un modo distinto. Cartwright retomó el paso, más despacio, y durante varios metros no dijo nada, la clase de silencio que Voss reconoció como cálculo, no como ofensa — Cartwright reordenando, en tiempo real, cuánto de lo que creía saber sobre cómo se movía Voss por esta ciudad seguía siendo cierto después de esta noche.
+Eso pareció aterrizar de un modo distinto. Cartwright retomó el paso, más despacio, y durante varios metros no dijo nada, la clase de silencio que Voss reconoció como cálculo, no como ofensa, Cartwright reordenando, en tiempo real, cuánto de lo que creía saber sobre cómo se movía Voss por esta ciudad seguía siendo cierto después de esta noche.
 
 — ¿Cuántas veces más has hecho esto? —dijo, al fin—. Antes de hoy, quiero decir. Cosas que no me has contado.
 
@@ -138,15 +138,15 @@ Llegaron al ascensor. Voss pulsó el botón y esperó, la vista fija en el núme
 
 — Llevo jugando en las grandes ligas más tiempo que tú, Cartwright —dijo Voss—. Solo que hasta hoy no te había dejado ver el marcador.
 
-Las puertas del ascensor se abrieron. Voss entró. Cartwright se quedó en el pasillo, sin seguirlo esta vez, y por un segundo pareció que iba a decir algo más — pero se limitó a asentir, una vez, antes de que las puertas se cerraran entre los dos, dejando a Voss con la certeza de que sobrevivir un ataque no era lo mismo que ganar terreno, aunque en Ginebra, cada vez con más frecuencia, empezaban a sentirse exactamente igual de agotadores.
+Las puertas del ascensor se abrieron. Voss entró. Cartwright se quedó en el pasillo, sin seguirlo esta vez, y por un segundo pareció que iba a decir algo más, pero se limitó a asentir, una vez, antes de que las puertas se cerraran entre los dos, dejando a Voss con la certeza de que sobrevivir un ataque no era lo mismo que ganar terreno, aunque en Ginebra, cada vez con más frecuencia, empezaban a sentirse exactamente igual de agotadores.
 
 ---
 
 El mensaje llegó esa misma noche, ya en el hotel, mientras Voss todavía tenía la corbata puesta y no había decidido si quitársela.
 
-Una solicitud de acceso a archivo, cursada por la oficina de Furrer, con fecha de hacía tres días — antes de la sesión, no después. Eso fue lo primero que Voss notó, y lo que más le costó digerir: Furrer no estaba reaccionando a lo de hoy. Llevaba tres días, como mínimo, preparando algo que todavía no había usado.
+Una solicitud de acceso a archivo, cursada por la oficina de Furrer, con fecha de hacía tres días. Antes de la sesión, no después. Eso fue lo primero que Voss notó, y lo que más le costó digerir: Furrer no estaba reaccionando a lo de hoy. Llevaba tres días, como mínimo, preparando algo que todavía no había usado.
 
-El expediente solicitado no tenía el nombre de Oliver. No tenía el nombre de Maren. Tenía un código de operación de treinta años, de una época en la que Voss todavía firmaba informes como agente de campo, no como evaluador — y un lugar que Voss no había vuelto a pronunciar en voz alta desde entonces, ni siquiera para sí mismo.
+El expediente solicitado no tenía el nombre de Oliver. No tenía el nombre de Maren. Tenía un código de operación de treinta años, de una época en la que Voss todavía firmaba informes como agente de campo, no como evaluador, y un lugar que Voss no había vuelto a pronunciar en voz alta desde entonces, ni siquiera para sí mismo.
 
 Se quedó mirando la pantalla más tiempo del que habría admitido delante de nadie.
 

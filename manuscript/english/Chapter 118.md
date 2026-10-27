@@ -12,13 +12,13 @@ Oliver opened his eyes to a starless sky, the same one Dax had looked up at hour
 
 He didn't remember falling.
 
-The last thing he had, clear, was the step forward, the distance between him and Dax closing in an instant, everything he had left riding on that exchange — and then nothing. A clean cut, like someone switching off the light mid-sentence. Between that and the sky above him now, there was a gap his head couldn't fill.
+The last thing he had, clear, was the step forward, the distance between him and Dax closing in an instant, everything he had left riding on that exchange, and then nothing. A clean cut, like someone switching off the light mid-sentence. Between that and the sky above him now, there was a gap his head couldn't fill.
 
-Someone filled it in for him, later, once he could sit up: Conti had appeared out of nowhere, between the two of them, in the exact instant the exam's clock hit 00:00 — not a second before, not one after, as if he'd been waiting for that exact number to move. He hadn't said anything anyone remembered clearly. He was just there, and then Oliver wasn't standing anymore.
+Someone filled it in for him, later, once he could sit up: Conti had appeared out of nowhere, between the two of them, in the exact instant the exam's clock hit 00:00, not a second before, not one after, as if he'd been waiting for that exact number to move. He hadn't said anything anyone remembered clearly. He was just there, and then Oliver wasn't standing anymore.
 
-How much time had passed since then, he didn't know. Enough for the raw chaos of the fight to have settled into something else — slower, more ordered, the kind of calm that only arrives once something has truly ended.
+How much time had passed since then, he didn't know. Enough for the raw chaos of the fight to have settled into something else, slower, more ordered, the kind of calm that only arrives once something has truly ended.
 
-Around him, what was left of the night moved slowly. Someone — he didn't recognize the face under the vest — was pressing a makeshift bandage against Nadia's arm. She was still sitting where she'd fallen, both arms useless and hanging at her sides, her gaze lost somewhere in the sky, conscious but with no strength left for anything else. A little farther off, Pier was breathing, flat on his back, someone kneeling beside him counting out loud every time his chest rose. Riku was sitting up, head in his hands, letting someone check his temple without protest. Dara was still unconscious, already on a makeshift stretcher, two people carrying her through the debris toward some point off the field Oliver couldn't quite see. Asha had gotten up on her own, leaning against what was left of a stand, waving off with one hand any help that got too close.
+Around him, what was left of the night moved slowly. Someone, he didn't recognize the face under the vest, was pressing a makeshift bandage against Nadia's arm. She was still sitting where she'd fallen, both arms useless and hanging at her sides, her gaze lost somewhere in the sky, conscious but with no strength left for anything else. A little farther off, Pier was breathing, flat on his back, someone kneeling beside him counting out loud every time his chest rose. Riku was sitting up, head in his hands, letting someone check his temple without protest. Dara was still unconscious, already on a makeshift stretcher, two people carrying her through the debris toward some point off the field Oliver couldn't quite see. Asha had gotten up on her own, leaning against what was left of a stand, waving off with one hand any help that got too close.
 
 Lukas was still stretched out where he'd fallen, his arm at an angle nobody had dared touch yet. Yegor, a few meters off, already sitting up, his gaze fixed on nothing, looking for neither a fight nor company.
 
@@ -44,7 +44,7 @@ Anka lowered her gaze, almost ashamed. A silence passed.
 
 "Thirty doesn't seem like the best age to go blind, though I guess none of them are," Oliver answered, more bitter than funny.
 
-"It's different. You have more..." she replied. "I was never able to copy anything but movements — raw Odem." The clarification seemed to matter to her. "I always depended on my eyes to come out alive, barely whole, from every fight."
+"It's different. You have more..." she replied. "I was never able to copy anything but movements, raw Odem." The clarification seemed to matter to her. "I always depended on my eyes to come out alive, barely whole, from every fight."
 
 Oliver squinted, a lash of pain shooting from behind his eyes all the way down to his neck.
 
@@ -70,7 +70,7 @@ She walked off through the debris, and Oliver was left with her answer still han
 
 ---
 
-The Board updated for the last time a little after two in the morning, projected onto the devices each of them still carried. No one shouted. No one celebrated — by that point, all anyone wanted was to see the final number and sit down.
+The Board updated for the last time a little after two in the morning, projected onto the devices each of them still carried. No one shouted. No one celebrated, by that point, all anyone wanted was to see the final number and sit down.
 
 Dax closed out the top: first, with the same lead he'd carried all week, intact despite everything taken from him that night. Oliver, second, exactly where he'd been since before the final round even started. Johanna came in third despite the loss.
 
@@ -84,7 +84,7 @@ Nobody said it out loud. No one needed to.
 
 In Geneva, at that same hour, the vote was already underway.
 
-Voss saw it coming before it started — the same calculation he always ran, silently, while Furrer finished laying out the motion. AMAT-JP and the two branches Marcus Hale had spent years cultivating from the shadows would vote in favor, out of self-interest more than conviction. The Spanish branch, with Hana's mother on its delegation, probably too — a small social debt, paid off with a gesture that cost nothing real. The four branches that had aligned with Furrer since before Voss ever set foot in this room would vote against it, without needing to hear it twice. That left the rest — the ones who owed nobody anything in particular. Those were always the ones who decided, and always the ones he could predict least.
+Voss saw it coming before it started, the same calculation he always ran, silently, while Furrer finished laying out the motion. AMAT-JP and the two branches Marcus Hale had spent years cultivating from the shadows would vote in favor, out of self-interest more than conviction. The Spanish branch, with Hana's mother on its delegation, probably too, a small social debt, paid off with a gesture that cost nothing real. The four branches that had aligned with Furrer since before Voss ever set foot in this room would vote against it, without needing to hear it twice. That left the rest, the ones who owed nobody anything in particular. Those were always the ones who decided, and always the ones he could predict least.
 
 He stopped counting when he reached the middle of the table. There was no point finishing the tally if the outcome no longer depended on anything he could still change.
 
@@ -100,11 +100,11 @@ Marcus Hale wore the same suit that never wrinkled, the same smile calculated to
 
 "Marcus."
 
-"Viktor." Hale didn't offer his hand, and didn't need to. "I knew this would go this way. Didn't take a fortune-teller — just someone who'd been in this room before."
+"Viktor." Hale didn't offer his hand, and didn't need to. "I knew this would go this way. Didn't take a fortune-teller, just someone who'd been in this room before."
 
 "If you're here to tell me you're sorry, I've had enough courtesy for one day."
 
-"I'm not here to be sorry about anything. I'm here to collect." The smile didn't change, but something behind it did. "You owe me a favor. From a few days ago, when I offered my support on this. I never said when I'd collect it — I'm collecting it now, before you leave this building."
+"I'm not here to be sorry about anything. I'm here to collect." The smile didn't change, but something behind it did. "You owe me a favor. From a few days ago, when I offered my support on this. I never said when I'd collect it. I'm collecting it now, before you leave this building."
 
 "What do you want?"
 
@@ -112,15 +112,15 @@ Marcus Hale wore the same suit that never wrinkled, the same smile calculated to
 
 "For what, exactly?"
 
-"For something that's going to give them what this council just denied them. Legal agent status. Full freedom — no evaluation oversight, no file left open indefinitely." Hale left a beat that wasn't hesitation, just courtesy. "In exchange for a term of service. Missions other agents don't take. The kind of work where a risk classification stops being a number in a report and starts being a condition of employment."
+"For something that's going to give them what this council just denied them. Legal agent status. Full freedom, no evaluation oversight, no file left open indefinitely." Hale left a beat that wasn't hesitation, just courtesy. "In exchange for a term of service. Missions other agents don't take. The kind of work where a risk classification stops being a number in a report and starts being a condition of employment."
 
 Voss looked at him.
 
 "What kind of scheme is this?"
 
-"It's not a scheme. It's a contract with an expiration date." Hale didn't elaborate, and the fact that he didn't was, in itself, the elaboration. "Some finish it quickly. Others never do. The branch that runs it doesn't publish retention statistics — and not for lack of data."
+"It's not a scheme. It's a contract with an expiration date." Hale didn't elaborate, and the fact that he didn't was, in itself, the elaboration. "Some finish it quickly. Others never do. The branch that runs it doesn't publish retention statistics, and not for lack of data."
 
-Voss processed it slowly, piece by piece, the same way he processed anything that changed the shape of a situation completely. Risk with no published figure. Retention with no statistic. An internal name Voss had seen once, years before, in a memo he'd never fully been cleared to read — *Wardogs* — filed away back then as another branch's jargon, irrelevant to his own work.
+Voss processed it slowly, piece by piece, the same way he processed anything that changed the shape of a situation completely. Risk with no published figure. Retention with no statistic. An internal name Voss had seen once, years before, in a memo he'd never fully been cleared to read, *Wardogs*, filed away back then as another branch's jargon, irrelevant to his own work.
 
 It wasn't anymore.
 
@@ -128,7 +128,7 @@ It wasn't anymore.
 
 "I'm not asking you for anything," Hale said. "The council already decided for you five minutes ago. I'm just telling you which door is still open."
 
-"They'll have to decide for themselves. I'm no more their owner than they are their own — you already saw how the vote went," Voss said.
+"They'll have to decide for themselves. I'm no more their owner than they are their own, you already saw how the vote went," Voss said.
 
 "That's true. But AMAT still is." Hale's expression split into something closer to accusation than complicity. "And you're the only one with the power to point them toward the one way out they've got, or to leave them adrift in a system that doesn't see them for what they are. People." And for a second, Voss believed him.
 
@@ -142,4 +142,4 @@ Voss stood alone in the empty hallway, the room still closed behind him.
 
 This wasn't what he'd come to accomplish today.
 
-It was, all the same, what they had gotten — with no vote left for him to ask for, no door of his own left to open. Only the one Hale had just left ajar, leading somewhere Voss hadn't chosen and now had no way to close.
+It was, all the same, what they had gotten, with no vote left for him to ask for, no door of his own left to open. Only the one Hale had just left ajar, leading somewhere Voss hadn't chosen and now had no way to close.

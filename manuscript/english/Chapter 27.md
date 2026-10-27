@@ -4,19 +4,19 @@ The ceiling of the cell had four water stains. Oliver had catalogued them the fi
 
 *Odem. Unbinding.*
 
-The two words had found their slots during the day. Not as abstract concepts — as levers. Every time he tried pulling on them to build something new, the mechanism responded but opened nothing. The same feeling as remembering the right procedure for software you no longer have installed.
+The two words had found their slots during the day. Not as abstract concepts, as levers. Every time he tried pulling on them to build something new, the mechanism responded but opened nothing. The same feeling as remembering the right procedure for software you no longer have installed.
 
-He gave up trying around what he guessed was midnight. There was no clock in the cell. It was a deliberate omission — he'd worked that out on the second day, when he noticed the medical technician kept his in his pocket instead of on his wrist.
+He gave up trying around what he guessed was midnight. There was no clock in the cell. It was a deliberate omission, he'd worked that out on the second day, when he noticed the medical technician kept his in his pocket instead of on his wrist.
 
 The mind, with no fixed point, drifted.
 
 The house had been alone a week now.
 
-Oliver knew it the instant he thought it with that precision, and couldn't stop thinking it. Not the attic where he slept — the whole house, both floors, the shop on the ground level Gary had closed years ago and that was still his in the sense that things nobody resolves stay somebody's. Nobody had shut off the gas. Nobody had checked the mail. There was a plant on the living room windowsill — a cactus, supposedly hardy — that had gone the same number of days without water as Oliver had spent here, and "hardy" was relative depending on the heat.
+Oliver knew it the instant he thought it with that precision, and couldn't stop thinking it. Not the attic where he slept, the whole house, both floors, the shop on the ground level Gary had closed years ago and that was still his in the sense that things nobody resolves stay somebody's. Nobody had shut off the gas. Nobody had checked the mail. There was a plant on the living room windowsill, a cactus, supposedly hardy, that had gone the same number of days without water as Oliver had spent here, and "hardy" was relative depending on the heat.
 
 That was the first thing that really bothered him. Not the cell, not the food on a tray, not the fact that he'd neutralized a paranormal entity and was now in the custody of an organization he hadn't known existed a week ago. What bothered him was the specific image of mail piling up under the door slot. Mail was the kind of problem he knew how to picture. The others didn't have a shape yet.
 
-His job was the second point. Almost two years now at Dunmore, ringing up pledges and half-listening to Farid's radio, and none of that added up to something you could just stop showing up to. He'd missed work without calling in. No phone — they'd asked for his cell the first day, with a courtesy that wasn't really a question — he hadn't been able to call, hadn't been able to send anything. Farid didn't run the shop on policy. He ran it on patience, and Oliver had watched him spend it before on other people: a day, maybe two, no explanation required. After that, the door didn't stay open by itself.
+His job was the second point. Almost two years now at Dunmore, ringing up pledges and half-listening to Farid's radio, and none of that added up to something you could just stop showing up to. He'd missed work without calling in. No phone, they'd asked for his cell the first day, with a courtesy that wasn't really a question, he hadn't been able to call, hadn't been able to send anything. Farid didn't run the shop on policy. He ran it on patience, and Oliver had watched him spend it before on other people: a day, maybe two, no explanation required. After that, the door didn't stay open by itself.
 
 There was no way to know what had happened there. Who had explained what, or whether there was anything to explain, or whether the stool he'd spent two years sitting on was still his.
 
@@ -32,7 +32,7 @@ Five was starting to be.
 
 Oliver didn't know how many he was up to now.
 
-He did know the debt hadn't moved in days. Forty dollars a week, shaved quietly off the six thousand Gary owed Yamal — a balance Oliver had spent almost two years paying down without ever telling his father the payments existed. Gary didn't know the number was shrinking. That was the entire design of it. What Oliver couldn't stop picturing, every time he closed his eyes, was that number sitting exactly where he'd left it, week after week, because there was no way from inside this cell to make it move.
+He did know the debt hadn't moved in days. Forty dollars a week, shaved quietly off the six thousand Gary owed Yamal, a balance Oliver had spent almost two years paying down without ever telling his father the payments existed. Gary didn't know the number was shrinking. That was the entire design of it. What Oliver couldn't stop picturing, every time he closed his eyes, was that number sitting exactly where he'd left it, week after week, because there was no way from inside this cell to make it move.
 
 ---
 
@@ -40,13 +40,13 @@ At what he guessed was one in the morning, he gave up and lay staring at the cei
 
 He had two new words and no answers about his own life, which kept running somewhere without him.
 
-What the man — Oliver's private name for Voss, since Voss hadn't given him one — had handed him was vocabulary. The technical scaffolding for something Oliver had done without knowing he was doing it. It was useful the way having the name of a disease was useful: it didn't change the diagnosis, but at least you could look it up.
+What the man, Oliver's private name for Voss, since Voss hadn't given him one, had handed him was vocabulary. The technical scaffolding for something Oliver had done without knowing he was doing it. It was useful the way having the name of a disease was useful: it didn't change the diagnosis, but at least you could look it up.
 
 He'd been turning the activation problem over since the door closed. The strongest hypothesis was also the most inconvenient: he needed a context he couldn't generate on his own. Grayhaven had had an active entity, Odem in motion at a scale he'd been able to read the way you read the current of a river from inside it. Here there was a cell with slightly wrong proportions and four water stains.
 
 There was no current to read.
 
-What he couldn't determine, without more information, was whether that meant the ability required an external source to activate, or simply required practice he didn't have yet. Two very different hypotheses with very different implications — and it was itself a data point that Voss had chosen not to finish the sentence when Oliver had left it open.
+What he couldn't determine, without more information, was whether that meant the ability required an external source to activate, or simply required practice he didn't have yet. Two very different hypotheses with very different implications, and it was itself a data point that Voss had chosen not to finish the sentence when Oliver had left it open.
 
 He closed his eyes. In the dark, the attic kept existing, the exact geometry of a paused life: the desk with the half-stripped radio he'd been meaning to finish for months, the book left open face-down on the arm of the couch because he'd meant to keep reading it that night, the keys on the hook by the door because that was the only way to not lose them.
 
@@ -54,13 +54,13 @@ He closed his eyes. In the dark, the attic kept existing, the exact geometry of 
 
 Voss arrived in the morning.
 
-Oliver knew before the lock turned — the rhythm was the same as the first time, even, without the variation the others had. He sat up on the edge of the bed.
+Oliver knew before the lock turned, the rhythm was the same as the first time, even, without the variation the others had. He sat up on the edge of the bed.
 
 The door opened.
 
 "Good morning, Oliver."
 
-It was the first time anyone in this building had used his name. Four days — or five, or six, without a clock he couldn't be sure — of forms with "GRH-094-S" and "the subject" and "you" at best. The name sounded different than he'd expected. Not warmer. More precise. As if Voss had calculated that the clinical-distance experiment had reached the point where continuing it cost more than dropping it.
+It was the first time anyone in this building had used his name. Four days, or five, or six, without a clock he couldn't be sure, of forms with "GRH-094-S" and "the subject" and "you" at best. The name sounded different than he'd expected. Not warmer. More precise. As if Voss had calculated that the clinical-distance experiment had reached the point where continuing it cost more than dropping it.
 
 Voss came in and sat down. No file. Nothing in his hands.
 
@@ -68,7 +68,7 @@ Voss came in and sat down. No file. Nothing in his hands.
 
 Oliver waited.
 
-"There's a research and evaluation center under the direct supervision of AMAT's European branch. Eleven years operational. It currently has nine subjects at various stages — evaluation, training, active collaboration with the agency. None with a Registry Domain. That's about to change."
+"There's a research and evaluation center under the direct supervision of AMAT's European branch. Eleven years operational. It currently has nine subjects at various stages, evaluation, training, active collaboration with the agency. None with a Registry Domain. That's about to change."
 
 Oliver processed the grammar before the content.
 
@@ -96,7 +96,7 @@ Oliver got to his feet. There wasn't enough room to pace, but he needed to do so
 
 "My job," he said.
 
-"There's no arrangement between us and the shop — there never needed to be one. We're covering your absence with Yamal directly, on our own initiative. As far as he knows, you're out on unspecified medical leave. Nothing about your position there has changed on paper."
+"There's no arrangement between us and the shop, there never needed to be one. We're covering your absence with Yamal directly, on our own initiative. As far as he knows, you're out on unspecified medical leave. Nothing about your position there has changed on paper."
 
 Oliver turned around.
 
@@ -128,13 +128,13 @@ Oliver looked at him. It was an answer that carried more respect than he'd expec
 
 "Currently, nothing. There's been no contact with his network since your intake. Standard protocol is not to intervene in a subject's personal contacts until the subject can take part in the decision."
 
-Oliver sat back down. Not on the edge of the bed this time — on the floor, back against the wall under the window. It was the most honest posture he could take in a space that wasn't his, and it made everything else feel more honest too.
+Oliver sat back down. Not on the edge of the bed this time, on the floor, back against the wall under the window. It was the most honest posture he could take in a space that wasn't his, and it made everything else feel more honest too.
 
 "He drives trucks," he said. "Long routes. Sometimes days go by between calls. But if he's been trying to reach me since the incident—"
 
 "He's probably tried."
 
-"Then he already knows something's wrong," Oliver said, and this time it didn't sound like a question or a deduction — it sounded like what it was: worry, with no disguise left on it.
+"Then he already knows something's wrong," Oliver said, and this time it didn't sound like a question or a deduction, it sounded like what it was: worry, with no disguise left on it.
 
 "He probably suspects," Voss said. "Knowing is something else. When was the last contact?"
 
@@ -144,11 +144,11 @@ Oliver sat back down. Not on the edge of the bed this time — on the floor, bac
 
 "What story?"
 
-"That's up to you. I can offer you the standard options — a research fellowship abroad, a work assignment under an NDA, a specialized training program. All of them have documentation to back them up. Or you can tell me what you think your father will find convincing. You know him better than the protocol does."
+"That's up to you. I can offer you the standard options, a research fellowship abroad, a work assignment under an NDA, a specialized training program. All of them have documentation to back them up. Or you can tell me what you think your father will find convincing. You know him better than the protocol does."
 
 Oliver thought about Gary. About *Everything okay?* and *good* and the forty a week that had never once required an explanation.
 
-"A fellowship," he said. "Something related to finance or data analysis — closer to the books than to anything technical. With a confidentiality clause explaining why I can't give details about the project." Oliver looked at the floor. "He won't push if the story holds together. He's not the type who pushes."
+"A fellowship," he said. "Something related to finance or data analysis, closer to the books than to anything technical. With a confidentiality clause explaining why I can't give details about the project." Oliver looked at the floor. "He won't push if the story holds together. He's not the type who pushes."
 
 "Will he be able to call you?" Voss asked, raising an eyebrow.
 
@@ -160,7 +160,7 @@ Oliver thought about Gary. About *Everything okay?* and *good* and the forty a w
 
 "Forty-eight hours for the fellowship paperwork. The call can be arranged after that, once he has something to anchor the conversation to."
 
-Oliver looked at the floor. The linoleum had the same design signature as the rest of the facility — functional, no character, the kind that doesn't pretend to be anything more than what it is.
+Oliver looked at the floor. The linoleum had the same design signature as the rest of the facility, functional, no character, the kind that doesn't pretend to be anything more than what it is.
 
 "If I agree to this," he said, "it's not because I don't have another option."
 
@@ -172,11 +172,11 @@ Oliver looked at the floor. The linoleum had the same design signature as the re
 
 "What I'm saying is I want it on record that I understand the difference between choosing this and having no alternative."
 
-Voss looked at him for a moment with the specific attention Oliver had started to recognize — not clinical evaluation, but the attention of someone filing away something they'd found unexpectedly precise.
+Voss looked at him for a moment with the specific attention Oliver had started to recognize, not clinical evaluation, but the attention of someone filing away something they'd found unexpectedly precise.
 
 "Noted," he said.
 
-Oliver said nothing for a while. He looked at the window, the strip of dirt between the two walls, and for a second thought that if he said the words out loud before he was ready, maybe he could still change his mind — as if consent needed silence in between to become real. He didn't change it. It just took longer than anything else had taken since the conversation started.
+Oliver said nothing for a while. He looked at the window, the strip of dirt between the two walls, and for a second thought that if he said the words out loud before he was ready, maybe he could still change his mind, as if consent needed silence in between to become real. He didn't change it. It just took longer than anything else had taken since the conversation started.
 
 "All right," he said, finally, his voice coming out lower than he'd meant it to. "I accept the transfer to the center in Switzerland. Do you need anything else?"
 
@@ -184,7 +184,7 @@ Oliver said nothing for a while. He looked at the window, the strip of dirt betw
 
 Voss stood, turned, and opened the door. He stopped before closing it behind him.
 
-"One more thing," he said before turning his head. "You're smart, Oliver. You had the sense to weigh the possible outcomes and you picked the path of least resistance. You may not realize it yet — you may only be thinking about getting out of this as fast as you can."
+"One more thing," he said before turning his head. "You're smart, Oliver. You had the sense to weigh the possible outcomes and you picked the path of least resistance. You may not realize it yet, you may only be thinking about getting out of this as fast as you can."
 
 Oliver looked at him for a second, not fully following.
 
@@ -196,13 +196,13 @@ And the door closed behind the man.
 
 ---
 
-The silence that followed was different from the silence of the previous days. On the previous days, the silence had been waiting — the sense that something was about to be decided. This was the silence of after something has been decided, which has a completely different texture, and not necessarily a better one.
+The silence that followed was different from the silence of the previous days. On the previous days, the silence had been waiting, the sense that something was about to be decided. This was the silence of after something has been decided, which has a completely different texture, and not necessarily a better one.
 
 Oliver stayed on the floor a while longer.
 
-He'd agreed because the alternatives were worse. That was true, and it was reason enough. But he'd also agreed because Voss had given him something in return — not freedom, not guarantees, but the possibility that Gary would get a coherent story instead of a silence that dragged on until it became unbearable. Both things were true at the same time, and neither one made the other simpler.
+He'd agreed because the alternatives were worse. That was true, and it was reason enough. But he'd also agreed because Voss had given him something in return, not freedom, not guarantees, but the possibility that Gary would get a coherent story instead of a silence that dragged on until it became unbearable. Both things were true at the same time, and neither one made the other simpler.
 
-He wondered at what exact moment Gary would hear the voice on the other end of the phone and decide the story made enough sense to stop asking questions. It was the kind of decision his father made that way — pragmatic, no theatrics. Gary Webb wasn't the type of man who dramatized the things he couldn't change. He was the type who kept driving.
+He wondered at what exact moment Gary would hear the voice on the other end of the phone and decide the story made enough sense to stop asking questions. It was the kind of decision his father made that way, pragmatic, no theatrics. Gary Webb wasn't the type of man who dramatized the things he couldn't change. He was the type who kept driving.
 
 Oliver had inherited that, or at least tried to.
 

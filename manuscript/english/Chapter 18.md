@@ -2,7 +2,7 @@
 
 Oliver had learned to listen to the corridor.
 
-It hadn't been a conscious decision. It was what the brain does when it has no other input — it takes what's there and builds patterns. In three days he'd cataloged three different footstep rhythms: the medical technician's, always in pairs, always at the same hour, with the extra sound of a cart dragging on its left axle; the agent who brought food, lighter, quicker, no pause before opening the door; and whoever did the night round without coming in, just looking through the window and moving on.
+It hadn't been a conscious decision. It was what the brain does when it has no other input, it takes what's there and builds patterns. In three days he'd cataloged three different footstep rhythms: the medical technician's, always in pairs, always at the same hour, with the extra sound of a cart dragging on its left axle; the agent who brought food, lighter, quicker, no pause before opening the door; and whoever did the night round without coming in, just looking through the window and moving on.
 
 These footsteps weren't any of the three.
 
@@ -14,11 +14,11 @@ The lock turned.
 
 ---
 
-The man who walked in carried no tablet, no form, nothing in his hands. He was somewhere past fifty — Oliver placed it by the lines around his eyes, not his hair, which was still dark with only a little gray at the temples — and he moved in a way that took up no more space than it needed. It wasn't how the agents who'd come through in the last three days moved. It was closer to Park's — economical, in that same sense — but different in a way Oliver took a moment to place.
+The man who walked in carried no tablet, no form, nothing in his hands. He was somewhere past fifty, Oliver placed it by the lines around his eyes, not his hair, which was still dark with only a little gray at the temples, and he moved in a way that took up no more space than it needed. It wasn't how the agents who'd come through in the last three days moved. It was closer to Park's, economical, in that same sense, but different in a way Oliver took a moment to place.
 
 Park moved like someone calculating distances. This man moved like someone who already knew them.
 
-He came in, glanced around the room briefly — not like someone getting his bearings, but like someone confirming that what he'd expected to find was what was there — and sat in the only available chair with the calm of a man with nowhere more urgent to be. His accent was hard to place: not American, the kind of accent that forms in someone who's spent decades speaking in contexts where language was a tool for precision, not a marker of origin.
+He came in, glanced around the room briefly, not like someone getting his bearings, but like someone confirming that what he'd expected to find was what was there, and sat in the only available chair with the calm of a man with nowhere more urgent to be. His accent was hard to place: not American, the kind of accent that forms in someone who's spent decades speaking in contexts where language was a tool for precision, not a marker of origin.
 
 He didn't take anything out. He didn't say anything.
 
@@ -42,19 +42,19 @@ Oliver considered that for a second.
 
 In the previous three days, Oliver had had far too much time to try to make sense of what he'd seen.
 
-Not what he'd done at the end — that he could describe, roughly, even missing the words for half the steps. What he couldn't describe, not even to himself, was *the other thing*. The lines. The filaments he'd seen stretching through the city — every cable, every streetlamp, every storm-drain grate on the street, as if something normally invisible had turned legible under a light no one else could see.
+Not what he'd done at the end, that he could describe, roughly, even missing the words for half the steps. What he couldn't describe, not even to himself, was *the other thing*. The lines. The filaments he'd seen stretching through the city, every cable, every streetlamp, every storm-drain grate on the street, as if something normally invisible had turned legible under a light no one else could see.
 
 He'd tried to see them here.
 
-The afternoon of the second day, methodically: close his eyes, try to recall the exact feeling of when the filaments appeared, look for something similar in the cell's walls and ceiling. He'd found nothing. The room was just a room — proportions slightly off, ceiling too low, the kind of space that produced a vague discomfort with no identifiable source. No lines. No trace of what he'd seen during the incident.
+The afternoon of the second day, methodically: close his eyes, try to recall the exact feeling of when the filaments appeared, look for something similar in the cell's walls and ceiling. He'd found nothing. The room was just a room, proportions slightly off, ceiling too low, the kind of space that produced a vague discomfort with no identifiable source. No lines. No trace of what he'd seen during the incident.
 
-He'd tried being more systematic. If that had been visible under certain conditions, those conditions had variables. The entity — he still didn't know exactly what an entity like that was, no one had explained anything — had a scale, an intensity, a duration. Maybe seeing it required an exposure threshold he didn't reach under normal conditions. Maybe it was a response to something specific about that event, not a capability of his own. Maybe what he'd seen wasn't something *he* saw but something that environment made visible to anyone close enough.
+He'd tried being more systematic. If that had been visible under certain conditions, those conditions had variables. The entity, he still didn't know exactly what an entity like that was, no one had explained anything, had a scale, an intensity, a duration. Maybe seeing it required an exposure threshold he didn't reach under normal conditions. Maybe it was a response to something specific about that event, not a capability of his own. Maybe what he'd seen wasn't something *he* saw but something that environment made visible to anyone close enough.
 
 He couldn't rule out any of the three hypotheses.
 
 And then there was the other problem: what he'd done at the end. The moment he'd seen the point where all the lines converged and *pulled* on it with something that wasn't exactly physical force, though it had felt that way. As if he'd grabbed hold of something with no material shape and torn it loose from where it was anchored.
 
-He couldn't reproduce that either. He'd tried mentally, reconstructing the state — the pressure in his chest, the certainty of knowing exactly how far away the point was and at what angle — and the result was always the same: the memory stayed intact, but the ability didn't answer. Like trying to remember the exact moment you learned to balance on a bike. The body knew it. The knowing didn't translate into instructions.
+He couldn't reproduce that either. He'd tried mentally, reconstructing the state, the pressure in his chest, the certainty of knowing exactly how far away the point was and at what angle, and the result was always the same: the memory stayed intact, but the ability didn't answer. Like trying to remember the exact moment you learned to balance on a bike. The body knew it. The knowing didn't translate into instructions.
 
 The man was still watching him.
 
@@ -74,7 +74,7 @@ Oliver processed that.
 
 It was the first time Oliver had heard the word.
 
-He repeated it once, silently, matching it to what he'd seen — the filaments tracing every cable, every streetlamp, every drain grate across the city, the web connecting the entity to the space around it, the point where everything converged. If that was Odem, then what he'd done was read it, and then undo it, at the exact point where the entity held itself together.
+He repeated it once, silently, matching it to what he'd seen, the filaments tracing every cable, every streetlamp, every drain grate across the city, the web connecting the entity to the space around it, the point where everything converged. If that was Odem, then what he'd done was read it, and then undo it, at the exact point where the entity held itself together.
 
 "How many people can see it?" he asked.
 
@@ -82,7 +82,7 @@ He repeated it once, silently, matching it to what he'd seen — the filaments t
 
 "But I saw the structure."
 
-The man didn't answer right away. He watched Oliver with a focus that wasn't clinical in the way Oliver would have expected from someone in this place. It read less like evaluation and more like confirmation — someone checking something he already knew.
+The man didn't answer right away. He watched Oliver with a focus that wasn't clinical in the way Oliver would have expected from someone in this place. It read less like evaluation and more like confirmation, someone checking something he already knew.
 
 "Yes," he said finally. "That's what makes your case what it is."
 
@@ -106,7 +106,7 @@ The man nodded as if that confirmed something he'd already expected.
 
 Oliver looked at him. It was a request, not an order, but underneath it ran the structure of someone used to having his requests answered. He chose his words carefully, deliberately leaving out the terms he'd learned during the incident. He didn't know exactly what might create a problem for someone who probably already had plenty, so he avoided them.
 
-"That what I did needs a context I can't generate on my own. That it's not a capability I can switch on — it's a response to something specific about the situation. But that doesn't explain why I still can't see the lines here, when I was seeing them well before the final moment."
+"That what I did needs a context I can't generate on my own. That it's not a capability I can switch on, it's a response to something specific about the situation. But that doesn't explain why I still can't see the lines here, when I was seeing them well before the final moment."
 
 "It's not a wrong hypothesis," the man said. "But it's incomplete."
 
@@ -116,7 +116,7 @@ The man didn't finish the thought.
 
 ---
 
-Oliver's body had spent three days reminding him he'd survived something. Not dramatically — it wasn't sharp pain, just the accumulation of everything he hadn't let himself feel while he kept moving: the left shoulder that protested when he rotated it, the ribs on his right side that complained on a deep breath, the cheekbone that still hurt to the touch even as the scab closed over. And underneath all of it, something more diffuse — a muscle fatigue that didn't match the physical effort alone. As if his body had processed something it wasn't built for.
+Oliver's body had spent three days reminding him he'd survived something. Not dramatically, it wasn't sharp pain, just the accumulation of everything he hadn't let himself feel while he kept moving: the left shoulder that protested when he rotated it, the ribs on his right side that complained on a deep breath, the cheekbone that still hurt to the touch even as the scab closed over. And underneath all of it, something more diffuse, a muscle fatigue that didn't match the physical effort alone. As if his body had processed something it wasn't built for.
 
 He'd mentioned it to the medical technician on the second day. The technician had written something down and hadn't answered.
 
@@ -152,11 +152,11 @@ The man didn't answer right away.
 
 ---
 
-It wasn't a threat. Oliver had heard threats before — implicit ones, technical ones, the pressure of coworkers who wanted you to stop asking uncomfortable questions. This wasn't that. It was closer to an exposed variable: *this is real, this exists, what do you do with it.*
+It wasn't a threat. Oliver had heard threats before, implicit ones, technical ones, the pressure of coworkers who wanted you to stop asking uncomfortable questions. This wasn't that. It was closer to an exposed variable: *this is real, this exists, what do you do with it.*
 
 The man stood.
 
-"I'll be back tomorrow," he said. "Think about what I asked you about the unbinding. Not how to reproduce it — that'll come on its own. What you felt, exactly, when it happened. There's a difference."
+"I'll be back tomorrow," he said. "Think about what I asked you about the unbinding. Not how to reproduce it, that'll come on its own. What you felt, exactly, when it happened. There's a difference."
 
 He headed for the door.
 
@@ -172,7 +172,7 @@ The door closed.
 
 Oliver kept staring at it.
 
-Then he looked at the room — the wrong proportions, the too-low ceiling, the window that lit nothing — and thought, for the first time with something like clarity, that the problem wasn't figuring out what was going to happen to him.
+Then he looked at the room, the wrong proportions, the too-low ceiling, the window that lit nothing, and thought, for the first time with something like clarity, that the problem wasn't figuring out what was going to happen to him.
 
 The problem was that the man who'd just walked out that door already knew.
 
@@ -180,7 +180,7 @@ He lay back on the bed and looked at the ceiling.
 
 *Odem. Unbinding.*
 
-Two words he hadn't had twenty minutes ago. He repeated them silently, matching them to what he'd seen and what he'd done, building the connections that three days of trying without vocabulary hadn't managed to build. There was something almost ironic in it — that naming things was the first step to understanding them, after naming one thing on a screen was what had started all of this.
+Two words he hadn't had twenty minutes ago. He repeated them silently, matching them to what he'd seen and what he'd done, building the connections that three days of trying without vocabulary hadn't managed to build. There was something almost ironic in it, that naming things was the first step to understanding them, after naming one thing on a screen was what had started all of this.
 
 He closed his eyes.
 

@@ -25,7 +25,7 @@ Ronald "el Pana" Peña llegó al hotel a las siete de la mañana, en una moto qu
 —Mi hermano tenía dieciséis —dijo, sin que Park le preguntara, cinco minutos después de arrancar—. Se fue a pescar al río una tarde y no volvió. Eso fue lo que dijeron los que lo vieron por última vez. Yo no creo que se ahogara. Nadie de por aquí lo cree.
 
 
-Conocía cada atajo de la zona por necesidad, no por gusto — sendas de tierra entre matorrales que ningún vehículo con más de dos ruedas podría tomar, puentes de madera que sonaban a punto de ceder y no cedían nunca. Se saltó dos retenes enteros sin que Park entendiera cómo hasta que Ronald se lo explicó, gritando por encima del motor: conocía a los hombres de turno, o conocía a alguien que los conocía, que en esa parte del país era casi lo mismo.
+Conocía cada atajo de la zona por necesidad, no por gusto, sendas de tierra entre matorrales que ningún vehículo con más de dos ruedas podría tomar, puentes de madera que sonaban a punto de ceder y no cedían nunca. Se saltó dos retenes enteros sin que Park entendiera cómo hasta que Ronald se lo explicó, gritando por encima del motor: conocía a los hombres de turno, o conocía a alguien que los conocía, que en esa parte del país era casi lo mismo.
 
 
 —Usted es la primera persona de afuera que ha venido a preguntar en serio —dijo, en un alto del camino, quitándose el casco para limpiarse el sudor—. La mayoría solo quiere una cita para su reportaje y se va antes de que oscurezca. Espero que usted se quede más tiempo que eso.
@@ -34,7 +34,7 @@ Conocía cada atajo de la zona por necesidad, no por gusto — sendas de tierra 
 Park no le prometió nada. Ronald pareció aceptar eso mejor de lo que Park esperaba, como si llevara tanto tiempo sin promesas que ya no supiera qué hacer con una si se la dieran.
 
 
-El camino se fue estrechando conforme se acercaban a la falda de la montaña — asfalto agrietado, después tierra compactada, después algo que ya no merecía llamarse camino sino simplemente el espacio entre los árboles donde otros habían pasado antes con suficiente frecuencia para que la vegetación no terminara de cerrarse. El aire cambió antes que el paisaje: más húmedo, más quieto, con un peso que a Park le recordó, sin querer, a la primera vez que había sentido el sistema de presión en Alfama — solo que esto no tenía el origen puntual de una marca en una piedra. Esto venía de la montaña entera, como una respiración de fondo que llevaba ahí más tiempo del que Park podía calcular.
+El camino se fue estrechando conforme se acercaban a la falda de la montaña. Asfalto agrietado, después tierra compactada, después algo que ya no merecía llamarse camino sino simplemente el espacio entre los árboles donde otros habían pasado antes con suficiente frecuencia para que la vegetación no terminara de cerrarse. El aire cambió antes que el paisaje: más húmedo, más quieto, con un peso que a Park le recordó, sin querer, a la primera vez que había sentido el sistema de presión en Alfama, solo que esto no tenía el origen puntual de una marca en una piedra. Esto venía de la montaña entera, como una respiración de fondo que llevaba ahí más tiempo del que Park podía calcular.
 
 
 —¿Cuánto falta? —preguntó, gritando por encima del motor.
@@ -58,10 +58,10 @@ El camino se fue estrechando conforme se acercaban a la falda de la montaña —
 ---
 
 
-La casa de Casimira Blanco estaba más adentro de lo que ningún mapa oficial de la zona reconocería como poblado — una construcción de bloque y madera al final de un sendero que el bosque parecía estar reclamando de vuelta centímetro a centímetro. Olía, desde diez metros antes de llegar, a tabaco y a algo dulce y alcohólico por debajo, y el aire tenía el mismo peso denso que Park llevaba aprendiendo a leer desde Lisboa — solo que aquí no venía de ningún punto fijo. Venía de todas partes a la vez, como si el bosque entero respirara despacio.
+La casa de Casimira Blanco estaba más adentro de lo que ningún mapa oficial de la zona reconocería como poblado, una construcción de bloque y madera al final de un sendero que el bosque parecía estar reclamando de vuelta centímetro a centímetro. Olía, desde diez metros antes de llegar, a tabaco y a algo dulce y alcohólico por debajo, y el aire tenía el mismo peso denso que Park llevaba aprendiendo a leer desde Lisboa, solo que aquí no venía de ningún punto fijo. Venía de todas partes a la vez, como si el bosque entero respirara despacio.
 
 
-Casimira los recibió en la puerta con un tabaco a medio fumar entre dos dedos, una mujer de sesenta y tantos años, el pelo blanco recogido bajo un pañuelo rojo, pulseras de cuentas de colores distintos en cada muñeca — una por corte, explicaría después. Llevaba encima el tipo de autoridad tranquila que Park había visto antes en gente que llevaba décadas haciendo el mismo trabajo peligroso sin que el peligro terminara nunca de acostumbrarse a ella. Miró a Ronald con el cariño distraído de quien lo conoce desde niño, le preguntó por su madre sin esperar respuesta completa. Miró a Park, y todo en su cara cambió.
+Casimira los recibió en la puerta con un tabaco a medio fumar entre dos dedos, una mujer de sesenta y tantos años, el pelo blanco recogido bajo un pañuelo rojo, pulseras de cuentas de colores distintos en cada muñeca, una por corte, explicaría después. Llevaba encima el tipo de autoridad tranquila que Park había visto antes en gente que llevaba décadas haciendo el mismo trabajo peligroso sin que el peligro terminara nunca de acostumbrarse a ella. Miró a Ronald con el cariño distraído de quien lo conoce desde niño, le preguntó por su madre sin esperar respuesta completa. Miró a Park, y todo en su cara cambió.
 
 
 ---
@@ -106,7 +106,7 @@ Ronald retrocedió medio paso, sin disimularlo.
 —Soy humano —dijo Park, tan directo como pudo sin que sonara a la clase de mentira que alguien dice cuando no lo es—. Lo que lleva encima es residuo. De trabajo. De sitios donde tuve que enfrentarme a cosas parecidas a lo que sea que está pasando aquí.
 
 
-Casimira lo estudió un momento más, y algo en sus hombros bajó — no del todo alivio, más bien la clase de ajuste que hace alguien acostumbrada a recalibrar rápido cuando la primera lectura no encaja con la segunda.
+Casimira lo estudió un momento más, y algo en sus hombros bajó. No del todo alivio, más bien la clase de ajuste que hace alguien acostumbrada a recalibrar rápido cuando la primera lectura no encaja con la segunda.
 
 
 —Eso explicaría por qué no huele a nada que yo conozca —dijo—. Los espíritus que yo trato tienen origen. Uno los reconoce por dónde nacieron. Usted trae cuatro orígenes distintos pegados a la piel, y ninguno es de aquí. —Recogió el tabaco del suelo, lo sacudió, volvió a encenderlo con manos que ya no temblaban del todo—. Entren. Si de verdad viene a preguntar por lo que yo creo que viene a preguntar, mejor hacerlo sentados.
@@ -124,7 +124,7 @@ Eso pareció bastarle. Entró detrás de Park, aunque se quedó cerca de la puer
 ---
 
 
-Una mujer salió de la habitación del fondo antes de que Casimira terminara de cerrar la puerta — cuarenta y tantos años, una cruz pequeña al cuello, la clase de mirada que ya había juzgado la escena entera antes de que nadie le explicara nada.
+Una mujer salió de la habitación del fondo antes de que Casimira terminara de cerrar la puerta. Cuarenta y tantos años, una cruz pequeña al cuello, la clase de mirada que ya había juzgado la escena entera antes de que nadie le explicara nada.
 
 
 —Mamá —dijo, sin saludar a los recién llegados—, ¿otra vez con las velas y el ron a esta hora? Le dije que un día de estos alguien de esos hombres la va a encontrar aquí sola.
@@ -142,13 +142,13 @@ Casimira no se defendió. Se limitó a servir un vaso más de ron, el quinto, y 
 —Ella no está de acuerdo conmigo en casi nada de esto —le dijo a Park, con una calma que sonaba ya muy practicada—. Pero es la primera en llegar corriendo cuando alguien intenta hacerme daño por negarme a lo que esos hombres piden. Las dos cosas son ciertas al mismo tiempo. Aprenda a vivir con esa clase de contradicción en este país, agente, o no va a entender nada de lo que encuentre aquí.
 
 
-Yolanda no contestó a eso. Se quedó de pie, cerca de la puerta del fondo, sin marcharse del todo — la misma clase de vigilancia reacia que Ronald mantenía desde la entrada, dos personas que no confiaban del todo en lo que estaba pasando en esa mesa, pero tampoco estaban dispuestas a dejar sola a la mujer que las había criado.
+Yolanda no contestó a eso. Se quedó de pie, cerca de la puerta del fondo, sin marcharse del todo, la misma clase de vigilancia reacia que Ronald mantenía desde la entrada, dos personas que no confiaban del todo en lo que estaba pasando en esa mesa, pero tampoco estaban dispuestas a dejar sola a la mujer que las había criado.
 
 
 ---
 
 
-El interior de la casa era una sola habitación grande, dividida más por función que por pared: una mesa con tres copas de licor sin tocar, velas de al menos cinco colores distintos agrupadas por racimos — rojo para un corte, blanco para otro, amarillo para uno que Ronald no supo nombrarle después cuando Park preguntó. En un rincón, una talla de madera de un indígena con arco, junto a otra de un hombre de bata blanca y estetoscopio, y en el centro de todo, más grande que las demás, una foto enmarcada de una mujer con una serpiente enroscada al brazo y un venado a los pies — la reina de la montaña, ninguna duda posible sobre quién era. El humo del tabaco de Casimira se quedaba flotando cerca del techo, sin disiparse del todo, como si el propio aire de la habitación se resistiera a soltarlo. Olía a ron, a cera derretida, y por debajo de todo eso, a tierra — la misma tierra húmeda que Park llevaba oliendo desde que entraron en el sendero.
+El interior de la casa era una sola habitación grande, dividida más por función que por pared: una mesa con tres copas de licor sin tocar, velas de al menos cinco colores distintos agrupadas por racimos. Rojo para un corte, blanco para otro, amarillo para uno que Ronald no supo nombrarle después cuando Park preguntó. En un rincón, una talla de madera de un indígena con arco, junto a otra de un hombre de bata blanca y estetoscopio, y en el centro de todo, más grande que las demás, una foto enmarcada de una mujer con una serpiente enroscada al brazo y un venado a los pies, la reina de la montaña, ninguna duda posible sobre quién era. El humo del tabaco de Casimira se quedaba flotando cerca del techo, sin disiparse del todo, como si el propio aire de la habitación se resistiera a soltarlo. Olía a ron, a cera derretida, y por debajo de todo eso, a tierra, la misma tierra húmeda que Park llevaba oliendo desde que entraron en el sendero.
 
 
 —Llevo meses negándome a hacer algo que un hombre con uniforme me pidió que hiciera —dijo Casimira, sirviendo ron en un cuarto vaso sin que nadie se lo pidiera, dejándolo sobre la mesa sin beberlo—. Otros bancos de la zona no se negaron. Yo sí, y por eso todavía estoy respirando, aunque no sé por cuánto tiempo más.
@@ -172,7 +172,7 @@ Se sirvió un poco del ron que había dejado sin tocar, más por tener algo que 
 —Yo tengo esta casa lejos de todo, y ya no me queda mucho que perder que alguien pueda amenazar con quitarme —dijo Casimira—. Eso no es valentía, agente. Es que ya hice mis cuentas hace tiempo. Desde que empezaron a hacerlo de todos modos, con otros bancos que sí cedieron, algo en la montaña dejó de estar dormido de la forma en que llevaba dormido toda mi vida.
 
 
-Park describió, con el vocabulario más neutro que pudo encontrar, las lecturas que Arismendi le había mostrado antes de salir de Caracas — la velocidad de acumulación, la ausencia total de precedente, el temblor de la noche anterior sin causa que ningún instrumento pudiera nombrar.
+Park describió, con el vocabulario más neutro que pudo encontrar, las lecturas que Arismendi le había mostrado antes de salir de Caracas, la velocidad de acumulación, la ausencia total de precedente, el temblor de la noche anterior sin causa que ningún instrumento pudiera nombrar.
 
 
 Casimira escuchó sin interrumpir. Cuando Park terminó, se quedó callada más tiempo del que la pregunta merecía, el tabaco consumiéndose entre sus dedos sin que ella le diera otra calada.
@@ -190,7 +190,7 @@ Casimira no contestó enseguida. Se levantó, cruzó la habitación hasta la fot
 —Hay historias de esta montaña que ni siquiera se cuentan en las noches de fiesta —dijo, sin girarse—. Historias de antes de que hubiera cortes, antes de que hubiera nombres bonitos para lo que pasa aquí. Yo las oí de mi abuela, que las oyó de la suya. Nunca pensé que fuera a vivir para ver si eran ciertas.
 
 
-Ronald, desde la puerta, no dijo nada. Su mano ya no estaba cerca de la moto — estaba cerca de la de Park, un gesto pequeño, casi involuntario, el de alguien que de pronto necesita saber que hay alguien más cerca capaz de hacer algo si hiciera falta.
+Ronald, desde la puerta, no dijo nada. Su mano ya no estaba cerca de la moto, estaba cerca de la de Park, un gesto pequeño, casi involuntario, el de alguien que de pronto necesita saber que hay alguien más cerca capaz de hacer algo si hiciera falta.
 
 
 Casimira levantó la vista hacia la foto, y por primera vez desde que Park había cruzado la puerta, el miedo en su cara no tenía nada que ver con él.

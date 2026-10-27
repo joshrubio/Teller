@@ -10,10 +10,10 @@ Park eligió lo más fresco. El billete a Miskolc iba a seguir siendo un billete
 ---
 
 
-La fábrica había sido textil, décadas atrás, y llevaba el tiempo suficiente abandonada para que los árboles hubieran empezado a crecer a través de las ventanas rotas. La sección derrumbada era la nave central — un tercio del techo colapsado hacia dentro, vigas de acero oxidado dobladas en ángulos que ningún cálculo estructural normal explicaba. Los servicios de emergencia húngaros ya habían acordonado el perímetro; una ambulancia se llevaba al último de los doce heridos cuando Park llegó, mostrando una credencial que nadie miró con demasiada atención en medio del caos.
+La fábrica había sido textil, décadas atrás, y llevaba el tiempo suficiente abandonada para que los árboles hubieran empezado a crecer a través de las ventanas rotas. La sección derrumbada era la nave central, un tercio del techo colapsado hacia dentro, vigas de acero oxidado dobladas en ángulos que ningún cálculo estructural normal explicaba. Los servicios de emergencia húngaros ya habían acordonado el perímetro; una ambulancia se llevaba al último de los doce heridos cuando Park llegó, mostrando una credencial que nadie miró con demasiada atención en medio del caos.
 
 
-Park lo sintió antes de llegar al cordón policial — el mismo peso ambiental que llevaba aprendiendo a reconocer desde Lisboa, difuso, sin dirección clara, como un dolor de cabeza que viniera de todas partes del edificio a la vez en vez de un punto concreto. No era la presión afilada de un Domain activo. Era más parecido a lo que había sentido cerca de la Saturación en Hartford: algo residual, acumulado, que llevaba tiempo suficiente ahí como para dejar de sentirse como una amenaza puntual y empezar a sentirse como clima.
+Park lo sintió antes de llegar al cordón policial, el mismo peso ambiental que llevaba aprendiendo a reconocer desde Lisboa, difuso, sin dirección clara, como un dolor de cabeza que viniera de todas partes del edificio a la vez en vez de un punto concreto. No era la presión afilada de un Domain activo. Era más parecido a lo que había sentido cerca de la Saturación en Hartford: algo residual, acumulado, que llevaba tiempo suficiente ahí como para dejar de sentirse como una amenaza puntual y empezar a sentirse como clima.
 
 
 Encontró al primer testigo sentado en el bordillo, envuelto en una manta térmica, las manos temblando por algo que no era frío.
@@ -22,19 +22,19 @@ Encontró al primer testigo sentado en el bordillo, envuelto en una manta térmi
 —Vi las paredes respirar —dijo el hombre, en un inglés torpe, sin que nadie se lo preguntara todavía—. Antes de caer. Respiraron hacia adentro, como si algo las hubiera necesitado para inhalar.
 
 
-Una mujer más joven, sentada dos metros más allá, envuelta en la misma clase de manta, añadió algo que el hombre no había dicho — la voz plana, todavía en shock: que un segundo antes del derrumbe había sentido que le faltaba el aire, no por humo, no por polvo, sino como si alguien le hubiera robado una respiración entera del pecho sin tocarla. Ninguno de los dos se conocía. Ninguno de los dos tenía forma de haberse puesto de acuerdo en esa descripción.
+Una mujer más joven, sentada dos metros más allá, envuelta en la misma clase de manta, añadió algo que el hombre no había dicho, la voz plana, todavía en shock: que un segundo antes del derrumbe había sentido que le faltaba el aire, no por humo, no por polvo, sino como si alguien le hubiera robado una respiración entera del pecho sin tocarla. Ninguno de los dos se conocía. Ninguno de los dos tenía forma de haberse puesto de acuerdo en esa descripción.
 
 
-Park no tuvo que traducir eso a ningún vocabulario técnico. Sabía exactamente qué era: un drenaje de Odem violento y sin control, no una detonación como las de Báthory, algo más parecido a lo que Mariana hacía con A Saudade pero sin la disciplina de generaciones detrás. Ambiental, difuso, sin firma de punto que Park pudiera seguir hasta un origen — el mismo problema exacto que Ilona le había descrito en la oficina esa misma mañana. La crisis no esperaba a que Báthory llegara a ningún sitio para manifestarse. Ya estaba ahí, suelta, alimentándose de lo que fuera que la ciudad entera llevaba generando sin saberlo.
+Park no tuvo que traducir eso a ningún vocabulario técnico. Sabía exactamente qué era: un drenaje de Odem violento y sin control, no una detonación como las de Báthory, algo más parecido a lo que Mariana hacía con A Saudade pero sin la disciplina de generaciones detrás. Ambiental, difuso, sin firma de punto que Park pudiera seguir hasta un origen, el mismo problema exacto que Ilona le había descrito en la oficina esa misma mañana. La crisis no esperaba a que Báthory llegara a ningún sitio para manifestarse. Ya estaba ahí, suelta, alimentándose de lo que fuera que la ciudad entera llevaba generando sin saberlo.
 
 
-Se acercó a la viga más cercana y pasó la mano por el metal doblado, buscando algo que no supo nombrar hasta que lo tuvo bajo los dedos: el acero no se había roto por fatiga ni por sobrepeso. Se había plegado hacia adentro, uniforme, como si toda la nave hubiera sido succionada hacia un punto central que ya no estaba ahí para que nadie lo encontrara. No había cráter. No había epicentro. Solo la forma que deja algo al retirarse de golpe, la misma lógica que Salgado le había explicado meses atrás sobre A Saudade — un vacío repentino, no una explosión — aplicada aquí sin la disciplina de generaciones que en Lisboa mantenía el drenaje dentro de límites reconocibles.
+Se acercó a la viga más cercana y pasó la mano por el metal doblado, buscando algo que no supo nombrar hasta que lo tuvo bajo los dedos: el acero no se había roto por fatiga ni por sobrepeso. Se había plegado hacia adentro, uniforme, como si toda la nave hubiera sido succionada hacia un punto central que ya no estaba ahí para que nadie lo encontrara. No había cráter. No había epicentro. Solo la forma que deja algo al retirarse de golpe, la misma lógica que Salgado le había explicado meses atrás sobre A Saudade, un vacío repentino, no una explosión, aplicada aquí sin la disciplina de generaciones que en Lisboa mantenía el drenaje dentro de límites reconocibles.
 
 
 —Agente Park.
 
 
-La voz vino de detrás de él, en un ingles cuidado, con el acento justo para delatar que no era su primera lengua. Park se giró y encontró a una mujer de unos treinta años, abrigo oscuro, una acreditación de AMAT-HU colgada del cuello que Park no reconoció del todo — el diseño era distinto al que Ilona llevaba esa mañana.
+La voz vino de detrás de él, en un ingles cuidado, con el acento justo para delatar que no era su primera lengua. Park se giró y encontró a una mujer de unos treinta años, abrigo oscuro, una acreditación de AMAT-HU colgada del cuello que Park no reconoció del todo, el diseño era distinto al que Ilona llevaba esa mañana.
 
 
 —No nos conocemos —dijo Park, sin tomar la mano todavía.
@@ -43,7 +43,7 @@ La voz vino de detrás de él, en un ingles cuidado, con el acento justo para de
 —Todavía no. —Katalin no pareció ofenderse por la mano que quedó en el aire. La bajó despacio—. Katalin. Vengo por lo mismo que usted, aunque probablemente por razones distintas.
 
 
-Park miró la acreditación con más atención de la que hubiera dedicado a una identificación normal. El formato no coincidía con el de Ilona — un color de banda distinto, un número de serie con un prefijo que no reconocía de ninguna rama europea que hubiera visto hasta ahora.
+Park miró la acreditación con más atención de la que hubiera dedicado a una identificación normal. El formato no coincidía con el de Ilona, un color de banda distinto, un número de serie con un prefijo que no reconocía de ninguna rama europea que hubiera visto hasta ahora.
 
 
 —Ese acceso no es estándar —dijo.
@@ -88,7 +88,7 @@ Park se quedó callado un momento, recalculando todo lo que Ilona le había dich
 ---
 
 
-El viaje a Miskolc lo hicieron en el coche de Katalin, no en tren — dos horas de autopista hacia el noreste, colinas subiendo despacio hacia la frontera con Eslovaquia, el paisaje cambiando de la llanura de Pest a algo más verde y más viejo. Pasaron la primera media hora en silencio, Katalin con las dos manos en el volante y la vista fija en la carretera, Park revisando en el teléfono los mensajes acumulados de Ferreira y Vitória sin llegar a responder ninguno todavía.
+El viaje a Miskolc lo hicieron en el coche de Katalin, no en tren. Dos horas de autopista hacia el noreste, colinas subiendo despacio hacia la frontera con Eslovaquia, el paisaje cambiando de la llanura de Pest a algo más verde y más viejo. Pasaron la primera media hora en silencio, Katalin con las dos manos en el volante y la vista fija en la carretera, Park revisando en el teléfono los mensajes acumulados de Ferreira y Vitória sin llegar a responder ninguno todavía.
 
 
 —¿Hace mucho que sigue a su primo? —preguntó Park, cuando el silencio empezó a pesarle más que las preguntas sin hacer.
@@ -121,7 +121,7 @@ Park no dijo nada. No había una respuesta que no sonara vacía viniendo de él,
 —Es donde va cuando necesita algo que solo esa casa tiene. —Katalin no apartó la vista de la carretera—. Va a tener que preguntármelo con más detalle si quiere una respuesta completa, agente. Y yo voy a tener que decidir cuánto de mi familia estoy dispuesta a enseñarle a un extraño para detener a mi primo.
 
 
-Llegaron a media tarde. La propiedad no era ostentosa — una casa de piedra de dos plantas, un granero convertido en algo que ya no guardaba grano, un jardín descuidado con más historia que mantenimiento, humo de leña saliendo despacio de una chimenea aunque nadie hubiera avisado de su llegada. Un perro viejo levantó la cabeza desde el porche al oír el motor y volvió a bajarla, sin ladrar, como quien ya conoce el sonido de ese coche en particular.
+Llegaron a media tarde. La propiedad no era ostentosa, una casa de piedra de dos plantas, un granero convertido en algo que ya no guardaba grano, un jardín descuidado con más historia que mantenimiento, humo de leña saliendo despacio de una chimenea aunque nadie hubiera avisado de su llegada. Un perro viejo levantó la cabeza desde el porche al oír el motor y volvió a bajarla, sin ladrar, como quien ya conoce el sonido de ese coche en particular.
 
 
 Katalin aparcó junto a la entrada y se quedó un momento con las manos en el volante, sin bajar todavía. Park esperó, sin llenar el silencio, reconociendo en ella la misma clase de pausa que él mismo usaba antes de decir algo que le costaba.
@@ -157,7 +157,7 @@ Abrió la puerta del coche.
 ---
 
 
-Park sintió el peso apenas puso los dos pies en la tierra del jardín — distinto del de la fábrica, distinto del de la Vigília. No difuso, tampoco afilado como un Domain activo. Era quieto. Contenido. El tipo de presión que solo se siente cerca de algo que lleva mucho tiempo aprendiendo a no desbordarse, generación tras generación, hasta que la contención misma se vuelve casi indistinguible de la calma. Miró hacia la parte trasera de la propiedad, donde el terreno bajaba en pendiente suave hacia una línea de árboles que debía terminar, calculó, en la orilla del río.
+Park sintió el peso apenas puso los dos pies en la tierra del jardín. Distinto del de la fábrica, distinto del de la Vigília. No difuso, tampoco afilado como un Domain activo. Era quieto. Contenido. El tipo de presión que solo se siente cerca de algo que lleva mucho tiempo aprendiendo a no desbordarse, generación tras generación, hasta que la contención misma se vuelve casi indistinguible de la calma. Miró hacia la parte trasera de la propiedad, donde el terreno bajaba en pendiente suave hacia una línea de árboles que debía terminar, calculó, en la orilla del río.
 
 
 —Ahí abajo —dijo, no como pregunta.
@@ -166,4 +166,4 @@ Park sintió el peso apenas puso los dos pies en la tierra del jardín — disti
 —Ahí abajo —confirmó Katalin, sin sorprenderse de que lo hubiera sentido tan rápido—. Aprende rápido, agente. Eso, al menos, se lo voy a reconocer antes de que entremos.
 
 
-Caminaron hacia la casa en vez de hacia el río, y Park entendió, sin que nadie se lo dijera, que lo que fuera que Katalin quería enseñarle primero no estaba afuera, sino dentro — algo que hacía falta explicar con palabras antes de dejarlo ver de cerca.
+Caminaron hacia la casa en vez de hacia el río, y Park entendió, sin que nadie se lo dijera, que lo que fuera que Katalin quería enseñarle primero no estaba afuera, sino dentro, algo que hacía falta explicar con palabras antes de dejarlo ver de cerca.

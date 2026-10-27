@@ -2,7 +2,7 @@
 
 Park reached the outdoor rally point at a quarter to eight.
 
-He wasn't first. Yusuf was already there, standing at the edge of the access road, hands in the pockets of his technical jacket, eyes on the line of the valley, still in shadow at that hour. The eastern peaks blocked the sun until nine. The cold was different from the inner courtyard's — cleaner, with the kind of bite that doesn't press, just is.
+He wasn't first. Yusuf was already there, standing at the edge of the access road, hands in the pockets of his technical jacket, eyes on the line of the valley, still in shadow at that hour. The eastern peaks blocked the sun until nine. The cold was different from the inner courtyard's, cleaner, with the kind of bite that doesn't press, just is.
 
 "The perimeter hasn't been checked since November," Yusuf said, without turning his head.
 
@@ -28,21 +28,21 @@ Yusuf spent the session's first twenty minutes completing the mental perimeter s
 
 Hana had confirmed the north access at eight-oh-four: nothing visible, ambient temperature within normal range. Maintenance had reported the east crossing at eight-eleven: footprints in the snow, probably deer, an organic movement pattern.
 
-What maintenance hadn't seen — because Yusuf hadn't told them what to look for with that level of specificity — was the previous day's thermal reading. Brief, right at the edge of the east wing sensor's range. A patch running slightly cooler than the surroundings for four minutes at sixteen minutes past five in the afternoon, then back to normal. It could have been equipment. Could have been an animal on a cold rock. Could have been something drawing heat from the environment without leaving any other kind of trace.
+What maintenance hadn't seen, because Yusuf hadn't told them what to look for with that level of specificity, was the previous day's thermal reading. Brief, right at the edge of the east wing sensor's range. A patch running slightly cooler than the surroundings for four minutes at sixteen minutes past five in the afternoon, then back to normal. It could have been equipment. Could have been an animal on a cold rock. Could have been something drawing heat from the environment without leaving any other kind of trace.
 
 Yusuf filed it away, adjusted the group's position so the exercise would cover the sightline to the reading's location, and continued the session.
 
 ---
 
-The valley opened west from the rally point — a kilometer and a half of gently sloping meadow down to the next shelf of terrain, fir trees closing in the flanks, snow covering everything that wasn't rock or trunk. Oliver came out of the building and took a moment to adjust.
+The valley opened west from the rally point, a kilometer and a half of gently sloping meadow down to the next shelf of terrain, fir trees closing in the flanks, snow covering everything that wasn't rock or trunk. Oliver came out of the building and took a moment to adjust.
 
 It wasn't just the space. It was the signal.
 
-In the inner courtyard, the group's Domains were manageable — separable signatures, low noise, clear thresholds. Out here the air was more. Riku's signature vibrated differently in open space, more scattered, as if the EM field needed more work to stay coherent without walls to contain it. Asha's density, compact and precise in the courtyard, had more slack out here and looked less defined at the edges. And Lev —
+In the inner courtyard, the group's Domains were manageable, separable signatures, low noise, clear thresholds. Out here the air was more. Riku's signature vibrated differently in open space, more scattered, as if the EM field needed more work to stay coherent without walls to contain it. Asha's density, compact and precise in the courtyard, had more slack out here and looked less defined at the edges. And Lev —
 
 Lev was the most interesting part.
 
-In the training courtyard the day before, the Heat signature had been a steady, nearly invisible extraction. Out here, with wind coming down the valley and the outside temperature at minus five, Lev's Domain was doing something different. The space immediately around him was fractionally warmer than the wind should have allowed — not hot, no visible gradient, but perceptible in the Odem as a membrane. He wasn't extracting. He was regulating. Running the passive extraction in reverse to hold his temperature constant with no apparent effort. If Oliver hadn't been specifically hunting for that signature, he would have missed it.
+In the training courtyard the day before, the Heat signature had been a steady, nearly invisible extraction. Out here, with wind coming down the valley and the outside temperature at minus five, Lev's Domain was doing something different. The space immediately around him was fractionally warmer than the wind should have allowed, not hot, no visible gradient, but perceptible in the Odem as a membrane. He wasn't extracting. He was regulating. Running the passive extraction in reverse to hold his temperature constant with no apparent effort. If Oliver hadn't been specifically hunting for that signature, he would have missed it.
 
 Twelve years, Lev would tell him later. Twelve years, and the Domain was simply a condition.
 
@@ -56,13 +56,13 @@ The first part of the session was terrain reconnaissance. Park had them move in 
 
 Oliver used the time to observe.
 
-Riku, on his left, had his gloves on but his left index finger bare — the position Oliver had learned to recognize as a latent Domain, the channel open but not activated. Outdoors the channel took longer to respond; Oliver could see the signature flicker slightly with every adjustment Riku made without being aware he was making it.
+Riku, on his left, had his gloves on but his left index finger bare, the position Oliver had learned to recognize as a latent Domain, the channel open but not activated. Outdoors the channel took longer to respond; Oliver could see the signature flicker slightly with every adjustment Riku made without being aware he was making it.
 
 Dara, further ahead, moved with the efficiency of someone who's spent years learning to read terrain. No Domain active yet, but with the specific posture of someone calculating where a Double would fit, which angles would work, what variables the outdoor space introduced that the stone courtyard didn't have.
 
 Park moved differently.
 
-Oliver had watched him in the east courtyard, in Wednesday's session, in the snowy corridor. But out here, with real space and uneven terrain, something was different. The way Park's feet landed in the snow — his weight distributed so his footprints sat shallower than anyone else's, despite him not being the lightest in the group. Park's Odem signature was more active outdoors than in, more visible, as if the open space gave the passive accumulation more room than the Center's contained walls.
+Oliver had watched him in the east courtyard, in Wednesday's session, in the snowy corridor. But out here, with real space and uneven terrain, something was different. The way Park's feet landed in the snow, his weight distributed so his footprints sat shallower than anyone else's, despite him not being the lightest in the group. Park's Odem signature was more active outdoors than in, more visible, as if the open space gave the passive accumulation more room than the Center's contained walls.
 
 Oliver filed that away mentally. He didn't understand it yet. He noted it anyway.
 
@@ -100,9 +100,9 @@ The second part got more specific. Park split the group and worked with Dara fir
 
 "Double, in open terrain," he said simply.
 
-Dara activated. The Double formed three meters out — solid, functional, the kind of copy that had been reliable in the stone courtyard for weeks. But when Dara moved it toward the north end of the meadow, about twenty meters off, something changed. The Double's edges started losing definition — it didn't vanish, but it flickered, like a signal losing strength with distance.
+Dara activated. The Double formed three meters out, solid, functional, the kind of copy that had been reliable in the stone courtyard for weeks. But when Dara moved it toward the north end of the meadow, about twenty meters off, something changed. The Double's edges started losing definition, it didn't vanish, but it flickered, like a signal losing strength with distance.
 
-Park didn't tell her to pull it back. He threw an object at it from fifteen meters — a flat stone off the ground, not a strike, but the Double had to take it or move. Dara held. The Double took it and held, but the flickering got worse.
+Park didn't tell her to pull it back. He threw an object at it from fifteen meters, a flat stone off the ground, not a strike, but the Double had to take it or move. Dara held. The Double took it and held, but the flickering got worse.
 
 Park repeated it. More distance this time. More force.
 
@@ -110,7 +110,7 @@ The Double held through three impacts, and on the fourth lost cohesion in the ri
 
 Park stopped. He said nothing about the three impacts it had held. Said nothing about the fourth.
 
-Oliver watched Dara's jaw tighten. It wasn't frustration — it was something colder. Classification, he'd thought before. But watching Dara's expression now, Oliver thought it was more specific than that: she was logging Park's method. Not the result. The method. The way Park had pushed exactly to the point of failure without overshooting it — the precision of someone who isn't looking for something to work, but looking to find its real limit.
+Oliver watched Dara's jaw tighten. It wasn't frustration, it was something colder. Classification, he'd thought before. But watching Dara's expression now, Oliver thought it was more specific than that: she was logging Park's method. Not the result. The method. The way Park had pushed exactly to the point of failure without overshooting it, the precision of someone who isn't looking for something to work, but looking to find its real limit.
 
 Dara was dissecting it even as she processed it.
 
@@ -142,7 +142,7 @@ Oliver didn't know how to tell them apart. He'd spent months treating the two as
 
 "They're not the same thing."
 
-The silence that followed wasn't awkward — it was the kind of silence Park used to make sure the person in front of him actually heard what he'd just said. Oliver ran it back. *The body. The Odem. Not the same thing.* The body was the channel. The Odem was what passed through it.
+The silence that followed wasn't awkward, it was the kind of silence Park used to make sure the person in front of him actually heard what he'd just said. Oliver ran it back. *The body. The Odem. Not the same thing.* The body was the channel. The Odem was what passed through it.
 
 "The Odem is in the body, but it isn't the body," he said, with less conviction than he'd wanted.
 
@@ -152,7 +152,7 @@ The silence that followed wasn't awkward — it was the kind of silence Park use
 
 "And you, when you use the copy — what do you do?"
 
-Oliver opened his mouth. He was about to say *I activate it* and stopped, because the question was exactly about that — about what activating meant, about where it happened from. He'd spent weeks assuming that copying meant applying a structure, like running a program. He hadn't thought about who was running it.
+Oliver opened his mouth. He was about to say *I activate it* and stopped, because the question was exactly about that, about what activating meant, about where it happened from. He'd spent weeks assuming that copying meant applying a structure, like running a program. He hadn't thought about who was running it.
 
 Park waited.
 
@@ -166,7 +166,7 @@ Oliver held out both, palms up.
 
 "Don't copy anything. Don't search for anything outside. What's there?"
 
-Oliver searched. He tried to stop looking outward — the group's signatures, Riku's oscillation at the far end of the meadow, Park's signature two meters away. He tried looking the opposite direction, inward, toward his palms.
+Oliver searched. He tried to stop looking outward, the group's signatures, Riku's oscillation at the far end of the meadow, Park's signature two meters away. He tried looking the opposite direction, inward, toward his palms.
 
 He found nothing for several seconds.
 
@@ -176,17 +176,17 @@ He found nothing for several seconds.
 
 Oliver kept at it. The valley cold on his open palms, his breath visible, the gloves he should have left on. No signature. No pattern. No—
 
-There was something. So faint it was barely there — not a frequency, not a density, but something closer to the pressure difference between the air inside a room and the air outside. Perceptible only if he didn't look for it too directly.
+There was something. So faint it was barely there, not a frequency, not a density, but something closer to the pressure difference between the air inside a room and the air outside. Perceptible only if he didn't look for it too directly.
 
 "Something," Oliver said. "Very little. I don't know what it is."
 
 "Only in the hands?"
 
-Oliver expanded his focus. His forearms. His chest, maybe — or maybe that was just his heartbeat. He wasn't sure. It was too faint to say for certain.
+Oliver expanded his focus. His forearms. His chest, maybe, or maybe that was just his heartbeat. He wasn't sure. It was too faint to say for certain.
 
 "I don't know. Maybe the whole body. I can't tell."
 
-Park nodded. Not with satisfaction — with the neutral gesture of someone logging a result and filing it away.
+Park nodded. Not with satisfaction, with the neutral gesture of someone logging a result and filing it away.
 
 "That's enough for today."
 
@@ -202,11 +202,11 @@ They finished as the valley lost its direct light, sometime after four. The grou
 
 Oliver stayed outside a moment, leaning on the low perimeter wall, letting the temperature drop gradually while his breath's steam settled back to normal.
 
-Lev stood three meters to his right, in the same posture. Tired, visible in breathing a little heavier than usual. But functional — without the specific exhaustion Riku had, who'd gone in ten minutes earlier, gloves off, knuckles white from sustained concentration.
+Lev stood three meters to his right, in the same posture. Tired, visible in breathing a little heavier than usual. But functional, without the specific exhaustion Riku had, who'd gone in ten minutes earlier, gloves off, knuckles white from sustained concentration.
 
 "How long did it take you?" Oliver said.
 
-Lev looked at him. Not with hostility — with the attention of someone weighing what's behind the question.
+Lev looked at him. Not with hostility, with the attention of someone weighing what's behind the question.
 
 "For what?"
 
@@ -218,7 +218,7 @@ Lev didn't answer right away. Oliver had learned not to fill that kind of silenc
 
 "Because during the session I barely saw you strain." Oliver measured the words. "The signature didn't fluctuate once."
 
-Lev processed that. He didn't ask how Oliver knew — he already knew how Oliver knew.
+Lev processed that. He didn't ask how Oliver knew, he already knew how Oliver knew.
 
 "How long it took me won't help you," he said, finally. "The conditions are different for everyone. What I learned alone isn't the same as what you're learning with instruction."
 
@@ -232,15 +232,15 @@ Oliver thought about his palms held out in the cold. About the barely perceptibl
 
 "Barely," he said.
 
-"That's enough to start with." Lev paused briefly. "The only direction that works is inward. Not outward. Everything you learn by watching other people, even the copies — all of it runs through what you already have. If you don't know what you have, you don't know what you're using."
+"That's enough to start with." Lev paused briefly. "The only direction that works is inward. Not outward. Everything you learn by watching other people, even the copies, all of it runs through what you already have. If you don't know what you have, you don't know what you're using."
 
-Oliver thought about Park's question — *and you, when you use the copy, where are you applying it from?* Still no answer.
+Oliver thought about Park's question, *and you, when you use the copy, where are you applying it from?* Still no answer.
 
 Lev straightened all the way up.
 
 "About how long it took me" — he said, standing now — "I'm not going to answer that. But if you have other questions, I can listen to them."
 
-He walked off toward the building. Nothing more. Without the warmth of an open invitation — with the precision of someone who's set a condition and left it there.
+He walked off toward the building. Nothing more. Without the warmth of an open invitation, with the precision of someone who's set a condition and left it there.
 
 Oliver stayed another minute. The valley was almost entirely shadow now. Above, in the glassed-in corridor of the north wing, a light came on.
 
@@ -250,7 +250,7 @@ Dinner was at seven.
 
 Oliver arrived at the dining hall with his tray and spotted Sisi before he sat down. She was at the east end of the room, alone on the bench farthest from the entrance, looking at the window facing the night valley. Her coat hung on the back of the bench, hair loose and falling over the right side of her face, her left hand around a glass of water she wasn't drinking.
 
-Oliver thought of Asha. His first week at the Center — coffee, no preamble, her sitting down beside him and saying something direct and waiting. No preparation, none of the formality that would have made the moment more awkward than it needed to be.
+Oliver thought of Asha. His first week at the Center, coffee, no preamble, her sitting down beside him and saying something direct and waiting. No preparation, none of the formality that would have made the moment more awkward than it needed to be.
 
 He picked up his tray and went to the east end.
 
@@ -258,7 +258,7 @@ He sat on the other side of the table, not beside her. Enough distance that it w
 
 "Oliver," he said.
 
-Sisi looked at him. Not with alarm — with the calm evaluation of someone who's spent days cataloguing the Center without the Center knowing it.
+Sisi looked at him. Not with alarm, with the calm evaluation of someone who's spent days cataloguing the Center without the Center knowing it.
 
 "I know."
 
@@ -268,9 +268,9 @@ Sisi looked at him. Not with alarm — with the calm evaluation of someone who's
 
 Oliver ate. Sisi drank some water.
 
-"What are the tests like?" she said, after a moment. The question was direct but unhurried — the tone of someone who wants useful information, not conversation.
+"What are the tests like?" she said, after a moment. The question was direct but unhurried, the tone of someone who wants useful information, not conversation.
 
-"Depends on the week. The first is baseline — Maren documents what you can do, what you can't, how far your control reaches."
+"Depends on the week. The first is baseline, Maren documents what you can do, what you can't, how far your control reaches."
 
 Oliver considered how to describe it.
 
@@ -288,7 +288,7 @@ Oliver said nothing.
 
 "Six months in a room where the door didn't open from the inside." Sisi said it the way someone cites a fact. Not the way someone asks to be told it was wrong. "The protocol said it was preventive custody. That it was for my protection." A pause. "I don't know what they were protecting me from."
 
-The dining hall had its usual background noise — conversations at the other end, someone clearing a tray, the kitchen. Oliver let it sit.
+The dining hall had its usual background noise, conversations at the other end, someone clearing a tray, the kitchen. Oliver let it sit.
 
 "Did you know what you were doing before?" he said, after a moment. "With the Domain."
 
@@ -298,17 +298,17 @@ The dining hall had its usual background noise — conversations at the other en
 
 "Years." She said it without drama. "Since I was sixteen, more or less."
 
-Oliver did the math. If she was twenty-two, twenty-three — years managing something she didn't understand, with no vocabulary, nobody able to tell her what it was. Then six months of containment. Then Voss showing up with an alternative.
+Oliver did the math. If she was twenty-two, twenty-three, years managing something she didn't understand, with no vocabulary, nobody able to tell her what it was. Then six months of containment. Then Voss showing up with an alternative.
 
 He didn't know whether to call that a rescue.
 
 "Here at least there are words for it," Oliver said.
 
-Sisi looked at him. Not with gratitude — with something closer to evaluation. Weighing whether he'd meant it, or whether it was the kind of thing people said to make other people feel better.
+Sisi looked at him. Not with gratitude, with something closer to evaluation. Weighing whether he'd meant it, or whether it was the kind of thing people said to make other people feel better.
 
 "Yeah," she said, finally. "Here there are words."
 
-They kept eating. The conversation didn't end — it just reached a point where both of them had given enough for one night. When Oliver picked up his tray, Sisi was still looking at the window. The valley outside was black and shapeless.
+They kept eating. The conversation didn't end, it just reached a point where both of them had given enough for one night. When Oliver picked up his tray, Sisi was still looking at the window. The valley outside was black and shapeless.
 
 "Good night," Oliver said.
 
