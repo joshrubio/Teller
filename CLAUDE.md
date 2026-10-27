@@ -61,3 +61,8 @@ After delivering a complete chapter, end with:
 
 - Node files: English
 - Prose content: any language
+
+<!-- claude-reflect: learned rules (saved from the band; edit freely) -->
+## Learned rules
+- Avoid colons and parentheses in this novel's prose; replace them with commas or periods instead.
+<!-- end claude-reflect -->
