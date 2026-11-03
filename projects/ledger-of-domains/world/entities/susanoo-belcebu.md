@@ -47,3 +47,9 @@ updated: 2026-10-15
 - Baja caminando por la cresta este con una nube de moscas (lo único que le acompaña). Escala de María Lionza contra Ji-ho: un barrido de brazo borra el ala este de la línea de ER-2 (decenas de muertos sin nombre; Briggs vive a la izquierda del paso), onda de presión, temblor de ~5.8. Calloway lo llama "el señor de las moscas".
 - **Hiere de gravedad a Kino** (Uno-Seis) con dos dedos, "Perdona". Vive. Todos saltan atrás. Su combate con Conti, Calloway y Solheim se acorta; se detiene por curiosidad y **va a bajar a ver "una llama"** (la reserva de Odem); nadie puede frenarlo. Desde 2026-10-28 ya no se sienta ni espera a nadie.
 - Una segunda onda aplasta un tercio del anillo de criaturas de Ladón (incidental, sin reacción).
+
+
+## Cómo lo lee quien lee Odem (decidido 2026-11-03, usuario)
+
+<!-- canonical -->
+Belcebú es un Principado y se reconoce por tres señales. **Cantidad inmensa de Odem**, mayor que cualquier otra que el lector de Odem haya visto. **Peso y espesor**, que se notan en el aire, en la boca, en las muelas. **Capas superpuestas** una sobre otra, efecto de sus encarnaciones pasadas, sin borde y sin número. **Nunca se lee como un hueco ni como una ausencia.** Corregido en Cap170, donde Oliver lo percibía como un hueco que camina.

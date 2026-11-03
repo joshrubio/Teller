@@ -258,20 +258,22 @@ Voss asintió. Se volvió por fin hacia ellos, hacia Oliver y los demás de Vala
 
 Oliver no se movió.
 
-Se había abierto el Registro, sin que lo pidiera, hacia el interior de la isla. No encontró nada. Eso fue lo que lo detuvo. Encontró la selva, la firma lejana de una ciudad colgada de ramas, el murmullo de tres mil personas afinadas a una sola nota, y en medio de todo eso, a dos kilómetros, algo que no estaba.
+Se había abierto el Registro, sin que lo pidiera, hacia el interior de la isla. Encontró la selva, la firma lejana de una ciudad colgada de ramas, el murmullo de tres mil personas afinadas a una sola nota. Y por encima de todo eso, en la ladera, a dos kilómetros, algo que no cabía.
 
-Un sitio donde no había nada. Del tamaño de una persona. Se movía.
+No era una firma. Era una cantidad. Un Odem tan ancho y tan denso que el Registro no lo leía, se apoyaba en él, como una mano que busca una pared y descubre que es el costado de un barco. Pesaba. El aire de la playa se le había vuelto espeso en la boca, y lo notó en las muelas antes de entender por qué.
+
+Intentó encontrarle el borde y no tenía. Había una capa, y debajo otra, y otra más, apiladas unas sobre otras como las hojas de un libro que nadie hubiera terminado de escribir, todas con el mismo gesto de caminar, cada una más vieja que la anterior. Había leído las capas de Calder en un núcleo de Kuji y le habían parecido muchas. Aquello no tenía número.
 
 —Oliver —dijo Voss.
 
-—Hay un hueco —dijo él—. No es una firma. Es un sitio donde no hay.
+—Hay algo en la ladera. —Le salió la voz más baja de lo que quería—. Es Odem. Es demasiado. No he visto nunca tanto junto.
 
 —¿Dónde?
 
-—En la ladera. Camina.
+—En la ladera. Camina. Son muchos, uno encima de otro, y andan a la vez.
 
 —¿Hacia dónde?
 
-Oliver cerró los ojos. Sintió que el hueco giraba despacio hacia el centro, hacia la nota grande, hacia lo único que había bajo la cuenca que pesaba más que él.
+Oliver cerró los ojos. Sintió que aquello giraba despacio hacia el centro de la cuenca, hacia la nota grande de la zarza, y que por primera vez había en la isla algo capaz de medirse con ella.
 
 —Va a bajar —dijo.

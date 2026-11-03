@@ -170,7 +170,15 @@ Solheim abrió los ojos. Sonreía con la mitad de la boca.
 
 —Qué cosa —dijo el joven, y por primera vez miró hacia ella. Dio un paso, y Conti lo vio venir—. Eres la que escucha.
 
-Conti lo vio venir, y por eso cogió a los dos del brazo y se fue.
+Levantó la mano hacia Solheim, sin prisa, con dos dedos extendidos.
+
+Conti se interpuso. No hubo truco. Dio un paso con el hombro por delante, recogió el Odem en el antebrazo hasta ponerlo duro como un remo de roble y recibió la muñeca del joven en la cruz de los brazos. El golpe le subió por los huesos hasta los dientes. Torció el codo y empujó hacia fuera, como se desvía un remo en una corriente, y los dos dedos que iban a abrir un surco en Solheim cortaron la ladera vacía de al lado. Le puso la palma abierta en el esternón, con todo el peso del cuerpo detrás.
+
+El joven retrocedió medio paso. Se miró el pecho, donde la camisa se había arrugado con la forma de una mano.
+
+—Eso sí lo he notado —dijo.
+
+Conti no esperó más. Cogió a los dos del brazo y se fue.
 
 Reapareció treinta metros a la izquierda, en un resalte de roca. La ladera, donde habían estado, se levantó. No hubo golpe visible. Hubo una arruga ancha en el aire y un trozo de monte del tamaño de una cancha de fútbol que subió, se partió y bajó otra vez en trozos, y la onda corrió cuesta abajo hacia la cuenca arrancando helechos a su paso.
 
@@ -191,6 +199,10 @@ El joven se había quedado donde estaba, con la mano extendida, y miraba la lade
 Lo hicieron siete veces en siete minutos.
 
 Conti nunca había contado el tiempo de esa manera. Se lo daban los golpes. Una arruga en el aire y un salto. Un trueno y otro salto. A veces el joven golpeaba con el brazo entero, y la mitad de la ladera subía en pedazos, y las piedras del tamaño de coches pasaban por encima de ellos con un silbido ancho. A veces golpeaba con un dedo y el golpe era solo una línea, que cortaba un tronco de árbol a lo largo y lo dejaba en pie un segundo, antes de que cayera en dos mitades limpias. Conti saltaba. Saltaba con los otros dos, con la mano en un brazo y otra en el cuello, a un resalte, a otro, a la roca del puente de Kino, a un claro de la hondonada, y cada vez que reaparecía había un golpe nuevo donde habían estado.
+
+Entre salto y salto, a veces, no se llevaba a nadie. Reaparecía solo a la espalda del joven, a un paso, y le clavaba la palma en el costado o el canto de la mano en la nuca, con el Odem recogido en la muñeca y el peso entero detrás, y se iba antes de que el cuerpo del otro hubiera acabado de enterarse. Tres veces. A la tercera el joven giró la cabeza buscándolo cuando ya no estaba, y tardó un momento en volver a mirar a Calloway.
+
+—Tú también molestas —dijo, a nadie, con una especie de gratitud.
 
 El sudor le corría por la espalda. No le temblaba la mano. No había motivo todavía.
 
@@ -274,7 +286,21 @@ El joven sonrió. Fue una sonrisa de verdad, y a Conti se le heló la espalda.
 
 —Qué bien —dijo. Y echó a andar por la senda.
 
-Calloway abrió las dos manos a la vez. Solheim escupió la nota más aguda que Conti le había oído, una cuerda tendida entre las rocas que le cruzó el aire por delante. Conti dio un paso, y otro, hasta ponerse a su altura, con la mano abierta. No servía de nada. Lo sabía. El joven siguió andando, con las lanzas rompiéndose contra él como granizo y las moscas deshaciéndose en polvo a su espalda, cada vez con menos prisa por nada, sin una sola mirada de reproche.
+Calloway abrió las dos manos a la vez. Solheim escupió la nota más aguda que Conti le había oído, una cuerda tendida entre las rocas que le cruzó el aire por delante. Conti se adelantó, un paso y otro, hasta quedar a su altura.
+
+Se plantó. Bajó los codos, recogió el Odem en los antebrazos y en las palmas, y entró.
+
+Fueron cuatro intercambios. El joven no atacaba, caminaba, y lo único que podía hacerse era estorbarle el paso. Conti le tomó el brazo en el aire y lo giró hacia dentro. Le tocó el hombro con la base de la mano, y el otro perdió un instante el equilibrio de quien pisa un escalón que no está. Paró un dedo con el antebrazo, y el dedo le abrió la manga hasta el codo y le dejó una raya roja en la piel. A la cuarta le puso la palma en mitad del pecho, con las piernas bien abiertas y todo el cuerpo detrás, como se cierra una puerta que se resiste.
+
+El joven se detuvo. Se miró el pecho, después a Conti, con un interés nuevo y limpio.
+
+—Esto me gusta —dijo—. Esto no es del Domain.
+
+—No. Es de mucho antes.
+
+—Se nota.
+
+Siguió andando. Había perdido unos pasos, apenas, y Conti los había pagado con una manga y con un brazo que le zumbaba hasta el hombro. Las lanzas se rompían contra el joven como granizo y las moscas se deshacían en polvo a su espalda, cada vez con menos prisa por nada, sin una sola mirada de reproche.
 
 Se detuvo a diez pasos de ellos, de pronto, y levantó la mano derecha.
 
