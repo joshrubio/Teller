@@ -98,7 +98,7 @@ El acta cerró a las dieciocho y cuarenta y una. Era un documento de una sola p�
 
 La Uno no hizo ningún discurso.
 
-Se juntaron los once alrededor de la mesa de campaña, a la luz fría de la bombilla de obra, y cada uno hizo lo suyo. Whitfield rezó. Lo hizo de rodillas, sin elevar la voz, con el termo de té a un palmo de la rodilla, y los demás se quedaron callados el tiempo que duró. Calloway cerró su cuaderno. Solheim, con los ojos cerrados, dio un golpe seco con la lengua contra el paladar y escuchó cómo se perdía el eco en la chapa. Harlan repartió chicle. Haddad contó guantes. Kino se agachó, sacó una semilla de la lata que llevaba al cinto y la plantó entre dos grietas del cemento; la semilla brotó en un segundo, una hoja verde que se abrió paso a través de cuarenta años de abandono, y Kino la dejó allí, creciendo.
+Se juntaron los once alrededor de la mesa de campaña, a la luz fría de la bombilla de obra, y cada uno hizo lo suyo. Whitfield rezó. Lo hizo de rodillas, sin elevar la voz, con el termo de té a un palmo de la rodilla, y los demás se quedaron callados el tiempo que duró. Calloway esperó con las manos a la espalda. Solheim, con los ojos cerrados, dio un golpe seco con la lengua contra el paladar y escuchó cómo se perdía el eco en la chapa. Harlan repartió chicle. Haddad contó guantes. Kino se agachó, sacó una semilla de la lata que llevaba al cinto y la plantó entre dos grietas del cemento; la semilla brotó en un segundo, una hoja verde que se abrió paso a través de cuarenta años de abandono, y Kino la dejó allí, creciendo.
 
 Park y Kiki estaban uno junto a otro, sin tocarse, mirando la mesa.
 

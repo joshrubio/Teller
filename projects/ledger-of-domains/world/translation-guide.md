@@ -190,7 +190,7 @@ These recur throughout the book. **Fixed translation, identical every time they 
 | Spanish | Fixed English | Origin |
 |---|---|---|
 | Lo que lleva Odem existe; lo que lo suelta vuelve al polvo. | **What carries Odem exists; what releases it returns to dust.** | `world/odem.md` |
-| Nombrar = activar. | **To name is to activate.** | World rule |
+| ~~Nombrar = activar.~~ | ~~To name is to activate.~~ | **Retired as canon 2026-10-28 (user decision). Do not use.** |
 | Todo se arregla con código. | **Everything can be fixed with code.** | Oliver's defining line |
 | El Odem no empieza en la piel — empieza más adentro. | **Odem doesn't start at the skin—it starts further in.** | Pier, Ch62 (was Ch58 pre-retcon +4 shift) |
 | Lo que ocurrió en esos veinticuatro minutos en Grayhaven no es algo que yo pueda devolverte. | **What happened in those twenty-four minutes in Grayhaven isn't something I can give back to you.** | Park, `Capitulo 58 - Libro 2.md` (was "Ch54" pre-retcon; text confirmed 2026-09-29 to include "en Grayhaven," not in the guide's older transcription — corrected here) |

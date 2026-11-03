@@ -146,7 +146,7 @@ La habitación de la niña daba a la cuenca.
 
 Estaba en el tercer nivel, a diez metros del suelo, con un ventanal sin cristal abierto sobre el techo vivo y la grieta al fondo, y una cama de fibra trenzada hecha con el mismo cuidado que el muelle. Camilo dejó el bulto sobre ella con las dos manos, como si pesara más de lo que pesaba, y le retiró la manta de la cara.
 
-Dormía, con la boca entreabierta y el color de la cera. Del vaso de agua que Camilo había puesto en la mesilla no subía escarcha. Kaspar tardó en comprender qué faltaba. Hacía dos semanas que el frío iba con ella a todas partes: dentro del jeep, de la clínica, del camarote catorce del *Meridiana*. En aquel cuarto, el vaso seguía líquido.
+Dormía, con la boca entreabierta y el color de la cera. Camilo había puesto un vaso de agua en la mesilla, y el vaso seguía allí, quieto, sin que nadie lo tocara.
 
 —Le gusta —dijo Daniel, desde la puerta.
 

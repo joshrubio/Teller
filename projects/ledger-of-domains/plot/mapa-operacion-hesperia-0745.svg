@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" width="100%" font-family="Arial, Helvetica, sans-serif">
+<title>Isla del Coco, 18 de julio, 07:45</title>
+<desc>Mapa de las posiciones al final del Asalto: María Lionza sube por la grieta; Ji-ho, Park, Kiki, Belcebú, Daniel y los trasladados por Conti en el borde; Valais llega; el anillo carga.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect x="0" y="0" width="900" height="720" fill="#FFFFFF"/>
+<text x="16" y="26" font-size="15" font-weight="bold" fill="#2C2C2A">Isla del Coco, 18 de julio, 07:45</text>
+<text x="16" y="44" font-size="12" fill="#5F5E5A">Norte arriba. Cierre del Asalto: todos en el borde de la grieta.</text>
+<ellipse cx="450" cy="320" rx="280" ry="180" fill="#F7F6F1" stroke="#888780" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="450" y="163" font-size="11" fill="#5F5E5A" text-anchor="middle">muelle norte</text>
+<ellipse cx="450" cy="250" rx="120" ry="60" fill="#EEEDFE" stroke="#534AB7" stroke-width="1"/>
+<path d="M 300 300 C 350 360, 430 372, 442 362" fill="none" stroke="#5F5E5A" stroke-width="2.5"/>
+<path d="M 458 362 C 470 372, 550 360, 600 300" fill="none" stroke="#5F5E5A" stroke-width="2.5"/>
+<text x="450" y="382" font-size="11" fill="#5F5E5A" text-anchor="middle">paso</text>
+<text x="590" y="372" font-size="11" fill="#5F5E5A">cresta sur</text>
+<ellipse cx="430" cy="406" rx="40" ry="12" fill="none" stroke="#639922" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="488" y="500" font-size="11" fill="#5F5E5A">playa sur</text>
+<text x="450" y="212" font-size="12" font-weight="bold" fill="#3C3489" text-anchor="middle">Hesperia</text><line x1="170" y1="198" x2="414" y2="262" stroke="#B4B2A9" stroke-width="0.8"/>
+<line x1="170" y1="263" x2="418" y2="300" stroke="#B4B2A9" stroke-width="0.8"/>
+<line x1="170" y1="328" x2="405" y2="336" stroke="#B4B2A9" stroke-width="0.8"/>
+<line x1="170" y1="387" x2="440" y2="352" stroke="#B4B2A9" stroke-width="0.8"/>
+<line x1="170" y1="440" x2="350" y2="342" stroke="#B4B2A9" stroke-width="0.8"/>
+<line x1="170" y1="492" x2="450" y2="470" stroke="#B4B2A9" stroke-width="0.8"/>
+<line x1="738" y1="128" x2="450" y2="150" stroke="#B4B2A9" stroke-width="0.8"/>
+<line x1="738" y1="198" x2="452" y2="262" stroke="#B4B2A9" stroke-width="0.8"/>
+<line x1="738" y1="262" x2="452" y2="288" stroke="#B4B2A9" stroke-width="0.8"/>
+<line x1="738" y1="320" x2="488" y2="290" stroke="#B4B2A9" stroke-width="0.8"/>
+<line x1="738" y1="378" x2="478" y2="314" stroke="#B4B2A9" stroke-width="0.8"/>
+<line x1="738" y1="430" x2="705" y2="300" stroke="#B4B2A9" stroke-width="0.8"/>
+<circle cx="414" cy="262" r="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.5"/>
+<circle cx="418" cy="300" r="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.5"/>
+<circle cx="405" cy="336" r="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.5"/>
+<circle cx="440" cy="352" r="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.5"/>
+<circle cx="350" cy="342" r="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.5"/>
+<circle cx="450" cy="470" r="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.5"/>
+<circle cx="450" cy="150" r="8" fill="#9FE1CB" stroke="#0F6E56" stroke-width="1.5"/>
+<circle cx="452" cy="262" r="8" fill="#F7C1C1" stroke="#A32D2D" stroke-width="1.5"/>
+<circle cx="452" cy="288" r="8" fill="#CECBF6" stroke="#534AB7" stroke-width="1.5"/>
+<circle cx="488" cy="290" r="8" fill="#F7C1C1" stroke="#A32D2D" stroke-width="1.5"/>
+<circle cx="478" cy="314" r="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.5"/>
+<circle cx="705" cy="300" r="8" fill="#B5D4F4" stroke="#185FA5" stroke-width="1.5"/>
+<rect x="8" y="170" width="162" height="56" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.8"/><text x="16" y="187" font-size="12" font-weight="bold" fill="#0C447C">Whitfield y Calloway</text><text x="16" y="201" font-size="11" fill="#185FA5">contra el anillo</text><text x="16" y="213" font-size="11" fill="#185FA5">(Conti los trajo)</text>
+<rect x="8" y="235" width="162" height="56" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.8"/><text x="16" y="252" font-size="12" font-weight="bold" fill="#0C447C">Pier, Sabine, Lev</text><text x="16" y="266" font-size="11" fill="#185FA5">en el anillo</text><text x="16" y="278" font-size="11" fill="#185FA5">(Conti los trajo)</text>
+<rect x="8" y="300" width="162" height="56" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.8"/><text x="16" y="317" font-size="12" font-weight="bold" fill="#0C447C">Oliver, Voss, Riku, Nadia</text><text x="16" y="331" font-size="11" fill="#185FA5">y Harlan, casas del sur</text><text x="16" y="343" font-size="11" fill="#185FA5">vencida la guardia de los 43</text>
+<rect x="8" y="365" width="162" height="44" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.8"/><text x="16" y="382" font-size="12" font-weight="bold" fill="#0C447C">Voronin</text><text x="16" y="396" font-size="11" fill="#185FA5">Coro, ladera sur</text>
+<rect x="8" y="418" width="162" height="44" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.8"/><text x="16" y="435" font-size="12" font-weight="bold" fill="#0C447C">Haddad, Kino y ER-2</text><text x="16" y="449" font-size="11" fill="#185FA5">paso, heridos evacuados</text>
+<rect x="8" y="470" width="162" height="44" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.8"/><text x="16" y="487" font-size="12" font-weight="bold" fill="#0C447C">Playa</text><text x="16" y="501" font-size="11" fill="#185FA5">médicos y apoyo naval</text>
+<rect x="738" y="100" width="154" height="56" rx="6" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.8"/><text x="746" y="117" font-size="12" font-weight="bold" fill="#085041">ER-7</text><text x="746" y="131" font-size="11" fill="#0F6E56">muelle norte, Meridiana</text><text x="746" y="143" font-size="11" fill="#0F6E56">con Marisela y los niños</text>
+<rect x="738" y="164" width="154" height="68" rx="6" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.8"/><text x="746" y="181" font-size="12" font-weight="bold" fill="#791F1F">María Lionza y Ji-ho</text><text x="746" y="195" font-size="11" fill="#A32D2D">en el borde de la grieta</text><text x="746" y="207" font-size="11" fill="#A32D2D">con Daniel, Kaspar, Sisi,</text><text x="746" y="219" font-size="11" fill="#A32D2D">Tomás y Camilo</text>
+<rect x="738" y="240" width="154" height="44" rx="6" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.8"/><text x="746" y="257" font-size="12" font-weight="bold" fill="#3C3489">Bajo la grieta</text><text x="746" y="271" font-size="11" fill="#534AB7">Ladón</text>
+<rect x="738" y="292" width="154" height="56" rx="6" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.8"/><text x="746" y="309" font-size="12" font-weight="bold" fill="#791F1F">Belcebú, Park, Kiki</text><text x="746" y="323" font-size="11" fill="#A32D2D">y Conti, trasladados</text><text x="746" y="335" font-size="11" fill="#A32D2D">al borde</text>
+<rect x="738" y="356" width="154" height="44" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.8"/><text x="746" y="373" font-size="12" font-weight="bold" fill="#0C447C">Asha y Dara</text><text x="746" y="387" font-size="11" fill="#185FA5">pasarelas, sobre el anillo</text>
+<rect x="738" y="408" width="154" height="44" rx="6" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.8"/><text x="746" y="425" font-size="12" font-weight="bold" fill="#0C447C">ER-4</text><text x="746" y="439" font-size="11" fill="#185FA5">acantilado, guarda el hilo</text>
+<circle cx="452" cy="272" r="36" fill="none" stroke="#854F0B" stroke-width="1.2" stroke-dasharray="3 3"/><circle cx="452" cy="272" r="22" fill="#CECBF6" fill-opacity="0.35" stroke="#534AB7" stroke-width="0.8"/><line x1="452" y1="250" x2="452" y2="236" stroke="#A32D2D" stroke-width="1.5" marker-end="url(#a)"/><polyline points="690,262 560,262 500,262" fill="none" stroke="#0F6E56" stroke-width="1.5" stroke-dasharray="2 4" marker-end="url(#a)"/><polyline points="450,362 436,340 420,326" fill="none" stroke="#185FA5" stroke-width="1.5" stroke-dasharray="6 4" marker-end="url(#a)"/><text x="494" y="232" font-size="11" fill="#854F0B">anillo</text><text x="468" y="560" font-size="12" font-weight="bold" fill="#5F5E5A">Barco de mando</text><text x="468" y="576" font-size="11" fill="#5F5E5A">Taeho</text><text x="16" y="704" font-size="11" fill="#5F5E5A">Azul, AMAT. Rojo, Jinetes y su combate. Morado, Hesperia. Verde, refuerzos. Círculo punteado, anillo de criaturas con los civiles dentro. Línea verde, travesía de Ji-ho.</text>
+</svg>

@@ -22,7 +22,7 @@ No lo sabía todavía.
 
 —Está fría.
 
-Kaspar giró la cabeza. La niña, con los ojos cerrados y la boca un poco abierta, tenía el color de la cera. Camilo, sin soltarla, le había puesto una mano en la frente. La retiró enseguida y la miró, como quien se ha quemado con hielo.
+Kaspar giró la cabeza. La niña, con los ojos cerrados y la boca un poco abierta, tenía el color de la cera. Camilo, sin soltarla, le había puesto una mano en la frente. La retiró enseguida y se la quedó mirando, como quien ha tocado algo que no esperaba.
 
 —Es lo que hace —dijo Kaspar.
 

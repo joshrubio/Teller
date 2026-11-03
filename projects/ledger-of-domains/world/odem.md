@@ -165,7 +165,7 @@ Contours are sharper in the mornings from accumulated noise: after hours of perc
 
 <!-- canonical -->
 - "El fallo no aparece. El fallo se comporta."
-- "Nombrar = activar."
+- ~~"Nombrar = activar."~~ **Retirada como canon (2026-10-28, decisión del usuario). No usar.**
 - Lo que lleva Odem existe; lo que lo suelta vuelve al polvo.
 
 **Movidas a `bestiary/grh-094.md` 2026-09-22 (específicas de ese caso, no universales):** "No borra por odio. Borra por equilibrio." / "Como un archivo borrado sin dejar rastro."

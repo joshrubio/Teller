@@ -53,3 +53,11 @@ Primera vez que ve a Oliver en persona: llega al hangar con Voss y los cuatro Wa
 - **Cap162:** el 17 de julio, en Washington, recibe una llamada de treinta segundos y dice "Gracias"; después se queda sin hacer nada.
 
 - **Cap158 (Consejo, 8 jul):** propone a Cartwright como mando conjunto ("por experiencia en el terreno y por neutralidad") y pone a su disposición los Wardogs y sus recursos logísticos.
+
+## Lo que calla (anotado 2026-10-28, ver `plot/operacion-hesperia.md` § 2)
+
+<!-- canonical -->
+- Sabe que los **núcleos de los Wardogs son fragmentos del linaje de Belcebú** y que su reclamo sobre las capas (Kuji, Cap146) no es un efecto local. No avisó a Panamá de que los Wardogs de cada escuadrón (~21 %) quedan expuestos si Belcebú pasa cerca.
+- Sabe de dónde salieron las capas de Lev y Sabine y por qué no son de Belcebú, y lo calla.
+- Su cálculo del 40 % de bajas para ER-5 (Cap161) incluye esto.
+- Cuando Belcebú reclame a los Wardogs, la responsabilidad es suya, no de AMAT.

@@ -44,13 +44,15 @@ Más allá, junto a la maqueta, estaba Calloway, que Park reconoció sin haberlo
 
 Una mujer rubia de pelo ceniza, muy alta, con las manos hundidas en los bolsillos de la chaqueta y los ojos cerrados, parecía escuchar el hangar. De cuando en cuando daba un golpe seco con la lengua contra el paladar y esperaba. *Solheim,* pensó Park, y la lengua volvió a sonar, y el eco de la chapa le dio, por fin, una respuesta que la hizo sonreír.
 
-Un hombre pequeño, moreno, de veintinueve años como mucho, con una lata de conservas atada a un cinturón y una hoja verde asomando por la boca. Kino. Park lo sabía por la ficha. La hoja se movió cuando él se movió; no había viento.
+Un hombre pequeño, moreno, de veintinueve años como mucho, con una lata de conservas atada a un cinturón y tierra seca bajo las uñas. Kino. Park lo sabía por la ficha. Se frotaba las palmas una contra otra, despacio, y la tierra no caía al suelo.
 
 Una mujer con bata verde bajo la chaqueta de campaña, de unos cuarenta y cinco años, que estaba ocupada contando guantes de látex en una caja. Haddad. No levantó la cabeza.
 
 En una esquina, de rodillas sobre una manta de hospital, un anciano delgado hacía flexiones. Despacio. Cuarenta. Cuarenta y uno. Tenía las muñecas finas, los nudillos cargados de cicatrices viejas, y un termo de té a medio metro del hombro. *Whitfield.* Park comprobó que los brazos no le temblaban.
 
 Y detrás de la mesa, un paso por detrás, como si hubiera estado allí desde siempre, con una sotana remendada y el brazo derecho todavía rígido, Andrea Conti. Park no lo había visto llegar. Nadie lo había visto llegar. Conti inclinó la cabeza.
+
+El anciano de las flexiones sí. Había levantado la cabeza hacia la sombra de la mesa un segundo antes, y volvió al suelo sin perder la cuenta. Cuarenta y dos.
 
 —Agente Park.
 

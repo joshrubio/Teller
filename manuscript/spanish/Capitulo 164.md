@@ -12,7 +12,7 @@ No había bajado a la grieta. Daniel se lo había pedido, y él no había pregun
 
 Las seiscientas cuarenta lámparas llevaban encendidas desde las diez y cuarenta. Aquella noche, a esa hora, la isla entera se había abierto de golpe como una mano, y Kaspar, que estaba en el muelle, preguntó. «Visitas de la fundación», había dicho Daniel con su sonrisa de siempre. Kaspar se oyó aceptarlo.
 
-En la cama, Anaís dormía con la boca entreabierta. El pecho le subía y le bajaba despacio. El vaso de agua de la mesilla llevaba diez días sin congelarse, y él había dejado de mirarlo.
+En la cama, Anaís dormía con la boca entreabierta. El pecho le subía y le bajaba despacio.
 
 —No duermes —dijo Sisi.
 
@@ -98,13 +98,13 @@ Daniel lo miró entonces, de frente, con aquella amabilidad suya que parecía la
 
 Se fue por la pasarela hacia el muelle, sin prisa, con las manos vacías. Kaspar se quedó mirando cómo se alejaba. Tuvo la impresión, que no pudo explicarse, de que lo habían tratado con mucha amabilidad.
 
-Hacía años que lo conocía, y nunca se había preguntado cómo era posible que Daniel recordase el destino de cada persona que le había mandado: el nombre, el cuarto, el día. Se lo había agradecido siempre. Ahora lo pensó al revés.
+Hacía cuatro años que lo conocía, y desde el primer día se había preguntado cómo era posible que Daniel recordase el destino de cada persona que le había mandado, el nombre, el cuarto, el día. Había decidido no preguntarlo y agradecérselo. Ahora lo pensó al revés.
 
 Yesenia lo esperaba en el rellano de la escalera, descalza, con el pelo sin trenzar y una piedra pequeña en la mano que se había agrietado en estrella; le pasaba cuando se ponía nerviosa, y no se daba cuenta. Tenía ocho años. Estaba sola.
 
 —Don Martín. ¿Los de la lancha vienen a llevarnos?
 
-Kaspar se agachó hasta ella. Tuvo que hacerlo despacio: la cara de Don Martín tenía sesenta años y las rodillas, setenta y nueve.
+Kaspar se agachó hasta ella. Tuvo que hacerlo despacio: la cara de Don Martín tenía sesenta años y las rodillas, sesenta y nueve.
 
 —No lo sé.
 

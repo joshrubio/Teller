@@ -31,3 +31,19 @@ Sisi sabe, y calla, que lo que vio no es una persona.
 - **Cómo presenta a Ladón a Kaspar (Cap159):** como protección: esconde la isla, "es la razón de que esto se sostenga"; la reserva de Odem bajo la grieta "es de la fundación"; menciona a un huésped en el acantilado este que pidió que lo dejaran en paz.
 
 - **Cap164 (18 jul, 01:50):** llega por primera vez con las manos vacías. Dice a Kaspar que vienen 221 personas a las 02:00 y que lo sabía desde hace diez días: dejó que el reconocimiento viera la isla ("Las islas se encuentran"; "Es mejor esta noche"). Dice "para los que viven aquí" y no "nosotros". "Madre se ocupa." "Basta, Don Martín. Siempre ha bastado." Se va hacia el muelle.
+
+## Línea de tiempo de la relación Kaspar–Daniel (fijada 2026-10-28)
+
+<!-- canonical, fechas aproximadas calculadas desde "cuatro años" (Cap122) y "diez años" (Cap159) -->
+- **~1981-82, Zúrich:** el golpe de Elias Vogt, vasija de entonces del Principado del Tiempo, alcanza a Kaspar Roth y roza a István Herzog (futuro Kaspar). Deja la semilla.
+- **~2008-09:** una vasija anterior del Principado (la madre de Oliver) contacta a Kaspar en un momento de lucidez y le encarga vigilar a Oliver. No es Daniel.
+- **2011, Fukushima:** el Principado ocupa a Daniel Ashworth.
+- **~2016:** empieza a construirse Hesperia y Kaspar manda al primer recluta (el chico de Zúrich de los armarios). Para Kaspar, Daniel es todavía solo la firma al pie de las cartas del Fondo Meridiano.
+- **~2022:** primer encuentro en persona. **Kaspar lo sabe desde ese día**: abre el Registro una sola vez, a escondidas, y ve una firma humana demasiado limpia con capas de épocas debajo. Decide confiar. (Posible lectura, sin confirmar: reconoce la misma resonancia de 2008-09.)
+- **~2022-2026:** cuatro visitas de Daniel en cuatro años. Kaspar le manda reclutas; Daniel recuerda a todos.
+- **~2023:** Kaspar le manda al contable de Ginebra (Cap122, "hace tres años").
+- **Primeros meses de 2026:** Kaspar revisa los libros del Fondo y encuentra el nombre en clave *Hunger* (Cap122).
+- **Cap122, ~junio 2026:** cuarta visita. Interrogatorio sobre Hunger: Daniel no confirma cuánto es suyo. Kaspar cree haber "cobrado" algo real tras cuatro años de paciencia; Daniel sonríe en privado.
+- **Cap159, 8 julio:** Kaspar pisa Hesperia por primera vez. Daniel llegó el 3. "Aquí no hay cerrojos." Kaspar cede por primera vez.
+- **Cap164, 18 julio 01:50:** Daniel le admite que dejó que AMAT viera la isla. Kaspar lo piensa "al revés" y calla.
+- **Cap168, 18 julio 04:40:** Daniel le pide bajar a Anaís a la grieta. Kaspar baja a sabiendas con Anaís, Sisi y Tomás hasta la cámara de la zarza (Ladón, pesebre); acaba con un paso hacia la llama, sin cristalizar.

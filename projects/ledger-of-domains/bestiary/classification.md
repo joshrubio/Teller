@@ -30,6 +30,10 @@ AMAT operational name for the highest category. Taken from Pauline vocabulary or
 
 - **Frequency:** 6 events documented by AMAT since WWII.
 - **Protocol:** AMAT does not contain. Does not neutralize. Monitors and avoids direct contact. Negotiation only from Geneva's highest level.
+- **What a Principado is (clarified by the author, 2026-10-28):** a Potestad large enough to hold dominion over a significant area, either geographic or of existence itself. It is the regent or incarnation of a domain within reality. It sits at the top of the Potestad scale and is the parallel of an agent of Rango S, since it exceeds the classification ceiling.
+- **Principado vs. Rango S:** both are above the ordinary ceiling, but they are not equals. An agent of Rango S is a human with a Dominio and/or experience enough to face, or have faced, Potestades of maximum rank directly, even dispatching them alone (never without cost). A Principado, as the incarnation of a domain, is far stronger than any Rango S. **Author's estimate:** ten Rango S together could fail to stop one, depending on the generation of agents. A Rango S may be only strong enough to face a Principado without dying at once.
+- **Ji-ho is the exception:** a single man who has faced and stopped **two Principados** (one of them Belcebú at Fukushima, 2011; the other is not fixed in the nodes). That is what makes him unique.
+- **Common knowledge inside AMAT:** every agent with enough years in the organization knows all of the above. No character should treat a Principado as news or describe it as something the Top cannot measure. What is news is one being **present**: until Cap166 nobody had said aloud that a Principado was there (Cap166, 2026-10-28, Voronin).
 - **Legacy:** a Principado that manifests and withdraws leaves the local Odem *impregnated* — can last decades or centuries. Spontaneously generates weak Potestades, distorts how human Domains function in the area.
 
 | # | Year | Location | Current status |

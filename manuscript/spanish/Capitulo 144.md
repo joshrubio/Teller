@@ -112,7 +112,7 @@ Su Domain se llamaba Giroscopio: acumulaba la energía de lo que giraba y la dev
 
 Para sostener el giro hacía falta que la arena no se rompiera. Y la arena es una cosa que se rompe.
 
-Desde la iglesia, un hombre de unos setenta años con alzacuellos y un libro de oraciones abierto había visto la figura desde el umbral y se había arrodillado en la nave. Se llamaba Thomas Whitfield y dirigía esa parroquia desde hacía veintidós años. Su Omnisciencia no le daba más que once segundos de alcance, y solo cuando rezaba. Los usó.
+Desde la iglesia, un hombre de unos setenta años con alzacuellos y un libro de oraciones abierto había visto la figura desde el umbral y se había arrodillado en la nave. Se llamaba Thomas Whitfield y dirigía esa parroquia desde hacía veintidós años. Llevaba desde la tarde con un peso sordo en el costado que otros habrían llamado corazonada y que él llamaba, sin discutirlo con nadie, obra del Espíritu. Su Omnisciencia miraba hacia donde él la volvía y duraba lo que durase la oración, hasta el Amén. Rezó.
 
 —*Tres pasos al norte* —dijo en voz alta, con los ojos cerrados, por el canal que Manaia llevaba en el oído—. *Dos al este. Luego se vuelve hacia la costa. Va a levantar la duna a su derecha.*
 
@@ -138,7 +138,7 @@ Troy se quedó de rodillas en la arena firme, con las manos negras hasta la muñ
 
 Fue entonces cuando Rūaumoko, dentro del cristal, habló.
 
-No con boca. Lo dijo como lo dice un suelo cuando se asienta, despacio, en un castellano antiguo y torpe, la lengua de quien la ha aprendido por casualidad. El reverendo Whitfield, que había salido de la iglesia con el libro en la mano, anotó después la frase de memoria, porque una Omnisciencia que rezaba tenía al menos esa utilidad.
+No con boca. Lo dijo como lo dice un suelo cuando se asienta, despacio, en un castellano antiguo y torpe, la lengua de quien la ha aprendido por casualidad. El reverendo Whitfield, que había salido de la iglesia con el libro en la mano, anotó después la frase de memoria, porque una Omnisciencia que se cerraba con el Amén tenía al menos esa utilidad.
 
 —*Yo soy el menor. Hay uno más viejo que mi madre. No está con nosotros.*
 

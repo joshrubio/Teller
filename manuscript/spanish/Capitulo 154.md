@@ -222,7 +222,7 @@ Sisi estaba en la popa, apoyada en la barandilla, con el abrigo puesto, mirando 
 
 Contó.
 
-Era lo que hacía. Contar lo que tenía. Trescientos once, había dicho antes, en otra vida, en un patio. Ahora eran trescientas catorce personas a bordo. Una niña dormida en el camarote catorce, con un vaso de agua en el suelo que ya se había cubierto de escarcha. Un nombre en la boca. Un cerrojo del lado equivocado de una puerta. Tomás, que no se había ido y no había dicho por qué. Casimira, que se había quedado en el banco de la clínica con las manos en el regazo, esperando a alguien que no era de ese barco. Una mente de nueve años que se había quedado un rato en la suya y se había ido con un *gracias.* Una lista de cosas que sabía.
+Era lo que hacía. Contar lo que tenía. Trescientos once, había dicho antes, en otra vida, en un patio. Ahora eran trescientas catorce personas a bordo. Una niña dormida en el camarote catorce. Un nombre en la boca. Un cerrojo del lado equivocado de una puerta. Tomás, que no se había ido y no había dicho por qué. Casimira, que se había quedado en el banco de la clínica con las manos en el regazo, esperando a alguien que no era de ese barco. Una mente de nueve años que se había quedado un rato en la suya y se había ido con un *gracias.* Una lista de cosas que sabía.
 
 Kaspar no era malo.
 

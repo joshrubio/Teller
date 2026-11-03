@@ -234,26 +234,32 @@ Se fue. Oliver se quedó mirando la mancha de la isla.
 
 *18 de julio, 03:07 — borde del dosel, un kilómetro tierra adentro*
 
-Calloway anotó la hora antes de que el anciano acabara de arrodillarse. Era una costumbre inglesa y se la habían quitado todas menos esa.
+Calloway miró la hora antes de que el anciano acabara de arrodillarse. Era la única costumbre inglesa que le habían dejado.
+
+Conti esperaba un paso más atrás, con las manos juntas y la vista puesta en el este, como si llevara allí desde antes de que nadie se lo pidiera.
 
 —Una ventana, padre —dijo Voronin.
 
-Whitfield dijo *Amén*. Calloway cronometró once segundos con la punta del lápiz.
+Whitfield empezó a rezar en voz baja, con los ojos cerrados. Calloway empezó a contar los segundos. Mientras el anciano rezara, sabía; cuando dijera *Amén*, la ventana se cerraría.
 
-Los primeros cuatro fueron del camino. Distancias, raíces, una bifurcación que no estaba en ninguna carta. Calloway lo apuntó. Al quinto, Whitfield giró la cabeza al este y el lápiz dejó de moverse.
+Lo primero fue el camino. Distancias, raíces, una bifurcación que no estaba en ninguna carta. Calloway lo retuvo. Al cabo de unos segundos, Whitfield giró la cabeza al este y Calloway dejó de contar.
 
 —Antiguo —dijo—. No de años: de antes de que hubiera años. Una presión que no tiene dueño y que a veces se sienta en alguien, como una enfermedad de la tierra se sienta en un pueblo. Hartford fue una de sus huellas. Fukushima, otra. Kuji, la tercera. Ahora tiene un cuerpo joven y no lo necesita. No nos ha visto. Cuando nos vea, no nos distinguirá a unos de otros.
 
-Cuatro. Tres.
+Le corría un hilo de sudor frío por la sien hasta el cuello del alzacuellos, y no se limpiaba.
 
 —Y no vino por nosotros. Vino por lo que hay abajo.
 
-El anciano cerró la boca antes del nombre. Calloway apuntó la hora de nuevo, 03:07:11, y no escribió nada más. Había aprendido a distinguir lo que se apunta de lo que se recuerda.
+El anciano dijo *Amén* antes del nombre. Calloway dijo la hora en voz baja, 03:07:11, y no añadió nada más.
 
-Whitfield parpadeó.
+Whitfield abrió los ojos. Tenía la camisa pegada a la espalda y la cara gris. Con los años le costaba más, y esa vez le había costado más que la anterior.
 
-—¿Qué he dicho?
+Lo primero que hizo fue mirar a Conti. Conti le sostuvo la mirada, y en su cara no había sorpresa. Fue un segundo, y no lo vio nadie, porque Voronin tenía los ojos puestos en el este y Calloway los tenía en el suelo. Whitfield lo entendió entonces, y lo que había querido decir en voz alta se le quedó en la boca.
 
-Calloway escribió una palabra al margen, la miró y la tachó. *Exhumación.* Voronin había apretado la mandíbula tan fuerte que le temblaba la sien.
+—¿Algo más, padre? —preguntó Voronin.
+
+—Eso es lo que hay, coronel.
+
+Calloway murmuró una palabra y negó con la cabeza, como quien descarta otra mejor. *Exhumación.* Voronin había apretado la mandíbula tan fuerte que le temblaba la sien.
 
 —*Blyad.* —Lo dijo bajo, sin mover la cara, y era peor que gritar—. Setecientos informes, y ninguno decía esto. Los que firmaron lo sabían o no lo preguntaron. Me da igual cuál de las dos. Que se pudran en Ginebra con su acta y en Washington con sus conejillos de indias.

@@ -15,6 +15,13 @@ updated: 2026-10-15
 
 **Domain: Fulgor.** Todo lo que toca se convierte en arma de luz o forma espectral (nunca materia real, nunca armadura); puede desplegar cantidades monumentales de Odem de golpe, cubriendo un área con constructos luminosos simultáneos.
 
+## Hábitos (fijados 2026-10-28, usuario)
+
+Dos, y ninguno se explota. Usar uno solo cuando la escena lo pida, nunca como cierre de intercambios.
+
+- **Mira la hora.** Lo único inglés que le han dejado. Un vistazo, sin ceremonia. Sin cuaderno ni anotaciones, que se retiraron por parecerse al gesto de Sabine.
+- **Nombra las cosas con referencias clásicas** (Ladón, El Jardín, los lotófagos en el Cap166). Dicho en voz baja, casi para sí, y a veces cortado por Voronin.
+
 ## Libro 3
 
 <!-- canonical -->
@@ -23,3 +30,5 @@ updated: 2026-10-15
 - **Cap148:** admite haber presentado un informe con una vocalización del sujeto de Calama; Furrer reconoce que la omisión fue suya. La estructura de luz de Chuquicamata se espera que dure hasta fin de año.
 
 - **Cap158:** bautiza a la madre de la isla como **Ladón** (Hesíodo: un dragón que guarda un jardín).
+
+- **Cap169:** Fulgor ofensivo (referencias visuales fijadas por el usuario 2026-10-28, sin nombrarlas): descargas de miles de lanzas de luz que salen de grietas doradas en el aire, y líneas de luz blanca que cruzan el valle antes del sonido. Llama a Belcebú "el señor de las moscas". Se presenta como "Edmund".

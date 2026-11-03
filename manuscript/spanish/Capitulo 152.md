@@ -66,9 +66,9 @@ El cuarto de atrás era un almacén. Camilo había dejado dentro un colchón, un
 
 Camilo corrió el cerrojo sin una palabra.
 
-Dentro hacía frío. No el del aire: el de la piel de un muerto reciente. La vela, en el suelo, ardía con una llama baja, azulada, que no se movía. Las paredes estaban húmedas. Y en el colchón, boca arriba, con una manta hasta la barbilla y el pelo castaño extendido sobre la almohada, dormía una niña de diez años.
+Dentro olía a cera y a humedad. La vela, en el suelo, ardía con una llama baja, azulada, que no se movía. Las paredes estaban húmedas. Y en el colchón, boca arriba, con una manta hasta la barbilla y el pelo castaño extendido sobre la almohada, dormía una niña de diez años.
 
-Era pequeña. Eso fue lo primero que registró Sisi. Una niña de diez años, delgada, con la cara redonda y una cicatriz fina en la barbilla, de las que se hacen jugando. Respiraba muy despacio. A su lado, un vaso de agua en el suelo se había cubierto de escarcha.
+Era pequeña. Eso fue lo primero que registró Sisi. Una niña de diez años, delgada, con la cara redonda y una cicatriz fina en la barbilla, de las que se hacen jugando. Respiraba muy despacio.
 
 Casimira, apoyada en el hombro de Tomás, miró a la niña con una expresión que Sisi no supo leer. No era miedo. No era compasión. Era algo más viejo.
 

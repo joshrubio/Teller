@@ -29,7 +29,7 @@ Gente reunida alrededor de "Don Martín" en la falda de Sorte (Libro 2, Cap103; 
 
 Kaspar suma gente que despierta. Los siguientes quedan abiertos para retomarse; Kaspar seguirá añadiendo más.
 
-- **María Lionza / Anaís:** "la sobrina" de Kaspar a bordo, dormida y fría. Sisi guarda su nombre y su brasa. Es el hilo central de Sisi y de la isla (Arco 3).
+- **María Lionza / Anaís:** "la sobrina" de Kaspar a bordo, dormida. Sisi guarda su nombre y su brasa. Es el hilo central de Sisi y de la isla (Arco 3).
 - **Yesenia (~8):** Domain de grietas radiales y objetos levitando (Cap110). Va a bordo. Su futuro espeja el de Camilo y el de Anke.
 - **Marisela Gudiño:** enfermera, despierta *Pulso* (Cap149): presta su ritmo a un corazón que se para y oye los latidos de los demás. Va a bordo con su hija Daniela y su madre. Sostuvo a cinco ocho horas y perdió a doña Carmen.
 - **Josué:** niño del hospital; dice "se te oye el corazón" (Cap149). Despertará un Domain propio, independiente del *Pulso* de Marisela (aún sin definir).

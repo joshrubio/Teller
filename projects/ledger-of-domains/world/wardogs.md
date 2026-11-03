@@ -112,3 +112,8 @@ Los Wardogs son la **segunda oleada**, detrás de la primera de AMAT-Japón (Hay
 
 <!-- canonical -->
 Entre los altos mandos de AMAT, las capas son un **secreto a voces**: todos han oído algo, en un pasillo o en un informe sin firma, de que los Wardogs se usan como conejillos de indias para una tecnología nueva, las **capas**, extraída de los restos de Potestades. Nadie lo ha discutido en un consejo y a ninguno le agrada. En la playa del Cap163 todos los presentes con mando (Voronin, Harlan, Calloway, Solheim, Briggs) tienen la autorización necesaria para oírlo en voz alta; es la primera vez que se habla de las capas abiertamente. Lo que **no sabían** es que el roce de un farol apaga cualquier capa (ver `bestiary/fauna-isla-del-coco.md`).
+
+## Lo que calla Hale (2026-10-28)
+
+<!-- canonical -->
+Hale conoce el origen de los núcleos (linaje de Belcebú) y el reclamo sobre las capas (Kuji, Cap146) y no ha avisado al mando. Los Wardogs expuestos son ~21 % de cada escuadrón; las capas de Lev y Sabine **no** son de Belcebú. Detalle y consecuencias en `plot/operacion-hesperia.md` § 2 y `characters/marcus-hale.md`.

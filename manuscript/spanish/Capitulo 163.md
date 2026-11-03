@@ -58,7 +58,7 @@ Entonces el aire detrás de él se desgarró como un trapo mojado.
 
 Eran nueve, con el sacerdote.
 
-Aparecieron a la vez, repartidos por la playa con la naturalidad de quien no ha cruzado ninguna distancia: Voronin al frente con la mano plana sobre el bolsillo del pecho, Harlan masticando algo, Calloway con una luz de bolsillo en la mano libre y el cuaderno cerrado bajo el brazo, Solheim con los ojos ya cerrados, Kino con la hoja en la boca, Whitfield con el termo todavía en la mano, Haddad contando algo con los dedos, Kiki con la vaina apoyada en la cadera. Conti, un paso más atrás, se quitó el sudor de la frente con la manga de la sotana. Había traído a ocho personas desde un hangar a quinientos kilómetros y no parecía haber hecho nada más que cruzar una puerta.
+Aparecieron a la vez, repartidos por la playa con la naturalidad de quien no ha cruzado ninguna distancia: Voronin al frente con la mano plana sobre el bolsillo del pecho, Harlan masticando algo, Calloway con una luz de bolsillo en la mano libre, Solheim con los ojos ya cerrados, Kino con una lata de conservas al cinto, Whitfield con el termo todavía en la mano, Haddad contando algo con los dedos, Kiki con la vaina apoyada en la cadera. Conti, un paso más atrás, se quitó el sudor de la frente con la manga de la sotana. Había traído a ocho personas desde un hangar a quinientos kilómetros y no parecía haber hecho nada más que cruzar una puerta.
 
 —Nueve —dijo Voronin.
 
@@ -112,7 +112,7 @@ Doce metros. El primero llegó antes. Park plantó el pie izquierdo, recibió la
 
 El segundo estaba ya sobre Haddad.
 
-Una raíz brotó de entre las piedras con un crujido de madera verde, le ató dos patas y tiró. Kino, con la hoja en la boca, no había movido la cabeza. El tractor cayó de costado. Detrás, Harlan se agachó, cogió un guijarro del tamaño de una nuez y lo lanzó bajo el vientre del animal sin mirarlo. El guijarro estalló. El tractor se abrió por debajo y se quedó vacío.
+Una raíz brotó de entre las piedras con un crujido de madera verde, le ató dos patas y tiró. Kino no había movido la cabeza. El tractor cayó de costado. Detrás, Harlan se agachó, cogió un guijarro del tamaño de una nuez y lo lanzó bajo el vientre del animal sin mirarlo. El guijarro estalló. El tractor se abrió por debajo y se quedó vacío.
 
 —Gracias —dijo Haddad, sin levantar la cabeza.
 
@@ -120,7 +120,7 @@ El primero había vuelto. Park le dio una teep en la placa, no para herirlo, par
 
 Una décima parte. Todavía.
 
-Kiki pasó junto a él sin mirarlo y la vaina se abrió. Una pata cayó antes de que nadie la viera caer. Más allá, el anciano Whitfield decía, con una voz muy tranquila, "Diez", y cuando acabó de decirlo ya se había movido a donde iba a estar el tractor, y le metió el hombro en la articulación con la misma exactitud con que se mueve un cajón. La pata se salió. El animal giró sobre sí mismo.
+Kiki pasó junto a él sin mirarlo y la vaina se abrió. Una pata cayó antes de que nadie la viera caer. Más allá, el anciano Whitfield decía, con una voz muy tranquila, "Cinco", y cuando acabó de decirlo ya estaba donde iba a estar el tractor, y le metió el hombro en la articulación con la misma exactitud con que se mueve un cajón. La pata se salió. El animal giró sobre sí mismo. Whitfield volvió a su sitio con los labios apretados y un hilo de sudor bajo el alzacuellos.
 
 —Tres —dijo Calloway, mirando hacia arriba.
 
@@ -144,7 +144,7 @@ Eran planas, grises, sin matrícula, y bajaron la rampa sobre las piedras con un
 
 —No lo diga todavía.
 
-Se cruzaron sin tocarse. Briggs empezó a repartir gente en abanico, con una economía de gestos que a Park le recordó a Cartwright, y en un par de minutos la playa dejó de ser de la Uno. Calloway recogió la mitad de la celosía sin que nadie se lo pidiera. Solheim abrió los ojos. Kino escupió la hoja.
+Se cruzaron sin tocarse. Briggs empezó a repartir gente en abanico, con una economía de gestos que a Park le recordó a Cartwright, y en un par de minutos la playa dejó de ser de la Uno. Calloway recogió la mitad de la celosía sin que nadie se lo pidiera. Solheim abrió los ojos. Kino se sentó sobre una piedra.
 
 Y entonces un farol se soltó.
 
@@ -198,9 +198,11 @@ Eran las dos y treinta y ocho.
 
 ---
 
-Se pusieron en fila a lo largo de la celosía que Calloway no había recogido, de espaldas al mar. Whitfield cerró el termo. Haddad se levantó con las manos limpias. Harlan escupió el chicle. Conti se quedó donde estaba, con la cabeza inclinada, mirando algo que solo él veía. A Park se le taparon los oídos, como en un ascensor que sube demasiado deprisa.
+Se pusieron en fila a lo largo de la celosía que Calloway no había recogido, de espaldas al mar. Whitfield cerró el termo y levantó la cabeza hacia tierra adentro un segundo antes que nadie. Haddad se levantó con las manos limpias. Harlan escupió el chicle. Conti se quedó donde estaba, con la cabeza inclinada, mirando algo que solo él veía. A Park se le taparon los oídos, como en un ascensor que sube demasiado deprisa.
 
 El aire había cambiado de peso. No hubo ruido ni luz; solo la sensación, en el estómago y en los dientes, de que algo muy grande, lejos, acababa de volverse hacia ellos.
+
+—Ya —dijo Whitfield, para nadie. Harlan lo miró, y el anciano se encogió de hombros—. Yo solo lo noto. Lo envía el Espíritu.
 
 Los tractores que quedaban en la playa dejaron de hacer lo que hacían. Los tres. Después los de más allá, entre los árboles, que Park no había visto. Después los faroles, que subieron todos a la vez por encima de la línea del follaje. Se volvieron, todos, sin un ruido, y echaron a andar hacia dentro, hacia el interior, con la misma paciencia con que habían salido.
 
@@ -211,6 +213,8 @@ Los tractores que quedaban en la playa dejaron de hacer lo que hacían. Los tres
 Voronin reabrió el Coro. La orden vino sin voz y a Park le llegó de golpe en el estómago, como una cuerda tirada.
 
 *No se van. Vuelven a casa.*
+
+Y no volvió a cerrarlo. Park lo supo por el mapa, que ya no se apagaba entre una orden y otra, y por la mandíbula de la coronel, que había decidido pagar el enlace entero desde allí hasta la grieta. A partir de ese momento el Coro quedaba abierto.
 
 En el charco que la marea había dejado entre dos piedras, junto a su bota, la superficie tembló una vez.
 

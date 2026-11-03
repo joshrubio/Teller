@@ -22,7 +22,7 @@ Fuerza de asalto principal de AMAT, inspirada en la Delta Force (SFOD-D): pocos 
 - **Edmund Calloway** (#3): estructuras de luz.
 - **Park**: Fuerza, Rango 2. Entra en la unidad por su **movilidad**, como **operador de maniobra libre** (rover, una especie de líbero): sin sector fijo, cubre huecos, refuerza donde la línea cede y puede desplazarse deprisa entre sectores gracias a la Inercia acumulada. Además está encargado de **dar apoyo cercano a Ji-ho** en un momento de la operación y es, en un **acuerdo tácito**, su **relevo contingente** si Ji-ho no llega con vida. Aprende primero la Presión Inversa.
 - **Ki-yeon "Kiki"**: Rango 2, Masa (Zanma). Entra como **segundo rover** junto a Park, por su Domain, y como segundo relevo tácito de Ji-ho. Lleva con el grupo de Valais desde Kuji; su salida a la Uno es una despedida (Cap161).
-- **Thomas Whitfield**: prestado por la Iglesia de Inglaterra; peleador físico con Omnisciencia de once segundos. Ver `characters/colaboradores-anillo-de-fuego.md`.
+- **Thomas Whitfield**: prestado por la Iglesia de Inglaterra; peleador físico con Omnisciencia (precognición de 5 s, clarividencia mientras reza, premonición pasiva). Ver `characters/colaboradores-anillo-de-fuego.md`.
 
 ## Miembros nuevos
 
@@ -37,6 +37,20 @@ Fuerza de asalto principal de AMAT, inspirada en la Delta Force (SFOD-D): pocos 
 - Nombres, edades y orígenes de los miembros nuevos son provisionales hasta que se escriban.
 - Top de AMAT tras Cap148: #1 Ji-ho (fuera de línea), #2 Conti, #3 Calloway, #4 y #5 vacantes por las muertes de Hayashi y Manaia.
 
+## Hábitos (fijados 2026-10-28, usuario)
+
+Dos por miembro. **Regla de uso:** con moderación, como mucho una aparición por hábito y por capítulo, solo si la escena lo pide, nunca como cierre de diálogos ni repartidos a todo el grupo en la misma escena.
+
+- **Voronin:** mano plana sobre el bolsillo del pecho (gesto del Coro). Maldice en ruso solo cuando algo se rompe de verdad, una vez por capítulo como mucho.
+- **Harlan:** chicle, sobre todo antes de una carga. Humor corto y pesimista de Kentucky, una sola frase.
+- **Solheim:** chasquido de lengua para "escuchar" un espacio. Responde con una sola frase y espera sin llenar el silencio.
+- **Kino:** murmura "pelan-pelan" (despacio, en indonesio) a lo que hace crecer. Se frota las manos con tierra al sentarse o al esperar. La hoja en la boca se retiró (2026-10-28). La semilla plantada en el Cap162 es una acción puntual de esa escena, no un hábito.
+- **Whitfield:** termo de té como pausa, no como señal. Frase corta y llana tras usar el Domain ("Yo solo lo noto").
+- **Haddad:** cuenta con los dedos mientras evalúa. Toca la muñeca o el cuello de un herido antes de hablar, nunca durante la cura.
+- **Kiki:** pulgar sobre la guarda de la vaina cuando espera. Mira a cada persona del grupo antes de hablar, como quien ya los ha contado.
+- **Conti:** manos juntas cuando espera. Hace todo con una calma que no es la de nadie más, sin esfuerzo visible.
+- **Calloway:** mira la hora, y nombra las cosas con referencias clásicas (ver su ficha).
+
 ## Indicativos (Cap158, 2026-10-20)
 
 - **Cero:** Ji-ho. **Uno-Uno (Mando):** Voronin. **Uno-Dos (Adjunto, ruptura pesada):** Harlan. **Uno-Tres (cubierta y estructura):** Calloway. **Uno-Cuatro (inserción y extracción):** Conti. **Uno-Cinco (ruptura fina):** Solheim. **Uno-Seis (contención y cobertura):** Kino. **Uno-Siete (ventana):** Whitfield. **Uno-Ocho (sanidad):** Haddad. **Uno-Nueve y Uno-Diez (los Libres):** Park y Kiki.
@@ -48,3 +62,7 @@ Fuerza de asalto principal de AMAT, inspirada en la Delta Force (SFOD-D): pocos 
 - **Cap163 (18 jul, 02:00):** Conti inserta desde Panamá a ocho (Voronin, Harlan, Calloway, Solheim, Kino, Whitfield, Haddad, Kiki) más él. Ji-ho y Taeho esperan en el barco de mando; Park llega saltando del helicóptero. Voronin abre el Coro una vez (Park, Voronin, ocho; la plaza de Cero, vacía). La Uno sale hacia la grieta a las 02:40, dejando la playa a ER-2.
 
 - **Cap165 (03:07):** en el borde del dosel, Voronin pide una ventana a Whitfield. Calloway (que cronometra y escribe *exhumación*) y Voronin ("Blyad. Setecientos informes y ninguno decía esto") entienden que lo del este es mucho más antiguo de lo previsto; Voronin maldice a Ginebra y a Washington.
+
+- **Cap169 (18 jul, 05:00; reescrito 2026-10-28):** **sin baja mortal en la Uno.** Belcebú deja a **Kino gravemente herido** (vivo) y los nueve saltan atrás alarmados. Bajo esa presión, Conti dispersa a la Uno en cuatro viajes: Kino y Haddad a la línea izquierda de ER-2; Park y Kiki a la pared izquierda del paso; Voronin y Whitfield a la roca de la hondonada; Harlan a la playa. Se quedan con Conti en el combate Calloway y Solheim. Whitfield no combate contra Belcebú. Posiciones al día en `plot/operacion-hesperia.md`.
+
+- **Baja prevista (decidida 2026-10-28, corregida 2026-11-02):** muere **Solheim** en la playa hacia las 05:58 (Cap170). Kino vive, inconsciente, atendido por Haddad, que no puede dejarlo. Aún no escrito.

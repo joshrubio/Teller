@@ -79,3 +79,5 @@ En la versión definitiva de Cap135 Kiki **no combate**. Conoce a Riku (evaluaci
 - **Cap147:** sin orden y sin mirar a Voss, baja a parar el desfile; la siguen Riku, Oliver, Dara y Pier (el asalto queda fuera de pantalla, con Conti en la zona). Horas después recibe un mensaje de Park (Ji-ho vivo y maldito; lo de Fukushima fue "algo parecido"; "lo que hubo allí no se despide, se aplaza"). Comenta con Oliver y Riku: "Quince años. Y ni una palabra." Saca la katana un palmo y la vuelve a envainar.
 
 - **Cap158:** llega tarde a la concentración de la SRD-1; es **Uno-Diez, Libre** (segundo rover). Le cuenta a Park lo de Kuji: Riku, Dara, Pier, Asha y Oliver ("me preguntó si necesitaba que mirara algo"); le caen bien, y comprende con quién ha convivido Park. "Si baja alguien, que no sean ellos."
+
+- **Zanma (lore confirmado 2026-10-28):** Ji-ho la hizo hacer en Fukushima (2011) y es de las pocas armas capaces de herir a Belcebú. Cap172: Kiki le da el primer corte real. Se insinúa en el capítulo de Ji-ho (Cap175).

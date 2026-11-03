@@ -270,11 +270,11 @@ Fue a las nueve, con un vaso de agua que Ji-ho no le había pedido. Se sentó en
 
 Ji-ho esperó.
 
-—Ha dejado de tener frío —dijo ella—. Hace unos días. Duerme tibia. —Se pasó la mano por el moño deshecho—. Alguien le ha encontrado una madre.
+—Ha dejado de estar sola —dijo ella—. Hace unos días. Duerme tranquila. —Se pasó la mano por el moño deshecho—. Alguien le ha encontrado una madre.
 
 El aula quedó muy quieta.
 
-Ji-ho sintió que algo, dentro de él, cambiaba de postura al otro lado de un océano. Una cosa vieja, enorme, enroscada, que llevaba más tiempo esperando que los nombres. Y a su lado, ya no sola, otra más pequeña, tibia por primera vez, durmiendo contra ella.
+Ji-ho sintió que algo, dentro de él, cambiaba de postura al otro lado de un océano. Una cosa vieja, enorme, enroscada, que llevaba más tiempo esperando que los nombres. Y a su lado, ya no sola, otra más pequeña, tranquila por primera vez, durmiendo contra ella.
 
 No fue sorpresa. Fue algo mucho más antiguo.
 

@@ -83,4 +83,4 @@ Aparece sin nombrar, como "lo que Kaspar encontró en el monte" y, en clave inte
 ## Libro 3, Línea C (Cap149-154, sincronizado 2026-10-20)
 
 <!-- canonical -->
-Dormida y fría tras Cap131; deja geranios negros, escarcha en un vaso, una herida que no cierra. Dentro, las voces de las víctimas de los rituales y, bajo ellas, una brasa: la niña vaso, cuyo nombre es **Anaís** (lo recupera Sisi en Cap152 y lo guarda). Embarca en el *Meridiana* como "la sobrina" de Kaspar; la mayoría la ve como una niña.
+Dormida tras Cap131; deja geranios negros a su paso (corrupción pasiva del Hambre) y una herida que no cierra. **No hiela ni deja escarcha** (retirado 2026-10-28: se había colado en Cap150, 152, 154, 159, 164 y 168 y se eliminó). Dentro, las voces de las víctimas de los rituales y, bajo ellas, una brasa: la niña vaso, cuyo nombre es **Anaís** (lo recupera Sisi en Cap152 y lo guarda). Embarca en el *Meridiana* como "la sobrina" de Kaspar; la mayoría la ve como una niña.

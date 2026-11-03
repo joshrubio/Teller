@@ -61,6 +61,10 @@ Ascending: **Rango 4 → 3 → 2 → 1 → S**
 | **1** | Agente de Élite | Autonomous Nivel 1. Principado approach protocol. No scale limit with team | Achievable ceiling. Dozens in AMAT globally. Voss = Rango 1. Cartwright = Rango 1. |
 | **S** | Agente Primordial | Direct Principado contact protocol. No operational superior in field. Coordinates exclusively with Geneva Director | Fewer than 10 in the world. Not earned by missions — direct Director designation. Ji-ho (Park's uncle) = Rango S. |
 
+**Rango S, clarified 2026-10-28 (author).** Rango S is not a solid ceiling. It is the rank reached by surpassing the most common maximum ceiling, which is that of Rango 1. An agent of Rango S is an ordinary human with a Dominio and/or experience enough to face, or have faced, Potestades of maximum rank directly, and even to dispatch them alone, though not without cost. Some are barely strong enough to face a Principado without dying at once. Ji-ho can face one or more Principados without dying, and has stopped two. Even so, a Principado, as the incarnation of a domain, is far above any Rango S (see `bestiary/classification.md`). Every agent with enough years in AMAT knows this, so it must never be explained to them in a scene as news.
+
+**Protocol reminder.** Contact with a Principado is reserved to Rango S. Rango 1 only holds the approach protocol.
+
 ## Institutional positions (outside operational scale)
 
 | Position | Description | Example |

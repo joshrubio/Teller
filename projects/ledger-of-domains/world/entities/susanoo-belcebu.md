@@ -40,3 +40,10 @@ updated: 2026-10-15
 - Qué quiso decir su mirada a Mizuno.
 
 - **Cap159 (Isla del Coco):** ya está en la isla, en un acantilado del este: Kaspar lo nota con el Registro como una quietud blanca y joven sin eco, que no canta; su Sustento se retira como de un hierro frío. Daniel lo llama "un huésped" que llegó la semana anterior y pidió que lo dejaran en paz.
+
+## Cap169 (18 jul, 04:58-05:28)
+
+<!-- canonical -->
+- Baja caminando por la cresta este con una nube de moscas (lo único que le acompaña). Escala de María Lionza contra Ji-ho: un barrido de brazo borra el ala este de la línea de ER-2 (decenas de muertos sin nombre; Briggs vive a la izquierda del paso), onda de presión, temblor de ~5.8. Calloway lo llama "el señor de las moscas".
+- **Hiere de gravedad a Kino** (Uno-Seis) con dos dedos, "Perdona". Vive. Todos saltan atrás. Su combate con Conti, Calloway y Solheim se acorta; se detiene por curiosidad y **va a bajar a ver "una llama"** (la reserva de Odem); nadie puede frenarlo. Desde 2026-10-28 ya no se sienta ni espera a nadie.
+- Una segunda onda aplasta un tercio del anillo de criaturas de Ladón (incidental, sin reacción).

@@ -2,7 +2,7 @@
 id: state
 type: project-state
 project: ledger-of-domains
-updated: 2026-10-15
+updated: 2026-11-03
 ---
 
 # Project State — Ledger of Domains
@@ -16,8 +16,8 @@ updated: 2026-10-15
 | | |
 |---|---|
 | **Status** | **Libro 2 COMPLETO (Cap1-122). Libro 3, Arco 1 (El Origen de Kaspar / Kaspar's Origin, Cap123-129) COMPLETO. Arco 2 (Evento Cataclísmico / Cataclysm Event) sincronizado hasta el Cap154 (Kuji, cierre institucional e mini-arco Secuelas / Aftermath).** Cap130-131 (Ji-ho/María Lionza/Kaspar), línea A (Oliver/Japón: 133, 135, 136, 138, 140, 142, 145, 146, 147), línea B (Park/Venezuela: 132, 134, 137, 139, 141, 143) y el cruce Cap144. Cap148 (cierre institucional) y Cap149-154 (línea C, Secuelas / Aftermath) revisados y sincronizados 2026-10-20. **Arco 3 (Hesperia) empezado: Cap155-157, tramo 1 (El Reconocimiento) escrito.** |
-| **Last written (sincronizado)** | Cap 165 — El Jardín (Voss / Oliver / Calloway, 2026-10-23); antes, Cap 164 (Kaspar) y Cap 163 (Park): abren el tramo 3 (Llegada y Convergencia) del Arco 3. |
-| **Next** | **Arco 3, tramo 3 (Cap164-171):** plan provisional en `plot/arc-hesperia.md` § Tramo 3. Siguiente: Cap166 (línea B, Park, la Uno avanza hacia la grieta, 03:30). |
+| **Last written (sincronizado)** | Cap 171 — Los cuatro (Kaspar, 2026-11-03); antes Cap170 (Taeho / Calloway / Oliver), Cap169 (Conti), Cap168 (Kaspar), Cap167 (Terreno) y Cap166 (Park): cierran el tramo 3 (Llegada y Convergencia) del Arco 3. |
+| **Next** | **Arco 3, tramo 4 (Asalto, Cap172-178):** guía de geografía, frentes, posiciones y cronología en `plot/operacion-hesperia.md` (mapas en `plot/mapa-operacion-hesperia-*.svg`). Siguiente: Cap172 (línea B, Park, ~06:25 a 06:55: lámparas relit, Park se une a Valais en el paso). |
 | **Active arc** | **Libro 3, Arco 2 cerrado (Cap147-154); Arco 3 por empezar (abre con la isla).** |
 
 > Corrección 2026-07-27: este archivo estaba desactualizado — daba Libro 2 como "planning phase, Cap38 planeado" cuando en realidad ya estaba escrito (manuscrito real, no stubs). **Nota 2026-08-05:** toda la numeración de este archivo es la fusionada post-LoD+BSA (y post-retirada de Cap24) — ver `chapters/index.md` para la tabla completa. El resto de este documento (sección "Where we are" abajo) todavía narra la sesión en numeración vieja pre-fusión en varios tramos — se deja como registro histórico, no se retroconvierte. **Nota 2026-09-28 — retcon "El Cobro" ejecutado, manuscrito y traducción al inglés completos** (ver `plot/retcon-el-cobro.md`): Cap0-7 (prólogo "Vigilancia" + Kessler/prácticas eléctricas) quedaron reemplazados por 11 capítulos nuevos, Cap1-11 (Farid Yamal, Empeños Yamal, "REGISTRO SALDADO"), y todo capítulo antiguo Cap8 en adelante (hasta el viejo Cap128) se renumeró +4 en el manuscrito real (español e inglés). La numeración de este archivo (Current position arriba, y cualquier "CapN" en las secciones siguientes marcado explícitamente como fusionada) ya refleja la numeración post-retcon; los tramos ya señalados arriba como "numeración vieja pre-fusión" no se tocaron — ver esa nota.

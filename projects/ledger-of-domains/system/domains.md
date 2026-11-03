@@ -65,7 +65,7 @@ updated: 2026-06-17
 | Manaia Ngata | Giroscopio | Acumula energía de lo que gira (Cap144) |
 | Mateo Riquelme | Veta | Forja la roca (Cap144) |
 | Troy Fonoti | Fuego | Vitrifica la playa (Cap144) |
-| Thomas Whitfield | Omnisciencia | Once segundos, solo al rezar (Cap144) |
+| Thomas Whitfield | Omnisciencia | Limitada por su dirección: precognición de 5 s, clarividencia mientras reza (hasta el Amén) y premonición pasiva (Cap144; `characters/colaboradores-anillo-de-fuego.md`) |
 | Park | Fuerza/Inercia | Voto de diezmo y golpe mayor (Cap143; `system/strength.md`, `system/votos.md`) |
 
 Ver `world/wardogs.md` para el mecanismo de los núcleos y las capas.
@@ -92,7 +92,7 @@ Ver `world/wardogs.md` para el mecanismo de los núcleos y las capas.
 | Marit Solheim | Resonancia | Zona que vibra a la frecuencia del material; rompe caparazones |
 | Sukino "Kino" Wibowo | Brote | Hace crecer madera viva desde su Odem (estilo Mokuton) |
 | Miriam Haddad | — | Sin Domain de combate; domina la Presión Inversa (`world/odem.md`) |
-| Thomas Whitfield | Omnisciencia | Once segundos tras rezar; peleador físico (`characters/colaboradores-anillo-de-fuego.md`) |
+| Thomas Whitfield | Omnisciencia | Precognición de 5 s, clarividencia mientras reza y premonición pasiva; peleador físico (`characters/colaboradores-anillo-de-fuego.md`) |
 
 ## Domains evolucionados por capas (2026-10-20)
 
