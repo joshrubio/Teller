@@ -148,7 +148,7 @@ Ninguno de los que estaban en la sala dijo nada en los segundos siguientes.
 
 Marchand dejó las gafas sobre un mapa. Arismendi, con el teléfono contra la oreja, repetía un número a alguien en San José sin acento, como quien lo hace para sí.
 
-—ER-5 y ER-6 desembarcan igual y suben al paso —siguió Okonjo—. ER-3, a cerrar la cuenca por el oeste. ER-4, por el este. ER-7, por mar al muelle del norte, en lanchas rápidas. En la playa, solo los médicos.
+—ER-5 y ER-6 desembarcan igual y suben al paso —siguió Okonjo—. ER-3, del flanco oeste al norte, a cerrar la cuenca por ese lado. ER-4, por el este. ER-7, por mar al muelle del norte, en lanchas rápidas. En la playa, solo los médicos.
 
 —¿Los civiles?
 

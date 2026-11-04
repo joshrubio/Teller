@@ -28,8 +28,7 @@ Park apartó los ojos de los soldados. Eran dieciséis. Seguían siendo diecisé
 
 —Briggs tiene dieciséis y un lado entero que ya no está.
 
-No hubo más. Kiki movió el pulgar sobre la guarda y volvió a quedarse quieta, y Park, que la conocía lo bastante para saber lo que significaba esa quietud, no le preguntó si estaba bien. Se estiró y le puso el hombro contra el suyo. Ella lo dejó.
-
+No hubo más. Kiki movió el pulgar sobre la guarda y volvió a quedarse quieta, y Park, que la conocía lo bastante para saber lo que significaba esa quietud, no le preguntó si estaba bien.
 ---
 
 *18 de julio, 06:20 — línea izquierda de ER-2*
@@ -74,13 +73,17 @@ Briggs le había pasado los prismáticos. Park los alzó. Eran puntos pequeños,
 
 *Quedan registrados.*
 
-En la radio de Briggs, por encima, la voz de Okonjo sonó desde Panamá, desde el barco, desde las dos cosas a la vez, sin matices.
+En la radio de Briggs, por encima, la voz de Okonjo sonó desde Panamá, sin matices.
 
 —A todas las unidades. Mando conjunto. La red permanece abierta. Lo que vea la Uno se dice por el Coro y yo lo repito. Lo que vean ustedes, que llegue a mí. No quiero que nadie se entere de lo que ocurre en esa isla por otro.
 
 Una pausa. Luego, más baja.
 
-—Y no se dispara sobre civiles. Ni con área, ni con aviso. Que quede dicho en cada puesto.
+—Los civiles se mueven hacia el anillo. Que nadie lo tome por una orden de avance. La suspensión del avance a la grieta se mantiene para la Uno.
+
+Otra pausa.
+
+—Y no se dispara sobre civiles. Ni con área, ni con aviso. Nadie saca de allí a nadie contra su voluntad. Que quede dicho en cada puesto.
 
 Park bajó los prismáticos. En la cuenca la niebla empezaba a levantarse en hilos, y debajo de ella, ahora, se veían las filas de las criaturas del anillo, quietas, de cara hacia fuera, y a su espalda la gente entrando por el hueco de una puerta.
 
@@ -170,7 +173,7 @@ Se miraron un segundo más. Había algo que Oliver quería decir y no sabía có
 
 No lo sabía. Lo dijo para que Oliver dejara de cargarlo. Oliver lo entendió, porque lo conocía, y apretó una vez la mandíbula y volvió a su sitio.
 
-Por la radio de Voss llegó la orden en dos tiempos, desde Panamá, con la voz de Okonjo cortada por la estática. Valais se dividía. El núcleo bajaba a las casas del sur, con Voss y los de ER-5 sin capa, a asegurar las pasarelas. Asha y Dara irían con ellos y sostendrían las que quedaran sobre el anillo. Pier, Sabine y Lev se quedaban en el paso, con la Uno. Hasta que la ladera se aclarara, no bajaría nadie más.
+Por la radio de Voss llegó la orden en dos tiempos, desde Panamá, con la voz de Okonjo cortada por la estática. La suspensión del avance a la grieta seguía en pie para la Uno. Pero los civiles se habían movido, y Okonjo no iba a dejarlos sin nadie cerca cuando algo se rompiera. ER-5 bajaba solo hasta las pasarelas del sur, solo para contacto civil, y nadie se acercaba al anillo. ER-6 rodeaba por el oeste con el mismo cometido. Valais se dividía. El núcleo bajaba a las casas del sur, con Voss y los de ER-5 sin capa. Asha y Dara irían con ellos y sostendrían las pasarelas que quedaran sobre el anillo. Pier, Sabine y Lev se quedaban en el paso, con la Uno, por si el paso se cerraba.
 
 —Nos quedamos —dijo Lev. Fue todo lo que dijo.
 
