@@ -238,12 +238,12 @@ Kaspar abrió la boca y no encontró qué contestar. Miró hacia abajo.
 
 Y algo, allá abajo, miró hacia arriba.
 
-No fue una visión. Fue un cambio de peso. Tan hondo que no llegaba a ser sonido, tan lento que Kaspar creyó primero haberlo imaginado: una cosa enorme, enroscada, dormida desde hacía más tiempo que los nombres, que abría un ojo que no tenía en la oscuridad, y giraba, despacio, como gira un animal que ha oído que lo nombran.
+No fue una visión. Fue un cambio de peso. Tan hondo que no llegaba a ser sonido, tan lento que Kaspar creyó primero haberlo imaginado. El depósito, esa cantidad de Odem reunida como agua en un aljibe, se volvía despacio en la oscuridad, como gira una lámpara hacia quien entra en la habitación.
 
 Hacia él.
 
-El Registro se le encendió solo. Medio siglo de práctica no sirvió de nada. Allí abajo había una firma ancha, antigua y tranquila, tan grande que el Registro no encontró dónde ponerle los bordes. No era eso lo que le había quitado el aire. Era algo más sencillo: que, por primera vez en cuarenta años, algo lo había visto a él antes de que él lo viera.
+El Registro se le encendió solo. Medio siglo de práctica no sirvió de nada. Allí abajo había una cantidad ancha, tibia y atenta, tan grande que el Registro no encontró dónde ponerle los bordes. No era eso lo que le había quitado el aire. Era algo más sencillo: que, por primera vez en cuarenta años, algo lo había visto a él antes de que él lo viera.
 
 No supo qué era.
 
-Supo que le había devuelto la mirada.
+Supo que le había devuelto la mirada, y que, contra toda prudencia, quería saber qué era.

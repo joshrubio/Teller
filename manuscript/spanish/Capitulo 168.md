@@ -174,7 +174,7 @@ Era Sisi. Había hablado sin levantarse, con la voz plana.
 
 Kaspar abrió la boca.
 
-—La Madre le dijo hola el primer día —siguió Daniel—. Recuerdo su cara. No ha vuelto a bajar en diez días, y yo no he vuelto a pedírselo, porque entendí que le costaba. Pero esta noche le pido que baje. —Hizo una pausa que no era una pausa—. No es de buena educación no devolver un saludo.
+—Lo que hay abajo le dijo hola el primer día —siguió Daniel—. Recuerdo su cara. No ha vuelto a bajar en diez días, y yo no he vuelto a pedírselo, porque entendí que le costaba. Pero esta noche le pido que baje. —Hizo una pausa que no era una pausa—. No es de buena educación no devolver un saludo.
 
 Kaspar lo miró durante lo que le pareció un rato largo. Detrás de la cara de Daniel, la de un hombre agradable que ha dormido bien, no había nada que leer. Eso lo había sabido siempre. Lo había aceptado como se acepta una puerta cerrada en una casa que no es la propia.
 
@@ -222,7 +222,7 @@ Cincuenta. Sesenta. El círculo de arriba se hizo pequeño. La luz de las lámpa
 
 Bajó pensando en Daniel, porque era lo único que tenía a mano.
 
-Lo conocía en persona desde hacía cuatro años, y desde el primer día había sabido que no era lo que parecía. No fue una revelación. Fue una suma lenta. Un hombre que no había cambiado ni una cana en cuatro años. Unas criaturas que se apartaban de él sin necesidad de miedo. Una memoria que guardaba el destino de cada persona que Kaspar le había mandado, el nombre, el cuarto, el día, sin apuntar nada. Y una manera de llegar. Daniel llegaba a los sitios un poco antes de que hicieran falta. Kaspar le había oído dar el pésame por un recluta tres horas antes de que el recluta muriera, y lo había archivado, y se había dicho que a veces la gente sabe.
+Lo conocía en persona desde hacía cuatro años, y desde el primer día había sabido que no era lo que parecía. No fue una revelación. Fue una suma lenta. Un hombre que no había cambiado ni una cana en cuatro años. Unas criaturas que se apartaban de él sin necesidad de miedo. Una memoria que guardaba el destino de cada persona que Kaspar le había mandado, el nombre, el cuarto, el día, sin apuntar nada. Y una manera de llegar. Daniel llegaba a los sitios un poco antes de que hicieran falta. Kaspar le había oído dar el pésame a un recluta tres horas antes de que la persona en cuestión muriera, y lo había archivado, y se había dicho que a veces la gente sabe.
 
 Daniel no llegaba pronto. Llegaba habiendo estado ya.
 
@@ -262,9 +262,7 @@ La luz tenía una manera de moverse. No era la del fuego, que sube y baja. Era l
 
 Entonces el anillo se detuvo y una cabeza bajó hasta la luz.
 
-No era un monstruo. Eso fue lo primero que pensó, y le sorprendió que fuera lo primero. Era un rostro. Ancho, largo, de escamas finísimas alrededor de los ojos y más gruesas hacia las mandíbulas, sin cresta ni cuernos, con la boca cerrada como la de quien ha decidido no hablar. Los ojos eran dorados, con la pupila vertical, y cada uno era más grande que la cabeza de Kaspar. Lo miraron con una calma antigua, sin hambre y sin amenaza. La luz de la zarza le resbalaba por la frente.
-
-Era la que le había devuelto la mirada el primer día.
+No era un monstruo. Eso fue lo primero que pensó, y le sorprendió que fuera lo primero. Era un animal. Un rostro ancho y largo, de escamas finísimas alrededor de los ojos y más gruesas hacia las mandíbulas, sin cresta ni cuernos, con la boca cerrada. Los ojos eran dorados, con la pupila vertical, y cada uno era más grande que la cabeza de Kaspar. Lo miraron con una atención quieta, de animal, sin ningún pensamiento detrás que él pudiera leer. Sin hambre y sin amenaza. La luz de la zarza le resbalaba por la frente.
 
 A la derecha de la zarza, contra la pared, había un pesebre.
 
@@ -282,13 +280,11 @@ No la había oído acercarse. Los ojos dorados pasaron de la niña a él, y Kasp
 
 —Es una niña —dijo. No supo por qué lo decía.
 
-*Lo sé.*
-
-La voz era la de la noche anterior, lenta y sencilla, una carta encontrada en el bolsillo de un abrigo.
+La serpiente no contestó. Soltó un aliento largo por el hocico, tibio, que movió la manta y el pelo de la niña, y volvió a mirarlo con la cabeza un poco ladeada, como un perro grande que atiende al tono y no a las palabras.
 
 —Estaba sola.
 
-*Ya no.*
+El aliento volvió, más lento. Fue todo.
 
 Después el cuerpo se movió. Fue como ver girar una ladera. El anillo que rodeaba la sala se estrechó, vuelta tras vuelta, y las escamas pasaron una a una por delante de la luz hasta que quedó enroscado en torno a la artesa, grueso como un tronco, con la cola recogida entre la pared y la zarza. La cabeza se posó sobre el borde del pesebre, junto a la niña, sin tocarla, y los ojos se cerraron hasta quedar en una rendija. Como se cuida a alguien que duerme.
 
@@ -296,7 +292,7 @@ Kaspar se puso de pie despacio. No le dio las gracias. Tampoco se lo había pedi
 
 Se volvió hacia el centro de la sala.
 
-El Registro se le abrió solo, sin que lo llamara, y esta vez no encontró nada que lo rechazara. Vio la sala entera como un dibujo. Las paredes, el anillo, la niña. Y vio los hilos. Cinco, gruesos como cables de puente, que entraban en la roca desde todos los lados del horizonte, atravesaban el mar y la tierra y venían a morir allí, en las raíces de la zarza. Lo que había sentido con los tobillos desde el primer día, tibio, quieto, almacenado, no estaba bajo la grieta. Estaba delante de él. Todo el Odem de cinco incendios, reunido, ardía en un arbusto del alto de un hombre.
+El Registro se le abrió solo, sin que lo llamara, y esta vez no encontró nada que lo rechazara. Vio la sala entera como un dibujo. Las paredes, el anillo, la niña. Y vio los hilos. Cinco, gruesos como cables de puente, que entraban en la roca desde todos los lados del horizonte, atravesaban el mar y la tierra y venían a morir allí, en las raíces de la zarza. Lo que había sentido con los tobillos desde el primer día, tibio, quieto, almacenado, no estaba bajo la grieta. Estaba delante de él. Todo el Odem de cinco incendios, reunido, ardía en un arbusto del alto de un hombre. Aquello era lo que le había devuelto la mirada el primer día.
 
 No era hambre. Conocía bien el hambre, y esto era otra cosa. Su Sustento, que se había encogido toda la noche, estaba quieto, sin mover un hilo. Lo que sentía era curiosidad, una curiosidad inmensa y limpia, de niño ante una puerta. Quería saber qué era aquello que ardía sin gastarse. Cómo era por dentro algo que había juntado cinco incendios sin quemar una hoja. Qué se sentía al acercar la mano.
 

@@ -84,3 +84,12 @@ Aparece sin nombrar, como "lo que Kaspar encontró en el monte" y, en clave inte
 
 <!-- canonical -->
 Dormida tras Cap131; deja geranios negros a su paso (corrupción pasiva del Hambre) y una herida que no cierra. **No hiela ni deja escarcha** (retirado 2026-10-28: se había colado en Cap150, 152, 154, 159, 164 y 168 y se eliminó). Dentro, las voces de las víctimas de los rituales y, bajo ellas, una brasa: la niña vaso, cuyo nombre es **Anaís** (lo recupera Sisi en Cap152 y lo guarda). Embarca en el *Meridiana* como "la sobrina" de Kaspar; la mayoría la ve como una niña.
+
+## Edad aparente según el despertar (decidido 2026-11-04, usuario)
+
+<!-- canonical -->
+Su cuerpo madura según cuánto despierta su poder. Hay tres estados.
+- **Niña de unos diez años.** Apenas despierta. Es como la encontró Park en el Libro 1 (Cap55 y 56) y como duerme en el pesebre del Cap168 al Cap171.
+- **Adolescente de 16 o 17 años.** Poder casi completo. Es como la vemos contra Ji-ho en Venezuela (Cap130 y 131).
+- **Mujer adulta.** Despertar completo, aún por mostrar. Es la sombra "de una mujer enorme" que aparece tras ella en el Cap171.
+En el último arco la vemos transitar entre estados según su poder. En el Cap171, al despertar, el cuerpo de niña deja asomar por un instante el de otra mayor. Mantener estas tres edades en cualquier escena donde despierte, pelee o se debilite.

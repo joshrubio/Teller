@@ -202,7 +202,7 @@ Cerró el Registro un instante, para respirar. Sisi no le preguntó nada.
 
 A las dos y treinta y ocho el peso cambió.
 
-Kaspar lo sintió en los dientes. Algo muy grande, lejos, bajo la tierra, acababa de volverse hacia el sur, y los suyos dejaron de morir y echaron a andar hacia dentro, uno detrás de otro, con la misma paciencia con que habían salido. Un minuto después volvió a girar. No hacia la playa. Hacia él.
+Kaspar lo sintió en los dientes. Algo muy grande, lejos, bajo la tierra, acababa de volverse hacia el sur, y los suyos dejaron de morir y echaron a andar hacia dentro, uno detrás de otro, con la misma paciencia con que habían salido. Un minuto después, bajo todo eso, más hondo que ella, otra cosa se volvió. No hacia la playa. Hacia él.
 
 No fue una voz. Fue una frase que ya estaba en su cabeza cuando llegó a ella, igual que a veces uno encuentra una carta en el bolsillo de un abrigo que no se había puesto en años. Era lenta, sencilla, sin ninguna pompa. Hablaba como se habla a un niño que ya sabe lo que le van a decir.
 
@@ -228,7 +228,7 @@ Esperó. El silencio de la isla era distinto de antes; no se había ido nada, pe
 
 —Con nadie.
 
-—Mientes. —Se llevó una mano al abrigo, a la altura del pecho, y lo sostuvo allí—. Algo ha hablado ahí abajo. No era para mí. Y llevaba toda la noche callada.
+—Mientes. —Se llevó una mano al abrigo, a la altura del pecho, y lo sostuvo allí—. Algo ha hablado ahí abajo. No era la que canta, y no era para mí. Y llevaba toda la noche callada.
 
 Kaspar se volvió hacia el ventanal.
 

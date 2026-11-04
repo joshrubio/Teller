@@ -28,7 +28,7 @@ Eran cinco. Los reconoció sin entender cómo. Cinco incendios, y todos ardían 
 
 No habría sabido decir cuánto tiempo estuvo así. Una hora, una vida, el tiempo de un parpadeo. Cada vez que volvía a la sala, a medias, por el borde de la visión, la sala era distinta.
 
-La primera vez, la serpiente se había desenroscado. No del todo. Había aflojado un anillo y luego otro y había bajado la cabeza hasta el suelo, a un lado del pesebre, con el aire de un perro grande que ve entrar a alguien a quien no conoce y decide hacerse pequeño. Kaspar no entendió por qué. La criatura que le había devuelto la mirada el primer día, la que parecía sostener la isla, estaba tendida sobre las losas con la cola recogida y los ojos bajos.
+La primera vez, la serpiente se había desenroscado. No del todo. Había aflojado un anillo y luego otro y había bajado la cabeza hasta el suelo, a un lado del pesebre, con el aire de un perro grande que ve entrar a alguien a quien no conoce y decide hacerse pequeño. Kaspar no entendió por qué. La criatura que parecía sostener la isla estaba tendida sobre las losas con la cola recogida y los ojos bajos.
 
 La segunda vez había un hombre en la puerta.
 
@@ -56,7 +56,7 @@ Hizo ademán de seguir hacia la luz. Un paso, otro, la cara ya dorada.
 
 —Un momento —dijo Daniel.
 
-Lo dijo con la misma voz con que había dicho todo lo demás, amable, tranquila, la de quien avisa a un niño que la comida no está lista. Fue lo único que se dijo en la cámara en todo el rato, y por eso Kaspar lo oyó con una nitidez que no le dejó lugar para nada más. Era la primera cosa de verdad que le llegaba. No una visión. Una palabra, dicha en una sala, por un hombre que sabía esperar.
+Lo dijo con la misma voz con que había dicho todo lo demás, amable, tranquila, la de quien avisa a un niño que la comida no está lista. Fue lo único que se dijo en la cámara mientras duraron las visiones, y por eso Kaspar lo oyó con una nitidez que no le dejó lugar para nada más. Era la primera cosa de verdad que le llegaba. No una visión. Una palabra, dicha en una sala, por un hombre que sabía esperar.
 
 El joven se detuvo con un pie en el aire.
 
@@ -102,13 +102,19 @@ Vio a la gente de rodillas. No por miedo. Por alivio. Tres mil cien personas, y 
 
 Era lo que había querido siempre. Lo vio con tanta claridad que sintió un frío subir desde la nuca, por la cara, hasta los labios.
 
-Y entre toda esa gente de rodillas, de pie, en un escalón, había una mujer joven con un abrigo gris que le daba la espalda.
+Y entre toda esa gente de rodillas, de pie junto a una ventana, había un hombre flaco, con un chaleco de lana gastado en los codos, que no era ninguna de las caras que Kaspar había mandado a un sitio seguro.
 
-*Aquí no sigo.*
+Roth.
 
-*No quiero que bajes tú tampoco.*
+Lo recordó entero y de una vez, como se abre una carta que no se había atrevido a abrir. Zúrich, de noche, el archivo a oscuras. Roth mirando la puerta cerrada de Yvonne, con la mano sobre media cara, sacando las palabras despacio, cada una pasando antes por un sitio que dolía. *Alguien que aprende que puede, antes de aprender que no debe, y no tiene ningún sitio seguro donde cometer ese error.* Y después la palabra, dejada sola en el aire. Hesperia.
 
-No era una voz de la visión. Era la que había oído hacía una hora, con la mano apretada en la muñeca de otro, en un escalón que no había contado. Sisi no se había vuelto. Sisi no iba a volverse.
+Él tenía veinte años y el frío recién nacido en el pecho. Había guardado la palabra donde guardaba todo lo que algún día podía servirle, y durante medio siglo la había tratado como se trata un plano. Nunca se había preguntado para qué la quería Roth. No para mandar. Roth no había pedido a nadie de rodillas. Había querido un sitio donde los que rompen cosas pudieran aprender a no romperlas sin que lo pagara otro. *No se construye con las manos. Se guarda, se cuida.* Un jardín donde equivocarse, no una casa donde nadie tuviera que decidir.
+
+Y lo que le ofrecían era Hesperia. Con su nombre, completa, sin una sola equivocación posible, porque nadie decidiría nada que no decidiera él.
+
+Roth se había borrado delante de sus ojos por el golpe de un hombre que quiso someter lo que no entendía.
+
+*Y yo estoy aquí, con la mano en lo que no entiendo.*
 
 Kaspar abrió la boca.
 
@@ -116,19 +122,23 @@ No dijo que sí. Tenía la forma delante y sabía lo que costaba, y lo sabía me
 
 Solo, de pronto, comprendió que nada en él la quería.
 
-Fue una comprensión simple, sin heroísmo, de las que no sirven para nada. No la quería porque, en el fondo de todo lo que había querido, había querido otra cosa. Que alguien se quedara. Que alguien lo hubiera esperado en una escalera sin necesidad de un ofrecimiento.
+Fue una comprensión simple, sin heroísmo, de las que no sirven para nada. Había roto ya dos cosas que no podía devolver, una por curiosidad y otra a propósito, y las dos habían salido de la misma mano que la forma quería ahora llenar. Había levantado la casa de Roth al revés, para que nadie se equivocara, y no había tenido valor de mirarlo hasta que la forma se lo mostró acabado. No podía tomarla sin traicionar lo único que le habían dado sin pedirle nada a cambio.
 
 Lo que no se quiere no se toma.
 
 La forma se quedó a medias.
 
-Lo supo por el frío. Le subió por la nuca, por la cara, hasta los labios, y los ojos se le abrieron del todo y no pudo cerrarlos. Los dedos de la mano que seguía sobre las hojas se le quedaron donde estaban, y la sola idea de moverlos le pareció un recuerdo de otra vida. En el centro del pecho, donde no había nada suyo, algo que no era él entreabrió un ojo y se detuvo.
+Lo supo por el dolor.
+
+Empezó en la mano que seguía sobre las hojas. No era el calor de un fuego. Era la luz que antes le había subido por el brazo como una corriente tibia, y que ahora volvía por el mismo camino, ancha y blanca, sin haber encontrado dónde quedarse. Le recorrió el antebrazo, el codo, subió hasta medio brazo y allí se detuvo, como una marea que ha llegado donde llega. En el centro del pecho, donde no había nada suyo, algo que no era él entreabrió un ojo y se detuvo también, y fue lo único que no le dolió.
+
+Kaspar gritó. Retiró la mano y ya no era una mano. La piel del brazo derecho, de los dedos al bíceps, se había abierto en grietas finas y luminosas, como loza rota con una lámpara dentro. Cayó de rodillas, y después de lado, con el brazo apretado contra el pecho, sin poder soltarlo ni sostenerlo.
 
 ---
 
 El hilo se rompió a la vez que la forma.
 
-No lo vio, lo oyó. Un chasquido agudo, desde la pared del este, como una cuerda de violín cuando cede, y después un latigazo. El cabo suelto de uno de los hilos gruesos que entraban en la roca había caído al suelo, ya cortado, y se retorcía sobre las losas como una serpiente muy delgada. Los otros cuatro hilos seguían en su sitio, tensos, tibios. Aquel no.
+No lo vio, lo oyó desde el suelo. Un chasquido agudo, desde la pared del este, como una cuerda de violín cuando cede, y después un latigazo. El cabo suelto de uno de los hilos gruesos que entraban en la roca había caído al suelo, ya cortado, y se retorcía sobre las losas como una serpiente muy delgada. Los otros cuatro hilos seguían en su sitio, tensos, tibios. Aquel no.
 
 Era el quinto. El que venía del cerro. Lo había notado ya, desde la visión.
 
@@ -142,7 +152,7 @@ Fue un gemido bajo, de animal asustado, y se enroscó sobre sí misma, alrededor
 
 Entonces la niña abrió los ojos.
 
-Estaba sentada en la paja. Tenía el cuerpo de una niña de diez años, la cara redonda y la cicatriz de la barbilla, y la sombra de una mujer enorme. Miró alrededor sin sorpresa, a los tres que estaban de pie y al cuarto, con la mano todavía en la zarza, y su boca se movió con una voz que era de otra.
+Estaba sentada en la paja. Tenía el cuerpo de una niña de diez años y, por un instante, bajo la piel, el de otra mayor que no terminaba de asomar. Tenía la cara redonda y la cicatriz de la barbilla, y la sombra de una mujer enorme. Miró alrededor sin sorpresa, a los dos que estaban de pie y al tercero, caído en el suelo, y su boca se movió con una voz que era de otra.
 
 —Tengo hambre.
 
@@ -158,28 +168,22 @@ Quedó la llama, dorada y baja, sin gastarse.
 
 ---
 
-*18 de julio, 06:58 — Hesperia, el fondo*
+Kaspar casi no veía. El brazo le ardía hasta el hombro con un dolor que no tenía fondo, y se oyó gemir, un sonido que no recordaba haber hecho nunca, con la mejilla contra la losa tibia y el brazo derecho temblando contra el pecho. Las líneas de luz de la piel se apagaban despacio, una a una, y dejaban debajo una carne roja y brillante que no se parecía a la suya.
 
-Kaspar seguía con la mano en la zarza. No recordaba cuándo había dejado de sentirla. Los dedos estaban helados, la piel de un blanco que no era el suyo, y no le hacían caso.
+—Daniel —dijo.
 
-No hubo palabras.
+No supo si lo había dicho en voz alta. Lo intentó otra vez.
 
-El joven se había quedado mirando la llama con las manos juntas por delante. La miró durante mucho tiempo, y Kaspar observó cómo su rostro dejaba de tener la expresión con que había llegado. Era una atención que se iba vaciando, como cuando alguien termina un libro que le ha gustado y no sabe qué hacer con las manos. Cuando la llama dejó de ser lo que había venido a ver, se volvió. No miró a nadie. Pasó junto a la serpiente, que se hizo todavía más pequeña, y cruzó la sala hasta la galería. Se oyeron sus pies descalzos subiendo, uno tras otro, sin prisa.
+—Daniel. Ayúdeme.
 
-Daniel lo vio irse.
+Los pasos no se apresuraron. Daniel cruzó la sala sin que Kaspar le viera moverse y se agachó a su lado, con una rodilla en el suelo. Miró el brazo. Lo miró con interés, sin tocarlo, como se mira una herida que se sabía que iba a salir. Tenía la cara amable, ancha y tranquila, la de quien se inclina a ver cómo duerme un niño.
 
-Después se acercó a Kaspar, despacio, y le puso una mano en el hombro. Lo cogió con una suavidad de enfermero, sin decir una palabra, y le quitó la mano de la zarza dedo a dedo, como se le quita a un niño un juguete que ya ha dejado de interesarle.
+—Ya está —dijo—. Es lo que cuesta.
 
-Kaspar lo miró. Quiso preguntar, y vio la pila.
+—Duele.
 
-Estaba detrás de la cara amable, a un palmo, ordenada, paciente, sin una sola prisa. Cientos de hojas escritas por muchas manos. Y todas, todas, miraban hacia él con el mismo gesto de quien no se ha sorprendido.
+—Lo sé. —Le puso una mano en la frente, fresca y seca, la mano de un enfermero—. Respire. No tiene que hacer nada.
 
-Lo había sabido.
+Kaspar quiso decir algo, un nombre, una pregunta. Detrás de la cara de Daniel, a un palmo, alguien se había asomado. Cientos de hojas escritas por muchas manos. Lo miraban a él, sin sorpresa, con la paciencia de quien ya conoce el final del libro.
 
-Había esperado que dijera que sí. No le había importado que no lo dijera. Era un hombre que ha visto cómo termina, y ve cómo termina otra vez, y espera.
-
-En el pesebre, la niña seguía sentada, con las manos en el regazo y los ojos abiertos hacia nadie. Las raíces de geranios negros subían por la madera. La serpiente, enroscada sobre ella, tenía la cabeza en el suelo y cerraba los ojos con fuerza.
-
-Daniel se sentó en el borde del pesebre, junto a la niña, con las manos sobre las rodillas, como quien espera un tren que sabe que llegará. Nadie volvió a hablar.
-
-Kaspar se quedó de pie delante de la zarza, con las manos heladas y los ojos abiertos, y comprendió que habría que esperar a que arriba empezara lo que Daniel llevaba tanto tiempo esperando.
+Todo se fue apagando por los bordes, la luz de la zarza, el pesebre, el olor a paja. Lo último que sintió fue la mano en la frente, fresca, y la voz de Daniel que decía algo muy bajo, cerca, con la amabilidad de siempre, y que no llegó a entender.

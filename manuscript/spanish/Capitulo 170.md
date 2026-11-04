@@ -122,25 +122,17 @@ Calloway comprendió que lo decía en serio y que eso era lo peor de todo. No lo
 
 —Lo sé. —Sonrió, pequeño, y miró a Solheim otra vez—. Perdona.
 
-—Que conste —dijo Conti.
+Se volvió y echó a andar ladera abajo, sin mirar atrás, con las moscas cerrándose a su espalda. No les dejó paso ni los esquivó. Pasó de largo, como se pasa junto a algo que ya no está en el camino.
 
-No lo dijo a nadie. Lo dijo al aire, de rodillas, sin soltar el costado de Solheim, con la voz de un hombre que enumera. Había levantado la cabeza. Tenía el rostro de siempre, de una calma que no era la de los demás, y los ojos más viejos.
-
-—Veintitrés más arriba, de ER-2. Esta mujer. Un chico de Wardogs en la playa. Que conste.
-
-—Lo he oído —dijo el joven.
-
-Se apartó para dejarlos pasar, como se aparta uno en una puerta.
-
-Conti puso una mano en el hombro de Calloway y la otra en el cuello de Solheim, y la ladera se pliegó.
+Conti, que no se había movido del costado de Solheim, esperó a que los pasos se alejaran. Después puso una mano en el hombro de Calloway y la otra en el cuello de Solheim, y la ladera se pliegó.
 
 ---
 
 *18 de julio, 05:36 — Panamá Pacífico, sala de operaciones*
 
-Cartwright había escrito veintitrés líneas en blanco en el margen del mapa, debajo del nombre de Teague.
+Cartwright había dejado veintitrés líneas en blanco en el margen del mapa, debajo del nombre de Teague.
 
-—Conti pide que consten —dijo—. No tengo los nombres de la derecha del paso.
+—No tengo los nombres de la derecha del paso.
 
 —Pídaselos a Briggs.
 
@@ -190,7 +182,7 @@ No fue un ruido. Fue entre dos lanchas, a quince metros, donde un instante antes
 
 Dos médicos de ER-5 echaron a correr. Oliver no. Se quedó donde estaba, a diez pasos, mirando cómo le cortaban el chaleco. No necesitaba el Registro para saber lo que le pasaba a aquella mujer.
 
-—Marit Solheim —dijo el anciano, arrodillado junto a la camilla—. Capitana. Noruega. Treinta y ocho años. Que conste.
+—Marit Solheim —dijo el anciano, arrodillado junto a la camilla—. Capitana. Noruega. Treinta y ocho años.
 
 Un médico de ER-5 le puso dos dedos en el cuello a la mujer y miró a otro, y el otro negó con la cabeza muy despacio.
 
