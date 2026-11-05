@@ -108,7 +108,7 @@ Oliver sintió el pasillo, y la puerta, y el contenedor que había bajo los últ
 
 —Voss.
 
-Voss, con la palma en un travesaño de acero, ya estaba sudando. Esta vez no cerró una puerta. Cerró los ojos y empujó.
+Voss, con la palma en un travesaño de acero, no había movido un músculo de la cara. Esta vez no cerró una puerta. Cerró los ojos y empujó.
 
 Cuarenta metros de pasarela cambiaron de forma. Oliver lo vio con el Registro y lo vio con los ojos, y no se lo creyó. Los marcos de los contenedores se aplanaron, uno tras otro, hasta ser pared lisa. Las puertas del chico dejaron de existir en toda la sección, doce, quince, de una sola vez. Los contenedores se abrieron por el costado como latas, y los cinco soldados cayeron a la rejilla, vivos. Dos casas colgadas del dosel crujieron, giraron sobre su eje y se plantaron a ambos lados de la pasarela como paredes. Un pasillo de acero y madera, de treinta metros, que dividió a los chalecos en dos grupos incapaces de verse.
 
@@ -184,7 +184,7 @@ Cuando terminó, se contaron los que quedaban.
 
 Habían muerto seis de ER-5, dos por sus propias balas, uno resbalado al vacío, tres por los hilos y las pisadas. Otros siete estaban heridos, dos de gravedad, y los sacaban a rastras hacia la escalera con las manos de otros. De los chalecos habían caído cuatro, el calvo entre ellos. La mujer del pañuelo yacía de lado, con una pierna rota. El hombre de las manos abiertas se había rendido con las palmas a la vista, sin devolver nada.
 
-Nadia estaba sentada contra la barandilla, con la clavícula rota y la cara color ceniza, sostenida por una Dara que apenas se sostenía a sí misma. Asha apretaba un paño contra el antebrazo, que se le había abierto de la muñeca al codo. Riku sangraba por una ceja, por los nudillos y por una costilla que no se atrevía a tocar. Voss se había soltado del travesaño y respiraba por la boca, con la camisa empapada de sudor. La sargento los contaba en voz baja, de uno en uno, con la lista en la cabeza.
+Nadia estaba sentada contra la barandilla, con la clavícula rota y la cara color ceniza, sostenida por una Dara que apenas se sostenía a sí misma. Asha apretaba un paño contra el antebrazo, que se le había abierto de la muñeca al codo. Riku sangraba por una ceja, por los nudillos y por una costilla que no se atrevía a tocar. Voss se había soltado del travesaño y se secaba las manos en el pantalón, entero, como quien termina un trabajo largo y bien hecho. La sargento los contaba en voz baja, de uno en uno, con la lista en la cabeza.
 
 El chico del chaleco grande, el que había cruzado, estaba sentado entre los soldados con una manta sobre los hombros. Alguien le había vendado la pierna. Miraba el suelo.
 
@@ -206,7 +206,7 @@ Oliver sintió que algo se le caía por dentro.
 
 No añadió más. Se agachó, recogió los dos cubos con una mano cada uno, y abrió detrás de sí una puerta que no estaba. Se metió dentro. La puerta se cerró sin ruido, y Oliver no sintió por dónde se había ido.
 
-Voss se limpió la cara con la manga.
+Voss se colocó los puños de la camisa.
 
 —Oliver.
 
