@@ -122,7 +122,7 @@ Park había dicho que ya lo sabía. Mentía. Oliver lo notó porque nunca lo hab
 
 En el paso se habían separado sin ceremonia. Voss lo dijo con la voz que usaba para las malas noticias, sin adornos, y ninguno protestó. Pier, Sabine y Lev se quedaban con la Uno. Lev ni se despidió. Era su forma de despedirse. Asha y Dara bajarían con ellos, y Oliver, Riku y Nadia con Voss y los de ER-5 sin capa, por la ladera, hacia las casas del sur. Tres se quedaban y cinco bajaban. Era la primera vez que Valais se dividía sin que nadie hubiera caído.
 
-Ahora bajaban en fila, entre helechos arrancados y troncos tumbados todos en el mismo sentido, por un sendero que el barrido de Belcebú había abierto. El sol ya estaba fuera. Pegaba en la espalda con un peso húmedo. Las camisas se pegaban a la piel.
+Ahora bajaban en fila, entre helechos enteros y raíces húmedas, por la senda del oeste, la que el barrido no había tocado. El sendero que Belcebú había abierto quedaba a la derecha, a doscientos metros, vacío. El sol ya estaba fuera. Pegaba en la espalda con un peso húmedo. Las camisas se pegaban a la piel.
 
 A las siete y dos la radio de Voss dijo algo.
 
@@ -200,10 +200,12 @@ Oliver lo vio, y alguien vio que lo veía.
 
 Al otro extremo de la línea, algo más apartado, había un hombre de unos veinticinco años, de hombros caídos, con un cubo de hojalata en cada mano. Llevaba el chaleco azul sin abrochar y la cara de quien lleva mucho tiempo oyendo detrás de puertas. No había hablado. Miraba a Oliver. Su firma no era de pelea ni era limpia. Era el pasillo largo de antes, con las puertas cerradas, y alguien dentro de cada una.
 
-La mujer de la trenza siguió la mirada del chico de los cubos. Después miró a Oliver, y sonrió, con una amabilidad de las que se aprenden.
+La mujer de la trenza siguió la mirada del chico de los cubos. Después miró a Oliver, sin dureza, como se mira a alguien que ha estado mirando de más.
 
-—Don Daniel dijo que vendría usted —dijo—. El que lee.
+—Pueden esperar ahí —dijo a Voss—. Nadie los va a tocar.
 
-Voss no se movió. Oliver sintió que la nota de abajo se detenía un segundo, y que lo que venía a continuación era una cosa que ya había sido decidida por otro.
+—Esperaremos —dijo Voss.
+
+Entonces pasó. La nota de abajo se detuvo un segundo, y a doscientos metros al este, detrás del dosel, algo muy grande cruzó la cuenca sin que se viera. No hubo ruido. Los once chalecos giraron la cabeza hacia allí, todos a la vez, con la precisión de un ensayo, y volvieron a mirar al frente. Oliver sintió el peso en las muelas, tanto, que tuvo que agarrarse a la barandilla.
 
 Detrás de la línea, el chico de los cubos dejó uno en el suelo, despacio, sin hacer ruido.
