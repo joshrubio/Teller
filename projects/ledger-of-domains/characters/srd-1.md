@@ -44,7 +44,7 @@ Dos por miembro. **Regla de uso:** con moderación, como mucho una aparición po
 - **Voronin:** mano plana sobre el bolsillo del pecho (gesto del Coro). Maldice en ruso solo cuando algo se rompe de verdad, una vez por capítulo como mucho.
 - **Harlan:** chicle, sobre todo antes de una carga. Humor corto y pesimista de Kentucky, una sola frase.
 - **Solheim:** chasquido de lengua para "escuchar" un espacio. Responde con una sola frase y espera sin llenar el silencio.
-- **Kino:** murmura "pelan-pelan" (despacio, en indonesio) a lo que hace crecer. Se frota las manos con tierra al sentarse o al esperar. La hoja en la boca se retiró (2026-10-28). La semilla plantada en el Cap162 es una acción puntual de esa escena, no un hábito.
+- **Kino:** murmura "pelan-pelan" (despacio, en indonesio) a lo que hace crecer. Sembrado y explicado en el Cap162 ("Un bosque se hace despacio. Arder, arde deprisa"), antes de su primer uso en el Cap166. Se frota las manos con tierra al sentarse o al esperar. La hoja en la boca se retiró (2026-10-28). La semilla plantada en el Cap162 es una acción puntual de esa escena, no un hábito.
 - **Whitfield:** termo de té como pausa, no como señal. Frase corta y llana tras usar el Domain ("Yo solo lo noto").
 - **Haddad:** cuenta con los dedos mientras evalúa. Toca la muñeca o el cuello de un herido antes de hablar, nunca durante la cura.
 - **Kiki:** pulgar sobre la guarda de la vaina cuando espera. Mira a cada persona del grupo antes de hablar, como quien ya los ha contado.
