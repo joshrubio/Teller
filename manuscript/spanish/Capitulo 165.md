@@ -116,7 +116,7 @@ El mar no hacía ruido.
 
 Oliver lo notó antes de saber qué le faltaba: el chapoteo contra el casco, el silbido de las cuerdas, un motor lejos. Se había sentado sobre un rollo de cabo en la proa, con la espalda contra una grúa plegada, y miraba al norte con los ojos abiertos. La isla era una mancha más negra que el cielo, con una línea blanca de oleaje en el borde y, por encima, tendida de punta a punta, la niebla. Dentro de la niebla había luces. Seiscientas cuarenta, le habían dicho. Parecían un campo de estrellas puesto del revés.
 
-Intentó leerlas y no pasó nada. Estaba a veintidós kilómetros. Lo que se le ofrecía era lo de siempre: la firma de Voss en el puente, de Marchand, de las treinta y ocho personas del casco; y bajo ellas, tenue, el roce del Ancla copiada, que se desperezaba cada vez que Sabine respiraba. De la isla no llegaba nada.
+Intentó leerlas y no pasó nada. Estaba a veintidós kilómetros. Lo que se le ofrecía era lo de siempre: la firma de Voss en el puente, de las treinta y ocho personas del casco; y bajo ellas, tenue, el roce del Ancla copiada, que se desperezaba cada vez que Sabine respiraba. De la isla no llegaba nada.
 
 —Dime algo —dijo Riku.
 
@@ -182,11 +182,11 @@ El helicóptero llegó a las dos y cincuenta y ocho.
 
 Lo oyeron antes de verlo, un redoble bajo y pegado al mar, sin luces. Se posó sobre la cubierta de popa con un golpe de aire que levantó la escarcha de Lev, y dos camillas salieron antes de que parara el rotor. En una iba un sargento de ER-2 con el hombro abierto, de la clavícula a la axila, por una pata de tractor; la otra llevaba a un Wardog con el brazo roto por dos sitios y la cara de quien todavía no ha entendido por qué sigue vivo.
 
-El médico se acercó a Marchand corriendo.
+El médico se acercó a Voss corriendo.
 
-—Playa tomada, comandante. ER-2 tiene dos heridos, estos, y un muerto: un Wardog, Teague. Un farol le apagó la capa. —Respiraba como si hubiera corrido el trayecto—. La Uno salió hacia dentro a las dos y cuarenta. Los bichos se retiraron a las dos y treinta y ocho, todos a la vez. No sé adónde.
+—Playa tomada, evaluador. ER-2 tiene dos heridos, estos, y un muerto: un Wardog, Teague. Un farol le apagó la capa. —Respiraba como si hubiera corrido el trayecto—. La Uno salió hacia dentro a las dos y cuarenta. Los bichos se retiraron a las dos y treinta y ocho, todos a la vez. No sé adónde.
 
-—Dentro —dijo Marchand.
+—Dentro —dijo Voss.
 
 —Dentro.
 
@@ -200,7 +200,7 @@ Nadie más habló. Los diez Wardogs de ER-5 se habían puesto de pie sin ordenar
 
 —¿Y ahora?
 
-—Ahora lo mismo que antes —dijo Marchand—. Se entra. Y los faroles se abaten desde lejos: quien tenga fuego, que lo tenga a mano.
+—Ahora lo mismo que antes —dijo Voss—. Se entra. Y los faroles se abaten desde lejos: quien tenga fuego, que lo tenga a mano.
 
 El chico asintió. Oliver vio que le temblaba la mano y que, aun así, no la apartaba del arma.
 

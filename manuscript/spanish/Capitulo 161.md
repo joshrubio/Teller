@@ -12,7 +12,7 @@ Notó lo que faltaba antes de saber qué: el ruido. En cualquier otro hangar de 
 
 —Webb. —Voss, a su lado, ya sin el abrigo, con los puños de la camisa remangados dos vueltas—. Siéntate al fondo. Y no hables con Marchand si no te pregunta.
 
-El comandante Marchand era un suizo de cuarenta y cinco años, delgado, con las gafas redondas de quien ha leído demasiados informes, y mandaba ER-5 desde hacía tres días. En la pizarra, detrás de él, alguien había dibujado una isla con tiza, y a su alrededor, en cuatro tonos de color, las oleadas.
+El comandante Marchand era un suizo de cuarenta y cinco años, delgado, con las gafas redondas de quien ha leído demasiados informes, y coordinaba la planificación de la tercera oleada desde hacía tres días. En la pizarra, detrás de él, alguien había dibujado una isla con tiza, y a su alrededor, en cuatro tonos de color, las oleadas.
 
 La primera, en rojo, era corta. SRD-1, ER-2, los Wardogs de playa. La segunda, en amarillo, cubría la cresta y el flanco oeste. La tercera era verde.
 

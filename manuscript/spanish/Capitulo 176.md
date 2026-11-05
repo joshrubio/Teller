@@ -114,7 +114,7 @@ Cuarenta metros de pasarela cambiaron de forma. Oliver lo vio con el Registro y 
 
 El chico de los cubos retrocedió un paso, sin sorpresa, y miró alrededor buscando la puerta siguiente. No había ninguna.
 
-Voss se llevó la mano a la nariz. Le salió sangre. No dijo nada.
+Voss no apartó la palma del travesaño. Respiró hondo una vez y no dijo nada.
 
 Y en medio de todo, la mujer de la trenza avanzaba por la pasarela con las manos levantadas.
 
@@ -184,7 +184,7 @@ Cuando terminó, se contaron los que quedaban.
 
 Habían muerto seis de ER-5, dos por sus propias balas, uno resbalado al vacío, tres por los hilos y las pisadas. Otros siete estaban heridos, dos de gravedad, y los sacaban a rastras hacia la escalera con las manos de otros. De los chalecos habían caído cuatro, el calvo entre ellos. La mujer del pañuelo yacía de lado, con una pierna rota. El hombre de las manos abiertas se había rendido con las palmas a la vista, sin devolver nada.
 
-Nadia estaba sentada contra la barandilla, con la clavícula rota y la cara color ceniza, sostenida por una Dara que apenas se sostenía a sí misma. Asha apretaba un paño contra el antebrazo, que se le había abierto de la muñeca al codo. Riku sangraba por una ceja, por los nudillos y por una costilla que no se atrevía a tocar. Voss se había soltado del travesaño y respiraba por la boca, con la sangre de la nariz seca en la barbilla. La sargento los contaba en voz baja, de uno en uno, con la lista en la cabeza.
+Nadia estaba sentada contra la barandilla, con la clavícula rota y la cara color ceniza, sostenida por una Dara que apenas se sostenía a sí misma. Asha apretaba un paño contra el antebrazo, que se le había abierto de la muñeca al codo. Riku sangraba por una ceja, por los nudillos y por una costilla que no se atrevía a tocar. Voss se había soltado del travesaño y respiraba por la boca, con la camisa empapada de sudor. La sargento los contaba en voz baja, de uno en uno, con la lista en la cabeza.
 
 El chico del chaleco grande, el que había cruzado, estaba sentado entre los soldados con una manta sobre los hombros. Alguien le había vendado la pierna. Miraba el suelo.
 
