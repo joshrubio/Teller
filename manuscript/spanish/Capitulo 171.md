@@ -98,7 +98,7 @@ Ancha, fría y hermosa, hecha a su medida, tan cerca que podía verla respirar. 
 
 Kaspar la miró y vio lo que le ofrecía.
 
-Vio a la gente de rodillas. No por miedo. Por alivio. Tres mil cien personas, y más, y detrás de ellas todas las que había mandado durante cuarenta años a un sitio que no había visto, a salvo, todas, ninguna sola, ninguna sin casa. Vio la casa llena. Vio la isla entera cantando una nota. Vio que no hacía falta que nadie volviera a decidir por ellos, porque él lo haría, con una mano firme y una voz mansa, mejor que nadie, sin dudar nunca, durante todo el tiempo que hiciera falta.
+Vio a la gente de rodillas. No por miedo. Por alivio. Tres mil cien personas, y más, y detrás de ellas todas las que había mandado durante cuarenta años a un sitio que no había visto, a salvo, todas, ninguna sola, ninguna sin casa. Vio la casa llena. Vio la isla entera vibrando en un solo zumbido. Vio que no hacía falta que nadie volviera a decidir por ellos, porque él lo haría, con una mano firme y una voz mansa, mejor que nadie, sin dudar nunca, durante todo el tiempo que hiciera falta.
 
 Era lo que había querido siempre. Lo vio con tanta claridad que sintió un frío subir desde la nuca, por la cara, hasta los labios.
 
@@ -163,6 +163,8 @@ El joven de pelo blanco tenía la cabeza ladeada, mirándola con una curiosidad 
 La luz de la zarza bajó.
 
 Las sombras se encogieron. Las cuatro siluetas de patas se deshicieron una por una, como el humo de una vela, y la última, la del norte, se fue sin haberse movido. El suelo volvió a ser una losa tibia.
+
+Solo entonces Kaspar notó lo que faltaba. El zumbido que subía por la roca desde que había llegado, el que afinaba a tres mil personas, se había cortado. No bajó ni se apagó. Se cortó, como el hilo, y dejó en la sala un silencio de brasa recién apagada.
 
 Quedó la llama, dorada y baja, sin gastarse.
 

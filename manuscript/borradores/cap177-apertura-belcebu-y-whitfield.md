@@ -14,7 +14,7 @@ Los caparazones grandes del anillo se apartaban a su paso, uno tras otro, sin un
 
 La que escuchaba ya no estaba. Lo había notado hacia las seis, como se nota que alguien cierra una puerta en otra habitación de la casa. Le había hecho daño y le había gustado. Hacía mucho que nada le dolía. Ahora tendría que buscar quién más.
 
-Abajo cantaban. Tres mil voces, una nota, que le subía por las piernas, tibia. Si pudiera quedarse en una sola cosa, se quedaría en esa.
+Abajo no hablaba nadie. Tres mil personas y ni una voz, y bajo ellas lo que quedaba del zumbido, una brasa tibia que le subía por las piernas. Si pudiera quedarse en una sola cosa, se quedaría en esa.
 
 No tenía prisa. Caminar le gustaba por lo contrario de lo que se piensa. Porque se tarda. Caminando, las cosas tienen tiempo de llegar.
 

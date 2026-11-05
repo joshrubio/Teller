@@ -148,7 +148,7 @@ Los demás bajaron. Park los vio irse ladera abajo en fila, pequeños y firmes, 
 
 Hacía calor.
 
-No el de un día de verano, sino el de una olla destapada. La roca humeaba a trozos y el aire sabía a hierro mojado y a hoja podrida. A la luz clara las lámparas de la cuenca seguían encendidas, pequeñas y amarillas, ridículas en pleno día. Y se oía el canto. Tres mil voces, una nota, un tono largo y bajo que el cuerpo recibía antes que el oído y que a Park le hizo vibrar el pecho como la proximidad de un motor.
+No el de un día de verano, sino el de una olla destapada. La roca humeaba a trozos y el aire sabía a hierro mojado y a hoja podrida. A la luz clara las lámparas de la cuenca seguían encendidas, pequeñas y amarillas, ridículas en pleno día. Y no se oía nada. Debía de haber tres mil personas abajo, y el silencio que subía de la cuenca era hondo y largo, de los que el cuerpo recibe antes que el oído, y a Park le oprimió el pecho como un cuarto donde acaba de callar alguien.
 
 Harlan juntaba piedras.
 
@@ -218,7 +218,7 @@ No hubo preguntas. Park pensó que Voronin detestaba improvisar, y que lo que ac
 
 Bajaron por el sendero que el barrido había abierto, sin hablar.
 
-La ladera estaba entera a la luz, de arriba abajo, el verde de los helechos arrancados, el gris de la roca partida, y el anillo de criaturas a lo lejos como un cordón de piedras negras. Abajo el canto seguía. A Park le pareció que sonaba un poco más alto a cada paso.
+La ladera estaba entera a la luz, de arriba abajo, el verde de los helechos arrancados, el gris de la roca partida, y el anillo de criaturas a lo lejos como un cordón de piedras negras. Abajo seguía sin oírse nada. A Park le pareció que el silencio pesaba un poco más a cada paso.
 
 Era un campo de ruinas. Lo habían dejado así a las cinco y diez, entre salto y salto de Conti, y a la luz del día se veía lo que había sido. Cráteres anchos como estanques secos. Terrazas de roca donde un trozo de monte se había partido y vuelto a caer. Troncos tumbados todos en el mismo sentido, y en el suelo, sin nada que los sostuviera, los hilos secos de lo que Kino había hecho crecer.
 

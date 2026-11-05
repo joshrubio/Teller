@@ -250,7 +250,7 @@ Voss asintió. Se volvió por fin hacia ellos, hacia Oliver y los demás de Vala
 
 Oliver no se movió.
 
-Se había abierto el Registro, sin que lo pidiera, hacia el interior de la isla. Encontró la selva, la firma lejana de una ciudad colgada de ramas, el murmullo de tres mil personas afinadas a una sola nota. Y por encima de todo eso, en la ladera, a dos kilómetros, algo que no cabía.
+Se había abierto el Registro, sin que lo pidiera, hacia el interior de la isla. Encontró la selva, la firma lejana de una ciudad colgada de ramas, el zumbido de tres mil personas afinadas a una sola brasa. Y por encima de todo eso, en la ladera, a dos kilómetros, algo que no cabía.
 
 No era una firma. Era una cantidad. Un Odem tan ancho y tan denso que el Registro no lo leía, se apoyaba en él, como una mano que busca una pared y descubre que es el costado de un barco. Pesaba. El aire de la playa se le había vuelto espeso en la boca, y lo notó en las muelas antes de entender por qué.
 
@@ -266,6 +266,6 @@ Intentó encontrarle el borde y no tenía. Había una capa, y debajo otra, y otr
 
 —¿Hacia dónde?
 
-Oliver cerró los ojos. Sintió que aquello giraba despacio hacia el centro de la cuenca, hacia la nota grande de la zarza, y que por primera vez había en la isla algo capaz de medirse con ella.
+Oliver cerró los ojos. Sintió que aquello giraba despacio hacia el centro de la cuenca, hacia el zumbido grande de la zarza, y que por primera vez había en la isla algo capaz de medirse con ella.
 
 —Va a bajar —dijo.

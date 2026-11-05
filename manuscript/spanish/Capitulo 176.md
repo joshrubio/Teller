@@ -8,11 +8,11 @@ Oliver seguía agarrado a la barandilla. Tenía las muelas llenas de hierro. A d
 
 —Oliver —dijo Voss, sin volverse—. Dígame lo que vea.
 
-Cerró los ojos. Antes que nada, como cada mañana desde Maren, repasó lo que llevaba dentro. Impulso, sin una mella. Ancla, firme. Inercia, con el peso donde debía. Canje, el que más le había costado mantener, afilado como una navaja. No las había dejado enfriar como a Tensión y a Estática, que se le habían ido en el Libro 2 por no cuidarlas. Llevaba desde entonces diez minutos al día con cada una, también en los trenes, también con la comida fría. Si hoy hacía falta cortar, cortaba.
+Cerró los ojos. Antes que nada, como cada mañana en Valais junto Maren, repasó lo que llevaba dentro. Impulso, sin una mella. Ancla, firme. Inercia, con el peso donde debía. Canje, afilado como una navaja. Llevaba desde Milan dedicándole diez minutos al día con cada una, también en los trenes, también con la comida fría. Si hoy hacía falta cortar, cortaba.
 
-Abrió el Registro.
+Abrió los ojos, y con ellos el Registro.
 
-—Once en la línea, y botas de goma todos. —Tragó—. Cuatro con Domain. La mujer de la trenza, de lado, con una firma que sale en hilos finísimos y se queda en el aire. Es Trama. Hay una red tendida entre las barandillas, a la altura del tobillo y de la rodilla. No se ve, pesa. A su derecha, un hombre de manos abiertas. Eso es un Rebote. Devuelve lo que recibe. Y el que está a su lado, el calvo, con las manos en los bolsillos, es Silencio.
+—Once en la línea, y botas de goma todos. —Tragó—. Cuatro con Domain, a diez metros se les nota. La mujer de la trenza, de lado, con una firma que sale en hilos finísimos y se queda en el aire. Creo que es Trama. Hay una red tendida entre las barandillas, a la altura del tobillo y de la rodilla. No se ve, pesa. A su derecha, un hombre de manos abiertas. Eso parece un Rebote. Devuelve lo que recibe. Y el que está a su lado, el calvo, con las manos en los bolsillos, creo que es Silencio.
 
 —¿Silencio?
 
@@ -216,7 +216,7 @@ Voss se colocó los puños de la camisa.
 
 Oliver no contestó. Estaba mirando el centro de la cuenca.
 
-El canto se había parado. Hacía unos segundos, o hacía un minuto, Oliver no habría sabido decirlo. Tres mil voces, una nota, que habían estado sonando toda la mañana por debajo de todo como el calor de un horno, y de pronto no estaban. En su lugar quedaba un silencio enorme y redondo, y en el aire de la cuenca una tensión, como la de un cuerpo grande que se prepara para levantarse.
+La cuenca llevaba callada desde las seis y pico, pero el silencio había cambiado. Ya no era el de tres mil personas quietas dentro del anillo. Era una tensión enorme y redonda, como la de un cuerpo grande que se prepara para levantarse.
 
 Más allá de las casas, entre el dosel y el humo de las lámparas, los caparazones del anillo giraron todos a la vez.
 

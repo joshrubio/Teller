@@ -32,7 +32,7 @@ Estaba en la otra silla, con el abrigo gris puesto a pesar del calor, y tenía l
 
 Kaspar abrió el Registro, por costumbre, y no encontró nada. El mar estaba demasiado lejos. Pero sintió en los tobillos lo mismo que había sentido el primer día: la tensión de saber de qué lado está el agua.
 
-Abajo seguían cantando, como siempre. Hacía tiempo que había dejado de oírlo.
+Abajo seguía el zumbido, tibio, como de algo que arde sin llama. Hacía tiempo que había dejado de oírlo.
 
 ---
 
@@ -228,7 +228,7 @@ Esperó. El silencio de la isla era distinto de antes; no se había ido nada, pe
 
 —Con nadie.
 
-—Mientes. —Se llevó una mano al abrigo, a la altura del pecho, y lo sostuvo allí—. Algo ha hablado ahí abajo. No era la que canta, y no era para mí. Y llevaba toda la noche callada.
+—Mientes. —Se llevó una mano al abrigo, a la altura del pecho, y lo sostuvo allí—. Algo ha hablado ahí abajo. No era la Madre, y no era para mí. Y llevaba toda la noche callada.
 
 Kaspar se volvió hacia el ventanal.
 

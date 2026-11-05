@@ -46,9 +46,9 @@ Cayó como se cae cuando uno ha decidido no tocar el suelo. Los primeros veinte 
 
 La piedra no se movió.
 
-Park se quedó quieto sobre ella con todo lo que había frenado dentro del cuerpo, caliente, apretado contra las costillas. Doscientos metros de playa, por lo que alcanzaba a ver. Cuarenta hasta los árboles. Más allá de los árboles, el techo de hojas, continuo y bajo la niebla, respirando. Y desde dentro, desde muy lejos, una nota grave que subía y bajaba con la lentitud de un pecho enorme.
+Park se quedó quieto sobre ella con todo lo que había frenado dentro del cuerpo, caliente, apretado contra las costillas. Doscientos metros de playa, por lo que alcanzaba a ver. Cuarenta hasta los árboles. Más allá de los árboles, el techo de hojas, continuo y bajo la niebla, respirando. Y desde dentro, desde muy lejos, un zumbido grave y tibio, tan parejo que parecía el pulso de un pecho enorme.
 
-Era lo que Wójcik había contado. Cantaban.
+Era lo que Wójcik había contado, sin las voces.
 
 El helicóptero se alejó hacia el sur con el ruido enrollado. Park se quedó solo en la orilla con el mar a la espalda y esperó a que alguien hiciera algo.
 

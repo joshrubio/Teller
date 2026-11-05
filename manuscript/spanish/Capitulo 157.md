@@ -158,11 +158,11 @@ Sabine leyó el resto.
 
 Lo hizo de pie junto a la mesa de zinc, con la libreta abierta y la voz plana de quien lee un inventario. Todo lo que había dicho en voz alta o contado con los pies estaba allí; lo demás, no existía.
 
-—Seiscientas cuarenta casas, de madera y de contenedor. Luz en ciento dieciocho. Quinientas personas en los escalones de la grieta, contadas por filas. Ciento ochenta cestas de comida en la plataforma central, selladas. Un generador azul. Doce bidones de agua. —Pasó la página—. A ojo, cinco por casa: tres mil doscientas de capacidad. Viviendo allí ahora, calculo mil doscientas. Quinientas fueron las que vimos juntas.
+—Seiscientas cuarenta casas, de madera y de contenedor. Luz en ciento dieciocho. Quinientas personas en los escalones de la grieta, contadas por filas. Ciento ochenta cestas de comida en la plataforma central, selladas. Un generador azul. Doce bidones de agua. —Pasó la página—. A ojo, cinco por casa: tres mil doscientas de capacidad. Viviendo allí ahora, calculo tres mil cien. Quinientas fueron las que vimos juntas.
 
-—Mil doscientas de tres mil doscientas —repitió Voss.
+—Tres mil cien de tres mil doscientas —repitió Voss.
 
-—La casa no está llena, evaluador. —Sabine cerró la libreta—. Está preparada para estarlo.
+—La casa casi está llena, evaluador. —Sabine cerró la libreta—. Y lo que le falta lo tiene preparado.
 
 Nadie dijo nada. En la pared del fondo, una gota del revelador cayó de una fotografía a la bandeja.
 

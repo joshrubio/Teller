@@ -252,13 +252,13 @@ Habían colgado una sábana blanca en la pared de ladrillo y proyectado sobre el
 
 Furrer leyó el orden del día de un solo punto con su voz de notario. *Operación contra el sujeto designado 2026-ICO-001, Isla del Coco, Costa Rica.*
 
-Voss presentó el informe desde Hachinohe, de pie, sin notas. Cuarenta y una fotografías. Diez muertos de catorce. Una ciudad colgada de un dosel vivo, seiscientas cuarenta casas, ciento dieciocho con luz, quinientas personas ante una grieta de escalones y unas mil doscientas viviendo allí. Y un hombre en una roca con una garrafa de agua en cada mano.
+Voss presentó el informe desde Hachinohe, de pie, sin notas. Cuarenta y una fotografías. Diez muertos de catorce. Una ciudad colgada de un dosel vivo, seiscientas cuarenta casas, ciento dieciocho con luz, quinientas personas ante una grieta de escalones y unas tres mil cien viviendo allí. Y un hombre en una roca con una garrafa de agua en cada mano.
 
 —El señor Ashworth es el titular de la fundación que proveyó el barco del reconocimiento —dijo, y miró a la cámara de Washington.
 
 Hale no se movió.
 
-—Mil doscientas personas —dijo Hohepa, desde Wellington, con las manos grandes cruzadas sobre una mesa de roble—. No son Potestades. Son personas. Pido que conste.
+—Tres mil cien personas —dijo Hohepa, desde Wellington, con las manos grandes cruzadas sobre una mesa de roble—. No son Potestades. Son personas. Pido que conste.
 
 —Consta —dijo Furrer.
 

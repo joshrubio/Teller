@@ -4,9 +4,9 @@ Capítulo 174 — La puerta
 
 Subieron los treinta y cinco escalones en silencio.
 
-Tomás iba un peldaño por debajo, como había ido toda la noche, y la nota de abajo les pesaba en la espalda como una mano grande y paciente. Sisi no volvió la cabeza. Llevaba horas sin abrirse a lo de dentro, desde que rompió en el tercer nivel la única regla que tenía, y le dolía la cabeza del esfuerzo de no oír.
+Tomás iba un peldaño por debajo, como había ido toda la noche, y el zumbido de abajo les pesaba en la espalda como una mano grande y paciente. Sisi no volvió la cabeza. Llevaba horas sin abrirse a lo de dentro, desde que rompió en el tercer nivel la única regla que tenía, y le dolía la cabeza del esfuerzo de no oír.
 
-Hacia el escalón veinte el aire se aflojó. No fue un temblor. La nota bajó medio tono, un segundo, como una cuerda de guitarra que alguien suelta una vuelta, y volvió a su sitio.
+Hacia el escalón veinte el aire se aflojó. No fue un temblor. El zumbido bajó medio tono, un segundo, como una cuerda de guitarra que alguien suelta una vuelta, y volvió a su sitio.
 
 —Se ha cortado algo —dijo ella.
 
@@ -14,7 +14,7 @@ Hacia el escalón veinte el aire se aflojó. No fue un temblor. La nota bajó me
 
 —Lejos. —No supo decir más. Tenía la sensación de que a uno de los tres mil le habían quitado de golpe una cosa que no sabía que llevaba, y de que ese uno no estaba allí.
 
-Arriba el círculo del dosel se aclaraba. Todavía no era día, pero ya no era noche, y cuando asomaron por el borde de la boca vieron que no estaban solos. Había gente en los escalones altos. Unos sentados o de rodillas, los que llevaban horas cantando bajito con las manos sobre los muslos, y otros de pie, apartados, con los brazos cruzados, que no cantaban. Los de un tipo y los del otro los miraron subir. Eran los únicos que habían bajado y vuelto.
+Arriba el círculo del dosel se aclaraba. Todavía no era día, pero ya no era noche, y cuando asomaron por el borde de la boca vieron que no estaban solos. Había gente en los escalones altos. Unos sentados o de rodillas, los que llevaban horas callados con las manos sobre los muslos, y otros de pie, apartados, con los brazos cruzados, que no se sentaban. Los de un tipo y los del otro los miraron subir. Eran los únicos que habían bajado y vuelto.
 
 —Los de Don Martín —dijo alguien, no muy bajo.
 
@@ -42,7 +42,7 @@ Vinieron a ellos sin que los llamaran.
 
 Fue en la pasarela que daba al cuarto de Anaís, donde se habían sentado a esperar. Primero una mujer con una niña de la mano y una madre anciana detrás, agarrada al pasamanos. Sisi la conocía. Marisela Gudiño no era de hablar.
 
-—Se les oyen los corazones —dijo. Lo dijo con la voz plana de quien oye por oficio—. A todos. Antes iban al compás de la nota. Desde que se apagaron las luces, no. Cada uno a lo suyo, y deprisa. —Se tocó el pecho—. Los míos también.
+—Se les oyen los corazones —dijo. Lo dijo con la voz plana de quien oye por oficio—. A todos. Antes iban al compás del zumbido. Desde que se apagaron las luces, no. Cada uno a lo suyo, y deprisa. —Se tocó el pecho—. Los míos también.
 
 —¿Y los chalecos?
 
@@ -76,7 +76,7 @@ Tomás se inclinó hacia ella.
 
 —Les voy a preguntar.
 
-Era su regla nueva. No sacar a nadie. Abrir la puerta a quien la pida, y nada más. Les han quitado la puerta y no se han dado cuenta, había dicho el primer día, y era verdad, y ahora iba a devolvérsela de uno en uno, sin empujar. Apoyó los dedos en el marco de la pasarela y levantó la nota alrededor del hombre de las gafas. No la apagó. Solo la apartó lo justo para que la oyera pasar.
+Era su regla nueva. No sacar a nadie. Abrir la puerta a quien la pida, y nada más. Les han quitado la puerta y no se han dado cuenta, había dicho el primer día, y era verdad, y ahora iba a devolvérsela de uno en uno, sin empujar. Apoyó los dedos en el marco de la pasarela y levantó el zumbido alrededor del hombre de las gafas. No lo apagó. Solo lo apartó lo justo para que la pregunta le llegara limpia.
 
 —¿Quiere irse?
 
@@ -168,7 +168,7 @@ Yesenia, la niña de la piedra, la apretaba tanto que se le había agrietado en 
 
 Sisi se detuvo.
 
-No era por el niño. Era por lo que había debajo de la nota. Había una voz pequeña, apenas un hilo de hambre, sin palabras, y la conocía. La había oído antes, diez noches seguidas, bajo el sueño de otra. Una niña que no sabía cómo se llamaba y que ella había llamado por su nombre.
+No era por el niño. Era por lo que había debajo del silencio. Había una voz pequeña, apenas un hilo de hambre, sin palabras, y la conocía. La había oído antes, diez noches seguidas, bajo el sueño de otra. Una niña que no sabía cómo se llamaba y que ella había llamado por su nombre.
 
 —Anaís —dijo, sin querer.
 
@@ -232,9 +232,9 @@ Camilo se quedó en el malecón, con los brazos colgando.
 
 Sisi lo sintió antes de que lo dijeran por la radio.
 
-La nota se puso de pie.
+La cuenca se puso de pie.
 
-No encontró otra manera de decirlo. Tres mil voces afinadas a una sola, y de pronto, a la vez, todas incorporadas, como si alguien hubiera pronunciado el nombre de cada uno. Y bajo ese movimiento, cruzando la cuenca de norte a sur sin prisa, una mente que contaba. *Uno. Dos. Tres.* Cortés, tranquila, ajena. No la leyó. Tuvo que cerrar los ojos para no hacerlo.
+No encontró otra manera de decirlo. Tres mil personas, y de pronto, a la vez, todas incorporadas sin un solo ruido, como si alguien hubiera pronunciado el nombre de cada uno. Y bajo ese movimiento, cruzando la cuenca de norte a sur sin prisa, una mente que contaba. *Uno. Dos. Tres.* Cortés, tranquila, ajena. No la leyó. Tuvo que cerrar los ojos para no hacerlo.
 
 —¿Qué es? —dijo Tomás.
 
@@ -258,4 +258,4 @@ Tomás asintió, con las manos vendadas quietas a los costados.
 
 El sargento los miró marcharse desde la cubierta. No dijo nada. Cuando ya estaban en el primer cruce, levantó la mano otra vez, abierta, despacio.
 
-Volvieron a entrar en la oscuridad de las pasarelas. A su espalda, la nota seguía de pie, y le pareció a Sisi que no iba a volver a sentarse.
+Volvieron a entrar en la oscuridad de las pasarelas. A su espalda, la cuenca seguía de pie, y le pareció a Sisi que no iba a volver a sentarse.

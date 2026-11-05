@@ -46,6 +46,8 @@ Fue una marcha de gente que no habla.
 
 Salieron de la playa con el cielo de un gris de leche sucia, treinta y ocho de ER-5 con las mochilas altas y las armas cortas, y detrás los de ER-6, y en medio los ocho de Valais con Voss. Nadie dio órdenes. El suelo subía despacio, de piedra redonda a roca viva y de roca a helecho, y la niebla se enredaba en las rodillas. No había pájaros. Oliver lo notó a mitad de camino, sin saber qué le faltaba, y supo que a los demás les pasaba lo mismo por cómo miraban hacia arriba.
 
+Tampoco había nada que los esperase en el dosel. El camino lo habían limpiado la Uno y ER-2 horas antes, y quedaban los restos a la vista. Un tractor reventado contra un tronco, la carcasa de un segador partida en dos, frondas quemadas en un tajo que se perdía cuesta arriba, casquillos entre las piedras. Nada se movía entre las ramas.
+
 La hondonada apareció de golpe, ochenta metros de pared a pared, tapizada de frondas blancas y verdes que se mecían sin viento. En el borde, a veinte metros del camino, había alguien arrodillado entre ellas, con el torso inclinado y una mano cerrada sobre algo que ya no estaba.
 
 —Ibarra —dijo Voss.
@@ -80,7 +82,7 @@ El puente de Kino crujía como un barco.
 
 Era un trenzado de raíces vivas, a metro y medio de las frondas, con barandilla de lianas, y cedía un poco bajo cada pie, tibio, como un lomo. Oliver lo cruzó contando las tablas. El hombre que lo había hecho estaba tumbado en una lona un kilómetro más arriba, con la cara del color del pan, y su Domain seguía sosteniendo el puente sin él.
 
-Al otro lado, junto a una roca, había una mujer sentada con la mano plana sobre el bolsillo del pecho.
+Al otro lado, junto a una roca, había una mujer sentada con la espalda contra la piedra.
 
 La coronel Voronin no se levantó. Los miró pasar uno a uno, con los ojos de alguien que lleva años contando gente que no vuelve, y cuando pasó Oliver lo detuvo con una sola palabra.
 
@@ -120,9 +122,9 @@ Oliver bajó el último trecho del paso con las palabras de Park todavía en la 
 
 Park había dicho que ya lo sabía. Mentía. Oliver lo notó porque nunca lo había visto tan seguro, y lo conocía de sobra para saber que cuando Park estaba seguro es que no tenía otra cosa. Lo había dicho para que él dejara de cargarlo. Oliver lo había dejado. Era una de esas mentiras que se aceptan por cortesía, y no le dolió, y por eso mismo le dolió.
 
-En el paso se habían separado sin ceremonia. Voss lo dijo con la voz que usaba para las malas noticias, sin adornos, y ninguno protestó. Pier, Sabine y Lev se quedaban con la Uno. Lev ni se despidió. Era su forma de despedirse. Asha y Dara bajarían con ellos, y Oliver, Riku y Nadia con Voss y los de ER-5 sin capa, por la ladera, hacia las casas del sur. Tres se quedaban y cinco bajaban. Era la primera vez que Valais se dividía sin que nadie hubiera caído.
+La orden de Okonjo había llegado por la radio de Voss en el paso, y Voss no la había discutido. Entraban en Hesperia, a las pasarelas del sur y solo para contacto civil. El anillo no se tocaba, la Uno seguía parada arriba y Valais se repartía. Tres se habían quedado con ella y cinco bajaban, la primera vez que se dividían sin que nadie hubiera caído. Lev ni se había despedido. Era su forma de despedirse.
 
-Ahora bajaban en fila, entre helechos enteros y raíces húmedas, por la senda del oeste, la que el barrido no había tocado. El sendero que Belcebú había abierto quedaba a la derecha, a doscientos metros, vacío. El sol ya estaba fuera. Pegaba en la espalda con un peso húmedo. Las camisas se pegaban a la piel.
+Ahora bajaban en fila, entre helechos enteros y raíces húmedas, por la senda del oeste, la que el barrido no había tocado. El sendero que había abierto el Principado quedaba a la derecha, a doscientos metros, vacío. El sol ya estaba fuera. Pegaba en la espalda con un peso húmedo. Las camisas se pegaban a la piel.
 
 A las siete y dos la radio de Voss dijo algo.
 
@@ -140,17 +142,15 @@ Lo había sentido hacía unos minutos, como una presión que se mueve despacio d
 
 Oliver cerró los ojos mientras caminaba. El Registro estaba ahí, sin que lo llamara, y esta vez lo dirigió hacia abajo, hacia las casas, y no hacia lo otro.
 
-Encontró la nota primero. Tres mil voces afinadas a una, tibia, tranquila, que subía de la cuenca como el calor de un horno. Las encontró a ellas, a las personas, y eran muchas, y estaban todas dentro del anillo, pegadas unas a otras, calladas. Y por fuera de ellas, repartidas por las pasarelas y los cruces, cuarenta y tres firmas distintas.
+Con los ojos cerrados todo llegaba sin forma ni color, y a esa distancia, a unos cuatrocientos metros de las primeras casas, apenas eran manchas. Encontró primero a la gente. Eran muchas, y estaban todas dentro del anillo, pegadas unas a otras, calladas, y su quietud subía de la cuenca como el calor de un horno. Y por fuera de ellas, repartidas por las pasarelas del sur, una hilera de firmas pequeñas.
 
-No eran fuertes. Eso fue lo primero. Domains pequeños, de los que se ven en un barrio, de los que resuelven una puerta o una mano. Pero estaban limpias. Cada una exactamente donde le tocaba, a la distancia justa de la siguiente, quietas como las piezas de un reloj.
+No eran fuertes. Eso fue lo primero. Domains menores, de los que resuelven una puerta o una mano. Estaban quietas, cada una a la distancia justa de la siguiente, como las piezas de un reloj.
 
-Una de ellas no era de pelea. Era de casa. Una firma que daba la sensación de un pasillo largo con puertas cerradas, y alguien dentro de cada una.
-
-—Cuarenta y tres —dijo Oliver, en voz alta, como le había pedido Voronin—. En las pasarelas del sur, la mayoría. Una cada diez metros. Domains menores. No se mueven.
+—Cuarenta, cuarenta y tres —dijo Oliver, en voz alta, como le había pedido Voronin—. En las pasarelas del sur, una cada diez metros. Pequeñas. No se mueven. Más no puedo decir sin verlas.
 
 —¿Armas?
 
-—Algunas. No las llevan en la mano.
+—Eso no lo lee el Registro. —Tragó—. Hasta que las vea, no sé qué llevan.
 
 Voss no contestó. Habló en voz baja por la radio, y Oliver supo que, un kilómetro y medio más allá, Voronin lo repetía por el Coro, palabra por palabra.
 
@@ -164,7 +164,7 @@ Las casas empezaban donde terminaban los helechos.
 
 Colgaban del dosel o se encajaban en sus horquillas, de madera trenzada que crecía del propio árbol, o de contenedores de carga de un azul desvaído, con ventanas de cristal cortado. Las pasarelas de rejilla metálica unían unas con otras a diez metros del suelo. Los cestos de caña estaban encendidos, pequeños y amarillos, ridículos a la luz del día.
 
-No había nadie. Eso fue lo que hizo que Oliver apretara los puños. Un pueblo entero, construido con paciencia, y las puertas abiertas, la ropa en las cuerdas, un cuenco de agua en un rellano. Ni un niño, ni un perro. Solo, a lo lejos, un rumor de gente, y la nota.
+No había nadie. Eso fue lo que hizo que Oliver apretara los puños. Un pueblo entero, construido con paciencia, y las puertas abiertas, la ropa en las cuerdas, un cuenco de agua en un rellano. Ni un niño, ni un perro. Solo, a lo lejos, el silencio de mucha gente junta.
 
 Voss se detuvo al pie de la primera escalera de raíces.
 
@@ -198,7 +198,7 @@ Era una firma más joven, en la tercera posición. De pronto se rizó, como una 
 
 Oliver lo vio, y alguien vio que lo veía.
 
-Al otro extremo de la línea, algo más apartado, había un hombre de unos veinticinco años, de hombros caídos, con un cubo de hojalata en cada mano. Llevaba el chaleco azul sin abrochar y la cara de quien lleva mucho tiempo oyendo detrás de puertas. No había hablado. Miraba a Oliver. Su firma no era de pelea ni era limpia. Era el pasillo largo de antes, con las puertas cerradas, y alguien dentro de cada una.
+Al otro extremo de la línea, algo más apartado, había un hombre de unos veinticinco años, de hombros caídos, con un cubo de hojalata en cada mano. Llevaba el chaleco azul sin abrochar y la cara de quien lleva mucho tiempo oyendo detrás de puertas. No había hablado. Miraba a Oliver. Su firma no era de pelea ni era limpia. Era un pasillo largo con las puertas cerradas, y alguien dentro de cada una.
 
 La mujer de la trenza siguió la mirada del chico de los cubos. Después miró a Oliver, sin dureza, como se mira a alguien que ha estado mirando de más.
 
@@ -206,6 +206,12 @@ La mujer de la trenza siguió la mirada del chico de los cubos. Después miró a
 
 —Esperaremos —dijo Voss.
 
-Entonces pasó. La nota de abajo se detuvo un segundo, y a doscientos metros al este, detrás del dosel, algo muy grande cruzó la cuenca sin que se viera. No hubo ruido. Los once chalecos giraron la cabeza hacia allí, todos a la vez, con la precisión de un ensayo, y volvieron a mirar al frente. Oliver sintió el peso en las muelas, tanto, que tuvo que agarrarse a la barandilla.
+Entonces pasó. El silencio de abajo se quedó más quieto todavía, y a doscientos metros al este, detrás del dosel, algo muy grande cruzó la cuenca sin que se viera. No hubo ruido. Los once chalecos giraron la cabeza hacia allí, todos a la vez, con la precisión de un ensayo, y volvieron a mirar al frente. Oliver sintió el peso en las muelas, tanto, que tuvo que agarrarse a la barandilla.
 
-Detrás de la línea, el chico de los cubos dejó uno en el suelo, despacio, sin hacer ruido.
+Lo siguió sin quererlo. Iba despacio y no se desviaba. Dejó atrás la cuenca y tomó la ladera hacia el sur, hacia el paso, y Oliver supo lo que significaba antes de decidir si quería saberlo. Allá arriba estaban Pier, Sabine y Lev. Estaba Park, que le había dicho que ya lo sabía.
+
+—Voss —dijo, sin voz.
+
+—Lo sé. Voronin acaba de decírmelo por la radio. —Voss tenía la palma sobre el travesaño y los ojos en la línea—. Ahora mire aquí.
+
+Oliver miró. Los once seguían quietos, con las manos limpias, sin haber dicho una palabra más. Pero el chico de los cubos, al fondo, dejó uno en el suelo, despacio, sin hacer ruido, y con la mano que le quedaba libre empezó a abrir el aire.

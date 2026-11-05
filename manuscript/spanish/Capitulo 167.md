@@ -226,7 +226,7 @@ Las luces de la cresta eran de otro color. Más frías. No se movían.
 
 Eso era lo que Marisela no entendía. Desde que llegó a Hesperia le habían dicho que algún día vendría gente a llevárselos, y se había preparado para eso, para una lancha, para unos gritos, para tener que correr. No se había preparado para que vinieran a mirar.
 
-La niña apretaba el conejo de trapo contra la cara. Abajo, bajo la grieta, la nota de siempre seguía igual, y los que sabían oírla supieron que seguía igual, y por eso nadie se movió.
+La niña apretaba el conejo de trapo contra la cara. Abajo, bajo la grieta, el zumbido de siempre seguía igual, y los que sabían oírlo supieron que seguía igual, y por eso nadie se movió.
 
 ---
 
@@ -258,6 +258,6 @@ Conti, un paso por detrás de los demás, miraba hacia el este.
 
 Llevaba mirando hacia allí desde la playa. No decía nada. Sus manos estaban juntas y no se movían, y nadie le preguntó qué veía, porque no veía nada.
 
-A las cuatro y diecisiete, en el acantilado del este, algo que no había cantado en toda la noche dejó de estar quieto.
+A las cuatro y diecisiete, en el acantilado del este, algo que no había hecho un ruido en toda la noche dejó de estar quieto.
 
 Nadie en la cresta lo notó.

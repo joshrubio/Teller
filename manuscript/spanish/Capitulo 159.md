@@ -110,19 +110,19 @@ Marisela caminaba a su lado con la hija de la mano y la madre detrás, agarrada 
 
 —No lo parece. —Lo dijo sin acusación—. Parece que viene de visita.
 
-Kaspar la leyó de golpe. Era la costumbre. Abrió el Registro, ese ojo que tenía detrás de los otros, y la isla entera se le puso delante a la vez: no una ciudad, sino un solo gesto. Seiscientas cuarenta casas colgadas del dosel o encajadas en sus horquillas: unas de madera trenzada, que crecían del propio árbol; otras, contenedores de carga de un azul desvaído con ventanas de cristal cortadas a soplete y puertas de acero, atornillados a los troncos con cables; módulos prefabricados de la fundación, chapa, antenas apagadas. Pasarelas que las unían como tendones, de cuerda y de rejilla metálica. Lámparas de aceite en cestos de caña y, entre ellas, farolas de luz blanca alimentadas por un generador. Mil quinientas almas, cada una con su firma. Y todas, sin excepción, con la misma nota.
+Kaspar la leyó de golpe. Era la costumbre. Abrió el Registro, ese ojo que tenía detrás de los otros, y la isla entera se le puso delante a la vez: no una ciudad, sino un solo gesto. Seiscientas cuarenta casas colgadas del dosel o encajadas en sus horquillas: unas de madera trenzada, que crecían del propio árbol; otras, contenedores de carga de un azul desvaído con ventanas de cristal cortadas a soplete y puertas de acero, atornillados a los troncos con cables; módulos prefabricados de la fundación, chapa, antenas apagadas. Pasarelas que las unían como tendones, de cuerda y de rejilla metálica. Lámparas de aceite en cestos de caña y, entre ellas, farolas de luz blanca alimentadas por un generador. Tres mil cien almas, cada una con su firma. Y todas, sin excepción, con el mismo zumbido.
 
-Era una nota baja, constante, sin ninguna mella. Cada persona la llevaba en el centro de la firma, como un diapasón. Un hombre cargando un bidón; una mujer colgando ropa; un anciano sentado en una pasarela con las piernas colgando. Una calma sin fisuras. No la calma de quien ha descansado. La de quien ha dejado de preguntarse nada.
+Era un zumbido bajo, constante, sin ninguna mella, con un calor de brasa debajo. Cada persona lo llevaba en el centro de la firma, como un diapasón. Un hombre cargando un bidón; una mujer colgando ropa; un anciano sentado en una pasarela con las piernas colgando. Una calma sin fisuras. No la calma de quien ha descansado. La de quien ha dejado de preguntarse nada.
 
-Y la nota venía de abajo.
+Y el zumbido venía de abajo.
 
-No tuvo que mirar. Lo supo por la tensión en los tobillos, como se sabe de qué lado está el agua. Algo bajo la isla estaba produciendo ese sonido, y todos los que vivían encima de él, sin saberlo o sabiéndolo, habían terminado afinándose a él, igual que se afinan dos cuerdas.
+No tuvo que mirar. Lo supo por la tensión en los tobillos, como se sabe de qué lado está el agua. Algo bajo la isla ardía despacio y producía ese sonido, y todos los que vivían encima de él, sin saberlo o sabiéndolo, habían terminado afinándose a él, igual que se afinan dos cuerdas.
 
-Pero había más cosas bajo la nota, y las fue encontrando una a una, igual que se encuentran los muebles en una casa a oscuras.
+Pero había más cosas bajo el zumbido, y las fue encontrando una a una, igual que se encuentran los muebles en una casa a oscuras.
 
-Hacia el este, en un acantilado al otro lado de la cuenca, un punto donde la nota no entraba. Una quietud blanca, joven, sin eco, que el Registro no supo leer y que su Sustento, hambriento como siempre, rozó y retiró como se retira la mano de un hierro frío: allí no había de qué comer. Kaspar no giró la cabeza. Sabía qué clase de cosa se queda así de quieta. Era lo único de la isla que no cantaba.
+Hacia el este, en un acantilado al otro lado de la cuenca, un punto donde el zumbido no entraba. Una quietud blanca, joven, sin eco, que el Registro no supo leer y que su Sustento, hambriento como siempre, rozó y retiró como se retira la mano de un hierro frío: allí no había de qué comer. Kaspar no giró la cabeza. Sabía qué clase de cosa se queda así de quieta. Era lo único de la isla que no vibraba con él.
 
-Y bajo la grieta, mucho más hondo que la nota, un depósito. No una criatura: una acumulación. Una cantidad de Odem tan densa que no cabía en la isla, tibia, reunida, almacenada como agua en un aljibe; y hacia ella, desde el mar, desde todos los lados del horizonte, cinco hilos gruesos como cables de puente, que venían de muy lejos y se hundían en la roca sin dejar rastro. Olían a ceniza de cinco incendios.
+Y bajo la grieta, mucho más hondo que el zumbido, un depósito. No una criatura: una acumulación. Una cantidad de Odem tan densa que no cabía en la isla, tibia, reunida, almacenada como agua en un aljibe; y hacia ella, desde el mar, desde todos los lados del horizonte, cinco hilos gruesos como cables de puente, que venían de muy lejos y se hundían en la roca sin dejar rastro. Olían a ceniza de cinco incendios.
 
 —Es hermoso, ¿verdad? —dijo Daniel.
 
@@ -138,7 +138,7 @@ Kaspar notó que se le había parado la mano en el bolsillo.
 
 *Sí.*
 
-Pero la nota no cambió.
+Pero el zumbido no cambió.
 
 ---
 
@@ -154,7 +154,7 @@ Dormía, con la boca entreabierta y el color de la cera. Camilo había puesto un
 
 —Tiene razón. —Sonrió—. Pero respira con ella.
 
-Era verdad. Kaspar lo vio: el pecho de la niña subía y bajaba al ritmo exacto de la nota que venía de abajo.
+Era verdad. Kaspar lo vio: el pecho de la niña subía y bajaba al ritmo exacto del zumbido que venía de abajo.
 
 Buscó con los ojos la puerta. No tenía hojas; tenía una cortina de cuentas de madera.
 
@@ -176,9 +176,9 @@ Sisi lo alcanzó en el segundo nivel, junto a una barandilla, mientras Daniel ha
 
 Kaspar tardó en contestar.
 
-—Veo a mil quinientas personas sin una sola grieta —dijo, por fin—. Todas afinadas igual.
+—Veo a tres mil cien personas sin una sola grieta —dijo, por fin—. Todas afinadas igual.
 
-—Yo no veo nada. —Su voz era plana, limpia—. Solo oigo. Y no es una mente, Kaspar. Son mil quinientas, y por debajo hay una que las lleva a todas. No tienen puerta. Les han quitado la puerta, y no se han dado cuenta.
+—Yo no veo nada. —Su voz era plana, limpia—. Solo oigo. Y no es una mente, Kaspar. Son tres mil cien, y por debajo hay una que las lleva a todas. No tienen puerta. Les han quitado la puerta, y no se han dado cuenta.
 
 —Eso es lo que decías de los lugares tranquilos.
 
@@ -228,7 +228,7 @@ Kaspar no le dio más vueltas. Se lo prometió, y se oyó prometerlo.
 
 —¿Cuántos faltan?
 
-—Casas libres, trescientas cuarenta desde esta mañana. Dentro de dos semanas, ninguna. —Lo dijo con ligereza—. Hay otros asentamientos suyos que aún no han llegado. Los de Zúrich. Los del norte.
+—Casas libres, veinte desde esta mañana. Dentro de dos semanas, ninguna. —Lo dijo con ligereza—. Hay otros asentamientos suyos que aún no han llegado. Los de Zúrich. Los del norte.
 
 —¿Y cuando no quede ninguna?
 

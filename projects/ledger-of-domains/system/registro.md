@@ -112,3 +112,11 @@ La regla "blindfold = total shutdown" (arriba) es lo que **AMAT cree**, no lo qu
 - **Lectura a distancia:** con los ojos abiertos y dentro de su alcance visual, Oliver lee el rumbo de los hilos de Odem de Kuji (este, algo al sur) hasta donde llega la vista; no puede seguirlos a través del océano. Con los ojos cerrados lee, pero sin bordes (Cap147).
 
 - **Registro en Kaspar (Cap149-150):** igual que en Oliver, funciona con la vista y sirve para sentir firmas en un radio; Kaspar lo describe como "veo", no "oigo".
+
+## Alcance real en Libro 3 (decidido 2026-11-05, usuario)
+
+<!-- canonical -->
+- **Firma individual legible** (forma, qué Domain parece ser): con los ojos abiertos y línea de vista, a decenas de metros (Cap176, a ~10 m). Domains latentes se intuyen ("parece", "creo"), no se nombran con certeza.
+- **Con los ojos cerrados:** manchas sin forma ni color, útiles a unos cientos de metros. Sirven para contar cuántas firmas hay y si se mueven. Nada más (Cap173, ~400 m).
+- **Masas enormes** (miles de personas, un Principado): se sienten a kilómetros como cantidad, peso y capas, nunca como detalle (Cap170, Cap172).
+- **El Registro lee Odem, no materia:** nunca ve armas, ropa ni objetos. Para saber qué lleva alguien hace falta verlo con los ojos.

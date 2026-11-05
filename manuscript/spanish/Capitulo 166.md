@@ -150,7 +150,7 @@ Lo dijo por el Coro, sin esfuerzo y sin alzar la voz. Los diez la oyeron igual. 
 
 La guadaña del ciego cayó donde Kino acababa de apartarse y partió la piedra en dos. Kino le ató las patas traseras con una raíz en cada una, sin mirarlo, y el animal quedó clavado al suelo.
 
-—Lo digo yo, entonces, para que conste en algún sitio. —Voronin no se había movido del abrigo de un tronco. Tenía la mano plana sobre el bolsillo del pecho—. Hartford, Fukushima, Kuji. Una presión sin dueño que ahora tiene cuerpo, y que ha venido por el depósito de la grieta. —Los miró de uno en uno—. Hay un Principado en esta isla.
+—Lo digo yo, entonces, para que conste en algún sitio. —Voronin no se había movido del abrigo de un tronco. Hablaba sin alzar la voz, como quien dicta un parte—. Hartford, Fukushima, Kuji. Una presión sin dueño que ahora tiene cuerpo, y que ha venido por el depósito de la grieta. —Los miró de uno en uno—. Hay un Principado en esta isla.
 
 Nadie dejó de hacer lo que hacía, y por eso se notó. En el Coro, Park oyó ocho pulsos acelerarse a la vez, y el de Haddad no. A veinte metros, el segador de la derecha había cogido a un soldado de ER-2 por el chaleco y lo levantaba del suelo. Hollis saltó con el brazo largo, se colgó de una pata, y la pata se dobló hacia dentro.
 

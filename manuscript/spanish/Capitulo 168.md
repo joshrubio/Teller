@@ -34,7 +34,7 @@ Lo dijo sin abrir los ojos y sin moverse. Los dos se volvieron hacia él.
 
 Kaspar miró a Sisi. Sisi miraba al niño con la atención exacta de quien ha perdido algo y de pronto lo ve.
 
-Fuera, la nota de abajo no había cambiado. Eso era lo que no le gustaba a Kaspar. Con aquello subiendo por el este, la nota seguía igual, lenta y ancha, y tres mil cien personas seguían afinadas a ella como si nadie hubiera dado un paso.
+Fuera, el zumbido de abajo no había cambiado. Eso era lo que no le gustaba a Kaspar. Con aquello subiendo por el este, el zumbido seguía igual, lento y ancho, y tres mil cien personas seguían afinadas a él como si nadie hubiera dado un paso.
 
 ---
 
@@ -46,7 +46,7 @@ Apoyó la palma contra el marco de la puerta, sin apretar, y dejó que lo de fue
 
 Debajo de la presión había textura, y la textura no era pareja.
 
-Los de los chalecos azules eran cuarenta y tres. Los contó con el tacto, uno a uno, a lo largo de las pasarelas. No tenían la nota del todo. La tenían, pero se les perdía, como se pierde la melodía de una canción cuando uno está pensando en otra cosa, y debajo de la calma había una frase corta, tallada, que todos llevaban igual. Un ensayo. Alguien les había dicho lo mismo, con las mismas palabras, muchas veces.
+Los de los chalecos azules eran cuarenta y tres. Los contó con el tacto, uno a uno, a lo largo de las pasarelas. No tenían el zumbido del todo. Lo tenían, pero se les perdía, como se pierde la melodía de una canción cuando uno está pensando en otra cosa, y debajo de la calma había una frase corta, tallada, que todos llevaban igual. Un ensayo. Alguien les había dicho lo mismo, con las mismas palabras, muchas veces.
 
 *Cuando se apaguen las del centro, quietos y callados.*
 
@@ -74,17 +74,17 @@ Josué había abierto los ojos. Miraba a Sisi desde el suelo con la cabeza ladea
 
 —¿Cómo?
 
-—Tic. En el pecho. Hay mucha, muchísima gente que hace tic. Los de abajo hacen tic y hacen la nota. —Se rascó la oreja—. El señor Daniel no hace ninguna.
+—Tic. En el pecho. Hay mucha, muchísima gente que hace tic. Los de abajo hacen tic y hacen el zumbido. —Se rascó la oreja—. El señor Daniel no hace ninguna.
 
 Sisi no se movió.
 
 —¿Ninguna de qué?
 
-—Ni tic ni nota. —El niño buscó la comparación—. Es como un reloj parado en medio de mil relojes. Se nota porque falta.
+—Ni tic ni zumbido. —El niño buscó la comparación—. Es como un reloj parado en medio de mil relojes. Se nota porque falta.
 
 —¿Y yo?
 
-—Tú haces tic muy rápido. —Lo dijo sin malicia, como se dice el color de un abrigo—. Don Martín hace tic muy despacio. Y una nota de más.
+—Tú haces tic muy rápido. —Lo dijo sin malicia, como se dice el color de un abrigo—. Don Martín hace tic muy despacio. Y un zumbido de más.
 
 Kaspar no dijo nada. Las manos le habían quedado a los costados.
 
@@ -200,9 +200,9 @@ Daniel se quedó en el rellano. No los siguió.
 
 Los escalones estaban vacíos.
 
-Desde la víspera nadie bajaba a sentarse en ellos, y Kaspar lo había sabido sin que se lo explicaran. Bajó con la niña en brazos por el borde de la boca, entre los dos bordes tallados, cuarenta metros de diámetro, sin barandilla. Arriba, el cielo era un círculo de dosel oscuro. Abajo, nada.
+Desde hacía horas nadie bajaba a sentarse en ellos, y Kaspar lo había sabido sin que se lo explicaran. Bajó con la niña en brazos por el borde de la boca, entre los dos bordes tallados, cuarenta metros de diámetro, sin barandilla. Arriba, el cielo era un círculo de dosel oscuro. Abajo, nada.
 
-La nota iba creciendo con cada escalón.
+El zumbido iba creciendo con cada escalón, y con él un calor seco de brasa que le subía por las suelas.
 
 Ya no era un sonido. Era un clima. Le entraba por los pies y por los huesos de la cara, y la niña, contra su pecho, la respiraba entera, y el aire que subía de abajo era tibio y olía a ceniza. Contó los escalones por costumbre. Veinte. Treinta. A los treinta y cinco, Sisi, que venía unos metros detrás con Tomás, se detuvo de golpe, con la mano apretada en la muñeca de él.
 
@@ -255,6 +255,8 @@ Tuvo ganas de subir. No subió. La luz del fondo seguía llamándolo, y la niña
 La galería se abría en una sala redonda, de techo bajo y abovedado, y en el centro ardía una zarza.
 
 No había otra luz. Era un arbusto de ramas finas y retorcidas, del alto de un hombre, que crecía directamente de la roca, y todas sus hojas estaban en llamas. Una llama dorada y baja, sin humo, sin ruido. Las hojas no se consumían. Ardían y seguían siendo hojas, verdes en el borde, y el fuego las recorría sin gastarlas, como el agua recorre una piedra.
+
+Y el zumbido venía de allí. Kaspar lo supo sin entenderlo. La zarza no hacía ruido, y cada hoja que ardía sin gastarse era el sonido que había oído en la isla desde la primera mañana.
 
 Kaspar se quedó en el umbral.
 

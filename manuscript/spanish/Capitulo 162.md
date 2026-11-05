@@ -314,7 +314,7 @@ Esa noche no cenó. Se sentó en el porche de madera del puesto, con la linterna
 
 Lo había leído tres veces. Después, por primera vez en cuatro años, se había preguntado en voz alta qué les llevaban las lanchas que no pasaban nunca por la bahía.
 
-No se contestó. Nadie le contestó. Detrás de él, desde la selva, subía una cadencia grave, ancha, que llevaba cuatro años escuchando sin querer oír.
+No se contestó. Nadie le contestó. Detrás de él, desde la selva, subía un zumbido grave, ancho, que llevaba cuatro años escuchando sin querer oír.
 
 Rodrigo Valverde se santiguó, apagó el generador, y se quedó a oscuras.
 
@@ -324,7 +324,7 @@ Rodrigo Valverde se santiguó, apagó el generador, y se quedó a oscuras.
 
 Daniel Ashworth contó las casas a las diez y media, mientras el último grupo del norte subía por el muelle de raíces.
 
-Seiscientas treinta y ocho de seiscientas cuarenta. Faltaban dos. Había casas que aún no tenían luz, y en las pasarelas altas la gente se movía de una a otra con baldes y niños en brazos, sin hablar, sin prisa. Cantaban, en el centro de la cuenca, en los escalones, en voz baja. La Madre les sostenía la nota con la tranquilidad de quien no tiene que esforzarse.
+Seiscientas treinta y ocho de seiscientas cuarenta. Faltaban dos. Había casas que aún no tenían luz, y en las pasarelas altas la gente se movía de una a otra con baldes y niños en brazos, sin hablar, sin prisa. En el centro de la cuenca, en los escalones, la gente esperaba callada, y de la grieta subía el zumbido de siempre, bajo y tibio, como el de una brasa. La Madre lo cuidaba con la tranquilidad de quien no tiene que esforzarse.
 
 Se acercó al borde de la grieta con una garrafa en cada mano. Las dejó en el suelo. Se quedó un rato mirando hacia abajo, hacia el aire tibio que movía su camisa remangada, y dijo algo muy bajo, que nadie oyó, y que no iba dirigido a nadie que se pudiera ver.
 

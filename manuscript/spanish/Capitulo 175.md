@@ -130,7 +130,7 @@ Ji-ho no se volvió.
 
 No hacía falta. Lo sentía ya, antes de que lo dijeran, cruzando la cuenca de norte a sur con la misma calma con la que se cruza un jardín. Un peso. No era el que había encontrado en la hondonada de hierba aplastada. Era el mismo, pero andando. Tenía una forma de caminar, derecha, sin prisa, y a esa forma el cuerpo de Ji-ho respondía con una exactitud que no se explicaba. Los hombros se le quedaron quietos. Las rodillas, firmes. No era miedo. Era lo que siente quien oye pasos en el pasillo de su casa y sabe de quién son.
 
-Lo conocía. Lo conocía de Hartford, y de otro sitio, y de un tercero que no era un sitio.
+Lo conocía. Lo conocía de Fukushima, y de otro sitio, y de un tercero que no era un sitio.
 
 No miró.
 
