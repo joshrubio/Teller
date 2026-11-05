@@ -182,3 +182,6 @@ Primer encuentro con **Park Ki-yeon** (hermana de Park): ella lo mide, le dice q
 - **Cap162 (20:58):** Park le pregunta si ha llamado a Gary (hace diez días, hablaron de la lluvia; le preguntó si comía bien).
 
 - **Cap165 (18 jul, 02:50):** en la cubierta del transporte de ER-5, no puede leer la isla desde 22 km. Recuerda la llamada a Gary de las 21:15 ("¿Has comido?" / "Ya he comido"; el taller, la gotera; "¿Y esa beca?" / "Va bien"); piensa que podría ser la última vez que hablen y que Gary no sabe nada de lo que vive. Cuenta otra vez a los seis de Valais y no le sale el "dos" de Pruitt.
+
+
+**Copias (2026-11-05, usuario).** Tensión y Estática ya no las conserva. Se le degradaron por no usarlas, lección del Libro 2, y desde entonces **practica a diario las que tiene** (Impulso, Ancla, Inercia y Canje), así que las conserva afiladas. No mostrarlo oxidado. **Cap176.** Oliver gana copiando con el Registro un movimiento físico, la secuencia de pasos con que la mujer de la trenza cruza su red de hilos, y no con otro Domain. Es una habilidad establecida del Registro (leer el cuerpo y no solo el Odem) que se muestra por primera vez a esta escala, y el preámbulo de su pelea contra María Lionza.

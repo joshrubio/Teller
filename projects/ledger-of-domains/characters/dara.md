@@ -103,3 +103,6 @@ Presiona a Voss por cifras concretas sobre Wardogs (duración del periodo, clasi
 **Cap138:** distrae a los escarabajos con un Doble ("Cuatro minutos"); cuenta efectivos. **Cap145:** baja con un yamabushi herido a hombros y otro a la espalda de su Doble. Se queda con Riku cuando éste vuelve de Cap142. **Cap147:** sigue a Kiki al asalto final del desfile, sin orden, y sostiene a Pier del codo en los primeros metros.
 
 - **Cap157:** al ver bajar a Sabine por la rampa de Hachinohe, es la que echa a correr y la abraza; recoge la libreta del charco y se la devuelve. Cap161: Sabine le levanta dos dedos sin volverse.
+
+
+**Cap176 (2026-11-05):** crea **cinco dobles a la vez**, mejora clara sobre su único doble de antes, y rodean a la mujer del pañuelo (Vértigo). Pierde uno al recibir un golpe del Rebote. Sigue sin que los dobles puedan usar el Domain.

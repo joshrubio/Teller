@@ -222,3 +222,5 @@ Método: plan de capítulo → escribir → repetir. Este esqueleto es provision
 **Cap174 escrito (2026-11-05, ≈2420 palabras, "La puerta"):** Sisi y Tomás suben de la grieta y la gente con dudas se les acerca. Sisi pregunta de uno en uno y sale un grupo de 24, furtivo, aprovechando el movimiento hacia el anillo, hasta el muelle norte. ER-7 los recibe en silencio. Sisi y Tomás vuelven por Anaís y por quienes dudaban. Camilo se queda con los niños.
 
 **Cap175 escrito (2026-11-05, ≈2450 palabras, "Una cuerda bajo la tierra"):** Ji-ho, POV único. Corta el hilo oriental, que es Odem y está bajo tierra, tras destrozar una ladera, y paga un escalón. Reza al alba, espera con ER-4 sin que nadie pueda guardar el hilo, siente a Belcebú cruzar sin mirar y habla por radio con Taeho a las 07:20. A las 07:24 se lanza hacia el centro.
+
+**Cap176 escrito (2026-11-05, ≈3110 palabras, "Los pasos de otro"):** Oliver y Valais contra los 43 en las pasarelas del sur. Gana copiando un movimiento, los pasos con que la mujer de la trenza cruza su red, y no un Domain. Sisi queda como noticia, por boca del chico de los cubos. El anillo gira al final.

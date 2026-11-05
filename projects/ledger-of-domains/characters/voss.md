@@ -144,3 +144,6 @@ POV de Voss en el primer tramo. Siente la bahía vaciarse con la palma en el mur
 - **Cap162 (17 jul, contado por Park):** desde las cinco rehace rutas de la tercera oleada con Marchand y Cartwright; pidió otra vez que Valais se quedara en la reserva y le dijeron que no; no ha comido; no visita a los chicos porque no podría hacerlo sin mentirles, y prefiere no mentirles esa noche.
 
 - **Cap165:** expone lo que AMAT sabe y deduce de la isla en la reunión de mando del 15 de julio; pide la reserva para Valais por cuarta vez y Okonjo la niega ("Lo quiero donde lea"). El 18 de julio, en la cubierta de ER-5, se lo dice a Oliver y confirma lo que Park le había contado: no fue a la carpa porque no podía decirlo sin mentir.
+
+
+**Cap176 (2026-11-05):** usa Arquitectura/Espacio a gran escala. Reforma cuarenta metros de pasarela, aplana los marcos de los contenedores, borra de una vez las puertas del chico de los cubos, abre los contenedores como latas y planta dos casas colgadas del dosel como paredes. Acaba con sangre en la nariz y agotado. Dirige a ER-5 sobre el terreno en los Cap173 a 176.
