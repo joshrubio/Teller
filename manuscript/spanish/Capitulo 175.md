@@ -10,7 +10,7 @@ La playa era estrecha, de arena oscura, y el mar estaba plano y gris hasta donde
 
 —Sargento.
 
-Pesó el aire, por costumbre. Lo había hecho en el barco, a las cuatro menos ocho, y le había salido dieciocho, limpio. Ahora le salía otra cosa. Veinticuatro, y espeso, y con un regusto de hierro que no era del mar. Había algo más adelante, tierra adentro, que pesaba. No sabía qué. Lo sabía con la misma seguridad con que sabía el camino a casa de su madre en Incheon, con los ojos cerrados.
+Pesó el aire, por costumbre. Era su manera de medir el Odem suelto, como otros miden la presión, y la escala no la había puesto nadie más que él. Dieciocho era el aire de un mar sin nada, y por encima de veinte olía a campo donde ha habido guerra. A las cuatro menos ocho, en el barco, le había salido dieciocho, limpio. A las cinco ya fue otro número, y no lo dijo. Ahora le salía veinticuatro, espeso, con un regusto de hierro que no era del mar. Había algo más adelante, tierra adentro, que pesaba. No sabía qué. Lo sabía con la misma seguridad con que sabía el camino a casa de su madre en Incheon, con los ojos cerrados.
 
 —Necesito cuatro hombres que sepan estarse quietos —dijo—. A las seis y cuarto, arriba, en el acantilado. Que no toquen nada y que no hagan preguntas.
 
@@ -18,7 +18,7 @@ Pesó el aire, por costumbre. Lo había hecho en el barco, a las cuatro menos oc
 
 —Gracias.
 
-No dijo más. Se quitó la chaqueta, la dobló con la única mano contra el pecho, la dejó sobre la proa de una lancha, y echó a andar por la arena hacia el interior. La manga vacía de la camisa le colgaba a un costado. Por encima del cuello abierto, a la luz que empezaba a crecer, la línea negra le llegaba a la mandíbula.
+No dijo más. Se quitó la chaqueta, la dobló con la única mano contra el pecho y la dejó sobre la proa de una lancha. Debajo llevaba una camiseta negra, húmeda de la travesía y pegada al cuerpo como una segunda piel, y la tela marcaba todo lo que había debajo. El pecho ancho, el abdomen duro y cuadriculado, el hombro y el brazo izquierdo cordados de músculo hasta la muñeca, con las venas a flor de piel y las cicatrices viejas asomando por el antebrazo. Al otro lado la manga corta colgaba vacía contra el costado. Echó a andar por la arena hacia el interior, y a la luz que empezaba a crecer la línea negra del cuello le llegaba a la mandíbula.
 
 ---
 
@@ -40,11 +40,15 @@ A doscientos metros, la ladera se cerraba en una pendiente de tierra y raíces, 
 
 Estaba allí.
 
-No se veía, y sin embargo lo veía. Treinta años de oficio le habían enseñado que el Odem, cuando es poco, es ruido, y cuando es mucho, es luz. Bajo tres metros de tierra corría una cuerda de claridad, del grosor de un tronco, de este a oeste, tensa como un cable de puente. No iluminaba nada. La tierra de encima estaba más blanca, nada más, siguiendo la línea, y por el aire subía un zumbido muy grave que le hizo vibrar los dientes.
+No se veía, y sin embargo lo veía. Treinta años de oficio le habían enseñado que el Odem, cuando es poco, es ruido, y cuando es mucho, es luz. Bajo tres metros de tierra corría una cuerda de claridad, del grosor de un tronco, de este a oeste, tensa como un cable de puente. No iluminaba nada. La tierra de encima estaba más blanca, nada más, siguiendo la línea, y por el aire subía el mismo zumbido que llenaba la isla, aquí más grave y más cerca, y le hizo vibrar los dientes.
 
 Venía de lejos. Del mar, y de más allá. Iba hacia el centro de la isla.
 
-No sabía por qué iba a cortarlo. Lo sabía igual.
+Y entonces se acordó.
+
+No fue un recuerdo entero, sin principio ni final. Fue una escena. La misma ladera, la misma cuerda desnuda en el fondo de un tajo, pero sin que nadie la hubiera cortado, y arriba, en la cuenca, la gente de rodillas y un hombre de pelo gris de pie en el centro del pozo, entero, como si le hubieran acabado de tallar la cara. No recordaba cómo seguía. Recordaba que en otra pasada no había llegado a tiempo, y que esa cara era lo último que había visto.
+
+Sabía por qué iba a cortarla. No lo sabía como se sabe un plan, sino como se sabe el camino de casa.
 
 Se puso de pie. Plantó los pies sobre la línea, uno a cada lado, y respiró una vez. La inercia de las últimas horas, de la pista, del viaje, de la espera en el barco, estaba guardada en las piernas como agua en un odre, y la dejó correr hacia el brazo que le quedaba. No usó el puño. Usó la palma, abierta, plana, y la hundió en la tierra con todo el peso del cuerpo detrás.
 
@@ -60,15 +64,15 @@ Cortó.
 
 No fue como cortar una soga. Fue como cortar un grito. La hoja entró en la claridad sin encontrar nada, y de pronto la cuerda dejó de ser una, y los dos cabos estallaron.
 
-Una luz blanca saltó de su mano hasta el horizonte. La onda lo tiró hacia atrás y lo estrelló contra la pared del tajo, y el aire se llenó de un sonido enorme, un solo acorde, que se alejó hacia el oeste por debajo de la tierra como una campana golpeada muy hondo. El cabo del lado del mar se retiró hacia el agua con un latigazo. El otro se derramó por el fondo del tajo, hacia la isla, buscando camino.
+Una luz blanca saltó de su mano hasta el horizonte. La onda le llegó de lleno y Ji-ho no se movió. Hundió los talones en el fondo del tajo y la dejó pasar por el cuerpo como el agua pasa por un pilote. La camiseta le restalló contra la piel, el polvo se alzó a su alrededor en un anillo, las paredes soltaron láminas de tierra, y él seguía allí, con los hombros quietos y la mandíbula tensa, mientras el aire se llenaba de un sonido enorme, un solo acorde, que se alejó hacia el oeste por debajo de la tierra como una campana golpeada muy hondo. El cabo del lado del mar se retiró hacia el agua con un latigazo. El otro se derramó por el fondo del tajo, hacia la isla, buscando camino.
 
 Y Ji-ho sintió que la boca del cuello se abría.
 
-No dolió de golpe. Fue una succión, ancha y fría, que le subió desde la nuca por la mandíbula y se llevó algo. Un escalón. La línea negra avanzó un dedo bajo la oreja, y él se sostuvo contra la roca con los dientes apretados, sin dejar que se le escapara una sola palabra. Sabía de sobra que no pedía nada. Que se llevaba lo que le daban.
+No dolió de golpe. Fue una succión, ancha y fría, que le subió desde la nuca por la mandíbula y se llevó algo. Un escalón. La línea negra avanzó un dedo bajo la oreja, y él se mantuvo en pie, sin apoyarse en la pared, con los dientes apretados, sin dejar que se le escapara una sola palabra. Sabía de sobra que no pedía nada. Que se llevaba lo que le daban.
 
 Cuando pasó, se limpió la boca con el dorso de la mano. Tenía sabor a hierro.
 
-Había hecho lo que tenía que hacer. Y no sabía todavía qué había hecho.
+Había hecho lo que tenía que hacer. Ahora tocaba esperar a ver si bastaba.
 
 ---
 
@@ -76,11 +80,11 @@ Había hecho lo que tenía que hacer. Y no sabía todavía qué había hecho.
 
 El sol salió sobre el mar sin que nadie lo viera, salvo él.
 
-Ji-ho se había arrodillado al borde del risco, con la mano sobre el muslo y la manga vacía al viento. Abajo no había nada. El mar era una llanura gris que se aclaraba despacio hacia una raya naranja, sin un ave, sin una vela. Los años que llevaba rezando al alba, desde los doce, no le habían enseñado a no sentirse pequeño. Le habían enseñado a no hacer caso.
+Ji-ho se había arrodillado al borde del risco, con la mano sobre el muslo y la manga vacía al viento. Abajo no había nada. El mar era una llanura gris que se aclaraba despacio hacia una raya naranja, sin un ave, sin una vela. Desde los doce años se levantaba antes que el sol, y tantas mañanas no le habían enseñado a no sentirse pequeño. Le habían enseñado a no hacer caso.
 
 *Alzaré mis ojos a los montes. ¿De dónde vendrá mi socorro?*
 
-Lo dijo en coreano, bajo, como se lo había dicho su madre en la última fila de una iglesia de ladrillo con goteras. Detrás de las palabras no había súplica. Había la costumbre de dar la hora a alguien que no hace falta que conteste.
+Lo dijo en coreano, bajo, con la voz de su madre, que lo repetía cada mañana en la cocina de Incheon mientras el agua goteaba en un cubo. Detrás de las palabras no había súplica. Había la costumbre de dar la hora a alguien que no hace falta que conteste.
 
 El sol terminó de salir. Ji-ho se levantó.
 
@@ -106,7 +110,7 @@ El sargento asintió, sin entender.
 
 Se quedaron. Uno de ellos le dejó delante, sobre la piedra, un termo de té verde, y se apartó sin esperar gracias.
 
-No tenía prisa. Esa era la verdad que más le costaba explicar. Los intervalos de la boca se alargaban cuando uno se quedaba quieto, y él llevaba unas semanas aprendiendo a quedarse quieto, y ahora lo sabía hacer como quien aprende una oración. Sacó el Nuevo Testamento del bolsillo y lo tuvo cerrado entre los dedos.
+No tenía prisa. Esa era la verdad que más le costaba explicar. Los intervalos de la boca se alargaban cuando uno se quedaba quieto, y él llevaba unas semanas aprendiendo a quedarse quieto, y ahora lo sabía hacer como quien aprende un oficio nuevo ya de mayor. Sacó del bolsillo el libro de tapas blandas y lo tuvo cerrado entre los dedos.
 
 Pensó en cosas sin ordenarlas.
 
@@ -134,7 +138,7 @@ Lo conocía. Lo conocía de Fukushima, y de otro sitio, y de un tercero que no e
 
 No miró.
 
-Había visto a otros esa mañana mirar a donde no debían, y lo que veían no los dejaba en paz. Se quedó sentado, con el libro entre los dedos, con los ojos clavados en un punto del mar donde se acababa la línea naranja y empezaba el gris. Repasó el salmo entero de memoria. Después otra vez.
+Había visto a otros esa mañana mirar a donde no debían, y lo que veían no los dejaba en paz. Se quedó sentado, con el libro entre los dedos, con los ojos clavados en un punto del mar donde se acababa la línea naranja y empezaba el gris. Repasó de memoria lo que le había oído a su madre, entero, sin saltarse nada. Después otra vez.
 
 Cuando acabó, el peso ya no estaba en la cuenca. Subía por la ladera sur.
 
@@ -230,9 +234,9 @@ Colgó antes de que Taeho pudiera contestar.
 
 *18 de julio, 07:24 — acantilado este*
 
-Se levantó despacio, como se levanta uno de una iglesia.
+Se levantó despacio, como se levanta uno de una sala donde ha esperado en silencio.
 
-Se guardó el libro en el bolsillo del pecho, junto al corazón. Se pasó la mano por la mandíbula, donde la línea negra no había avanzado. Miró por última vez la raya del mar, ahora blanca, y a los cuatro de ER-4, que se habían puesto en pie sin que nadie se lo dijera.
+Se guardó el libro en el bolsillo del pecho, junto al corazón. Se pasó la mano por la mandíbula, donde la línea negra había ganado un dedo. Miró por última vez la raya del mar, ahora blanca, y a los cuatro de ER-4, que se habían puesto en pie sin que nadie se lo dijera.
 
 —Comandante —dijo el sargento—. ¿Adónde va?
 
@@ -242,6 +246,10 @@ Se guardó el libro en el bolsillo del pecho, junto al corazón. Se pasó la man
 
 —Sí.
 
-Pesó el aire una vez más. Veintiséis, espeso, con un gusto a hierro y a algo dulce debajo, como una fruta que empieza a pudrirse. A lo lejos, hacia el oeste, la isla entera zumbaba. No dijo nada.
+Pesó el aire una vez más. Veintiséis, dos más que en la playa, espeso, con un gusto a hierro y a algo dulce debajo, como una fruta que empieza a pudrirse. A lo lejos, hacia el oeste, la isla entera callaba, y era un silencio que pesaba. No dijo nada.
 
-Dobló las rodillas, bajó el hombro, y la isla se encogió.
+Plantó el pie izquierdo y dejó que toda la inercia de la noche bajara por la pierna. El suelo se agrietó en estrella bajo la suela. Se inclinó hacia el oeste, un hombre apoyado en un viento que todavía no existía, y soltó.
+
+No saltó. Se disparó.
+
+El acantilado se estiró hacia atrás como si alguien tirara de la isla por debajo. El sargento y los cuatro de ER-4 fueron una mancha, el mar giró, y el aire se rompió en un trueno seco que lo siguió unos segundos tarde. Debajo, el dosel pasaba en una sola corriente verde y la niebla se le enroscaba detrás como una estela. Las piernas le ardían de inercia y la isla se encogía a cada latido. Al frente, a cuatro kilómetros y cada vez más cerca, el círculo de la grieta empezaba a abrirse como un ojo.
