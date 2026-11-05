@@ -1,261 +1,217 @@
-Capítulo 174 — La puerta
+Capítulo 174 — Los que bajan
 
-*18 de julio, 05:35 — la grieta*
+*18 de julio, 05:58 — playa sur*
 
-Subieron los treinta y cinco escalones en silencio.
+Voss tardó en hablar.
 
-Tomás iba un peldaño por debajo, como había ido toda la noche, y el zumbido de abajo les pesaba en la espalda como una mano grande y paciente. Sisi no volvió la cabeza. Llevaba horas sin abrirse a lo de dentro, desde que rompió en el tercer nivel la única regla que tenía, y le dolía la cabeza del esfuerzo de no oír.
+Miró a Oliver, miró hacia el interior de la isla, donde no se veía nada salvo una pared de dosel y niebla, y volvió a mirar a Oliver. No preguntó cuánto. No preguntó qué. Tenía la cara de un hombre que ha pasado treinta años aprendiendo a leer frases y ha decidido que algunas no se leen dos veces.
 
-Hacia el escalón veinte el aire se aflojó. No fue un temblor. El zumbido bajó medio tono, un segundo, como una cuerda de guitarra que alguien suelta una vuelta, y volvió a su sitio.
+—Gracias —dijo—. Valais, conmigo. En seis minutos se marcha.
 
-—Se ha cortado algo —dijo ella.
+Era la primera vez en toda la noche que alguien le daba algo que hacer, y Oliver se agarró a eso como a una barandilla.
 
-—¿Abajo?
+Seguía sintiendo en las muelas lo que había leído. Se había hecho a la idea de que el Registro se cerraba solo, cuando uno dejaba de mirar, y no se cerraba. Quedaba un resto, una presión tibia a dos kilómetros, que se movía. Intentó no atenderla. Miró la lona que cubría a Solheim sobre las piedras, y a Calloway, que se había quedado de pie contra el casco de una lancha, con los ojos abiertos y las manos vacías, sin una palabra desde que le puso la chaqueta.
 
-—Lejos. —No supo decir más. Tenía la sensación de que a uno de los tres mil le habían quitado de golpe una cosa que no sabía que llevaba, y de que ese uno no estaba allí.
+—Oliver.
 
-Arriba el círculo del dosel se aclaraba. Todavía no era día, pero ya no era noche, y cuando asomaron por el borde de la boca vieron que no estaban solos. Había gente en los escalones altos. Unos sentados o de rodillas, los que llevaban horas callados con las manos sobre los muslos, y otros de pie, apartados, con los brazos cruzados, que no se sentaban. Los de un tipo y los del otro los miraron subir. Eran los únicos que habían bajado y vuelto.
+Riku, a su lado, tenía la cabeza ladeada. Oía por los huesos. Una llamada por satélite a cuarenta metros tenía para él la forma de una vecina hablando tras una pared.
 
-—Los de Don Martín —dijo alguien, no muy bajo.
+—Es Washington —dijo, sin mover los labios—. Habla un hombre con calma. Le pregunta a Harlan por señales.
 
-Camilo esperaba junto a la barandilla de raíces con los brazos colgando. Veintitrés años, manos de trabajador, la cara de quien lleva toda la noche sin saber qué hacer con ellas.
+—¿Qué señales?
 
-—¿Y Don Martín?
+—De reclamo. "Cualquier señal de reclamo." Lo ha dicho dos veces.
 
-—Ha bajado.
+Harlan estaba a tres pasos del agua, con el teléfono pegado a la oreja y el chicle quieto. Colgó. Cuando se dio la vuelta, Voss ya lo esperaba con las manos a la espalda, sin prisa. Oliver no oyó lo que le dijo. Vio que Harlan escupía el chicle y sacaba otro.
 
-—¿Y no sube?
+—Me pidió que le avisara si algún Wardog notaba algo raro cuando se acercara el sujeto —dijo Harlan, lo bastante alto para que lo oyeran los de Valais, y lo hizo a propósito—. Nada más.
 
-—No lo sé.
+—¿Y lo hará?
 
-Camilo asintió muy despacio.
+—Le diré a Washington lo que vea. —Mascó—. Y a usted le diré lo mismo. Lo que vea es lo que hay.
 
-—Entonces alguien me tiene que decir qué hago.
+Voss lo miró un momento más.
 
-—Quédate cerca —dijo Sisi.
+—Con ER-5 —dijo—. De enlace. Delante de mí.
 
----
+—Donde usted me ponga, evaluador.
 
-*18 de julio, 05:55 — tercer nivel*
-
-Vinieron a ellos sin que los llamaran.
-
-Fue en la pasarela que daba al cuarto de Anaís, donde se habían sentado a esperar. Primero una mujer con una niña de la mano y una madre anciana detrás, agarrada al pasamanos. Sisi la conocía. Marisela Gudiño no era de hablar.
-
-—Se les oyen los corazones —dijo. Lo dijo con la voz plana de quien oye por oficio—. A todos. Antes iban al compás del zumbido. Desde que se apagaron las luces, no. Cada uno a lo suyo, y deprisa. —Se tocó el pecho—. Los míos también.
-
-—¿Y los chalecos?
-
-—Esos van parejos. Como relojes.
-
-Después un hombre mayor con sombrero de paja, de los que habían llegado de Sorte con Don Martín en el barco.
-
-—Dijo que volvería para la noche —dijo, sin saludar—. Es de día.
-
-—Ha bajado a ver una cosa.
-
-—Siempre dijo que no bajaría.
-
-Después un hombre de gafas, con la chaqueta de oficina de otra vida y el acento de Zúrich debajo del español.
-
-—Nos dijeron un jardín —dijo—. Nos dijeron que no habría papeles ni preguntas. Y ahora hay chalecos amables y nadie contesta a lo que se pregunta.
-
-—Son amables —dijo Sisi.
-
-—Por eso.
-
-Eran siete, luego once, luego veinte. Nadie alzaba la voz. Hablaban todos con la misma prudencia de quien no quiere ser el primero en decir en voz alta lo que ya han oído en el pasillo. El trueno de las cinco. El temblor. La luz que se fue. El aire de la isla, que desde la medianoche estaba más caliente, más espeso, como una habitación donde hay demasiada gente respirando.
-
-Tomás se inclinó hacia ella.
-
-—Sisi. Si empiezas a decirles que se vayan.
-
-—No les voy a decir nada.
-
-—Entonces, ¿qué?
-
-—Les voy a preguntar.
-
-Era su regla nueva. No sacar a nadie. Abrir la puerta a quien la pida, y nada más. Les han quitado la puerta y no se han dado cuenta, había dicho el primer día, y era verdad, y ahora iba a devolvérsela de uno en uno, sin empujar. Apoyó los dedos en el marco de la pasarela y levantó el zumbido alrededor del hombre de las gafas. No lo apagó. Solo lo apartó lo justo para que la pregunta le llegara limpia.
-
-—¿Quiere irse?
-
-El hombre abrió la boca para decir que no sabía. Y la cerró.
-
-—Sí —dijo.
-
-Lo hizo con cada uno. A la mayoría les bastó con eso para quedarse. Dijeron que sí, o que quizá, o que ya se lo pensarían, y Sisi les dijo que entonces no. Al viejo de Sorte ni siquiera hizo falta preguntarle.
-
-—Yo me quedo con Don Martín.
-
-—Lo sé —dijo ella.
-
-Al final contó. Veinticuatro. Nueve niños. Marisela, su hija y su madre. Yesenia, la niña de la piedra, que no había soltado una mano desde que llegaron. Josué, con la cabeza rapada y los ojos cerrados. El hombre de gafas con su mujer y dos hijos. Familias que se miraban unas a otras sin decir nada. Muy pocos, para tres mil. Sisi pensó que cualquier número mayor se habría notado.
+Eso fue todo. A Oliver le pareció que no era poco.
 
 ---
 
-*18 de julio, 06:25 — pasarelas altas*
+*18 de julio, 06:14 — hondonada del pasto*
 
-Las lámparas se encendieron una a una, y fue la señal.
+Fue una marcha de gente que no habla.
 
-No las de todas partes. Solo las del camino que llevaba al centro, un hilo de luz naranja que recorría la oscuridad hacia la grieta. Por esa vena empezaron a avanzar las columnas. Los chalecos azules las guiaban sin prisa, con la misma cortesía de siempre, de cuatro en cuatro, con las manos abiertas.
+Salieron de la playa con el cielo de un gris de leche sucia, treinta y ocho de ER-5 con las mochilas altas y las armas cortas, y detrás los de ER-6, y en medio los ocho de Valais con Voss. Nadie dio órdenes. El suelo subía despacio, de piedra redonda a roca viva y de roca a helecho, y la niebla se enredaba en las rodillas. No había pájaros. Oliver lo notó a mitad de camino, sin saber qué le faltaba, y supo que a los demás les pasaba lo mismo por cómo miraban hacia arriba.
 
-El resto de Hesperia se quedó a oscuras.
+Tampoco había nada que los esperase en el dosel. El camino lo habían limpiado la Uno y ER-2 horas antes, y quedaban los restos a la vista. Un tractor reventado contra un tronco, la carcasa de un segador partida en dos, frondas quemadas en un tajo que se perdía cuesta arriba, casquillos entre las piedras. Nada se movía entre las ramas.
 
-Sisi lo vio a la primera. Tres mil personas moviéndose a la vez por unas cuantas pasarelas hacen un ruido, un calor, un olor, y bajo todo eso cabían veinticuatro más en silencio. Hizo señas a Camilo. Camilo, que conocía la isla de memoria, los llevó por un ramal que apenas tenía luz, un sendero de rejilla entre dos casas colgadas.
+La hondonada apareció de golpe, ochenta metros de pared a pared, tapizada de frondas blancas y verdes que se mecían sin viento. En el borde, a veinte metros del camino, había alguien arrodillado entre ellas, con el torso inclinado y una mano cerrada sobre algo que ya no estaba.
 
-En el primer cruce había cuatro chalecos.
+—Ibarra —dijo Voss.
 
-Dos a cada lado del paso, de pie, con las manos a los costados. Sisi respiró hondo una vez. Lo había hecho antes con menos.
+Nadie le había dicho el nombre. Se detuvo, y la columna se detuvo detrás. Se acercó con paso corto, sin pisar fuera de lo que habían pisado otros, y se agachó junto al cuerpo. Las frondas se curvaban hacia quien pisaba, y él no pisó fuera de lo que habían pisado otros. Con la mano izquierda, muy despacio, desplegó un poncho y lo dejó caer sobre la espalda del soldado.
 
-—Un minuto —dijo, bajo—. A los cuatro.
+—Soldado primero Ibarra. Veintitrés años. —Lo dijo bajo, sin mirar a nadie—. Lo recogerán a la vuelta.
 
-Era lo que había aprendido con Kaspar, sobre desconocidos, sin su permiso, y se lo había reprochado todas las noches. Un corte de atención. No hacer que no vieran. Hacer que miraran otra cosa sin saber que miraban. Hacía un año eran dos guardias de banco y diez segundos, y se le iba el aire. Entró en el primero y encontró la frase tallada, una sola, repetida muchas veces. *Quietos y callados.* Entró en el segundo, en el tercero y en el cuarto, y encontró la misma. Soltó la mirada de los cuatro a la vez, como se sueltan cuatro cuerdas con una sola mano, hacia el hilo de luz, hacia la columna, hacia cualquier cosa, y las dejó caer con cuidado.
+Volvió a la fila. Nadie dijo nada. Nadie había esperado que lo dijera.
 
-—Quince —dijo Tomás, contando—. Treinta.
+Lev iba a la izquierda de Oliver, con el uniforme gris sin insignias, y llevaba un rato caminando más despacio que los demás. Oliver sabía por qué. Desde que habían desembarcado el aire a su alrededor se había ido enfriando un grado, luego dos, y los helechos más cercanos tenían una escarcha mínima en las puntas.
 
-Pasaron en fila, de puntillas. Los chalecos no se movieron. A Sisi apenas le zumbó algo detrás de los ojos, como al final de un ejercicio largo.
+—¿Estás bien? —dijo.
+
+—Sí. —Lev miró la escarcha, y la deshizo con la mirada, sin querer—. Ese es el problema.
+
+Caminaron un rato más.
+
+—Cuando empiece —dijo Lev, sin volver la cabeza—, apartaos. Todos. Lo que llevo no sabe distinguir.
+
+—¿Cuánto llevas?
+
+—No lo sé. Nunca me he vaciado.
+
+No dijo más. Oliver tampoco. Detrás, Pier iba contando algo con los labios, medidas o pasos, y Sabine caminaba pegada a la roca con la vista en el suelo, como quien ha prometido no caerse. Asha y Dara iban de la mano, y de pronto se acordaron, y se soltaron. Nadia miraba el cielo. Riku, delante, balanceaba los brazos como antes de un asalto.
 
 ---
 
-*18 de julio, 06:36 — puente del segundo nivel*
+*18 de julio, 06:32 — roca de la hondonada*
 
-El chico estaba en medio del puente.
+El puente de Kino crujía como un barco.
 
-Era un chico, aunque debía de tener ya veinticinco años. Llevaba el chaleco azul sin abrochar y un cubo de hojalata en cada mano, de los que se usaban para el aceite de las lámparas. Los hombros caídos, la mirada baja. Una cara de quien hace mucho tiempo que oye detrás de las puertas.
+Era un trenzado de raíces vivas, a metro y medio de las frondas, con barandilla de lianas, y cedía un poco bajo cada pie, tibio, como un lomo. Oliver lo cruzó contando las tablas. El hombre que lo había hecho estaba tumbado en una lona un kilómetro más arriba, con la cara del color del pan, y su Domain seguía sosteniendo el puente sin él.
 
-Sisi se detuvo. Detrás, Tomás y Camilo se detuvieron, y detrás ellos, veinticuatro respiraciones.
+Al otro lado, junto a una roca, había una mujer sentada con la espalda contra la piedra.
 
-Lo leyó sin pedir permiso. Lo había hecho con tantos aquella noche que ya no le costaba, y sin embargo le costó. Era un pasillo muy largo, con puertas a los dos lados, todas cerradas, y alguien dentro de cada una. Diez años de abrir puertas de armarios porque creía que dentro había alguien. Y ahora había un pasillo con tres mil puertas, y en cada una una persona. Y debajo, la frase tallada, que no era suya.
+La coronel Voronin no se levantó. Los miró pasar uno a uno, con los ojos de alguien que lleva años contando gente que no vuelve, y cuando pasó Oliver lo detuvo con una sola palabra.
 
-—Vais hacia el norte —dijo él. No lo preguntaba.
+—Usted.
+
+Oliver se paró.
+
+—El que lee.
+
+—Sí, coronel.
+
+—Lo que lea, dígalo en voz alta. A quien tenga más cerca, o a su evaluador. —Voronin no apartó los ojos de él—. Yo lo llevo. Lo que se queda callado es lo que mata.
 
 —Sí.
 
-—Por el puente del tercero se llega antes. En el segundo hay dos de los míos.
-
-Sisi no esperaba eso.
-
-—Nadie me ha dicho nada de quedarse —añadió él, mirando los cubos—. Me han dicho cómo llevarlos hacia dentro. De cómo traerlos de vuelta, no.
-
-—Puedo abrirte la puerta —dijo Sisi—. La tuya.
-
-—No hay puerta, señorita. Es un armario muy grande y están todos dentro. Si me voy, ¿quién lo abre?
-
-No supo qué contestarle. Pasaron a su lado uno por uno, con la cabeza gacha, los niños apretados a los mayores. Cuando pasó Sisi, el chico alzó los ojos. Fue un segundo. Tenía la mirada de alguien que acaba de ver cómo se abre una puerta que él mismo había mantenido cerrada.
+A su lado, un hombre mayor con un termo en la mano se había puesto la chaqueta y le sonreía con media cara. Era Whitfield. Dijo algo, en voz baja, que Oliver no entendió, y echó a andar detrás de la última fila de ER-5, solo, con la espalda recta de quien ha decidido llegar andando.
 
 ---
 
-*18 de julio, 06:48 — pasarelas del norte*
+*18 de julio, 06:50 — muelle norte*
 
-El silencio pesaba más que la oscuridad.
+El *Meridiana* seguía atracado con la pasarela echada y nadie en cubierta.
 
-Iban por una rejilla que crujía bajo tantos pies, entre casas sin luz, con la ropa colgando de las cuerdas y los cestos de caña apagados. Delante, Camilo avanzaba medio paso por delante de todos con la cabeza ladeada. A la derecha, Marisela caminaba con los ojos cerrados, escuchando.
+Las lanchas de ER-7 llegaron por el mar en calma, de a cuatro, con los motores al ralentí. Veinte personas sin sector asignado, que llevaban toda la noche esperando en la bodega de un carguero una llamada que acababa de llegar. Subieron al barco con las armas bajas. Encontraron las literas hechas, el café frío y ni un alma. Alguien dijo en voz muy baja que parecía un barco al que le han dado la orden de esperar.
 
-—Dos adelante —murmuraba—. En el cruce. Parejos. —Y luego, cuando los pasaban—. Ya.
+En el camino de la costa, a unos centenares de metros, apareció un hombre mayor con un uniforme de guardaparques descolorido y siete personas detrás. Se detuvo en el último peñasco. Llevaba veintiséis años cuidando una isla que casi nadie visitaba, y la isla acababa de tener visitas.
 
-Una reja cerraba el paso en un puente de contenedores. Alguien la había atado con una cadena. Tomás miró la cadena, miró a Sisi, y puso la mano vendada contra el hierro. Atravesó la reja con medio cuerpo, como quien se mete en agua fría, y desde el otro lado corrió el cerrojo. Cuando volvió a salir se sacudió las manos vendadas como quien sale de un charco.
+—Aquí Valverde, de Wafer —gritó, con la voz de quien no sabe si hace bien—. Nos dijeron que llamáramos. Hay gente allá arriba.
 
-—Otra cuando haga falta —dijo, y fue todo.
-
-Yesenia, la niña de la piedra, la apretaba tanto que se le había agrietado en estrella. Josué, rapado y descalzo, caminaba con los ojos cerrados, guiado por la mano de Marisela.
-
-—Se ha vuelto a mover —dijo, de pronto.
-
-—¿Qué, hijo?
-
-—El reloj grande. Se paró, y ahora anda otra vez. —Frunció el ceño—. Más despacio.
-
-Sisi se detuvo.
-
-No era por el niño. Era por lo que había debajo del silencio. Había una voz pequeña, apenas un hilo de hambre, sin palabras, y la conocía. La había oído antes, diez noches seguidas, bajo el sueño de otra. Una niña que no sabía cómo se llamaba y que ella había llamado por su nombre.
-
-—Anaís —dijo, sin querer.
-
-—¿Qué? —dijo Tomás.
-
-—Nada.
-
-Siguió andando. Los demás no se dieron cuenta de que ya no era la misma.
+Nadie le contestó de inmediato. En la cubierta del *Meridiana* un soldado de ER-7 levantó una mano, lenta, abierta, y le hizo una seña para que se acercara.
 
 ---
 
-*18 de julio, 07:00 — muelle norte*
+*18 de julio, 06:56 — ladera sur de la cuenca*
 
-El muelle estaba más tranquilo que una iglesia.
+Oliver bajó el último trecho del paso con las palabras de Park todavía en la cabeza.
 
-Era un malecón de raíces vivas, tendido en una ensenada con la niebla pegada al agua. En el extremo, el *Meridiana* con la pasarela echada. En la cubierta, nadie que se viera. En el muelle, apenas una sombra apoyada en un cabo.
+Park había dicho que ya lo sabía. Mentía. Oliver lo notó porque nunca lo había visto tan seguro, y lo conocía de sobra para saber que cuando Park estaba seguro es que no tenía otra cosa. Lo había dicho para que él dejara de cargarlo. Oliver lo había dejado. Era una de esas mentiras que se aceptan por cortesía, y no le dolió, y por eso mismo le dolió.
 
-Sisi hizo parar a todos en el último cruce de pasarelas. Camilo avanzó solo.
+La orden de Okonjo había llegado por la radio de Voss en el paso, y Voss no la había discutido. Entraban en Hesperia, a las pasarelas del sur y solo para contacto civil. El anillo no se tocaba, la Uno seguía parada arriba y Valais se repartía. Tres se habían quedado con ella y cinco bajaban, la primera vez que se dividían sin que nadie hubiera caído. Lev ni se había despedido. Era su forma de despedirse.
 
-Hubo una pausa muy larga. Un movimiento en la cubierta del barco, apenas. Un hombre con un fusil bajo, sin apuntar, levantó una mano abierta, despacio. No gritó. No hizo señas de prisa. Señaló con el pulgar la bodega.
+Ahora bajaban en fila, entre helechos enteros y raíces húmedas, por la senda del oeste, la que el barrido no había tocado. El sendero que había abierto el Principado quedaba a la derecha, a doscientos metros, vacío. El sol ya estaba fuera. Pegaba en la espalda con un peso húmedo. Las camisas se pegaban a la piel.
 
-—Por aquí —dijo, en voz baja, cuando los primeros llegaron a su altura—. Bajen la voz. Primero los niños.
+A las siete y dos la radio de Voss dijo algo.
 
-Era un sargento. Sisi lo leyó sin querer, y no encontró nada. No había órdenes de llevarse a nadie. No había celda en su cabeza. Le habían dicho que si venía alguien, que viniera. Que no hiciera preguntas. Estaba cansado y asustado y llevaba toda la noche con la sensación de estar esperando una llamada.
+—ER-4 a Panamá. Acantilado este. Sale alguien de la grieta.
 
-—¿Nos van a preguntar algo? —dijo Marisela.
+Voss no se detuvo.
 
-—A mí no me han dicho que pregunte nada.
+—¿Lo sientes? —dijo, sin mirarlo.
 
-Detrás de él, bajo un cobertizo, había un hombre mayor con un uniforme de guardaparques descolorido y siete personas más. Se acercó con paso torpe, tendiendo los brazos a la niña más pequeña.
+—Ya lo sentía —dijo Oliver.
 
-—Rodrigo Valverde —dijo—. Soy del parque. Yo ayudo con los niños.
+Lo había sentido hacía unos minutos, como una presión que se mueve despacio dentro de un cuarto grande. Voss asintió y dijo, para toda la fila, con la voz de siempre.
 
-Fue Valverde quien cogió a Josué en brazos, porque Josué, con los ojos cerrados, era el único que no lo veía todo. Fueron entrando de dos en dos en la bodega, entre literas hechas y café frío, con la cabeza gacha y los ojos muy abiertos, y a Sisi le pareció que no pesaban nada. Veinticuatro. Contó dos veces. Veinticuatro.
+—No cambia nada. Seguimos.
 
-Era la primera vez en mucho tiempo que alguien de AMAT la tenía a tiro y no hacía nada. Lo sintió en el pecho, un nudo que no sabía dónde poner.
+Oliver cerró los ojos mientras caminaba. El Registro estaba ahí, sin que lo llamara, y esta vez lo dirigió hacia abajo, hacia las casas, y no hacia lo otro.
 
-Marisela le cogió la muñeca antes de entrar.
+Con los ojos cerrados todo llegaba sin forma ni color, y a esa distancia, a unos cuatrocientos metros de las primeras casas, apenas eran manchas. Encontró primero a la gente. Eran muchas, y estaban todas dentro del anillo, pegadas unas a otras, calladas, y su quietud subía de la cuenca como el calor de un horno. Y por fuera de ellas, repartidas por las pasarelas del sur, una hilera de firmas pequeñas.
 
-—¿Usted viene?
+No eran fuertes. Eso fue lo primero. Domains menores, de los que resuelven una puerta o una mano. Estaban quietas, cada una a la distancia justa de la siguiente, como las piezas de un reloj.
 
-—Todavía no.
+—Cuarenta, cuarenta y tres —dijo Oliver, en voz alta, como le había pedido Voronin—. En las pasarelas del sur, una cada diez metros. Pequeñas. No se mueven. Más no puedo decir sin verlas.
 
-—¿Por qué?
+—¿Armas?
 
-—Hay más —dijo Sisi—. Los que no quisieron o no pude traer. Y una niña.
+—Eso no lo lee el Registro. —Tragó—. Hasta que las vea, no sé qué llevan.
 
-Marisela no preguntó cuál. Asintió una vez y le soltó la mano.
+Voss no contestó. Habló en voz baja por la radio, y Oliver supo que, un kilómetro y medio más allá, Voronin lo repetía por el Coro, palabra por palabra.
 
-Camilo se quedó en el malecón, con los brazos colgando.
-
-—Yo me quedo con ellos —dijo—. Alguien tiene que contar los niños.
-
-—Gracias.
-
-—No es por usted. —Miró la bodega—. Don Martín me dijo una vez que a los niños siempre se les cuenta dos veces.
+Oliver abrió los ojos. Delante, entre los troncos, ya se veía el primer cesto de caña de la primera casa.
 
 ---
 
-*18 de julio, 07:06 — muelle norte*
+*18 de julio, 07:10 — pasarelas del sur*
 
-Sisi lo sintió antes de que lo dijeran por la radio.
+Las casas empezaban donde terminaban los helechos.
 
-La cuenca se puso de pie.
+Colgaban del dosel o se encajaban en sus horquillas, de madera trenzada que crecía del propio árbol, o de contenedores de carga de un azul desvaído, con ventanas de cristal cortado. Las pasarelas de rejilla metálica unían unas con otras a diez metros del suelo. Los cestos de caña estaban encendidos, pequeños y amarillos, ridículos a la luz del día.
 
-No encontró otra manera de decirlo. Tres mil personas, y de pronto, a la vez, todas incorporadas sin un solo ruido, como si alguien hubiera pronunciado el nombre de cada uno. Y bajo ese movimiento, cruzando la cuenca de norte a sur sin prisa, una mente que contaba. *Uno. Dos. Tres.* Cortés, tranquila, ajena. No la leyó. Tuvo que cerrar los ojos para no hacerlo.
+No había nadie. Eso fue lo que hizo que Oliver apretara los puños. Un pueblo entero, construido con paciencia, y las puertas abiertas, la ropa en las cuerdas, un cuenco de agua en un rellano. Ni un niño, ni un perro. Solo, a lo lejos, el silencio de mucha gente junta.
 
-—¿Qué es? —dijo Tomás.
+Voss se detuvo al pie de la primera escalera de raíces.
 
-—Alguien que cuenta.
+—Nadie dispara primero —dijo a ER-5, sin alzar la voz—. Esa es la orden de Okonjo y es la mía. Si hay que apartar a alguien, se aparta. Si hay que hablar, hablo yo.
 
-En la cubierta del *Meridiana*, un soldado hablaba por la radio. Civiles de pie en las barandillas. Nadie señala. Un niño saluda con la mano.
+Subieron. La escalera daba a una pasarela ancha de tres pasos, que cruzaba hacia el interior y se perdía entre dos casas. Y en mitad de ella, de lado a lado, había una línea de gente.
 
-Sisi apretó las manos dentro de los bolsillos del abrigo.
+Once personas, en fila, con chaleco azul y botas de agua. Estaban quietas, con los brazos a los costados, las manos limpias, sin sudor. Detrás, a unos pasos, la pasarela seguía hacia dentro, y en la lejanía una última columna de civiles terminaba de entrar en el anillo, con los ojos bajos.
 
-—Hay que volver —dijo.
+Oliver tenía el Registro abierto, y vio más.
 
-—Sisi.
+Cada una de aquellas firmas estaba limpia, y debajo de la calma había lo mismo en todas. La misma forma, calcada, como si las hubieran estampado con el mismo sello. Un ensayo.
 
-—No vamos a sacar a nadie que no lo pida. —Lo miró—. Vamos a abrir puertas. Una niña, y los que dudaban y no pudimos traer. Y a Kaspar, si sube.
+La primera en hablar fue una mujer de unos cuarenta años, con el pelo recogido en una trenza y un acento del interior, de los que se aprenden.
 
-Tomás asintió, con las manos vendadas quietas a los costados.
+—Buenos días —dijo—. Aquí no se pasa. No es nada contra ustedes.
 
-—¿Por dónde?
+—Soy Viktor Voss, evaluador de AMAT —dijo Voss—. Vengo a hablar con quien quiera irse. Si alguien de los suyos lo desea, tiene un barco al norte y un corredor. No se obligará a nadie.
 
-—Por donde menos luz haya.
+—Nadie quiere.
 
-El sargento los miró marcharse desde la cubierta. No dijo nada. Cuando ya estaban en el primer cruce, levantó la mano otra vez, abierta, despacio.
+—Entonces no se perderá nada con preguntárselo.
 
-Volvieron a entrar en la oscuridad de las pasarelas. A su espalda, la cuenca seguía de pie, y le pareció a Sisi que no iba a volver a sentarse.
+—Se lo hemos preguntado nosotros. Todos los días. Aquí a nadie se le obliga a quedarse.
+
+Era verdad. Oliver lo leyó en la firma de la mujer, sin sombra. No mentía. Tampoco decía todo.
+
+Algo se movió al final de la línea.
+
+Era una firma más joven, en la tercera posición. De pronto se rizó, como una cuerda en la que se ha tensado un hilo. Un instante. Un chico apenas, de veinte años, con el chaleco demasiado grande, que miró de reojo hacia atrás, hacia las columnas, y volvió a mirar al frente. El sello no se rompió. Se estiró.
+
+Oliver lo vio, y alguien vio que lo veía.
+
+Al otro extremo de la línea, algo más apartado, había un hombre de unos veinticinco años, de hombros caídos, con un cubo de hojalata en cada mano. Llevaba el chaleco azul sin abrochar y la cara de quien lleva mucho tiempo oyendo detrás de puertas. No había hablado. Miraba a Oliver. Su firma no era de pelea ni era limpia. Era un pasillo largo con las puertas cerradas, y alguien dentro de cada una.
+
+La mujer de la trenza siguió la mirada del chico de los cubos. Después miró a Oliver, sin dureza, como se mira a alguien que ha estado mirando de más.
+
+—Pueden esperar ahí —dijo a Voss—. Nadie los va a tocar.
+
+—Esperaremos —dijo Voss.
+
+Entonces pasó. El silencio de abajo se quedó más quieto todavía, y a doscientos metros al este, detrás del dosel, algo muy grande cruzó la cuenca sin que se viera. No hubo ruido. Los once chalecos giraron la cabeza hacia allí, todos a la vez, con la precisión de un ensayo, y volvieron a mirar al frente. Oliver sintió el peso en las muelas, tanto, que tuvo que agarrarse a la barandilla.
+
+Lo siguió sin quererlo. Iba despacio y no se desviaba. Dejó atrás la cuenca y tomó la ladera hacia el sur, hacia el paso, y Oliver supo lo que significaba antes de decidir si quería saberlo. Allá arriba estaban Pier, Sabine y Lev. Estaba Park, que le había dicho que ya lo sabía.
+
+—Voss —dijo, sin voz.
+
+—Lo sé. Voronin acaba de decírmelo por la radio. —Voss tenía la palma sobre el travesaño y los ojos en la línea—. Ahora mire aquí.
+
+Oliver miró. Los once seguían quietos, con las manos limpias, sin haber dicho una palabra más. Pero el chico de los cubos, al fondo, dejó uno en el suelo, despacio, sin hacer ruido, y con la mano que le quedaba libre empezó a abrir el aire.

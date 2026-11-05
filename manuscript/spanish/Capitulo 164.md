@@ -166,7 +166,7 @@ Abajo, la gente seguía subiendo. Kaspar leyó a los que pasaban por la pasarela
 
 ---
 
-Tomás subió a las dos y cinco, con las manos vendadas y una manta sobre el brazo. No dijo nada al entrar. Dejó la manta a los pies de la cama de la niña, la estiró con dos dedos, y miró a Sisi.
+Tomás subió a las dos y cinco, con una manta sobre el brazo. No dijo nada al entrar. Dejó la manta a los pies de la cama de la niña, la estiró con dos dedos, y miró a Sisi.
 
 Ella no apartó los ojos de él.
 

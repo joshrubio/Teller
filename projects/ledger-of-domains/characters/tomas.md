@@ -76,4 +76,4 @@ Su asignación externa en Cap 49 es el catalizador de todo lo que sigue:
 - **Cap164:** sube a las 02:05 con una manta para Anaís; se queda en la escalera con Camilo. Intercambio mudo con Sisi (ella levanta un dedo). Kaspar no sabe cuál de los dos Tomás (el que sacó a Gabriela a los siete minutos o el que hizo lo de Yusuf) ha subido.
 
 
-**Cap174 (2026-11-05):** ayuda a Sisi a sacar a 24 personas de Hesperia. Atraviesa una reja encadenada con la mano vendada y abre el cerrojo desde el otro lado, sin desgaste visible. Vuelve con Sisi al interior por Anaís y por quienes dudaban.
+**Cap173 (2026-11-05):** ayuda a Sisi a sacar a 24 personas de Hesperia. Atraviesa una reja encadenada y abre el cerrojo desde el otro lado, sin desgaste visible. Vuelve con Sisi al interior por Anaís y por quienes dudaban.

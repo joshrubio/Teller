@@ -134,7 +134,7 @@ Lo conocía. Lo conocía de Fukushima, y de otro sitio, y de un tercero que no e
 
 No miró.
 
-Había visto a otros esa mañana mirar a donde no debían, y lo que veían no los dejaba en paz. Se quedó sentado, con el libro entre los dedos, con los ojos clavados en un punto del mar donde se acababa la línea naranja y empezaba el gris. Contó hasta cien. Después otra vez.
+Había visto a otros esa mañana mirar a donde no debían, y lo que veían no los dejaba en paz. Se quedó sentado, con el libro entre los dedos, con los ojos clavados en un punto del mar donde se acababa la línea naranja y empezaba el gris. Repasó el salmo entero de memoria. Después otra vez.
 
 Cuando acabó, el peso ya no estaba en la cuenca. Subía por la ladera sur.
 

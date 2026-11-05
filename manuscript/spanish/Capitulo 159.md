@@ -186,7 +186,7 @@ Kaspar tardó en contestar.
 
 Kaspar no pudo sostenerle la mirada.
 
-Detrás de ellos, Tomás bajaba la última bolsa. No había abierto la boca en toda la mañana. Llevaba las manos vendadas, y en la mirada algo cerrado, como una puerta, y por un instante Kaspar, que sabía mirar a la gente, comprendió que había dejado de saber qué escondía.
+Detrás de ellos, Tomás bajaba la última bolsa. No había abierto la boca en toda la mañana. Llevaba las manos desnudas, y en la mirada algo cerrado, como una puerta, y por un instante Kaspar, que sabía mirar a la gente, comprendió que había dejado de saber qué escondía.
 
 ---
 

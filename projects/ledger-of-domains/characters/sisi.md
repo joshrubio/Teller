@@ -104,4 +104,4 @@ Mente evoluciona: **calma masiva** (311 personas en un patio), **ser banco** (Ca
 - **Cap164:** vela con Kaspar en el cuarto de Anaís; oye gente callada en el mar ("el silencio que se hace cuando alguien cuenta hacia atrás"). Le reprocha que se haya quedado en nada: "Es la tercera vez esta semana. Y se lo has agradecido las tres." Percibe que algo ha hablado bajo la grieta, no para ella. Levanta un dedo a Tomás, sin explicar.
 
 
-**Cap174 (2026-11-05):** pregunta de uno en uno quién quiere irse, apartando el zumbido de cada persona, y saca a 24 (nueve niños). Corta la atención de cuatro chalecos durante un minuto sin desgaste, mucho más que los dos guardias y diez segundos del Libro 2. Reconoce bajo el silencio el hambre de Anaís. Vuelve al interior por ella.
+**Cap173 (2026-11-05):** deja que se acerquen quienes quieran irse, sin interrogar a nadie, y saca a 24 (nueve niños). Corta la atención de cuatro chalecos durante un minuto sin desgaste, mucho más que los dos guardias y diez segundos del Libro 2. Reconoce bajo el silencio el hambre de Anaís. Vuelve al interior por ella.

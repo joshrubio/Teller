@@ -117,6 +117,6 @@ La regla "blindfold = total shutdown" (arriba) es lo que **AMAT cree**, no lo qu
 
 <!-- canonical -->
 - **Firma individual legible** (forma, qué Domain parece ser): con los ojos abiertos y línea de vista, a decenas de metros (Cap176, a ~10 m). Domains latentes se intuyen ("parece", "creo"), no se nombran con certeza.
-- **Con los ojos cerrados:** manchas sin forma ni color, útiles a unos cientos de metros. Sirven para contar cuántas firmas hay y si se mueven. Nada más (Cap173, ~400 m).
+- **Con los ojos cerrados:** manchas sin forma ni color, útiles a unos cientos de metros. Sirven para contar cuántas firmas hay y si se mueven. Nada más (Cap174, ~400 m).
 - **Masas enormes** (miles de personas, un Principado): se sienten a kilómetros como cantidad, peso y capas, nunca como detalle (Cap170, Cap172).
 - **El Registro lee Odem, no materia:** nunca ve armas, ropa ni objetos. Para saber qué lleva alguien hace falta verlo con los ojos.
