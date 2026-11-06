@@ -36,13 +36,13 @@ Oliver no probó con el otro.
 
 Abajo y a la derecha, en la plataforma, Riku peleaba contra dos. Había dejado la Estática, y por la manera de plantar las rodillas Oliver supo que se había quedado sin aire, que le dolía algo del costado, y que seguía. Un chaleco le pegó con un codo en la boca y él le devolvió tres, cortos, secos, al hígado. Al fondo, la mujer del pañuelo giraba entre cuatro Daras que le cerraban el paso, y no se atrevía a mirar a ninguna. Una quinta cayó, humo, y las demás no se movieron.
 
-Al oeste, más allá de las casas, algo estalló.
+Al sur, ladera arriba, algo estalló.
 
-Fue un trueno seco, redondo, que sacudió la rejilla y le llegó a Oliver por los empastes. Sobre el dosel, a trescientos metros, se levantó una columna de polvo y astillas, y de la radio de la sargento salió una voz con estática.
+Fue un trueno seco, redondo, que sacudió la rejilla y le llegó a Oliver por los empastes. Sobre la ladera, a trescientos metros, se levantó una columna de polvo y roca, y de la radio de la sargento salió una voz con estática.
 
-—Harlan a ER-5. La columna está a salvo. Repito, a salvo. Cuarenta civiles fuera del tajo.
+—Contacto. Contacto con el objetivo en el campo roto. Repito, contacto.
 
-—Hale va a llamar otra vez —dijo Voss, con voz tranquila.
+—Ya han empezado —dijo Voss, con voz tranquila.
 
 Nadie contestó. Oliver apretó los dientes. La pierna le ardía, y la sangre ya no goteaba, corría.
 

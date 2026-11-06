@@ -160,11 +160,11 @@ Estaba agachado a unos metros de la pared, y escogía guijarros del tamaño de u
 
 —Son piedras.
 
-—Eran piedras. —Se las enseñó. En la cara que había tocado, la grava tenía un brillo mínimo, un tono de brasa apagada—. Cuando salga, estarán donde yo las ponga. Dentro de lo que sea, mejor. Que se las coma, si quiere. Explotan igual.
+—Eran piedras. —Se las enseñó. En la cara que había tocado, la grava tenía un brillo mínimo, un tono de brasa apagada—. Cuando salga, estarán donde yo las ponga. En el suelo que pise, en el aire que cruce. Explotan igual.
 
 —No se puede cargar a un ser vivo.
 
-—No se puede cargar. Dentro, no me lo prohíbe nadie.
+—No hace falta. —Movió el chicle de un lado a otro de la boca—. Con lo que lo rodee me basta.
 
 Kiki lo miró de arriba abajo, con una cierta aprobación, y volvió a su sitio.
 
