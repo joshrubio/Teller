@@ -2,25 +2,23 @@ Capítulo 178 — Campo roto
 
 *18 de julio, 07:16 — ladera sur de la cuenca*
 
-Había subido los escalones contándolos.
+Subió los ciento tres escalones contándolos, porque le gustaba contar. Lo había aprendido pronto. Lo que se cuenta se queda, y casi todo lo demás se va.
 
-Eran ciento tres. Le gustaba contar, porque lo que se cuenta no se pierde, y hacía mucho que había aprendido que casi todo se pierde. Arriba no se detuvo. Los cestos de caña seguían encendidos a plena luz y le parecieron pequeños, como velas olvidadas en una habitación donde ya ha entrado el día.
+Venía del pozo, donde había ido a ver la llama, y no había sido lo que esperaba. Dos hombres la habían tocado antes que él. Uno, de ojos claros, se quemó el brazo hasta el hombro y dijo que no, delante de todo lo que la llama ofrecía. Nadie le había dicho nunca que no a algo así, y se quedó mirándolo un buen rato. El otro, el que sonreía, se inclinó sobre el herido con una cara muy buena, y a él le pareció una cara aprendida, como la suya. Le cayó bien por eso.
 
-La llama ya no era lo que había ido a mirar. Cuando el hombre se quemó el brazo, el otro hombre se inclinó sobre él con una cara muy buena, y a él le pareció que esa cara era una cosa aprendida, como la suya. Le había interesado más lo otro. El hombre había dicho que no. Nunca había visto a nadie decir que no a algo así. Lo anotó, sin saber dónde.
+En el fondo, una niña se había despertado con hambre. Él conocía esa cosa. Se parecía a algo suyo, pero era más pequeña y más fácil de decir. No se detuvo. Lo suyo era otra cosa y no sabía ponerle nombre.
 
-La niña se había despertado con hambre. Él conocía esa cosa. Se parecía a lo que él tenía, pero más pequeña, y más fácil de decir. Lo suyo todavía no tenía una palabra. Se parecía a la curiosidad, con las manos más grandes.
+Los caparazones grandes del anillo se apartaron a su paso, uno tras otro, sin una mirada. No lo hacían por él. El hombre que sonreía se lo había pedido, y a él le pareció una cortesía.
 
-Los caparazones grandes del anillo se habían apartado a su paso, uno tras otro, sin una mirada. No lo habían hecho por él. Alguien les había pedido que lo hicieran, y ese alguien estaba abajo, sentado junto a una cuna, y lo había dejado ir con una palabra amable. Él no tenía nada que decir a eso. Siguió andando.
+A las cinco alguien le había hecho daño de verdad, por primera vez en mucho tiempo. Quería saber quién más podía.
 
-La que escuchaba ya no estaba. Lo había notado hacia las seis, como se nota que alguien cierra una puerta en otra habitación de la casa. Le había hecho daño y le había gustado. Hacía mucho que nada le dolía. Ahora tendría que buscar quién más.
-
-Abajo no hablaba nadie. Tres mil personas y ni una voz, y bajo ellas lo que quedaba del zumbido, una brasa tibia que le subía por las piernas. Si pudiera quedarse en una sola cosa, se quedaría en esa.
+Abajo nadie hablaba. Tres mil personas y ni una voz, y bajo ellas lo que quedaba de la llama, una brasa tibia que le subía por las piernas. No le molestaba.
 
 No tenía prisa. Caminar le gustaba por lo contrario de lo que se piensa. Porque se tarda. Caminando, las cosas tienen tiempo de llegar.
 
-Había dicho que quería ver quién llegaba, y le habían contestado que mucha gente. Ahora, desde media ladera, vio arriba, en un campo de roca partida, a los que habían llegado. Los contó de una vez, desde lejos, como se cuenta un puñado de monedas. Eran muchos más que a las cinco.
+Había preguntado quién iba a venir, y le habían contestado que mucha gente. Desde media ladera vio arriba, en un campo de roca partida, a los que esperaban. Los contó de una vez, desde lejos, como se cuenta un puñado de monedas. Cinco. A las cinco de la mañana había contado nueve, y ahora veía cinco, y no sabía cuáles faltaban, solo que faltaban.
 
-Mucha, le habían dicho. Era verdad. Sonrió, porque era la primera vez en toda la noche que alguien hacía lo que había dicho que haría.
+Mucha gente, le habían dicho. Era verdad, y se estaban escondiendo. Sonrió. Hacía mucho que nadie jugaba con él.
 
 ---
 
@@ -62,7 +60,7 @@ Tres.
 
 Park estaba agachado contra la cara norte de una terraza de piedra, con la palma abierta en la roca y las rodillas dobladas. Desde allí no veía a Belcebú. Veía la espalda de Whitfield, quieta, y las piedras del campo, y una franja de ladera donde el sol caía en diagonal. Oía los pasos de alguien que no pesaba lo que debía y hacía temblar el suelo con cada uno.
 
-Tenía todo lo que había ido guardando noche adentro, la sacudida del barrido, el temblor del puente, el golpe del suelo que se movía, quieto en las piernas como agua en una olla. Una décima parte era suya para hoy. No más. Había hecho la cuenta al empezar la escena, de pie, antes de que nadie le preguntara, y ahora la tenía en los tobillos con la misma exactitud con que se tiene una dirección.
+Llevaba veinticuatro días guardando. Desde la noche del arroyo, en la montaña de Venezuela, donde había abierto la reserva de dos semanas para una sola patada y había dado el informe a golpes al oficial de las llamas, no había soltado nada que no tuviera que soltar. Día tras día lo había ido asentando en la reserva, y ahora lo notaba como un punto tibio y quieto bajo el esternón, como agua en una olla. Lo miró una vez, como se mira un depósito, y lo dejó donde estaba.
 
 *Uno.*
 
@@ -72,25 +70,43 @@ Whitfield no se movió. Belcebú había girado la cabeza hacia él para escuchar
 
 Park salió de la terraza con el pie izquierdo.
 
-Fue un salto bajo y largo, de seis metros, con la inercia suelta en los dos tobillos a la vez, el cuerpo tendido en el aire con el hombro por delante y la pierna derecha recogida bajo la cadera. Vio el campo girar. Vio las rocas partidas, los cráteres, la camisa clara de Belcebú, que se hacía grande, la nuca ladeada, el cuello pálido, el costado. No apuntó a la cabeza. Apuntó a las costillas, un palmo debajo de la axila, donde el peso del hombre se apoyaba en la pierna izquierda.
+Soltó de golpe lo que había guardado, desde el esternón hasta los dos tobillos a la vez. La roca de la terraza se agrietó bajo la suela y el campo se le vino encima. Fueron treinta metros a ras de grava, con el cuerpo tendido, el hombro por delante y la pierna derecha recogida bajo la cadera, y delante de él el aire se apretó en una pared que doblaba los helechos arrancados y levantaba las piedras sueltas a su paso, con un rugido de avión bajo. Vio la camisa clara hacerse grande. La nuca ladeada. La sien, un palmo por encima de la oreja, donde el hueso es más fino.
 
-Soltó la pierna.
+Apuntó a la cabeza.
 
-El talón le entró en el costado con toda la masa de Park concentrada en el borde externo del pie. Sintió el impacto subirle hasta el hueso de la cadera, como patear una montaña que cede un dedo, y oyó un sonido que no era un hueso. Era el aire. Belcebú salió despedido de lado, cinco, ocho, diez metros, sin tocar el suelo, con los pies descalzos arrastrando la grava, y se detuvo.
+Y apuntó con el ángulo, para empujarlo hacia la derecha, hacia las piedras donde esperaba Kiki. Soltó la pierna.
 
-No cayó. Se detuvo, de pie, con una mano en el costado, a un paso de la franja de sol.
+El talón le entró en la sien con toda la masa de Park concentrada en el borde externo del pie. Sintió el impacto subirle hasta el hueso de la cadera, como patear una montaña que cede un dedo, y el campo entero dio un estampido. No fue un hueso. Fue el aire, que reventó. Belcebú salió despedido de lado con la cabeza por delante, treinta metros, cuarenta, sin tocar el suelo, atravesó dos terrazas de roca como si fueran de cartón y abrió con la espalda un surco en la ladera, y detrás de él se levantó una cortina de polvo y grava de más de cuarenta metros de alto que se tragó el campo entero.
 
-Kiki salió de las piedras.
+El estruendo llegó después, como llega siempre el sonido, y rodó ladera arriba hasta el paso y ladera abajo hasta la cuenca. Park supo que lo habían oído en cada rincón de la isla.
 
-La vio Park a medio giro, cayendo, con la espalda al suelo, y la vio completa, como si la hubiera dibujado él. La mano en la empuñadura, la rodilla hundida, el cuerpo entero inclinado hacia delante en la dirección en la que Belcebú acababa de ser empujado. Zanma salió de la vaina con el sonido de una hoja de papel que se rasga. Era una sola línea blanca. Kiki puso toda su masa en el filo, hasta el último gramo, en un punto del ancho de un cabello, y el corte entró en el brazo izquierdo del joven desde el codo hasta la muñeca.
+Cayó rodando, con el pie izquierdo gritándole y la cadera enroscada, y se quedó de rodillas, escupiendo tierra, mirando la cortina de polvo.
 
-Belcebú bajó la cabeza y miró su brazo.
+Algo se movió dentro.
 
-Sangraba. Roja, caliente, normal. La sangre le bajó por la muñeca y goteó de los dedos sobre la grava, una gota, otra, con un sonido pequeño.
+Belcebú se levantó despacio, a cuarenta metros, entre las piedras que habían quedado de las terrazas. Tenía la cabeza caída sobre el hombro en un ángulo que ningún cuello admite, la camisa en jirones y la piel arañada de arriba abajo, cientos de rasguños finos de arar la roca con el cuerpo. Se cogió la cabeza con las dos manos y la puso derecha. Hubo un chasquido de rama húmeda. Movió la mandíbula a un lado y a otro, y miró a Park.
 
-Park rodó por el suelo, se levantó de rodillas y escupió tierra. La cadera le dolía como si se la hubieran enroscado. En el pie, en la planta, justo bajo el arco, había notado ceder algo que no era suyo.
+—¡Tú! —dijo, con una emoción tan limpia que dolía mirarla—. Has vuelto.
 
-El joven levantó el brazo, lo acercó a la cara y lo miró como se mira un trozo de la propia infancia que uno había dado por perdido.
+Se rió, y la risa le salió un poco ronca.
+
+—Casi no me ha dolido. Apenas nada.
+
+Park no sabía a quién veía. Sabía a quién no veía, y no lo corrigió.
+
+—Era solo una distracción —dijo.
+
+El joven ladeó la cabeza, ya derecha. Y Kiki salió de las piedras.
+
+La vio Park a medio giro, con la rodilla hundida y el cuerpo entero inclinado hacia delante, en la dirección en la que Belcebú acababa de ser empujado, como si la hubiera dibujado él. La mano en la empuñadura. Zanma salió de la vaina con el sonido de una hoja de papel que se rasga. Era una sola línea blanca. Kiki puso toda su masa en el filo, hasta el último gramo, en un punto del ancho de un cabello, y el corte entró en el brazo izquierdo del joven por encima del codo y salió por debajo.
+
+El brazo cayó sobre la grava.
+
+Belcebú bajó la cabeza y miró donde había estado.
+
+Sangraba. Roja, caliente, normal. La sangre le bajó del muñón y goteó sobre la grava, una gota, otra, con un sonido pequeño. El brazo caído tenía la mano abierta, y los dedos se cerraron una vez y se quedaron quietos.
+
+El joven se agachó, lo recogió con la mano que le quedaba, lo acercó a la cara y lo miró como se mira un trozo de la propia infancia que uno había dado por perdido.
 
 —Ah —dijo.
 
@@ -104,13 +120,15 @@ Miró a Kiki, que ya estaba a diez metros, con Zanma baja y la respiración ente
 
 Kiki no contestó.
 
+Belcebú dejó caer el brazo y lo apartó con el pie, sin mirarlo, como se aparta un guante que ya no hace falta.
+
 Park había visto muchos hombres sorprendidos. Ese no lo estaba. Era un hombre que veía llegar un regalo, y daba las gracias.
 
 Alzó la vista y miró a los demás, de uno en uno, con los ojos pálidos, sin ninguna prisa.
 
 —¿Otra vez? —preguntó.
 
-*Funciona una vez*, dijo Voronin por el Coro, y era la primera vez que Park le oía la voz sin ninguna ironía. *Ya se ha gastado. Que nadie la repita. Siete, a lo vuestro. Cada uno a lo suyo.*
+*Funciona una vez*, dijo Voronin por el Coro, y era la primera vez que Park le oía la voz sin ninguna ironía. *Ya se ha gastado. Que nadie la repita. Siete, tuyo. Los demás, a lo vuestro.*
 
 Whitfield, a veinte pasos, plantó los pies como quien entra en un ring.
 
@@ -120,192 +138,74 @@ Belcebú ladeó la cabeza.
 
 ---
 
-Park no vio el primer intercambio entero.
+*18 de julio, 07:23 — campo roto*
 
-Lo vio por partes, mientras se ponía de pie y buscaba el pie izquierdo, que le respondía a medias. Whitfield dejó la guardia alta, con los codos pegados a las costillas, y avanzó medio paso con el hombro adelantado. Boxeo de parroquia, pesado, lento, honesto. Amagó con la izquierda a la cara, para ver si el joven miraba la mano o miraba el cuerpo. Belcebú miró la mano. Extendió la suya para tocarle la mejilla, con la curiosidad con que se toca un animal, y Whitfield giró el cuello medio palmo, sin que nadie se lo enseñara, y la mano pasó de largo sin un roce. Lo había sentido venir en el costado.
+Whitfield supo que cinco segundos eran pocos.
 
-—Mire el hombro, no las manos —dijo Whitfield, entre dientes, y entró con un gancho al hígado.
+Lo supo como se sabe en la oscuridad que falta un escalón. Belcebú vino hacia él sin prisa, descalzo sobre la grava, con la mano derecha suelta y el muñón del otro brazo goteando, y se detuvo a seis pasos. Lo miró como se mira a un viejo que ha salido a la puerta de su casa.
 
-Le dio. Park lo oyó. Fue un golpe corto, muy limpio, de un hombre que lleva cuarenta años dándolo y lo da sin malicia, y Belcebú se dobló. No de dolor. De sorpresa.
+—Usted es el de antes —dijo—. El que contaba.
 
-Se enderezó con la boca abierta y la sonrisa encendida.
+—Whitfield. Thomas.
 
-—¡Otro! —dijo.
+—Thomas. —El joven probó el nombre en la boca—. ¿Qué cuenta, Thomas?
 
-Whitfield le dio otro. Mismo sitio, mismo ángulo, un poco más abajo. Park pensó que era un error, que el viejo estaba repitiendo, que el joven lo aprendería.
+—Hasta cinco.
 
-Lo aprendió. El tercero no llegó. Belcebú puso un dedo en la frente de Whitfield, como se le pone a un niño que va a caer, y empujó. El viejo salió despedido hacia atrás ocho metros, y Park lo vio golpear una roca con la espalda y quedarse allí, sentado, con la cabeza caída y una mano en el pecho, resollando. Se levantó. Costó, pero se levantó, con las costillas hundidas del lado izquierdo.
+Detrás de él, a quince pasos cuesta arriba, empezaba el bosque. A su izquierda, sobre una roca plana, seguía la chaqueta que se había quitado. Delante, seis pasos de grava y un hombre que sonreía. Y por el flanco de ese hombre en el que ya no había brazo, a ras de piedra y sin ruido, Kiki había empezado a rodear. Whitfield no la miró. Quien mira un flanco demasiado tiempo acaba señalándolo.
 
-—Sigo —dijo, con aquel hilo de voz—. Sigo.
+Subió la guardia. Codos pegados a las costillas, el peso en la pierna de delante, los puños a la altura de la barbilla. Boxeo de parroquia, pesado, lento, honesto. Pero antes del boxeo vino lo más viejo, lo primero que se enseña. Respiró como respira cualquiera y se imaginó lo que entraba pegándose a la piel desde dentro, antes de soltarlo, y el Odem que le sobraba se quedó en el cuerpo en lugar de irse con el aliento. Un abrigo que nadie ve. Después lo bajó por el brazo derecho hasta los dos primeros nudillos, un punto del tamaño de una moneda, y dejó el resto de la mano floja. Y por último, que era lo más caro, empujó hacia fuera desde el hombro todo lo que el cuerpo no tenía, para que el brazo fuera más deprisa de lo que va el brazo de un hombre de setenta años.
 
-Harlan escupió el chicle.
+El costado le avisó, sin palabras. Cinco.
 
-Park lo vio desde el suelo, por el rabillo del ojo. El hombre se había incorporado en el cráter con los guijarros en los bolsillos del chaleco y la saliva en los labios, y escupió una bola rosa del tamaño de una moneda con un gesto de desprecio, como quien se quita de encima una mala compañía. La bola voló. Cayó entre los omóplatos de Belcebú, que no se volvió. Se pegó a la camisa.
+La mano del joven iba a subir abierta hacia su cara, para tocarle la mejilla como se toca a un animal. Cuatro. Whitfield amagó con la izquierda al rostro, para ver si el joven miraba la mano o miraba el cuerpo. Belcebú miró la mano. Tres. La suya subió, y Whitfield giró el cuello medio palmo, sin que nadie se lo hubiera enseñado nunca, y los dedos pasaron de largo. Dos. Uno.
 
-—Cinco —dijo Harlan—. Cuatro.
+—Mire el hombro, no las manos —dijo, entre dientes, y entró con un gancho al hígado.
 
-La explosión fue pequeña. Un golpe redondo y seco, en la espalda del joven, que abrió la camisa y la piel de un lado a otro y le arrancó una nube de tela quemada. Belcebú dio un paso al frente, con el hombro caído, y por primera vez Park lo oyó decir una palabra sin alegría.
+El puño llegó seco, en el sitio exacto, y el cuerpo entero de Belcebú se dobló alrededor de él. El aire llegó detrás, con una palmada hueca de portón que el viento cierra, y la camisa se pegó a las costillas con su forma exacta. Los pies descalzos patinaron hacia atrás por la grava, dos surcos de un metro, y en torno a los dos una corona de polvo se abrió hacia fuera y llegó a las botas de Whitfield.
 
-—Eso duele.
+Belcebú se enderezó con la boca abierta, sin aire, y cuando lo encontró fue para reírse.
 
-Se llevó la mano a la espalda y la sacó roja.
+—¡Otro!
 
-*Harlan*, dijo Voronin.
+Whitfield le dio otro. Mismo sitio, mismo ángulo, un poco más abajo. El joven bajó el codo sobre el hígado, y en ese mismo segundo, por el lado del muñón, donde no había codo que bajar, Zanma le entró en la corva. Kiki había rebotado contra una roca con la suela, y la inercia del rebote la había traído hasta allí sin un paso de más. El joven dobló la pierna para sacarla de la línea, y el codo bajó tarde. El puño pasó por encima del hueso y entró igual, y Belcebú se fue tres pasos atrás, sacudiendo el brazo como se sacude una mano que ha tocado una olla, con la palmada del aire levantando polvo a su alrededor. Kiki ya no estaba. Diez metros más allá giraba hacia otro ángulo, con una línea roja en la hoja.
 
-—Ya lo sé.
+Lo aprendió, pensó Whitfield. En dos. Pero ahora tenía que aprender dos cosas a la vez, y eso no se aprende.
 
-Harlan lanzó el primer guijarro, que cruzó el campo en una línea recta y se hundió en la tierra a dos metros de los pies del joven. Lanzó el segundo. El tercero. Los tres estallaron a la vez, tres golpes sordos que levantaron grava en cortina y le llenaron la cara de polvo y esquirlas a Belcebú, que retrocedió un paso, otro, con los brazos cruzados ante los ojos. No lo hirieron. Lo molestaron. Lo apartaron, que era para lo que estaban.
+El puño le ardía hasta el codo. El Foco no era gratis, y el abrigo le comía el aliento.
 
-Belcebú dejó de retroceder.
+Cambió. Un recto a la cara con la derecha, para obligarlo a subir la cabeza, y con la izquierda otra vez el costado, más atrás, hacia el riñón. Cinco. Por el lado del muñón volvió a entrar Zanma, corta, a la altura de la cadera, y Belcebú, que no podía darle la espalda a una hoja, se torció hacia Whitfield sin querer. Cuatro. El recto le dio en el pómulo con la cabeza todavía subiendo, y la cabeza se fue atrás de golpe, y el aire llegó detrás y le aplastó la camisa contra el pecho. Tres. El segundo golpe entró limpio en el riñón, con todo el peso del hombro. Los pies del joven se despegaron de la grava un palmo y cayeron dos pasos más allá, y se quedó doblado de lado, con los dedos hundidos en las costillas, buscando el sitio exacto de un dolor.
 
-Park lo vio en el hombro, un cambio mínimo, y supo que algo venía antes de verlo. El joven abrió los brazos en cruz y juntó las palmas con un solo golpe.
+Whitfield sacó el aire que llevaba dentro. La mano derecha le temblaba. Dos.
 
-No fue un ruido. Fue una pared.
+—¿Qué es eso, Thomas? —preguntó Belcebú, todavía doblado, con la voz de quien pregunta el nombre de una flor—. Lo que va más deprisa que el brazo.
 
-El aire se levantó del suelo en un círculo y barrió el campo entero, de borde a borde, con un rugido sordo. Las rocas sueltas salieron disparadas. La grava se alzó en una nube de metralla. Park sintió que le arrancaban los pies del suelo y vio, a cámara lenta, el cielo girar. Una parte de él supo que el golpe era de los que parten una columna.
+—Una cosa que se enseña. Despacio.
 
-Pero no llegó a golpear.
+—Yo aprendo deprisa.
 
-Algo lo había sujetado. No una mano, un peso. De pronto pesaba tres veces su peso, y el aire le pasó por encima con una furia que no pudo levantarlo, y se quedó clavado en la grava, boca abajo, con la barbilla en la tierra y los brazos abiertos. *Quédate*, oyó, sin saber si era voz de Pier o la suya. El suelo le martilleó el pecho.
+Whitfield no contestó, porque ya miraba dentro de los cinco segundos siguientes.
 
-Cuando la pared pasó, los cinco seguían allí.
+No una rama. Todas. Hacia la izquierda, hacia atrás, un paso corto con la derecha, un recto de apertura. En todas la misma mano, que ya no venía abierta sino cerrada, y detrás de ella el mismo adelanto de hombro que él acababa de enseñarle. Kiki estaba también, en todas, a tres pasos y con la hoja alzada, medio segundo tarde. En todas el mismo final. Una rama muy cerca de su cara, y después ninguna más.
 
-No era posible. Whitfield, de rodillas, con la camisa rota. Harlan, en el cráter, cubierto de grava. Lev y Pier en la terraza. Y Sabine, de pie entre los dos, con las manos extendidas hacia delante y los dedos abiertos, la nariz goteando sangre, los ojos muy abiertos, sosteniendo no a cada uno sino a todos. Los había fijado a la roca, uno por uno, con un hilo que Park no veía, y la ola había pasado sobre ellos como el agua sobre una piedra.
+Había visto acercarse otras cosas, en otras épocas, y sabía que a veces lo único que se puede elegir es en qué se gastan los cinco segundos. No los gastó en esquivar. Soltó lo que le quedaba del Foco y de la Presión, todo, y lo recogió hacia dentro, a la piel del pecho y de los antebrazos, capa sobre capa, el abrigo viejo cerrándose hasta el último botón. Cruzó los antebrazos delante del esternón. Pies abiertos, peso atrás. Cinco. Cuatro.
 
-Belcebú ladeó la cabeza.
+Belcebú vino con el brazo derecho ya cerrado, con la concentración total de un niño que copia una letra. Whitfield vio cómo adelantaba el hombro y soltaba el brazo con una velocidad que el brazo no debía tener. Lo había copiado en dos golpes. Lo hacía mejor.
 
-—Cuál —murmuró.
+—¿Así, Thomas?
 
-Miró a Sabine. Park comprendió lo que iba a pasar un segundo antes, por el modo en que el joven dejaba de mirar a todos y miraba a una sola.
+Tres. Dos.
 
-—Sabine, fuera.
+Uno.
 
-Ella no se movió. No podía. Tenía los dedos clavados en un trabajo que, si lo soltaba, se llevaba a cuatro.
+El puño tocó los antebrazos, el aire llegó detrás con un estampido, y entre una cosa y otra Whitfield dejó de estar. No hubo dolor. Hubo un ruido que fue el campo entero, y los pies que dejaban de pisar.
 
-Belcebú echó a andar.
+Cruzó el campo hacia atrás sin rozar la grava, con la ladera subiendo bajo él, y el bosque le vino encima. El primer tronco lo recibió en la espalda y se partió con el sonido de un hueso largo. El segundo. Contó, porque era lo único que sabía hacer mientras todo lo demás ocurría. Tres. Cuatro. Los árboles eran más gruesos cuanto más adentro, y la velocidad no bajaba tanto como había esperado. Cinco. Algo del abrigo se le rompió entre los omóplatos y notó el hueso. Seis. El siete fue un tronco viejo, de los que no se dejan, y se quedó en él, de espaldas, con la madera combada a su alrededor y una lluvia de hojas y corteza, y después resbaló hasta quedar sentado, y luego tumbado entre los helechos.
 
-Pier fue más rápido. Lo vio venir y cerró la mano en un gesto seco, y el pie izquierdo del joven, a mitad de zancada, pesó el triple. No lo detuvo. Lo hizo tropezar, que era mucho. Belcebú dio un paso en falso, y su rodilla tocó el suelo por primera vez, y Park vio cómo le cambiaba la cara. Sonreía otra vez, pero con los dientes.
+Había perdido el aire, y el termo, que se le había abollado contra la cadera y goteaba té sobre la tierra. Los antebrazos seguían ahí, cruzados por un morado negro, aunque no habría jurado que enteros. Tenía la cara arañada de ramas, hojas en el pelo y una astilla de tronco, larga como un dedo, clavada bajo las costillas. El abrigo se deshilachaba por los bordes y debajo había un hombre de setenta años, tendido, con el labio partido y las costillas diciéndole cosas. Contó las que dolían sin quererlo. Tres.
 
-—¡Pesa! —dijo, encantado—. ¡Qué bonito pesa!
+*Siete*, dijo Voronin por el Coro, y la palabra le llegó detrás de los dientes, seca, sin ninguna ironía. *Siete, contesta.*
 
-Pier gimió. La sangre le bajó por el labio y por la barbilla. Había puesto en ese pie lo que le quedaba, y el joven ya se levantaba, con la rodilla descalza sangrando y una mano apoyada en el suelo para tomar impulso.
+—Vivo —dijo él. Decirlo le costó una costilla.
 
-Sabine estiró los dedos.
-
-No hacia los suyos. Hacia él.
-
-Un latigazo de quietud cruzó el campo y se clavó en el centro, en el pecho, en la cintura, y Belcebú se quedó con la pierna medio levantada y la mano a medio camino, como un insecto en ámbar. Un latido. Park contó uno. Ella le había ganado un latido, y lo pagó entero. Sangró por los dos ojos.
-
-Fue un latido. Belcebú sacudió los hombros y la quietud se rompió como una telaraña.
-
-Cruzó los veinte metros que le quedaban en cuatro pasos. No hubo prisa. Ella estaba de pie con las manos en alto, vacía de todo, la que sostenía. Park lo había visto antes que él. Se lo había dicho Voronin, y no había hecho caso. A un enemigo se le vacía atándolo, y para vaciar bien a este había que quitarle a quien ataba.
-
-Le puso la palma abierta en el esternón, con una delicadeza de padre.
-
-Sabine salió volando hacia atrás. No gritó. Golpeó la terraza con la espalda y se deslizó por la piedra hasta quedar sentada con las piernas dobladas hacia un lado, la barbilla en el pecho y un hilo de sangre en la comisura, que le bajó por el cuello y se perdió en la blusa.
-
-No se movió.
-
-Park no se detuvo a mirar. Una mirada y un hecho. Ya no estaba allí.
-
-—Perdona —dijo Belcebú, y no hubo nadie a quien pedírselo.
-
-Lev se levantó.
-
-Lo vio Park de refilón, desde una roca. Estaba de pie en la terraza con las manos abiertas, gris de la cara, y los pies descalzos separados sobre la piedra. Había mirado a Sabine y no había dicho nada. Respiró una vez, hondo, con todo el pecho, y lo que soltó fue frío.
-
-La escarcha corrió por el campo como una marea. En un segundo el suelo entero fue una lámina blanca y mate, de la terraza a las piedras, de las piedras a los pies de Belcebú, y el aire se volvió cuchillo. Park sintió cómo se le cerraban las fosas. El aliento de Harlan salió en nube. Los charcos de la grieta se rompieron con un sonido de cristal. Belcebú se quedó quieto en medio, con la escarcha subiéndole por las piernas, y sus ojos pálidos se llenaron de una cosa que Park no esperaba, de asombro limpio.
-
-—Oh —dijo.
-
-Lev soltó el calor.
-
-Fue una sola exhalación, una puerta de horno abierta de golpe. La escarcha se hizo vapor, y el vapor se hizo muro, y el muro se alzó diez metros sobre el campo con un rugido hueco de agua que hierve. Park se tiró al suelo detrás de una roca con el antebrazo sobre la cara. El suelo le quemó los codos. El aire entero olió a hierro mojado y a carne. Cuando se atrevió a asomarse, el vapor se abría despacio en jirones, y en medio había un hombre de pie con la camisa hecha trizas y la piel roja de la garganta a la cintura, abrasada, y los ojos abiertos.
-
-Estaba sonriendo.
-
-Lev cayó de rodillas.
-
-Lo hizo sin ruido, como un traje al que le quitan el cuerpo. No había nada en su cara, ni cansancio ni dolor ni miedo, solo el hueco del que lo ha dado todo y ya no tiene con qué darlo. Le salía vapor de los labios. Tenía la escarcha en el pelo. Sus manos temblaron un segundo en el aire y cayeron sobre las rodillas, con los dedos abiertos.
-
-Pier lo cogió antes de que tocara el suelo.
-
----
-
-*18 de julio, 07:28 — campo roto*
-
-Belcebú vino hacia Park con la camisa colgando y la piel levantada, y no andaba. Corría. Era la primera vez que le veía correr, y no era la carrera de un hombre sino la de una cosa grande que decide moverse, con un viento delante. Park se tiró de lado y el aire le pasó por encima como un tren.
-
-*Ya no es el mismo*, pensó, sin palabras.
-
-Se había equivocado. Lo había leído como un animal que juega y era un hombre que aprende. Cada pase era más rápido que el anterior y menos amable. A la segunda pasada le arrancó el hombro de la chaqueta. A la tercera, Park tuvo que ir a ciegas.
-
-Recibió el segundo golpe en el antebrazo, con la inercia cargada en la articulación, y lo notó entrar en el hueso, hondo, como un martillo en una barra. Giró sobre el pie bueno, devolvió lo que había recibido en un codazo corto al plexo, y fue como golpear una pared. El joven ni se inmutó. Le cogió la muñeca con una mano y tiró. El hombro de Park crujió.
-
-El problema era el pie. Lo notaba ahora, entero, con cada paso, el arco que había cedido en la patada. Un hueso fino, quizá. No iba a poder saltar otra vez.
-
-Kiki entró por la derecha.
-
-No hubo aviso. Zanma bajó en un arco corto, a la altura del codo herido, y Belcebú soltó la muñeca de Park para atrapar la hoja. La atrapó. Con dos dedos y el pulgar, de lado, sin mirarla, como se coge un cuchillo por la hoja cuando se lo ofrecen. La sangre le corrió por los nudillos. No la soltó.
-
-—Despacio —dijo—. Es de él.
-
-Kiki tiró. Tiró con las dos manos, con el pie hundido en la grava, y Belcebú la dejó tirar, y al último segundo abrió los dedos. Kiki cayó de espaldas con la espada entera. Se puso de pie con la muñeca derecha colgando, doblada hacia atrás, y no gritó.
-
-—¡Kiki!
-
-—Estoy bien —dijo ella, y no lo estaba.
-
-Era el momento. Park lo sintió en la nuca, sin que nadie se lo dijera, como una puerta que se abre un dedo. El joven miraba la hoja y no a él. El brazo herido colgaba a medio gesto.
-
-*Gastadla bien.*
-
-Park apoyó el pie bueno en una piedra del tamaño de una cabeza, la recogió sin frenar, con la mano cerrándose sobre ella en el mismo tiempo en que el pie tocaba el suelo, y cargó en ella la inercia que le quedaba del último golpe. No apuntó al centro. Apuntó al brazo izquierdo del joven, al punto del codo donde Kiki había abierto la carne, donde la sangre seguía bajando, roja, sin pararse.
-
-La piedra le dio en la herida.
-
-Belcebú soltó la hoja y se llevó el brazo al pecho. Por primera vez dio un paso atrás sin que nadie lo empujara.
-
-—Eso —dijo— sí.
-
-Park se dejó caer de rodillas, con el brazo bueno apoyado en la grava y la respiración quemándole el pecho. Cada fibra del cuerpo le pedía un segundo. No lo tenía. Alzó la vista y vio lo que había hecho el campo.
-
-Sabine, sentada contra la terraza, inmóvil. Lev, desplomado, sostenido por Pier, que no podía moverse con él. Harlan, de pie en el cráter con las manos entre las rodillas y la cara descompuesta. Whitfield, apoyado en una roca con una mano en el pecho, resollando con la boca abierta. Kiki, a diez metros de todos, con Zanma levantada y la muñeca doblada, el pelo pegado a la cara de sudor.
-
-Y delante de todos, en medio del campo roto, un hombre joven con el brazo sangrando y la espalda quemada, sonriendo.
-
-Harlan lanzó un guijarro. Lo hizo desde el cráter, sin mirar, con la mano temblándole. Belcebú lo cogió al vuelo, entre dos dedos, a diez centímetros de su cara, y lo miró.
-
-—Qué bonito —dijo.
-
-Abrió la mano. El guijarro salió disparado hacia el cráter, hacia el hombre que lo había lanzado, a una velocidad que ningún guijarro debería llevar. Harlan lo vio venir. Tuvo un segundo para hacer una sola cosa, y la hizo. Cerró el puño, y el guijarro estalló a dos metros de su cara.
-
-El fogonazo lo cegó. Park oyó el grito. Un grito corto, de hombre que se muerde la lengua. Cuando volvió la vista, Harlan estaba de rodillas en el cráter con los dos brazos pegados al pecho y las manos humeando, las palmas negras de pólvora hasta las muñecas, y el chicle nuevo todavía en la boca, aplastado entre los dientes.
-
-—Hijo de puta —dijo, sin aire—. Mis manos. Otra vez.
-
-Y entonces el campo se calló.
-
-No fue un silencio de miedo. Fue más hondo. Belcebú había dejado de sonreír, y estaba mirando hacia el este, con la cabeza ladeada, como se mira una cara conocida en una calle.
-
-Nadie dijo nada.
-
-Park sintió que algo cambiaba en el aire. No era un peso nuevo. Era el mismo, de otro tipo, que venía de muy lejos, de un acantilado, de una cuerda cortada, y que cruzaba la isla de este a oeste sin tocar el suelo. Los dientes le vibraron. Belcebú sonrió otra vez, y esta sonrisa no era de curiosidad.
-
-—Ya viene —dijo.
-
-Se pasó la lengua por la comisura de la boca. Estaba contento como un niño al que le anuncian una visita.
-
-*Uno-Uno a todos*, dijo Voronin, y la voz le temblaba por primera vez. *Cambio de mesa. Dos heridos graves y uno vacío no se llevan solos. Atrás hasta el paso, y que ER-2 abra el abanico. No os quiero aquí cuando eso llegue.* Una pausa. *Lo que viene de este lado no es para nosotros. Pero lo de abajo, sí.*
-
-Park no entendió lo último. Lo entendió un segundo después, porque lo oyó.
-
-Abajo, en la cuenca, a cuatrocientos metros, sonó algo grande. Un chasquido seco, como el de una puerta de acero que se cierra al otro lado del mundo, y después un rumor de pasos que se multiplicaban, miles de pasos de piedra sobre piedra, subiendo.
-
-Park miró hacia la cuenca.
-
-Los caparazones del anillo se habían puesto en marcha. Iban todos a la vez, tres filas de tractores y segadores de cara hacia fuera, arrastrando raíces y rocas, y subían la ladera hacia el campo en una sola ola negra, con el sol en los lomos.
-
-Belcebú no miraba a ninguno de ellos. Los miraba pasar.
-
-Por primera vez desde que lo vio, Park pensó que no estaba ante un hombre. Estaba ante alguien que miraba una cosa que ya sabía que iba a ver.
+Entre las copas rotas había entrado un trozo de cielo que antes no estaba. Desde allí no veía el campo, solo oía, y lo que oyó, muy lejos, fue una risa contenta, la de alguien que acaba de aprender algo.

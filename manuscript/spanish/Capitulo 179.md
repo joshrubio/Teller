@@ -1,283 +1,201 @@
-Capítulo 179 — El borde
+Capítulo 179 — Vapor
 
-*18 de julio, 07:27 — borde de la grieta*
+*18 de julio, 07:25 — campo roto*
 
-Sisi se detuvo en el último cruce de pasarelas, donde las casas se acababan y empezaba el llano de piedra que rodeaba la grieta, y Tomás se detuvo un paso por detrás.
+Harlan escupió el chicle.
 
-Había vuelto por los que dudaban, los que no habían podido traer. Llevaba el plan entero en la cabeza. Abrir un hueco del tamaño de un paso, esperar, dejar que se acercara quien quisiera. No pudo empezar.
+Park lo vio por el rabillo del ojo, de rodillas en la grava, con la cadera enroscada y el pie izquierdo respondiéndole a medias. El hombre se había incorporado en el cráter con los guijarros en los bolsillos del chaleco, y escupió una bola rosa del tamaño de una moneda con un gesto de desprecio, como quien se quita de encima una mala compañía. La bola voló. Cayó entre los omóplatos de Belcebú, que no se volvió. Se pegó a la camisa.
 
-Tres mil cien personas estaban de pie, apretadas en anillos, hombro con hombro, de cara al pozo. Habían bajado de las casas mientras ella estaba en el muelle, y se habían puesto allí alrededor de la boca como el agua en una pila. Solo quedaba un pasillo estrecho, el de los chalecos, y no había una cabeza vuelta hacia atrás. Un hombre de sesenta años con las manos cruzadas. Una mujer con un niño dormido en el hombro. Una pareja joven cogida de la mano. Todos con los ojos secos y la respiración larga, todos mirando el mismo punto del suelo.
+—Cinco —dijo Harlan—. Cuatro.
 
-Un chaleco los reconoció y los dejó pasar por ese pasillo, porque nadie había dicho que no, y llegaron a la primera fila, a doce pasos de la explanada. Probó una vez. Dejó la puerta abierta al hombre más cercano, sin palabras, y esperó. El hombre no se movió. No era un rechazo. No la había visto.
+La explosión fue pequeña. Un golpe redondo y seco, en la espalda del joven, que abrió la camisa y la piel de un lado a otro y le arrancó una nube de tela quemada. Belcebú dio un paso al frente, con el hombro caído, y por primera vez Park lo oyó decir una palabra sin alegría.
 
-—Tres mil cien —dijo Tomás, bajito—. Menos veinticuatro.
+—Eso duele.
 
-—Lo sé. No hay a quién preguntar.
+Se llevó la mano a la espalda y la sacó roja.
 
-La cuenca estaba de pie desde las siete, y el borde de la grieta era el centro de esa quietud. Una explanada de losas de piedra, de quince metros de ancho, rodeaba la boca del pozo como la orilla de un estanque. Los chalecos azules la guardaban, doce o catorce, repartidos a intervalos, con las botas de goma juntas. Más allá de la explanada, la gente. Más allá de la gente, a veinte metros, el anillo de criaturas, tres filas de caparazones de cara hacia fuera, inmóviles bajo el sol que no se veía. En el centro, la boca. Cuarenta metros de diámetro, escalones tallados que bajaban y se perdían en la sombra, y de ahí subía un calor tibio, de brasa que se enfría.
+*Harlan*, dijo Voronin por el Coro.
 
-Ya no había zumbido. Sisi lo notaba sin querer, igual que se nota una pieza que falta en un reloj. Desde las seis y pico, nada cantaba bajo la roca, y lo que quedaba era una presión sin dirección que le empujaba el estómago hacia dentro.
+—Ya lo sé.
 
-Abajo había una niña con hambre.
+Harlan lanzó el primer guijarro, que cruzó el campo en línea recta y se hundió en la tierra a dos metros de los pies del joven. Lanzó el segundo. El tercero. Los tres estallaron a la vez, tres golpes sordos que levantaron grava en cortina y le llenaron la cara de polvo y esquirlas a Belcebú, que retrocedió un paso, otro, con el antebrazo ante los ojos. No lo hirieron. Lo apartaron, que era para lo que estaban. Y lo apartaron hacia el sur y hacia la izquierda, hacia el lado en el que ya no tenía brazo.
 
-La sentía desde hacía veinte minutos, como una cuerda de otra clase, tirante, estirada hacia arriba. Y debajo de ella, más hondo, otras dos cosas. Una pila de capas que no tenía fondo. Un hueco herido, caliente, que reconocía.
+Park supo dónde iba a salir Kiki antes de verla. Salió de la cortina de polvo con el cuerpo tendido, y la onda del tercer guijarro la alcanzó por la espalda y ella no la esquivó. La dejó entrar, la almacenó, giró sobre el pie y soltó, y el empujón de Harlan se hizo velocidad suya. Zanma cruzó la espalda de Belcebú de la cadera al omóplato, una línea blanca con toda la masa en el filo. Él alcanzó a girar medio cuerpo, y la hoja no pasó del hueso. Kiki ya estaba fuera, a ocho metros, con sangre en la punta.
 
-—Kaspar —dijo.
+—Otra —dijo, sin volverse.
 
-—¿Sube?
+—¡Voy!
 
-—No sé. Sube ella.
+Harlan lanzó uno solo, corto, al suelo delante de ella. Kiki pisó el estallido con la suela y salió despedida otra vez, más baja. Pero esta vez Belcebú la esperaba, y la hoja encontró su antebrazo, que subió a cortarle el paso, y no el costado. Mordió y se retiró. No hizo falta más. El joven había dejado de retroceder.
 
-Tomás no preguntó quién. Se puso donde ella lo necesitaba, medio paso a la espalda y a la izquierda, con las manos a la vista.
+Park lo vio en el hombro, un cambio mínimo, y supo que algo venía antes de verlo. Belcebú se agachó y plantó la palma de la mano que le quedaba contra la grava, de un solo golpe.
 
----
+No fue un ruido. Fue una pared.
 
-*18 de julio, 07:31 — borde de la grieta*
+El aire se levantó del suelo en un círculo y barrió el campo entero, de borde a borde, con un rugido sordo. Las rocas sueltas salieron disparadas. La grava se alzó en una nube de metralla. Park sintió que le arrancaban las rodillas del suelo y vio, a cámara lenta, el cielo girar. Una parte de él supo que el golpe era de los que parten una columna.
 
-El trueno vino del este.
+Pero no llegó a golpear.
 
-Fue seco, redondo, una sola nota. Cruzó la cuenca de lado a lado, sin eco, y Sisi vio cómo se movía el aire por encima de las cabezas, una onda que alisaba los pelos de los brazos. Nadie se agachó. Tres mil cien personas, y ni una levantó la cara.
+Algo lo había sujetado. No una mano, un peso. De pronto pesaba tres veces su peso, y el aire le pasó por encima con una furia que no pudo levantarlo, y se quedó clavado de rodillas, con los puños hundidos en la grava y la cabeza gacha, como quien reza contra el viento. *Quédate*, oyó, sin saber si era voz de Pier o la suya. El suelo le martilleó las rodillas y el pecho. Park, que no sabía hacer otra cosa, lo guardó.
 
-Algo cayó sobre la explanada.
+Cuando la pared pasó, seguían todos allí.
 
-Fue un hombre, y al aterrizar partió dos losas. Dobló las rodillas, absorbió el golpe por las piernas, y el polvo se levantó a su alrededor en un anillo bajo que se deshizo antes de tocar a nadie. Se enderezó despacio. Tenía el pelo corto, negro con canas, la camiseta oscura pegada a un cuerpo ancho y gastado, y en el hombro derecho una manga vacía que colgaba contra el costado. Del cuello le subía hasta la mandíbula una línea negra, fina, que terminaba junto a la oreja.
+No era posible. Harlan, en el cráter, cubierto de grava. Kiki, a diez metros, con Zanma baja. Lev y Pier en la terraza. Y Sabine, entre los dos, con las manos extendidas hacia delante y los dedos abiertos, los ojos muy abiertos, sosteniendo no a cada uno sino a todos. Los había fijado a la roca, uno por uno, con un hilo que Park no veía, y la ola había pasado sobre ellos como el agua sobre una piedra.
 
-Sisi lo registró como se registra una salida. Una mano. Un hombre que no miraba a nadie.
+Belcebú ladeó la cabeza.
 
-Un chaleco se adelantó. Era un hombre de unos cuarenta años, de hombros estrechos, el primero que se interponía.
+—Cuál —murmuró.
 
-—Aquí no se pasa —dijo, con la voz de quien lo ha ensayado.
+Miró a Sabine. Park comprendió lo que iba a pasar un segundo antes, por el modo en que el joven dejaba de mirar a todos y miraba a una sola.
 
-El recién llegado no se detuvo. No lo apartó, tampoco. Echó a andar hacia la boca del pozo, y cuando pasó junto al chaleco, a un brazo, algo en el aire hizo que al hombre se le doblaran las rodillas. No fue un golpe. Fue peso. Cayó de rodillas con las manos sobre las losas y la boca abierta, sin respiración, y se quedó allí.
+*Sabine, fuera*, dijo Voronin por el Coro.
 
-El hombre llegó al borde y miró abajo. Movió los labios sin voz. Parecía contar. Sisi, a doce metros, creyó entender que no contaba escalones. Contaba el aire.
+Ella soltó. A todos a la vez, con un temblor de las manos, y la roca se les devolvió a los pies. Ya se movía, hacia atrás, hacia el costado de la terraza.
 
-Intentó leerlo.
+Belcebú echó a andar hacia ella.
 
-Se le cerró el paso enseguida, no como una puerta sino como un pasillo con más pasillos iguales, uno detrás de otro, recorridos antes. Retiró la atención. Tomás le puso la mano en el codo.
+Pier fue más rápido. Lo vio venir y cerró la mano en un gesto seco, y el pie izquierdo del joven, a mitad de zancada, pesó el triple. No lo detuvo. Lo hizo tropezar, que era mucho. Belcebú dio un paso en falso, y su rodilla tocó el suelo por primera vez, y Park vio cómo le cambiaba la cara. Sonreía otra vez, pero con los dientes.
 
-—¿Quién?
+—¡Pesa! —dijo, encantado—. ¡Qué bonito pesa!
 
-—No sé. Es de ellos. Es de los nuestros.
+Park ya se había levantado. Lo que le había martillado las rodillas y el pecho lo traía guardado, entero, y tenía un sitio donde ponerlo. Se abrió por la derecha del joven y Kiki entró por el lado del muñón, y no se dijeron nada. Un golpe por cada lado, uno detrás de otro, para no estorbarse.
 
-El hombre alzó la cabeza hacia el pozo, y por primera vez Sisi lo vio de perfil entero. No tenía prisa. Esperaba lo que sube.
+Sabine estiró los dedos.
 
----
+No hacia los suyos. Hacia él.
 
-*18 de julio, 07:34 — borde de la grieta*
+Un latigazo de quietud cruzó el campo y se clavó en el pie que quedaba apoyado, y lo ató al suelo. Belcebú se quedó con la pierna medio levantada y la mano a medio camino, como un insecto en ámbar. Un latido. Zanma bajó desde el lado del muñón y le abrió el costado de la cadera a las costillas. Dos. Park soltó lo guardado con el codo, bajo el esternón, y fue como golpear una pared que cede un dedo, y el aire reventó a su alrededor. Tres.
 
-Primero se oyeron los pasos.
+Belcebú sacudió los hombros y la quietud se rompió como una telaraña.
 
-Eran pasos descalzos, ligeros, en piedra, uno detrás de otro, y detrás de ellos otros, muchos, que no eran pasos. Un rumor de voces bajas, de gente que repite algo sin saber qué. Sisi las conoció. Las había oído diez noches seguidas bajo el sueño de otra.
+Había encajado los dos golpes y no había mirado a ninguno. Pasó entre ellos como entre dos puertas abiertas. Park le agarró la camisa y la tela se le quedó en la mano. Cruzó los veinte metros que le quedaban en cuatro pasos. No hubo prisa. Ella estaba de pie con las manos en alto, la que sostenía. A un enemigo se le vacía atándolo, y para vaciar bien a este había que quitarle a quien ataba. Park lo había visto antes que nadie, y no había llegado.
 
-La cabeza apareció por el borde de los escalones, y después los hombros.
+Le puso la palma abierta en el esternón, con una delicadeza de padre.
 
-Una niña de diez años. Tenía el pelo negro, desordenado, la cara redonda y una cicatriz pequeña en la barbilla. Llevaba un camisón de algodón sucio de paja. Subió el último escalón y se quedó de pie sobre las losas, con los brazos colgando, y bajo la piel de esa niña, por un parpadeo, había otro cuerpo, más largo, más oscuro, que no terminaba de asomar.
+Sabine salió volando hacia atrás. No gritó. Golpeó la terraza con la espalda y se deslizó por la piedra hasta quedar sentada con las piernas dobladas hacia un lado, la barbilla en el pecho y un hilo de sangre en la comisura, que le bajó por el cuello y se perdió en la blusa, y bajo la tela, en el esternón, ya asomaba el morado de una mano.
 
-—Anaís —dijo Sisi.
+No se movió.
 
-No lo había decidido. Salió solo, entero, en voz alta, y la niña se detuvo.
+Park no se detuvo a mirar. Una mirada y un hecho. Se echó tras él.
 
-Giró la cabeza. Tardó un latido en encontrar de dónde venía. Tenía los ojos muy abiertos, sin sorpresa, los ojos de alguien al que nadie ha llamado en mucho tiempo, y por un instante fueron ojos de niña de verdad.
+—Perdona —dijo Belcebú, y no hubo nadie a quien pedírselo.
 
-—Tengo hambre —dijo.
+Lev se levantó.
 
-Fue una voz pequeña. Después hubo otra encima, y otra, una detrás de otra, una marea.
+Lo vio Park de refilón, ya desde detrás de una roca, con Kiki pegada al hombro. Estaba de pie en la terraza con las manos abiertas, gris de la cara, y los pies descalzos separados sobre la piedra. Había mirado a Sabine y no había dicho nada. Respiró una vez, hondo, con todo el pecho, y lo que soltó fue una bandada.
 
-Y el anillo cargó.
+Eran pájaros de aire frío, docenas, cada uno del largo de un brazo, blancos en los bordes, y se abrieron en abanico por el campo con un silbido de agujas. Donde tocaban una piedra la dejaban cana. Donde tocaban un tronco de la linde lo agrietaban. Y todos a la vez, al llegar al centro, dejaron de volar y se hicieron cosa. Hielo. Subió en columnas y arcos entre los árboles y por encima de las copas, azul, con el crujido de un lago al romperse, tan deprisa que Park no tuvo tiempo de contar. Tres respiraciones después el campo era una nave de catedral, y Belcebú estaba dentro.
 
-Fue a su espalda, en las filas de caparazones, una sacudida de piedra y de hierro que se levantó de golpe, un rugido de ruedas y de raíces, tres filas moviéndose a la vez cuesta arriba, hacia fuera. Sisi lo sintió en las suelas. No venía hacia ellos. Se alejaba, a una velocidad de avalancha, ladera arriba, hacia el sur.
+No esperó a que se cerrara. Tomó impulso con la pierna buena y atravesó una columna con el hombro, y la columna estalló en esquirlas que le abrieron la cara, y salió por el hueco con el hielo todavía en el pelo. En el paso siguiente estaba en la terraza. Su mano se cerró alrededor del cuello de Lev.
 
-Todos los civiles bajaron los ojos.
+Lev soltó el calor.
 
-Fue un solo movimiento, perfectamente sincronizado, tres mil cabezas inclinadas al mismo tiempo, y las miradas fijas en las losas. Como los cuerpos inclinados cuando pasa algo que no se debe mirar de frente.
+Allí mismo, con los dedos de Belcebú en la garganta. No fue una exhalación sino otra bandada, y esta vez de fuego, aves rojas que le salieron de la boca y de las manos y se clavaron en lo primero que tocaron. Belcebú ardió. Las que no encontraron carne siguieron de largo, hacia el hielo, y donde lo tocaron el hielo tardó una respiración en dejar de existir. Todo el campo se hizo vapor a la vez, con un estampido que Park sintió en los dientes, y la onda lo levantó de detrás de la roca y lo tiró de espaldas. La roca se fue. Kiki rodó a su lado. Un trozo de columna del tamaño de una puerta pasó por encima de los dos y se deshizo contra la terraza. Harlan se hundió en el cráter hasta las orejas. Pier, en la terraza, se tiró sobre Sabine con la espalda al calor.
 
-*Si sube la niña, no se la mira.*
-
-Sisi lo había oído en alguna parte, y ahora lo comprendía.
-
-La niña no se movió. Miraba al hombre del borde.
+Nadie estaba donde había estado.
 
 ---
 
-—Tú —dijo.
+*18 de julio, 07:29 — campo roto*
 
-No era la voz de antes. Salía de la niña por la boca de la niña, pero era más grave, más lenta, de una mujer que habla en una habitación vacía, y debajo de esa mujer, como un coro apagado, estaban las otras.
+El vapor no se iba. Se abría y se cerraba sobre el campo como una respiración, blanco y caliente, y dentro no había arriba ni abajo. Park y Kiki estaban espalda contra espalda detrás de una losa caída, lo único que quedaba de su roca.
 
-—Yo —dijo Ji-ho.
+—¿Dónde? —dijo Kiki.
 
-Fue la primera vez que Sisi le oía la voz. Seca, sin nada. Se dio la vuelta sin prisa, y la línea negra le brilló en el cuello a la luz.
+—No sé.
 
-—Te dejé una cosa —dijo ella.
+—Busca.
 
-—Sigo llevándola.
+Park buscó. Los jirones se abrían a la izquierda y era una roca, a la derecha y era una columna de hielo que había sobrevivido, medio derretida, goteando. Una sombra, al norte. No. Harlan, corriendo agachado de cráter en cráter, con los ojos llorosos. Otra sombra, al sur, más alta. Tampoco. El suelo vibró dos veces bajo su rodilla, y no eran pasos.
 
-Ella sonrió, y la sonrisa tenía algo mal en la simetría, como si el cuerpo todavía no hubiera terminado de decidir cómo hacer ese gesto.
+—No lo veo.
 
-—Qué bien —dijo—. Qué bien se te da.
+*Park*, dijo Voronin por el Coro. *Dime dónde.*
 
-Ji-ho no contestó. Miró alrededor, a la gente de rodillas, a la explanada, a la boca del pozo a su espalda, al borde de los escalones y a ella. Sisi lo vio calcular. Era lo mismo que hacía ella al entrar en una sala, y por eso lo entendió. Contaba salidas. Contaba cuántas losas había entre la niña y la primera fila de gente.
+—No lo veo.
 
-Dos pasos para él. Doce para la gente.
+Miró hacia arriba, porque era el único sitio donde no había mirado.
 
-—Tú —dijo, sin volverse. Hablaba a Sisi—. Sigue diciendo su nombre.
+Belcebú estaba en el aire.
 
----
+A tres metros sobre las losas rotas, en un hueco que el vapor había dejado, sin nada debajo, como quien ha dado un paso en una escalera que no se ve. Tenía la camisa hecha ceniza. La piel, de la garganta a la cintura, abrasada y levantada, y debajo, ya subiendo, la nueva, rosa y mojada, que se tragaba la quemadura por los bordes con un sonido de barro que se aplana. Y en la mano derecha, cogido por la tela del cuello, colgando como un abrigo, el cuerpo flojo de Lev.
 
-María Lionza se movió primero.
+Miró primero hacia el este, por encima de las copas, donde algo muy alto y muy lejos cruzaba el cielo sin ruido, y sonrió. Después miró a Lev, de cerca. Casi lo olió.
 
-No corrió. Se desplazó, de golpe, de dos pasos a cero, y el aire delante de ella se espesó como el cristal de una ventana empañada. Sisi lo vio antes de sentirlo. La losa donde pisaba se hundió un dedo. La presión salió despedida hacia Ji-ho, una pared sorda del ancho de un hombre.
+—Qué calor más bonito —dijo, con una admiración sincera—. Gracias. Ya no queda nada.
 
-Ji-ho no retrocedió.
+Lo apartó hacia un lado con dos dedos, como se aparta una cortina, y abrió la mano.
 
-Entró.
+Park ya se había ido. Lo que traía guardado del suelo lo soltó en un solo empuje de pierna, y el campo pasó a sus lados en una raya. No saltó, porque no podía. Corrió por la grava hasta la vertical, y el cuerpo de Lev llegaba a las piedras cuando él se tiró de rodillas debajo y lo cogió con el pecho. Rodaron los dos. Park paró con el hombro contra una losa y la cadera gritándole. Tenía el dorso de las manos rojo de vapor, un tajo largo en el antebrazo de rodar entre las losas y un hilo de sangre seca bajo la nariz.
 
-Lo vio Sisi como se ve algo que no tiene sitio. Un paso diagonal, lateral, hacia la izquierda de la pared, sin levantar la mano, tan cerca que la presión le rozó la manga vacía y la hizo restallar, y en el segundo paso ya estaba a un brazo de ella, con la mano abierta, plana, sobre la clavícula de la niña. No empujó. Giró.
+Lev no se movía. Tenía todo el cuerpo rojo, de la cara a los pies, como tras una insolación brutal, las cejas chamuscadas y los labios agrietados y sangrantes, y los dos brazos, de los hombros a las yemas, pelados en carne viva, por donde habían salido las aves. La escarcha se le derretía en el pelo. Las manos estaban abiertas y no se cerraban. Park le puso la oreja junto a la boca.
 
-La niña salió despedida de lado, no por la fuerza de él sino por la de ella. Ji-ho había tomado lo que traía y se lo había devuelto en otra dirección, y el cuerpo pequeño se deslizó diez metros por las losas, de rodillas, levantando polvo, hasta quedarse a un paso del borde del pozo.
+Respiraba. Un aire corto, tibio, seguido. Muy pequeño, pero entraba y salía.
 
-La pared de presión pasó de largo, y con ella una ráfaga que alzó los cabellos de las primeras filas. Nadie parpadeó.
+—Vive —dijo, por el Coro, y por primera vez en toda la mañana tuvo ganas de reírse.
 
-*No lo ha hecho con Odem*, pensó Sisi, y no supo cómo lo sabía. *Lo ha hecho con las piernas.*
+*Bien*, dijo Voronin, y Park oyó que le faltaba el aire, que hablaba andando. *Déjalo ahí y vuelve. Subo.*
 
-María Lionza se incorporó sin esfuerzo, con las rodillas manchadas, y sonrió.
+Lo dejó contra la losa, de lado, con la cabeza sobre su propia chaqueta. Cuando se incorporó, el hombre del aire había bajado.
 
-—Otra vez —dijo.
+Cayó sobre las losas con un pie en cada una, y en el mismo segundo Pier cerró el puño desde la terraza y el pie derecho se hundió en la roca hasta el tobillo. Harlan, a dos pasos, dejó rodar un guijarro por el suelo, sin lanzarlo, y estalló bajo el talón. Belcebú fue hacia delante, hacia el único sitio al que podía ir, y allí estaba Whitfield.
 
-Esta vez miró.
+Park lo vio salir del bosque por el surco de los siete troncos, con una mano apretada contra el costado, donde se había dejado clavada una astilla de tronco para no sangrar, y la otra cerrada, caminando, y entrar en la línea. La camisa se le abría de arriba abajo por la espalda, tenía la cara arañada de ramas con un corte sobre la ceja, un morado negro cruzándole los dos antebrazos y el labio hinchado, y el abrigo se le deshilachaba en los bordes, y lo llevaba puesto.
 
-Lo notó Sisi antes que nadie, porque llevaba toda la noche esperando ver algo así. Los ojos de la niña se movieron, fijos, hacia un punto del suelo, y el punto estaba delante de Ji-ho, a dos pasos. Pasó un segundo. Y el suelo desapareció.
+—Cinco —dijo el párroco, apenas, y Park no supo si se lo decía a él.
 
-No cayó. Se fue. Un círculo de losas de tres metros de ancho dejó de ser piedra y se volvió un hueco liso, sin fondo, de paredes brillantes como las de una copa, y de él subió un aire frío que olía a pan duro.
+*Que no se quede quieto*, dijo Voronin. *Si se queda quieto, aprende.*
 
-Ji-ho no estaba dentro porque no había pisado donde ella miraba.
+No entró. Se quedó donde estaba, con un hombro en la piedra y la respiración quemándole, y guardó. Era lo único útil que sabía hacer. Cada golpe que llegaba al campo traía su temblor, y él lo recibía en la losa, en la rodilla, en el hueso, y lo asentaba, y miraba.
 
-Pisó donde había mirado antes. El primer círculo, el de su primera mirada, ya estaba vacío, y la orilla era firme, y él estaba de pie en el borde de ese hueco con el talón sobre la nada. Sisi comprendió, tarde, lo que había visto. Había leído el truco. Ella miraba antes de morder, un latido antes, y cada mordisco dejaba un sitio seguro justo detrás.
+Whitfield, un gancho. El puño primero, el aire detrás, y Belcebú se dobló con una palmada hueca. Zanma por el flanco, desde el lado del muñón, una línea blanca. El antebrazo subió a cortarla y la hoja mordió. Whitfield, un recto. Kiki, otra vez. Un golpe por cada lado, uno detrás de otro, sin dejarle el hueco de un aliento. Tum, dijo el guijarro de Harlan bajo el talón. Tum. Tum. Belcebú iba a donde lo empujaban, y donde llegaba había un puño o un filo.
 
-—Mira —dijo Ji-ho, para nadie—. Mira antes.
+Se agachó. Fue un movimiento limpio, entre el recto y la hoja, y salió por debajo de los dos con una pierna que Pier le tenía clavada y no le servía. Tropezó. Y al tropezar se fue hacia Harlan.
 
-La niña dejó de mirar.
+Fueron tres pasos. Harlan tenía un guijarro en la mano, la mano ya hacia atrás. Belcebú no cerró el puño. Le dio con el dorso, abierto, de lado, como se aparta a un niño que se ha puesto en medio, y el golpe fue ancho y plano y lo levantó entero. Harlan cruzó los antebrazos delante de la cara y algo le tembló alrededor de los brazos, un aire más espeso. Salió volando de lado por encima del borde del cráter, veinte metros, treinta, y cayó rodando por la pendiente de grava entre juramentos que Park oyó con toda claridad, y se detuvo contra una roca con los brazos todavía cruzados, la cara negra de pólvora, la oreja derecha sangrando, sorda, de modo que giraba la cabeza para oír, cortes de grava en las dos mejillas, el chaleco rasgado y un hombro desollado de rodar. Se quedó allí un segundo, vivo, sin aire.
 
-Eso fue lo que no esperaba nadie. Bajó la cabeza, apretó los puños pequeños y los dejó caer a los costados, y el aire alrededor de sus manos se espesó, no como una pared sino como plomo derretido que se condensara en dos puntos del tamaño de una naranja. El suelo se hundió bajo sus pies descalzos. La losa crujió en estrella.
+Voronin entró en el campo por el sur mientras Harlan todavía rodaba. No corría. Venía andando deprisa, con la chaqueta del uniforme abierta y una mano plana sobre el bolsillo del pecho, y los ojos fijos en nada, porque no miraba con los suyos. Park oyó cambiar el Coro. Ya no era una voz que contaba desde lejos. Era una voz a veinte pasos, con aliento, que hablaba para todos los que quedaban.
 
-Sisi conocía esa postura. La había visto hacía una hora en un hombre de pie en esa misma explanada.
+*Siete, tu izquierda, ahora. Diez, derecha, a la vez. Pier, el pie.*
 
-*Es la suya*, pensó. *La está haciendo con el cuerpo de la niña.*
+Whitfield y Kiki entraron a la vez, y Pier cerró la mano, y Belcebú, que habría podido apartarse de cualquiera de los tres, no pudo apartarse de los tres. Voronin llegó a su espalda en el mismo segundo.
 
-Ji-ho lo vio un segundo antes que nadie. Lo vio en la cara, que se le endureció, porque lo que tenía delante, acuclillada, era su propio oficio devuelto por un cuerpo que no era el suyo, y por eso supo exactamente lo que venía. Dio un paso atrás, otro. No era retirada. Se estaba dando sitio.
+No tenía espada ni Domain para aquello. Tenía dos dedos, el índice y el corazón, juntos y rígidos, con el Odem de todo el brazo bajado hasta las yemas, hasta que no fueron más grandes que un clavo, y los hundió en el hueco bajo la axila del brazo que le quedaba, donde el nervio pasa cerca de la piel. El brazo de Belcebú se soltó de golpe, como cortado por dentro, y lo que iba a hacer con él se quedó sin hacer.
 
-Ella saltó.
+—Ah —dijo, y miró por encima del hombro con la cara de un niño al que le han tocado la espalda—. Una más.
 
-Fue un salto bajo, pegado al suelo, con un puño por delante, y llegó antes de que el sonido la alcanzara. Ji-ho levantó el antebrazo. La inercia que traía de la noche se cargó en el hueso como un martillo en una barra, y lo que le llegó no fue un golpe de niña sino un camión, una masa concentrada en un punto del tamaño de una nuez. El antebrazo se agrietó. Se oyó un chasquido sordo, de rama verde, y el brazo entero le tembló hasta el hombro. Giró sobre la cadera para repartir lo que había recibido, y lo repartió hacia el suelo, hacia el lado del pozo, y las losas de la explanada se abrieron en abanico hacia el borde en lugar de hacia la gente.
+Se volvió hacia ella de golpe, con el brazo dormido colgando, y lo lanzó igual, desde el hombro, como se lanza un látigo, y Voronin ya no estaba. Se había visto venir ese brazo a través de los ojos de Kiki, desde atrás, y había bajado la cabeza, y la mano le pasó por el pelo y le rozó el hombro de refilón. El Manto que llevaba puesto desde la playa, como se lleva un uniforme, se lo comió a medias. La manga se abrió y debajo quedó una franja de piel pelada, en carne viva, del hombro al codo, y nada más.
 
-—Es mío —dijo, con los dientes apretados—. Eso es mío.
+*Siete, recto. Diez, abajo. Nueve, todavía no. Guarda.*
 
-Ella lo miró, y sonrió con los ojos de otra.
+Hubo un silencio de medio latido. Después fue Pier.
 
-—Todo lo que se come es mío —dijo la voz de la mujer—. Tú me diste de comer.
+Pier había soltado el pie, o lo había perdido. Corría a ayudar, con la mano por delante, pesada. Belcebú giró hacia él en el mismo movimiento, con el hombro hacia atrás, y Zanma bajó desde el flanco, de la cadera hacia el codo, y el joven la recibió en el muñón.
 
-El segundo puño llegó por abajo, al hígado. Ji-ho lo vio. No lo paró. Se lo dejó entrar de lado, con medio cuerpo, y le entró el aire en un grito que no salió, y a cambio le había cogido la muñeca con la mano. Torció. El cuerpo pequeño giró en el aire, no de dolor sino porque no tenía otro sitio adónde ir, y cayó de pie, a cuatro metros, con el brazo flojo y la mano abierta.
+Park lo vio hincharse. El muñón se abrió como una flor mojada, y de dentro salió un brazo nuevo, rosa, brillante, ya cerrado en un puño, y entró en el costado de Pier de abajo arriba, antes de que nadie lo hubiera visto crecer.
 
-Ji-ho tenía la mano izquierda temblando contra el pecho. Era la única que le quedaba. La cerró dos veces, para saber si respondía, y respondió. No gritó. Respiró por la nariz, largo, dos veces.
+Pier no tuvo tiempo de gritar. Cerró el Odem contra las costillas, lo único que tuvo tiempo de hacer, una capa que se le pegó al torso como un cuero, y el golpe lo levantó del suelo y lo hizo girar sobre sí mismo, dos vueltas, tres, hasta estrellarlo contra la pared de la terraza. Cayó de rodillas. Se cogió el costado con las dos manos. A través de la camisa rota se le veía, ya morada, la huella de un puño, y tenía el labio partido, la barbilla roja y un ojo medio cerrado. Escupió algo oscuro.
 
-—Anaís —dijo Sisi.
+*Blyad*, dijo Voronin, y fue lo único que dijo en ruso en toda la mañana. *Pier.*
 
-La niña parpadeó.
+—Estoy —dijo él, sin aire—. Estoy.
 
-Fue un parpadeo corto, como el de quien se despierta en un tren. La cara redonda se contrajo, los ojos se aclararon, y Sisi vio de nuevo el cuerpo bajo el cuerpo, más pequeño, sentado en el fondo de algo.
+Kiki no se detuvo. Había entrado ya por el brazo nuevo, que el joven alzaba sin saber todavía cuánto pesaba, y Zanma lo recorrió del codo a la muñeca. La piel recién salida, más fina, se abrió como la de un fruto. Belcebú dijo algo corto, lleno de entusiasmo, y le dio con la rodilla en la cintura. Kiki salió rodando entre las rocas y volvió a ponerse en pie, con un corte en la ceja que le teñía media cara.
 
-Ji-ho no esperó. En ese parpadeo cruzó los cuatro metros, bajó la rodilla, le agarró el tobillo derecho con la mano y tiró hacia sí. La niña perdió el equilibrio. Cayó de espaldas sobre las losas, y él, sin soltarla, le puso la rodilla sobre el muslo, no sobre el cuerpo, sino sobre el hueso grande, con el peso exacto para que no se levantara y no se rompiera nada.
+Quedaban tres. Whitfield por la izquierda, con la mano en el costado y la guardia a medias, y Kiki por la derecha, con la hoja baja y el pelo pegado a la cara. Voronin, a diez pasos, quieta, con la mano plana sobre el bolsillo del pecho, ya sin pelear, viéndolo todo. Y en medio Belcebú, con un brazo nuevo abierto y goteando, y la sonrisa puesta. Se movió.
 
-No le pegó. Tenía el puño levantado, el único que le quedaba, y no bajó.
+Todos se movieron. *Siete, entra. Diez, entra.* Whitfield entró con el puño. Kiki entró con la hoja. El joven bajó un hombro y subió el otro, y fue hacia la hoja, y desvió con el antebrazo, y el puño de Whitfield le rozó la mandíbula con el aire detrás, y Belcebú giró hacia el hombre. Kiki giró con él. Whitfield se echó atrás. Kiki cortó. Whitfield entró. Cuatro filos, cuatro golpes, y en cada uno el joven era un poco más lento y un poco más suyo.
 
-—No puedo —dijo, y Sisi no supo si hablaba con ella o con otra cosa—. No así.
+*Siete, a la izquierda*, dijo Voronin, sin alzar la voz. *Un paso. Le abres el costado.*
 
-—No te toca —dijo la voz de la mujer.
+Whitfield se echó a la izquierda sin preguntar. El joven había girado hacia Kiki para cogerle la hoja, y al moverse el párroco le había dejado la espalda y el costado derecho al descubierto, por donde Whitfield había entrado dos veces y la costilla ya no se cerraba bien. Sin cubrir. Sin nadie delante.
 
-El suelo se movió.
+*Nueve*, dijo Voronin. *Ahora.*
 
-Fue un temblor que subió desde el pozo, una vibración de brasa, y de la niña salió algo que no era fuerza, era hambre. Los ojos se le fueron a un lado, a un grupo de gente que estaba al borde de la explanada, la primera fila, doce personas de rodillas, con las cabezas inclinadas, quietas como el pan en una mesa.
+Park ya lo veía.
 
-Lo que pasó después duró dos segundos.
+Lo había guardado todo. El pie, el suelo, la pared, la losa. Salió de la piedra con el pie bueno.
 
-Un círculo de seis metros empezó a abrirse bajo esas doce personas. Las losas se hundieron un palmo, y un palmo más, y la fila entera cedió hacia dentro como una acera sobre una alcantarilla. Nadie gritó. Nadie levantó los ojos. Una mujer mayor cayó de lado y se quedó mirando una grieta que le crecía en la mano.
+No fue una carrera. Fueron tres pasos, con el hombro por delante y toda la masa en el borde del hueso, y el campo se plegó a su paso. Belcebú lo oyó venir. Alcanzó a girar la cabeza.
 
-Ji-ho soltó a la niña.
-
-Sisi lo vio cómo se ponía de pie, sin prisa, y supo que algo iba a gastar. Lo vio en el cuello. La línea negra, que hasta entonces había reposado bajo la oreja, se movió. No saltó. Fue como si alguien la hubiera tocado con un dedo frío, y avanzara un dedo bajo la mandíbula, hasta la comisura de la boca.
-
-Plantó el pie izquierdo. Todo lo que traía del salto, de cuatro kilómetros de aire, de la inercia de la noche, estaba guardado en las piernas como agua en un odre, y lo soltó de una vez hacia el suelo. No contra la niña. Contra el borde del círculo que se abría, dos pasos delante de la fila.
-
-La losa estalló.
-
-Fue un golpe que Sisi sintió en los dientes, un trueno bajo que no levantó polvo hacia fuera sino hacia dentro. El borde del círculo se derrumbó sobre sí mismo, la piedra rota llenó el hueco, y lo que ella había abierto se llenó con lo que él había roto. La fila de gente quedó en una orilla firme, a un palmo del vacío, con las caras gachas, sin un rasguño.
-
-Ji-ho cayó de rodillas.
-
-Escupió algo negro sobre las losas. Se limpió la boca con el dorso de la mano, y cuando bajó el brazo la línea estaba en la comisura, delgada, nítida, tan cerca de la boca que a Sisi se le cerró la garganta.
-
-—Cuántos te quedan —dijo la voz de la mujer, interesada.
-
-—Los que hagan falta.
-
-Se levantó. Costó, pero se levantó.
-
-*Dos pasos, doce*, pensó Sisi. *Y no ha tocado a una persona.*
-
----
-
-*18 de julio, 07:38 — borde de la grieta*
-
-Subieron por la escalera detrás de la niña, y Sisi los sintió antes de verlos.
-
-Primero salió Kaspar. Venía a trompicones, con el brazo derecho pegado al pecho, la manga arrancada, la carne roja y brillante de la mano al hombro, la cara gris. Se agarraba al muro como si fuera el único sitio firme. Tras él, con una mano ligera en su espalda, con una calma de enfermero, venía Daniel.
-
-Kaspar levantó la vista y la vio.
-
-Sisi no esperaba lo que vio en su cara. No era reproche. Fue algo más lento, una sorpresa de quien encuentra, en una habitación conocida, el mueble cambiado de sitio. La miró a ella, a Tomás, a un paso de ella, al hombre de la manga vacía de rodillas en las losas. Y comprendió. Ella lo vio comprender. Un hombre que había vigilado a una niña cuarenta años con las manos vacías y que acababa de ver a la niña cambiar de bando.
-
-—Sisi —dijo, y fue casi sin voz.
-
-Ella no contestó.
-
-Daniel no miraba a ninguno de los dos. Miraba a Ji-ho. Tenía la cara ancha y amable, la de siempre, y en el borde de la boca se le había formado una sonrisa mínima. No era de alegría ni de triunfo. Era la sonrisa de quien ve entrar a un invitado que sabía que llegaría y que ha llegado un poco antes de lo previsto.
-
-*No le sorprende.*
-
-Sisi lo registró como una anomalía, no como un pensamiento. Una cosa sin sitio. Retiró la atención antes de que le diera tiempo a seguirle el hilo.
-
-—Don Martín —dijo Daniel, con suavidad, y puso la mano en el hombro sano de Kaspar—. Siéntese. Esto es lo que quería ver.
-
----
-
-*18 de julio, 07:41 — borde de la grieta*
-
-Fue el anillo quien la avisó.
-
-Sisi sintió que las filas, ahora vacías, a su espalda, se apartaban. No porque cargaran. Porque alguien las había apartado. Un camino se abrió entre los caparazones que quedaban, derecho, de sur a norte, hasta el borde de la explanada, y por ese camino, con los pies descalzos, caminaba un hombre joven.
-
-Tenía la camisa clara hecha trizas. La espalda quemada, la piel levantada y roja de la nuca al cinturón. El brazo izquierdo abierto de codo a muñeca, y la sangre seca en la mano. En el mismo brazo, junto al corte, un cardenal reciente de pedrada. Caminaba despacio, con las manos sueltas, y sonreía.
-
-Los chalecos se apartaron a su paso. Los civiles no levantaron los ojos.
-
-Se detuvo en el borde de la explanada, a veinte pasos de Ji-ho. Le brillaron los ojos pálidos.
-
-—Ji-ho —dijo, como quien reconoce una voz al teléfono.
-
-María Lionza giró la cabeza hacia él, y sus ojos, por un instante, perdieron todo interés por el hombre arrodillado en las losas.
-
-Ji-ho se puso de pie. La línea negra le llegaba a la comisura de la boca.
-
-Había mirado a la niña y mirado a Sisi, y volvió la vista a lo que acababa de llegar. En su cara hubo algo que Sisi no supo nombrar, y después sí. En otro hombre habría sido alegría. Una alegría vieja, sucia, de quien lleva mucho tiempo esperando a que llegue la persona que debe.
-
-—Belcebú —dijo.
-
-El joven ladeó la cabeza, encantado.
-
-—Impostor —dijo Ji-ho, y casi sonrió—. Mil años cobrando ofrendas de arroz como Gozu Tennō, y ni siquiera eras tú.
-
-El joven soltó una risa clara, limpia, sin maldad.
-
-—Qué bien te acuerdas.
-
-—Me acuerdo de todo —dijo Ji-ho—. Te debo una paliza desde Fukushima.
+El golpe le entró en el costado por el sitio exacto, entre las costillas y la cadera, por donde Kiki y Whitfield le habían abierto la puerta. Belcebú lo encajó con todo el cuerpo, y esta vez no hubo risa.

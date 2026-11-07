@@ -50,7 +50,7 @@ No fue un recuerdo entero, sin principio ni final. Fue una escena. La misma lade
 
 Sabía por qué iba a cortarla. No lo sabía como se sabe un plan, sino como se sabe el camino de casa.
 
-Se puso de pie. Plantó los pies sobre la línea, uno a cada lado, y respiró una vez. La inercia de las últimas horas, de la pista, del viaje, de la espera en el barco, estaba guardada en las piernas como agua en un odre, y la dejó correr hacia el brazo que le quedaba. No usó el puño. Usó la palma, abierta, plana, y la hundió en la tierra con todo el peso del cuerpo detrás.
+Se puso de pie. Plantó los pies sobre la línea, uno a cada lado, y respiró una vez. La inercia de las últimas horas, de la pista, del viaje, de la espera en el barco, estaba guardada en la reserva, un punto quieto bajo el esternón como agua en un odre, y la dejó correr hacia el brazo que le quedaba. No usó el puño. Usó la palma, abierta, plana, y la hundió en la tierra con todo el peso del cuerpo detrás.
 
 La ladera se plegó.
 

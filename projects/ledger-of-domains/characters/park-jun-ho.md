@@ -254,3 +254,14 @@ Panamá Pacífico, 8 de julio. Entra en la SRD-1 como **Uno-Nueve, Libre** (rove
 
 <!-- canonical -->
 Salta solo del helicóptero a 80 m sobre la ensenada y frena acumulando la inercia de la caída (pie izquierdo sobre una piedra, que no se mueve); no llega a gastar el diezmo. Ji-ho le dice antes de bajar al barco: "Frena antes de que te lo pida el suelo." Primera vez dentro del Coro de Voronin: se siente leído, y Haddad le mueve un dedo en el aire: "Estaré cerca." En la playa cubre a Haddad de dos tractores (jab, cruzado, teep, ascendente, gancho); el antebrazo derecho le arde. Ve morir a Teague (Wardog de ER-2) a un farol, a ocho metros, sin poder llegar. Kiki: "No cojeas." Pensando en Kiki: "Cero, Nueve, Diez. Todavía no." (aún no se lo ha dicho). Al final el charco junto a su bota tiembla una vez, y no es el mar.
+
+## Cómo narrar a Park (notas del autor, volcadas desde memoria 2026-11-06)
+
+<!-- canonical -->
+- **La rodilla.** No volver a mencionar la rodilla derecha de Park ni que Haddad se la curó. Tampoco la costilla fisurada del Cap166 (retirada 2026-10-28): Park no queda herido de eso. El hilo está cerrado (Cap158, Cap163) y no hace falta repetirlo en prosa. Señalado por el usuario en el Cap166 como tic repetido.
+- **Park y Kiki.** Son hermanos y deben tratarse como tales, no como extraños. Darles momentos de cooperación con su Inercia y su Masa, con trato seco pero de hermanos.
+- **La reserva de inercia (corregido en el Cap178, 2026-11-06; regla general en `system/strength.md` § Cómo narrar la reserva de inercia).** No se acumula en las piernas ni en ningún sitio concreto, sino en una reserva interna que él nota como un punto bajo el esternón.
+  - No llevar la cuenta de lo que gasta con cada golpe. Nada de fracciones, "la décima parte entera" ni "lo que le quedaba" tras cada acción.
+  - No enumerar los sitios donde ganó inercia (el barrido, el puente, el suelo que se movía).
+  - Describirla por **los días que lleva guardándola desde su último combate**. En el Cap178 son 24 días, desde la pelea contra el Mando en Venezuela (Cap139, hacia el 24 de junio, deducido del Cap154).
+  - En escena basta una mirada breve a la reserva, sin cifras. El usuario avisa cuándo se agota y solo entonces se narra el agotamiento.

@@ -18,7 +18,7 @@ Load in every write task. These are constraints, not reference.
 
 ## Cost rule
 
-The cost of power is always **specific and physical** — never "se sintió cansado." The text names the exact point where the body pays.
+The cost of power, **when there is one**, is specific and physical — never "se sintió cansado." The text names the exact point where the body pays. Ordinary use of a Domain has no visible cost; only a use that exceeds the character's established limit does.
 
 ## Weight rule
 

@@ -31,4 +31,4 @@ Dos, y ninguno se explota. Usar uno solo cuando la escena lo pida, nunca como ci
 
 - **Cap158:** bautiza a la madre de la isla como **Ladón** (Hesíodo: un dragón que guarda un jardín).
 
-- **Cap169:** Fulgor ofensivo (referencias visuales fijadas por el usuario 2026-10-28, sin nombrarlas): descargas de miles de lanzas de luz que salen de grietas doradas en el aire, y líneas de luz blanca que cruzan el valle antes del sonido. Llama a Belcebú "el señor de las moscas". Se presenta como "Edmund".
+- **Cap169:** Fulgor ofensivo (referencias visuales fijadas por el usuario 2026-10-28, sin nombrarlas): descargas de miles de lanzas de luz que salen de grietas doradas en el aire, y líneas de luz blanca que cruzan el valle antes del sonido. Llama a Belcebú "el señor de las moscas". Se presenta como "Edmund". **Corregido 2026-11-07 (usuario):** las lanzas y las líneas de luz hieren de verdad a Belcebú (agujeros en el hombro y el muslo, tajos en el brazo, el costado y la mejilla, lanzas clavadas en el pecho), y él cura cada herida cerrándose la carne detrás de la luz. Antes se quebraban contra su cuerpo sin hacerle nada.

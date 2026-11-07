@@ -71,3 +71,10 @@ Lo que limita el uso de la Fuerza no es un techo óseo ni la cantidad de Odem al
 **Origen narrativo.** Ji-ho le enseñó la regla a Park en su primer invierno de formación en AMAT-Corea, a los dieciséis años (recuerdo canonizado en Cap143; Park creció en Incheon, entrena en AMAT desde los 15-16 y antes con su familia): "No voy a enseñarte a ser fuerte. Voy a enseñarte a ser avaro. Una hucha grande: guardas todo, gastas una décima parte; si no basta, no es tu pelea, o es la única que importa y entonces rompes la hucha. Una vez." Park la tomó por una regla de novatos; es la filosofía de combate de alguien que puede permitirse no gastar. Lo enseñó como parte del "oficio" de la familia que "no sale en los papeles" y que Taeho conoce.
 
 **No explicar la mecánica en prosa de combate**: mostrar el resultado físico (reserva que se asienta, el vaso que tiembla). Ver `system/votos.md`.
+
+## Cómo narrar la reserva de inercia (decidido 2026-11-06, usuario)
+
+<!-- canonical -->
+- **No es un sitio del cuerpo.** La inercia se acumula en una **reserva interna**, no en las piernas, los brazos ni ninguna parte concreta. Si hay que narrar cómo la siente el personaje, se menciona **un punto en el esternón**. La regla vale para todos los usuarios de Inercia (Park, Kiki, Ji-ho, Oliver, etc.). Al liberarla puede salir por cualquier parte del cuerpo (un salto, un golpe), pero no se guarda ahí.
+- **Se describe por días, no por golpes.** Para Park se dice cuántos días lleva guardando desde su último combate, no se enumeran los sitios donde ganó inercia ni se lleva la cuenta de lo gastado golpe a golpe (nada de fracciones ni "lo que le quedaba"). En el Cap178 son 24 días, desde la pelea contra el Mando en Venezuela (Cap139, hacia el 24 de junio, deducido del Cap154).
+- **En escena** basta una mirada breve a la reserva, sin cifras. El autor avisa cuándo se agota y solo entonces se narra el agotamiento.

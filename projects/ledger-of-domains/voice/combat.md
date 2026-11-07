@@ -101,9 +101,9 @@ See Setting Implementation for how this applies to the current project's specifi
 
 ### 7. Show the cost
 
-Power use at high intensity has visible cost. Whatever the setting's marker of strain is (a material glowing/discoloring, labored breath, a tremor, blood, exhaustion) — show it right where it happens. A beat of stillness before the next action.
+Ordinary use of a power has no visible cost. Each use does not cost; only what exceeds the limit the canon has already fixed for that character pays, and it is shown once, right where it happens.
 
-If a character does something physically extraordinary, show what it costs immediately after — not at the end of the scene.
+If a character does something that exceeds their established limit, show what it costs immediately after — not at the end of the scene.
 
 ---
 
@@ -121,7 +121,7 @@ Corollary: cut the POV character's calm tactical narration ("el problema inmedia
 
 ### 9. Casualties must read as real injuries, not naps
 
-A downed ally is not "unconscious and fine" unless the prose earns that reading. Give each fall a distinct, visceral cause: a bone giving at the wrong angle despite protection, a body convulsing from overload, a scream that isn't a word, orientation collapsing so badly the character can't speak sense. Vary the failure mode per casualty — three allies falling the same clean way (hit → mark → faint) reads as low-stakes, even after the third one.
+A downed ally is not "unconscious and fine" unless the prose earns that reading. Give each fall a distinct, visceral cause: a bone giving at the wrong angle despite protection, a body convulsing from overload, a scream that isn't a word, orientation collapsing so badly the character can't speak sense.
 
 Do not let fallen allies linger as visible, calm background detail once they're down — a glance and a fact ("no se movió") is enough. Dwelling on them softens the threat instead of sharpening it.
 
@@ -129,7 +129,7 @@ Do not let fallen allies linger as visible, calm background detail once they're 
 
 ### 10. Escalating threats recover faster and hit harder each exchange
 
-If an enemy is meant to feel like it's winning, each return pass should cost the POV character more than the last and give them less time to recover. Track this explicitly: "más rápido que las dos veces anteriores," "se levantó antes de que [character] pudiera recuperarse del golpe anterior." The reader should feel the gap between attacks shrinking even as the character's options shrink with it.
+If an enemy is meant to feel like it's winning, each return pass can cost the POV character more than the last and give them less time to recover. This is an option, not a norm. If used, track it: "más rápido que las dos veces anteriores," "se levantó antes de que [character] pudiera recuperarse del golpe anterior." The reader should feel the gap between attacks shrinking even as the character's options shrink with it.
 
 ---
 
@@ -154,7 +154,7 @@ A single decisive exchange (the kind meant to matter, not a quick dispatch) need
 1. **Read** — the character (or the enemy) clocks an opening, a tell, a vector.
 2. **Feint or probe** — a move that isn't the real attack, meant to draw a reaction.
 3. **Real response** — the committed action, grounded in what the feint revealed.
-4. **Result + immediate cost** — what happened, and what it took out of whoever acted.
+4. **Result** — what happened (and the cost, only if the character exceeded their established limit).
 
 Skipping straight from "read" to "result" is what makes a fight feel rushed even when the stakes are high — the reader doesn't get to *watch* the decision get made, only the outcome. This is the difference between "Park absorbió el golpe y contraatacó" (one beat, reads as summary) and a fight the reader can replay in their head.
 
@@ -224,9 +224,8 @@ Layers and their definitions: `style.md` (Narration layers) and `narration.md`.
 | Character moves without stated reason or destination | Action without micro-objective = montage |
 | Enemies attack one at a time, politely, in sequence | High-tier threats read as toothless — see rule 8 |
 | POV character narrates full tactical options while under active attack | Reads as too composed for real danger — see rule 8 |
-| Every casualty falls the same way (hit → mark → faint) | Repetition flattens stakes — see rule 9 |
 | Fallen allies described as calmly resting/breathing on-page after the fact | Softens threat instead of sharpening it — see rule 9 |
-| A dangerous enemy's return attacks feel identical in speed/cost to the first | No escalation — see rule 10 |
+| A dangerous enemy's return attacks feel identical in speed to the first | No escalation, if rule 10 is in use |
 | Thrown improvised weapon aimed at "the enemy" with no specific target point | Reads as generic, not calculated — see rule 11 |
 | A decisive exchange compressed to "attack → result," no feint/read/response steps | Fight feels rushed regardless of stakes — see rule 12 |
 | Padding a short fight with atmosphere/description instead of more exchange beats | Wrong fix — split the exchanges, don't decorate around them — see rule 12 |

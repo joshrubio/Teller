@@ -96,7 +96,7 @@ El joven estaba a diez pasos, descalzo sobre la única roca que había quedado e
 
 —No le hables —dijo Calloway.
 
-Abrió la mano. Salió una lanza. Una sola, delgada, de luz casi blanca, que le tembló en los dedos al nacer y recorrió los diez pasos sin sonido. El joven no se molestó en apartarla. Le dio en el pecho y se quebró, y los pedazos cayeron sobre la roca con un tintineo de vidrio fino.
+Abrió la mano. Salió una lanza. Una sola, delgada, de luz casi blanca, que le tembló en los dedos al nacer y recorrió los diez pasos sin sonido. El joven no se molestó en apartarla. Le dio en el pecho y entró hasta la mitad, y el joven se quedó mirándola un momento, con la sangre bajándole por la camisa. La sacó con dos dedos. El agujero se cerró despacio, mientras los pedazos de luz de la lanza caían sobre la roca con un tintineo de vidrio fino.
 
 —Eres bueno —dijo él, con interés—. Te lo digo en serio. Nadie me había enseñado la luz.
 

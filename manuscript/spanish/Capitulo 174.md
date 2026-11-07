@@ -22,7 +22,7 @@ Riku, a su lado, tenía la cabeza ladeada. Oía por los huesos. Una llamada por 
 
 —De reclamo. "Cualquier señal de reclamo." Lo ha dicho dos veces.
 
-Harlan estaba a tres pasos del agua, con el teléfono pegado a la oreja y el chicle quieto. Colgó. Cuando se dio la vuelta, Voss ya lo esperaba con las manos a la espalda, sin prisa. Oliver no oyó lo que le dijo. Vio que Harlan escupía el chicle y sacaba otro.
+Harlan estaba a tres pasos del agua, con el teléfono pegado a la oreja y el chicle quieto. Llevaba allí desde las cinco, desde que Conti lo dejó solo en las piedras con el aviso de que venían dos equipos, y desde entonces había recibido a cada lancha y mandado a cada uno a su fila. Colgó. Cuando se dio la vuelta, Voss ya lo esperaba con las manos a la espalda, sin prisa. Oliver no oyó lo que le dijo. Vio que Harlan escupía el chicle y sacaba otro.
 
 —Me pidió que le avisara si algún Wardog notaba algo raro cuando se acercara el sujeto —dijo Harlan, lo bastante alto para que lo oyeran los de Valais, y lo hizo a propósito—. Nada más.
 
@@ -166,45 +166,23 @@ Colgaban del dosel o se encajaban en sus horquillas, de madera trenzada que crec
 
 No había nadie. Eso fue lo que hizo que Oliver apretara los puños. Un pueblo entero, construido con paciencia, y las puertas abiertas, la ropa en las cuerdas, un cuenco de agua en un rellano. Ni un niño, ni un perro. Solo, a lo lejos, el silencio de mucha gente junta.
 
-Voss se detuvo al pie de la primera escalera de raíces.
+Voss se detuvo al pie de la primera escalera de raíces y alzó la mano. ER-5 se detuvo con él, sin un ruido, con las mochilas altas.
 
-—Nadie dispara primero —dijo a ER-5, sin alzar la voz—. Esa es la orden de Okonjo y es la mía. Si hay que apartar a alguien, se aparta. Si hay que hablar, hablo yo.
+—Nadie dispara primero —dijo, con una voz que apenas movía el aire—. Esa es la orden de Okonjo y es la mía. Sin ruido hasta arriba. Si hay que apartar a alguien, se aparta. Si hay que hablar, hablo yo.
 
-Subieron. La escalera daba a una pasarela ancha de tres pasos, que cruzaba hacia el interior y se perdía entre dos casas. Y en mitad de ella, de lado a lado, había una línea de gente.
+Subieron de uno en uno, pisando donde pisaba el de delante, con el dosel tapando la luz. En lo alto, la rejilla se ensanchaba en una plataforma de doce metros por diez, encajada entre dos casas que colgaban del dosel, con diez metros de vacío debajo hasta la hierba aplastada. Delante, la plataforma se estrechaba en una pasarela de tres pasos de ancho que se metía hacia el centro de la isla, y a lo largo de ese cuello, desde doce metros de la escalera hasta treinta, estaba la línea.
 
-Once personas, en fila, con chaleco azul y botas de agua. Estaban quietas, con los brazos a los costados, las manos limpias, sin sudor. Detrás, a unos pasos, la pasarela seguía hacia dentro, y en la lejanía una última columna de civiles terminaba de entrar en el anillo, con los ojos bajos.
+Once personas, en fila, con chaleco azul y botas de agua. Estaban quietas, con los brazos a los costados, las manos limpias, sin sudor, y todas de espaldas. Miraban hacia dentro, hacia el anillo y el humo de las lámparas, con la paciencia de quien guarda un paso del que espera que venga algo, y de lo que tenían detrás no sospechaban nada. Más allá, en la lejanía, una última columna de civiles terminaba de entrar en el anillo, con los ojos bajos.
 
-Oliver tenía el Registro abierto, y vio más.
+Oliver llegó al último escalón con la palma sobre la barandilla y el Registro abierto, y vio más.
 
 Cada una de aquellas firmas estaba limpia, y debajo de la calma había lo mismo en todas. La misma forma, calcada, como si las hubieran estampado con el mismo sello. Un ensayo.
 
-La primera en hablar fue una mujer de unos cuarenta años, con el pelo recogido en una trenza y un acento del interior, de los que se aprenden.
+La primera que distinguió fue la de una mujer de trenza gruesa hasta la cintura, firme, sin una prisa. Después, en la tercera posición, una firma más joven que de pronto se rizó, como una cuerda en la que se ha tensado un hilo. Un chico apenas, de veinte años, con el chaleco demasiado grande, que miró de reojo hacia atrás, hacia las columnas de civiles, y volvió a mirar al frente. El sello no se rompió. Se estiró.
 
-—Buenos días —dijo—. Aquí no se pasa. No es nada contra ustedes.
+Al otro extremo de la línea, algo más apartado, había un hombre de unos veinticinco años, de hombros caídos, con un cubo de hojalata en cada mano. Llevaba el chaleco azul sin abrochar. Su firma no era de pelea ni era limpia. Era un pasillo largo con las puertas cerradas, y alguien dentro de cada una.
 
-—Soy Viktor Voss, evaluador de AMAT —dijo Voss—. Vengo a hablar con quien quiera irse. Si alguien de los suyos lo desea, tiene un barco al norte y un corredor. No se obligará a nadie.
-
-—Nadie quiere.
-
-—Entonces no se perderá nada con preguntárselo.
-
-—Se lo hemos preguntado nosotros. Todos los días. Aquí a nadie se le obliga a quedarse.
-
-Era verdad. Oliver lo leyó en la firma de la mujer, sin sombra. No mentía. Tampoco decía todo.
-
-Algo se movió al final de la línea.
-
-Era una firma más joven, en la tercera posición. De pronto se rizó, como una cuerda en la que se ha tensado un hilo. Un instante. Un chico apenas, de veinte años, con el chaleco demasiado grande, que miró de reojo hacia atrás, hacia las columnas, y volvió a mirar al frente. El sello no se rompió. Se estiró.
-
-Oliver lo vio, y alguien vio que lo veía.
-
-Al otro extremo de la línea, algo más apartado, había un hombre de unos veinticinco años, de hombros caídos, con un cubo de hojalata en cada mano. Llevaba el chaleco azul sin abrochar y la cara de quien lleva mucho tiempo oyendo detrás de puertas. No había hablado. Miraba a Oliver. Su firma no era de pelea ni era limpia. Era un pasillo largo con las puertas cerradas, y alguien dentro de cada una.
-
-La mujer de la trenza siguió la mirada del chico de los cubos. Después miró a Oliver, sin dureza, como se mira a alguien que ha estado mirando de más.
-
-—Pueden esperar ahí —dijo a Voss—. Nadie los va a tocar.
-
-—Esperaremos —dijo Voss.
+Nadie se volvió. ER-5 llenó los peldaños y los dos rellanos detrás de ellos, en dos filas, con los escudos de asalto plantados en la rejilla y los fusiles apuntando al suelo, sin una pisada de más. Voss se había quedado a la derecha de Oliver, con la palma apoyada en el travesaño del rellano. A la izquierda, Riku miraba el suelo de rejilla como quien mide un salto. Nadia estaba un paso más atrás, con la palma abierta contra el muslo. Asha apoyaba la mano libre en la barandilla para sentir cómo estaba tensada, y Dara se ataba el pelo con una goma que le temblaba entre los dedos.
 
 Entonces pasó. El silencio de abajo se quedó más quieto todavía, y a doscientos metros al este, detrás del dosel, algo muy grande cruzó la cuenca sin que se viera. No hubo ruido. Los once chalecos giraron la cabeza hacia allí, todos a la vez, con la precisión de un ensayo, y volvieron a mirar al frente. Oliver sintió el peso en las muelas, tanto, que tuvo que agarrarse a la barandilla.
 
@@ -212,6 +190,40 @@ Lo siguió sin quererlo. Iba despacio y no se desviaba. Dejó atrás la cuenca y
 
 —Voss —dijo, sin voz.
 
-—Lo sé. Voronin acaba de decírmelo por la radio. —Voss tenía la palma sobre el travesaño y los ojos en la línea—. Ahora mire aquí.
+—Lo sé. Voronin acaba de decírmelo por la radio. —Voss tenía los ojos en la línea.
 
-Oliver miró. Los once seguían quietos, con las manos limpias, sin haber dicho una palabra más. Pero el chico de los cubos, al fondo, dejó uno en el suelo, despacio, sin hacer ruido, y con la mano que le quedaba libre empezó a abrir el aire.
+El peso pasó, y la pasarela volvió a ser una pasarela. Oliver soltó la barandilla. Tenía las muelas llenas de hierro y los dedos agarrotados de apretar, y los fue abriendo uno a uno.
+
+—Oliver —dijo Voss, sin volverse—. Dígame lo que ve.
+
+Repasó lo que llevaba dentro, porque era lo primero que hacía cada mañana desde Milán. Impulso. Ancla. Inercia. Canje. Las cuatro afiladas, sin una mella. Si hoy hacía falta cortar, cortaban. Y fuera de la cabeza, lo que le habían dado en la playa de Hachinohe junto al chaleco táctico. Una radio, un botiquín de campaña y un cuchillo de combate en la funda del pecho, con la empuñadura a la altura de la clavícula, que no había sacado en toda la noche.
+
+No cerró los ojos. A esa distancia y con los ojos abiertos, el Registro le daba formas y no nombres, y era mejor así, porque cuando intentaba ponerles nombre se equivocaba.
+
+—Nueve son la misma firma, estampada nueve veces. Limpia, quieta. Cuatro no. —Tragó—. La de la trenza sale de la raíz del pelo en hilos más finos que un cabello. Los tiene tendidos hacia las barandillas y atados allí, en puntos fríos. Entre punto y punto no hay nada. Parece un telar a medio montar.
+
+—¿Qué corta?
+
+—No lo sé. Sé que está montando algo. —Se frotó la mandíbula—. El de los cubos, al fondo, sigue siendo un pasillo con puertas. Del calvo casi no llega nada. Las demás firmas tienen borde y la suya parece envuelta en tela. Y a la del pañuelo cuesta mirarla. La vista resbala.
+
+—No sabe lo que hacen.
+
+—No. Sé dónde mirar.
+
+—Con eso me basta. ER-5 necesita dos minutos para asegurar las cuerdas en las casas laterales, y hasta entonces no se mueve nadie. Después hablo yo.
+
+Oliver giró la cabeza. A ambos lados de la plataforma, sobre los techos de las casas, ocho soldados trabajaban agachados tras las cumbreras, sin palabras, pasando mosquetones por las vigas. Desde la línea de chalecos los aleros los tapaban. Eran gente que había ensayado lo mismo diez veces en la playa de Hachinohe y a nadie le había parecido nunca una pérdida de tiempo. Iban a medias. A la izquierda tenían las cuerdas clavadas. A la derecha apenas habían empezado.
+
+Los chalecos no se movían. Seguían de espaldas a la escalera, mirando hacia dentro, con la paciencia de quien guarda un paso y espera que algo venga de la cuenca. Nadie hablaba. Voss esperaba con la palma en el travesaño, y ER-5 esperaba con él, sin dar un paso más. Oliver contaba tejados.
+
+Al fondo de la línea, el chico de los cubos dejó uno en el suelo, despacio, sin hacer ruido.
+
+Abrió el aire. Un rectángulo del tamaño de una puerta, de una oscuridad cálida y quieta, a un paso detrás de su hombro. Tendió con las dos manos el segundo cubo hacia dentro. Era lo más inofensivo que había hecho en toda la mañana. Alguien al otro lado lo tomó por el asa, y por un instante, en el borde de la oscuridad, se vio una mano de mujer, morena, con un anillo de latón.
+
+En el tejado de la derecha, el lado que aún no tenía las cuerdas, un soldado trabajaba de rodillas sobre la viga con un mosquetón entre los dientes y las dos manos ocupadas en un nudo. Era de los últimos en subir y se le notaba en el pulso. El mosquetón se le soltó de la boca.
+
+Cayó por el borde del alero, rebotó una vez en el canalón y dio contra la rejilla de la plataforma con un tintineo claro, de moneda en un cuenco, que en aquel silencio se oyó hasta el fondo de la línea.
+
+Oliver lo vio caer. Y vio que lo veían.
+
+Los once chalecos se volvieron a la vez.

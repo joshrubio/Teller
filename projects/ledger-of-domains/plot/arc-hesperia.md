@@ -224,3 +224,10 @@ Método: plan de capítulo → escribir → repetir. Este esqueleto es provision
 **Cap175 escrito (2026-11-05, ≈2450 palabras, "Una cuerda bajo la tierra"):** Ji-ho, POV único. Corta el hilo oriental, que es Odem y está bajo tierra, tras destrozar una ladera, y paga un escalón. Reza al alba, espera con ER-4 sin que nadie pueda guardar el hilo, siente a Belcebú cruzar sin mirar y habla por radio con Taeho a las 07:20. A las 07:24 se lanza hacia el centro.
 
 **Cap176 escrito (2026-11-05, ≈3110 palabras, "Los pasos de otro"):** Oliver y Valais contra los 43 en las pasarelas del sur. Gana copiando un movimiento, los pasos con que la mujer de la trenza cruza su red, y no un Domain. Sisi queda como noticia, por boca del chico de los cubos. El anillo gira al final.
+
+## Antes de escribir un capítulo de la isla (nota del autor, 2026-10-28)
+
+<!-- canonical -->
+- Leer `bestiary/fauna-isla-del-coco.md`, `characters/wardogs-isla-del-coco.md`, `world/wardogs.md` y los 2 o 3 capítulos anteriores, no solo los nodos de personaje.
+- No redescribir fauna ya presentada y aprovechar la continuidad (por ejemplo el pasto y Ibarra del Cap156). Mostrar a ER-2 y a los Wardogs cuando estén en la zona.
+- Un Principado nunca se trata como novedad ni con vaguedad poética que contradiga su canon (ver `bestiary/classification.md` § Principados).

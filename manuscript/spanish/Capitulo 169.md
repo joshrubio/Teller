@@ -148,13 +148,13 @@ El aire se partió en dos detrás del joven. Una grieta de luz, vertical, dorada
 
 Fue un sonido como el de una tela rasgada de un extremo a otro del cielo.
 
-Las lanzas cruzaron la distancia sin dejar estela. Se clavaron en el suelo alrededor del joven en un círculo cerrado, rompieron la senda, y cuatro o cinco le dieron en el pecho, en el hombro, en el muslo. Él no se movió. Esperó. Las lanzas se quebraron contra él una por una, con un tintineo de cristales, y cayeron en pedazos de luz que se apagaron en la grava.
+Las lanzas cruzaron la distancia sin dejar estela. Se clavaron en el suelo alrededor del joven en un círculo cerrado, rompieron la senda, y cuatro o cinco le dieron en el pecho, en el hombro, en el muslo, y entraron. Él no se movió. Se quedó con las lanzas dentro, mirándolas, con la camisa empapada de rojo y una expresión de curiosidad, y después las fue sacando una a una, sin prisa. Cada lanza se apagaba en su mano con un tintineo de cristales, y el agujero se cerraba detrás, la carne volviendo a su sitio como el agua cuando se retira la mano.
 
 —Ah —dijo él, interesado.
 
-Calloway no esperó a que acabara. Cerró la mano y de la punta de su dedo salió una línea blanca, fina, derecha, que cruzó el valle antes de que Conti terminara de verla. Atravesó una cresta lejana. El eco de la roca al partirse llegó mucho después.
+Calloway no esperó a que acabara. Cerró la mano y de la punta de su dedo salió una línea blanca, fina, derecha, que cruzó el valle antes de que Conti terminara de verla. Le atravesó el hombro izquierdo de lado a lado y siguió hasta una cresta lejana, y el eco de la roca al partirse llegó mucho después.
 
-El joven se tocó el costado, donde la camisa se había rasgado.
+El joven se tocó el hombro, donde había un agujero del grosor de un dedo, con los bordes negros y humeantes, y lo vio cerrarse bajo la mano, despacio, como quien mira cerrarse una puerta.
 
 —Qué rápido. —Miró a Calloway con la cabeza ladeada—. Eres la luz, ¿verdad? Todo lo que tocas.
 
@@ -206,7 +206,7 @@ Entre salto y salto, a veces, no se llevaba a nadie. Reaparecía solo a la espal
 
 El sudor le corría por la espalda. No le temblaba la mano. No había motivo todavía.
 
-Calloway, entre salto y salto, abría los dedos. Las lanzas salían de las grietas del aire en bandadas, de cien en cien, y cada vez el joven las dejaba llegar. Las miraba. Las quebraba una a una con un golpe de dedo, o dejaba que le rasgaran la camisa, y alguna vez, a Conti le pareció verlo, una lo alcanzó de verdad en la mejilla y le dejó una línea fina que se cerró sola. Calloway tiró una línea blanca. Tiró otra. Una pasó tan cerca del cuello que el joven giró la cabeza.
+Calloway, entre salto y salto, abría los dedos. Las lanzas salían de las grietas del aire en bandadas, de cien en cien, y cada vez el joven las dejaba llegar. Quebraba algunas con un golpe de dedo, pero las más le entraban, en el brazo, en el costado, en la mejilla, y le abrían la camisa y la carne, y la carne se cerraba detrás de la luz en cuanto la luz se apagaba. Calloway tiró una línea blanca. Tiró otra. La primera le agujereó el muslo y el joven tuvo que apoyar una rodilla, sorprendido. La segunda pasó tan cerca del cuello que giró la cabeza.
 
 —Despacio —dijo—. No termino de ver cómo lo haces.
 

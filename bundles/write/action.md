@@ -24,6 +24,7 @@ Domain use must comply exactly with editorial rules in `system/`. Movement descr
 
 - System rules are not suggestions — flag any scene that would require breaking them
 - Park never runs to charge his Domain
+- Inertia (Park, Kiki, Ji-ho, Oliver) is kept in an internal reserve, never in a body part; if felt, it is a point under the sternum. Park's reserve is told in days since his last fight, never blow by blow (`system/strength.md`)
 - Domain descriptions per character must not converge — Park is intuitive, Pier is theoretical
-- Physical cost and recovery must match established patterns
+- Cost matches the established patterns; when there is no established pattern, there is no cost
 - Combat visual vocabulary: families are options, not templates; one or two per fight, never in the same order twice; take strategy only, never another work's concepts or names

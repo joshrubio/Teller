@@ -29,7 +29,6 @@ updated: 2026-06-19
 
 ## Editorial rules
 
-- Never soften the cost of power.
 - AMAT must feel dangerous, not just bureaucratic.
 - Gary's repair business must pay a thematic dividend at some point.
 - Spanish register: contemporary neutral — not too Latin American, not distinctly Peninsular.
