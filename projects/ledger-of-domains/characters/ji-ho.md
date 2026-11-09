@@ -143,3 +143,11 @@ Ji-ho es **cristiano protestante (presbiteriano)**, criado en Incheon en una igl
 - **Hilo de las cinco (decidido 2026-10-28, opción 3):** a las 05:00 Ji-ho corta el hilo oriental de Odem en el acantilado este, por conocimiento de su bucle, y por eso falla la cristalización de Kaspar. La coda del Cap169 se borró; la escena de Taeho diciéndole la hora queda por colocar. Ver `plot/operacion-hesperia.md` § 10.
 - **Cap164 (coda, 02:41):** en cubierta del barco de mando pesa el aire ("dieciocho, limpio") y la isla le pesa como algo que lo conoce; el hueso de debajo de la oreja le duele una vez.
 - **Taeho y Ji-ho (confirmado 2026-10-28, radio de las 07:20, Cap175):** eterno retorno, *hyeong*, el cuello de la camisa. Taeho confiesa que pidió él que lo enviaran a Fukushima; Ji-ho le dice que ya lo sabía (perdón). Zanma, hecha en Fukushima, hiere a Belcebú.
+
+## Libro 3, Cap180 — contención sin desgaste (decidido 2026-11-09, usuario)
+
+<!-- canonical -->
+- Llega al borde de la grieta a las 07:31 y se enfrenta a María Lionza **adulta**, que pelea con fuerza bruta y un golpe de Odem oscuro que borra lo que toca. Él usa técnica y casi nada de Odem: lee la señal del golpe de Odem oscuro (el Odem negro concentrado en el puño) y lo esquiva, entra en diagonal, devuelve la carga con las piernas, recibe un puñetazo con la palma abierta y desvía la onda hacia el pozo, lejos de los civiles.
+- **No se niega a golpearla.** Su último intercambio es un puñetazo a la boca del estómago, a una velocidad tal que Sisi solo ve un borrón, sin cargar Odem (solo cuerpo, cadera y distancia). Le quita un escalón a su forma y la deja de rodillas, como muchacha de 16 o 17 años. No la inmoviliza ni le pega más.
+- **No acumula heridas ni cansancio en este capítulo.** Sin rasguños, respiración igual que al llegar, la línea negra bajo la oreja no se mueve y no gasta ningún escalón. Razón de escritura: le esperan al menos dos combates más (Belcebú y el tramo final) y no se podrían narrar si arrastra daño desde aquí. Mantener sin heridas hasta el combate con Belcebú.
+- Al final, cuando Daniel dice "Esto es lo que quería ver", gira la cabeza un dedo hacia él, sin volverse, como quien oye algo por segunda vez (bucle).

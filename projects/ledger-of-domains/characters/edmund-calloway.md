@@ -17,7 +17,7 @@ updated: 2026-10-15
 
 ## Hábitos (fijados 2026-10-28, usuario)
 
-Dos, y ninguno se explota. Usar uno solo cuando la escena lo pida, nunca como cierre de intercambios.
+Dos, y ninguno se explota. Usar uno solo cuando la escena lo pida, nunca como cierre de intercambios ni como firma al entrar en escena. Si la escena no lo pide, no sale.
 
 - **Mira la hora.** Lo único inglés que le han dejado. Un vistazo, sin ceremonia. Sin cuaderno ni anotaciones, que se retiraron por parecerse al gesto de Sabine.
 - **Nombra las cosas con referencias clásicas** (Ladón, El Jardín, los lotófagos en el Cap166). Dicho en voz baja, casi para sí, y a veces cortado por Voronin.

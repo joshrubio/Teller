@@ -132,7 +132,7 @@ Park se puso en pie. Kiki ya no lo miraba, miraba la hondonada, donde las fronda
 
 ---
 
-El paso de la cresta era un corte de cuarenta metros en la roca, y ER-2 lo sostenía desde el borde con una línea en abanico que Briggs había tendido sin ayuda, los doce de las capas repartidos entre los treinta como un puñado de sal. Hollis estaba en el extremo izquierdo, con el brazo largo apoyado en una roca como si la sujetara. El chico del lanzallamas, detrás, con el tubo apuntando al cielo y la mecha encendida.
+El paso de la cresta era un corte de cuarenta metros en la roca, y ER-2 lo sostenía desde el borde con una línea en abanico que Briggs había tendido sin ayuda, los doce de las capas repartidos entre los cuarenta y dos como un puñado de sal. Hollis estaba en el extremo izquierdo, con el brazo largo apoyado en una roca como si la sujetara. El chico del lanzallamas, detrás, con el tubo apuntando al cielo y la mecha encendida.
 
 Voronin puso a la Uno en el flanco izquierdo con tres gestos y ninguna palabra para Briggs. Park aún buscaba dónde plantarse cuando Whitfield dijo "Cinco" por el Coro.
 
@@ -162,7 +162,7 @@ La piedra estalló. El animal se abrió por debajo y quedó inmóvil.
 
 —Se dice una vez.
 
-—En ningún informe —dijo Calloway. Había abierto la mano sobre la línea de ER-2 y una celosía de luz cubría a los treinta como un paraguas, bajo el que caían trozos de caparazón sin llegar a nadie—. Seis hojas del reconocimiento y el archivo de Kuji. Alguien lo ha escrito sin escribirlo.
+—En ningún informe —dijo Calloway. Había abierto la mano sobre la línea de ER-2 y una celosía de luz cubría a los cuarenta y dos como un paraguas, bajo el que caían trozos de caparazón sin llegar a nadie—. Seis hojas del reconocimiento y el archivo de Kuji. Alguien lo ha escrito sin escribirlo.
 
 —Alguien lo sabía —dijo Voronin— y no está en Ginebra. —Se volvió—. Padre Conti.
 

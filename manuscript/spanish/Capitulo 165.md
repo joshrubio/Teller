@@ -184,7 +184,7 @@ Lo oyeron antes de verlo, un redoble bajo y pegado al mar, sin luces. Se posó s
 
 El médico se acercó a Voss corriendo.
 
-—Playa tomada, evaluador. ER-2 tiene dos heridos, estos, y un muerto: un Wardog, Teague. Un farol le apagó la capa. —Respiraba como si hubiera corrido el trayecto—. La Uno salió hacia dentro a las dos y cuarenta. Los bichos se retiraron a las dos y treinta y ocho, todos a la vez. No sé adónde.
+—Playa tomada, evaluador. ER-2 tiene dos heridos, estos, y un muerto: un Wardog, Teague. Un farol le apagó la capa. El apoyo naval ha perdido a cuatro. —Respiraba como si hubiera corrido el trayecto—. La Uno salió hacia dentro a las dos y cuarenta. Los bichos se retiraron a las dos y treinta y ocho, todos a la vez. No sé adónde.
 
 —Dentro —dijo Voss.
 

@@ -37,7 +37,7 @@ Tenía un nombre antes de esto. Alguien, en algún archivo o en la memoria de al
 
 ## Domain — fase infantil, sin nombre de Nivel
 
-**Sin restricción, sin cálculo:** a diferencia de Zoltán (que aprendió a apuntar, a calibrar, a leer el coste), lo que se mueve en Sorte no calibra nada. Su fuerza no está contenida por estrategia ni por instinto de supervivencia — solo por lo poco que ha crecido todavía. Cada manifestación es desproporcionada a su causa: un susto se convierte en un derrumbe; hambre (el impulso que más se parece a una necesidad reconocible) se convierte en gente entera desapareciendo del área de influencia sin que quede claro cómo ni hacia dónde.
+**Sin restricción, sin cálculo:** a diferencia de Zoltán (que aprendió a apuntar, a calibrar, a leer el coste), lo que se mueve en Sorte no calibra nada. Su fuerza no está contenida por estrategia ni por instinto de supervivencia — solo por lo poco que ha crecido todavía. Cada manifestación es desproporcionada a su causa: un susto se convierte en un derrumbe; hambre (el impulso que más se parece a una necesidad reconocible) se convierte en un apetito que no se detiene ante nada.
 
 **Ecos de las víctimas:** fragmentos de las personas usadas como combustible del ritual persisten dentro de ella, sin integrarse — se escuchan a veces en lo que dice o repite, sin que eso signifique que "recuerda" a esas personas o que sienta algo por ellas. Es más parecido a un ruido de fondo que no ha aprendido a apagar que a un duelo.
 
@@ -93,3 +93,13 @@ Su cuerpo madura según cuánto despierta su poder. Hay tres estados.
 - **Adolescente de 16 o 17 años.** Poder casi completo. Es como la vemos contra Ji-ho en Venezuela (Cap130 y 131).
 - **Mujer adulta.** Despertar completo, aún por mostrar. Es la sombra "de una mujer enorme" que aparece tras ella en el Cap171.
 En el último arco la vemos transitar entre estados según su poder. En el Cap171, al despertar, el cuerpo de niña deja asomar por un instante el de otra mayor. Mantener estas tres edades en cualquier escena donde despierte, pelee o se debilite.
+
+## Libro 3, Cap180 — forma adulta y combate (decidido 2026-11-09, usuario)
+
+<!-- canonical -->
+- **Sube del pozo con su forma de mujer adulta**, no como niña. Casi dos metros, ancha de espalda, pelo negro hasta la cintura, descalza, con el camisón de la niña abierto por las costuras de los hombros y la cicatriz pequeña de la barbilla como único rastro de Anaís. Un párrafo del narrador elevado dice que alcanzó su forma completa por la saturación de Odem que recibió en el fondo de la grieta. Primera vez que se la ve adulta. Las voces de las víctimas siguen debajo de la suya y la voz pequeña de Anaís aún asoma un instante.
+- **Pelea con fuerza bruta y, como único recurso de Odem, un golpe cargado de Odem oscuro.** No copia los poderes de nadie (ni la Masa de Ji-ho), no abre huecos a distancia ni bajo la gente, no levanta paredes de presión. Su arma es el cuerpo: parte losas al pisar, el puño llega antes que el ruido y empuja como un muro. Antes de cargar adelanta el peso al pie izquierdo.
+- **Golpe de Odem oscuro (decidido 2026-11-09, usuario).** Es la expresión de su corrupción del Odem de la zona. Odem negro, visible, se concentra en el puño como brea sin brillo, y lo que toca **deja de existir**. No lo rompe, lo quita, y deja un hoyo perfecto, sin grietas ni esquirlas, de paredes lisas y brillantes como las de una copa y sin fondo, que huele a pan duro. Solo actúa por contacto. Tiene una señal visible (el Odem negro concentrado en el puño antes del golpe) y los puños normales no llevan Odem. **No hace desaparecer gente** (borrado el 2026-11-09). La corrupción pasiva del Odem de la zona se mantiene.
+- **El hambre se ve como apetito físico**, no como poder. Mira a la gente como a una mesa puesta y corre hacia la primera fila.
+- Cuando Sisi dice "Anaís", se frena un parpadeo y asoma el cuerpo de niña bajo el suyo. Es una ventana breve, no un poder de ella.
+- **Un golpe fuerte puede quitarle un escalón de forma.** En el Cap180 Ji-ho le encaja un puñetazo en la boca del estómago y pasa de mujer adulta a muchacha de 16 o 17 años (la segunda de las tres edades), de rodillas y sin aire. El narrador dice "No le rompió nada. Le quitó un escalón". Sigue sin ser derrotada.

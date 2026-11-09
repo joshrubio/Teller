@@ -162,7 +162,9 @@ El ruido volvió de golpe.
 
 Los fusiles, a lo lejos, ya sin orden. Un hombre pidiendo agua en inglés. La sargento contando en voz baja, de uno en uno, y dos veces se equivocaba y empezaba de nuevo. Nadia, sentada contra la barandilla con la clavícula caída y la cara color ceniza, sostenida por una Dara con un hilo de sangre seco bajo la nariz, que apenas se sostenía sola. Riku, de pie entre tres chalecos que ya no se levantaban, con los nudillos abiertos y una mano pegada a las costillas.
 
-Dos de ER-5 no se levantaron de donde habían caído.
+Seis de ER-5 no se habían levantado de donde cayeron, y la sargento los contaba aparte, en voz baja, por el nombre.
+
+A lo largo de la pasarela y de las escaleras había chalecos azules tendidos sobre la rejilla. Voss los contó sin querer, porque era un hombre que contaba. Catorce que no se movían. Doce que sí, apretándose un hombro, una pierna, la cara.
 
 El chico de los cubos seguía en pie, al fondo, con el segundo cubo a los pies y las manos vacías. Voss le había borrado todas las puertas. Miraba a Oliver, y esta vez Oliver le sostuvo la mirada.
 
@@ -190,7 +192,7 @@ Oliver no contestó. Estaba mirando el centro de la cuenca.
 
 Llevaba callada desde las seis y pico, pero el silencio había cambiado. Ya no era el de tres mil personas quietas dentro del anillo. Era una tensión enorme y redonda, como la de un cuerpo grande que se prepara para levantarse.
 
-Más allá de las casas, entre el dosel y el humo de las lámparas, los caparazones del anillo giraron todos a la vez.
+Más allá de las casas, entre el dosel y el humo de las lámparas, los caparazones del anillo se irguieron todos a la vez, sobre las patas.
 
 Oliver apretó los puños. Le dolió el brazo.
 

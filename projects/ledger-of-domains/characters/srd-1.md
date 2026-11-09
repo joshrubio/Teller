@@ -39,7 +39,7 @@ Fuerza de asalto principal de AMAT, inspirada en la Delta Force (SFOD-D): pocos 
 
 ## Hábitos (fijados 2026-10-28, usuario)
 
-Dos por miembro. **Regla de uso:** con moderación, como mucho una aparición por hábito y por capítulo, solo si la escena lo pide, nunca como cierre de diálogos ni repartidos a todo el grupo en la misma escena.
+Dos por miembro. **Regla de uso:** con moderación, como mucho una aparición por hábito y por capítulo, solo si la escena lo pide, nunca como cierre de diálogos ni repartidos a todo el grupo en la misma escena. **Un hábito no es una firma de entrada** (corregido 2026-11-09, usuario): no se usa para presentar a un personaje cuando aparece en escena, ni hace falta que salga. Si la escena no lo pide, no sale, y un capítulo entero puede pasar sin ninguno. Un personaje entra por lo que hace en ese momento y por lo que la situación exige (quién corre, quién se esconde, quién habla).
 
 - **Voronin:** mano plana sobre el bolsillo del pecho (gesto del Coro). Maldice en ruso solo cuando algo se rompe de verdad, una vez por capítulo como mucho.
 - **Harlan:** chicle, sobre todo antes de una carga. Humor corto y pesimista de Kentucky, una sola frase.

@@ -134,7 +134,7 @@ Park miró hacia donde llegaban las lanchas. ER-2 estaba a cuatro minutos.
 
 Las lanchas aparecieron en el límite de la luz.
 
-Eran planas, grises, sin matrícula, y bajaron la rampa sobre las piedras con un golpe de acero. Salieron treinta norteamericanos con el equipo a la espalda y la mirada del que ha oído hablar mucho de un sitio y ahora lo tiene delante, y entre ellos doce que se movían distinto. Park los distinguió antes de saber por qué. Uno de ellos llevaba un antebrazo más largo que el otro, con la piel oscurecida desde dentro como tinta bajo una película. Otro, una cicatriz negra que le subía del cuello a la oreja. Ninguno hablaba.
+Eran planas, grises, sin matrícula, y bajaron la rampa sobre las piedras con un golpe de acero. Salieron cuarenta y cinco norteamericanos con el equipo a la espalda y la mirada del que ha oído hablar mucho de un sitio y ahora lo tiene delante, y entre ellos doce que se movían distinto. Park los distinguió antes de saber por qué. Uno de ellos llevaba un antebrazo más largo que el otro, con la piel oscurecida desde dentro como tinta bajo una película. Otro, una cicatriz negra que le subía del cuello a la oreja. Ninguno hablaba.
 
 —Mayor Briggs, ER-2 —dijo el que iba delante, un hombre de cuarenta años con la voz pelada—. Cabeza de playa, flanco norte. ¿Quién me recibe?
 

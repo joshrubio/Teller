@@ -27,4 +27,5 @@ Domain use must comply exactly with editorial rules in `system/`. Movement descr
 - Inertia (Park, Kiki, Ji-ho, Oliver) is kept in an internal reserve, never in a body part; if felt, it is a point under the sternum. Park's reserve is told in days since his last fight, never blow by blow (`system/strength.md`)
 - Domain descriptions per character must not converge — Park is intuitive, Pier is theoretical
 - Cost matches the established patterns; when there is no established pattern, there is no cost
+- Character habits (gestures, tics, objects) are never an entrance signature and never required: a character enters a scene through what the situation demands (running, hiding, speaking), and a habit appears only if the scene asks for it, at most once per habit per chapter (`characters/srd-1.md`, Hábitos)
 - Combat visual vocabulary: families are options, not templates; one or two per fight, never in the same order twice; take strategy only, never another work's concepts or names

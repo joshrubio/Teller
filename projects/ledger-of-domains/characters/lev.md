@@ -6,7 +6,7 @@ module: characters
 tags: [calor-domain, nivel-2, integracion-funcional, centro-valais, partida]
 relations: [oliver, sabine, pier]
 load-with: [system/domains, world/centro-valais]
-updated: 2026-06-17
+updated: 2026-11-09
 ---
 
 # Lev — Calor (Nivel 2) / Functional Integration
@@ -102,3 +102,12 @@ Reclutado por Hale, con Sabine, tras la captura del Cap120 (Lausana, once días 
 - **Cap162:** reconocimiento con Park en la carpa de Valais: "La muñeca." / "Soldó. Mal." / "Lo siento." / "No es verdad." / "Una parte sí."; acepta la respuesta como una cuenta. Cuando Park pide que vuelvan andando: "Sí".
 
 - **Cap120, reservado resuelto (2026-10-23):** Park le dijo que sabía nadar más rápido y dónde terminaba la corriente para que lo dejara ir con él; sabía que Lev no resistiría y tendría que sacarlo, así lo capturó sin enfrentamiento. Sabine lo oye de Park en el Cap162.
+
+## Forma de sus ataques: ráfagas de frío y de calor (decidido 2026-11-09, usuario)
+
+<!-- canonical -->
+- Sus ataques **salen de las manos** (palmas abiertas) y son **ráfagas**, no bandadas ni formas de animal. Corregido en el Cap179, que los describía como aves.
+- **Frío:** la ráfaga recorre una línea y deja **formaciones de hielo** a lo largo de ella. La primera del Cap179 es una sola cresta enorme que atraviesa el campo de la terraza a la linde y asoma por encima de las copas de los árboles.
+- **Calor:** la ráfaga hace temblar el aire y **acaba generando llamas**, que se agarran a lo que tocan y siguen por la línea de la ráfaga.
+- Frío y calor seguidos sobre la misma línea producen vapor y estampido (Cap156 y Cap179).
+- Coste tras el Cap179: brazos pelados en carne viva de los hombros a las yemas, cuerpo enrojecido, cejas chamuscadas, vacío y vivo.
