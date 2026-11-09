@@ -58,13 +58,13 @@ Tres.
 
 *Dos*, dijo Voronin por el Coro, y la palabra le llegó a Park detrás de los dientes, seca y exacta, la voz de una mujer que cuenta lo que ve a doscientos metros.
 
-Park estaba agachado contra la cara norte de una terraza de piedra, con la palma abierta en la roca y las rodillas dobladas. Desde allí no veía a Belcebú. Veía la espalda de Whitfield, quieta, y las piedras del campo, y una franja de ladera donde el sol caía en diagonal. Oía los pasos de alguien que no pesaba lo que debía y hacía temblar el suelo con cada uno.
+Park estaba agachado contra la cara norte de una terraza de piedra, con la palma abierta en la roca y las rodillas dobladas. Desde allí no veía al joven. Veía la espalda de Whitfield, quieta, y las piedras del campo, y una franja de ladera donde el sol caía en diagonal. Oía los pasos de alguien que no pesaba lo que debía y hacía temblar el suelo con cada uno.
 
 Llevaba veinticuatro días guardando. Desde la noche del arroyo, en la montaña de Venezuela, donde había abierto la reserva de dos semanas para una sola patada y había dado el informe a golpes al oficial de las llamas, no había soltado nada que no tuviera que soltar. Día tras día lo había ido asentando en la reserva, y ahora lo notaba como un punto tibio y quieto bajo el esternón, como agua en una olla. Lo miró una vez, como se mira un depósito, y lo dejó donde estaba.
 
 *Uno.*
 
-Whitfield no se movió. Belcebú había girado la cabeza hacia él para escucharle mejor.
+Whitfield no se movió. El joven había girado la cabeza hacia él para escucharle mejor.
 
 *Nueve. Ahora.*
 
@@ -76,7 +76,7 @@ Apuntó a la cabeza.
 
 Y apuntó con el ángulo, para empujarlo hacia la derecha, hacia las piedras donde esperaba Kiki. Soltó la pierna.
 
-El talón le entró en la sien con toda la masa de Park concentrada en el borde externo del pie. Sintió el impacto subirle hasta el hueso de la cadera, como patear una montaña que cede un dedo, y el campo entero dio un estampido. No fue un hueso. Fue el aire, que reventó. Belcebú salió despedido de lado con la cabeza por delante, treinta metros, cuarenta, sin tocar el suelo, atravesó dos terrazas de roca como si fueran de cartón y abrió con la espalda un surco en la ladera, y detrás de él se levantó una cortina de polvo y grava de más de cuarenta metros de alto que se tragó el campo entero.
+El talón le entró en la sien con toda la masa de Park concentrada en el borde externo del pie. Sintió el impacto subirle hasta el hueso de la cadera, como patear una montaña que cede un dedo, y el campo entero dio un estampido. No fue un hueso. Fue el aire, que reventó. El joven salió despedido de lado con la cabeza por delante, treinta metros, cuarenta, sin tocar el suelo, atravesó dos terrazas de roca como si fueran de cartón y abrió con la espalda un surco en la ladera, y detrás de él se levantó una cortina de polvo y grava de más de cuarenta metros de alto que se tragó el campo entero.
 
 El estruendo llegó después, como llega siempre el sonido, y rodó ladera arriba hasta el paso y ladera abajo hasta la cuenca. Park supo que lo habían oído en cada rincón de la isla.
 
@@ -84,7 +84,7 @@ Cayó rodando, con el pie izquierdo gritándole y la cadera enroscada, y se qued
 
 Algo se movió dentro.
 
-Belcebú se levantó despacio, a cuarenta metros, entre las piedras que habían quedado de las terrazas. Tenía la cabeza caída sobre el hombro en un ángulo que ningún cuello admite, la camisa en jirones y la piel arañada de arriba abajo, cientos de rasguños finos de arar la roca con el cuerpo. Se cogió la cabeza con las dos manos y la puso derecha. Hubo un chasquido de rama húmeda. Movió la mandíbula a un lado y a otro, y miró a Park.
+El joven se levantó despacio, a cuarenta metros, entre las piedras que habían quedado de las terrazas. Tenía la cabeza caída sobre el hombro en un ángulo que ningún cuello admite, la camisa en jirones y la piel arañada de arriba abajo, cientos de rasguños finos de arar la roca con el cuerpo. Se cogió la cabeza con las dos manos y la puso derecha. Hubo un chasquido de rama húmeda. Movió la mandíbula a un lado y a otro, y miró a Park.
 
 —¡Tú! —dijo, con una emoción tan limpia que dolía mirarla—. Has vuelto.
 
@@ -98,11 +98,11 @@ Park no sabía a quién veía. Sabía a quién no veía, y no lo corrigió.
 
 El joven ladeó la cabeza, ya derecha. Y Kiki salió de las piedras.
 
-La vio Park a medio giro, con la rodilla hundida y el cuerpo entero inclinado hacia delante, en la dirección en la que Belcebú acababa de ser empujado, como si la hubiera dibujado él. La mano en la empuñadura. Zanma salió de la vaina con el sonido de una hoja de papel que se rasga. Era una sola línea blanca. Kiki puso toda su masa en el filo, hasta el último gramo, en un punto del ancho de un cabello, y el corte entró en el brazo izquierdo del joven por encima del codo y salió por debajo.
+La vio Park a medio giro, con la rodilla hundida y el cuerpo entero inclinado hacia delante, en la dirección en la que el joven acababa de ser empujado, como si la hubiera dibujado él. La mano en la empuñadura. Zanma salió de la vaina con el sonido de una hoja de papel que se rasga. Era una sola línea blanca. Kiki puso toda su masa en el filo, hasta el último gramo, en un punto del ancho de un cabello, y el corte entró en el brazo izquierdo del joven por encima del codo y salió por debajo.
 
 El brazo cayó sobre la grava.
 
-Belcebú bajó la cabeza y miró donde había estado.
+El joven bajó la cabeza y miró donde había estado.
 
 Sangraba. Roja, caliente, normal. La sangre le bajó del muñón y goteó sobre la grava, una gota, otra, con un sonido pequeño. El brazo caído tenía la mano abierta, y los dedos se cerraron una vez y se quedaron quietos.
 
@@ -120,7 +120,7 @@ Miró a Kiki, que ya estaba a diez metros, con Zanma baja y la respiración ente
 
 Kiki no contestó.
 
-Belcebú dejó caer el brazo y lo apartó con el pie, sin mirarlo, como se aparta un guante que ya no hace falta.
+El joven dejó caer el brazo y lo apartó con el pie, sin mirarlo, como se aparta un guante que ya no hace falta.
 
 Park había visto muchos hombres sorprendidos. Ese no lo estaba. Era un hombre que veía llegar un regalo, y daba las gracias.
 
@@ -134,7 +134,7 @@ Whitfield, a veinte pasos, plantó los pies como quien entra en un ring.
 
 —Muchacho —dijo, con aquel acento de párroco inglés que parecía de otro siglo—, aquí.
 
-Belcebú ladeó la cabeza.
+El joven ladeó la cabeza.
 
 ---
 
@@ -142,7 +142,7 @@ Belcebú ladeó la cabeza.
 
 Whitfield supo que cinco segundos eran pocos.
 
-Lo supo como se sabe en la oscuridad que falta un escalón. Belcebú vino hacia él sin prisa, descalzo sobre la grava, con la mano derecha suelta y el muñón del otro brazo goteando, y se detuvo a seis pasos. Lo miró como se mira a un viejo que ha salido a la puerta de su casa.
+Lo supo como se sabe en la oscuridad que falta un escalón. El joven vino hacia él sin prisa, descalzo sobre la grava, con la mano derecha suelta y el muñón del otro brazo goteando, y se detuvo a seis pasos. Lo miró como se mira a un viejo que ha salido a la puerta de su casa.
 
 —Usted es el de antes —dijo—. El que contaba.
 
@@ -158,27 +158,27 @@ Subió la guardia. Codos pegados a las costillas, el peso en la pierna de delant
 
 El costado le avisó, sin palabras. Cinco.
 
-La mano del joven iba a subir abierta hacia su cara, para tocarle la mejilla como se toca a un animal. Cuatro. Whitfield amagó con la izquierda al rostro, para ver si el joven miraba la mano o miraba el cuerpo. Belcebú miró la mano. Tres. La suya subió, y Whitfield giró el cuello medio palmo, sin que nadie se lo hubiera enseñado nunca, y los dedos pasaron de largo. Dos. Uno.
+La mano del joven iba a subir abierta hacia su cara, para tocarle la mejilla como se toca a un animal. Cuatro. Whitfield amagó con la izquierda al rostro, para ver si el joven miraba la mano o miraba el cuerpo. El joven miró la mano. Tres. La suya subió, y Whitfield giró el cuello medio palmo, sin que nadie se lo hubiera enseñado nunca, y los dedos pasaron de largo. Dos. Uno.
 
 —Mire el hombro, no las manos —dijo, entre dientes, y entró con un gancho al hígado.
 
-El puño llegó seco, en el sitio exacto, y el cuerpo entero de Belcebú se dobló alrededor de él. El aire llegó detrás, con una palmada hueca de portón que el viento cierra, y la camisa se pegó a las costillas con su forma exacta. Los pies descalzos patinaron hacia atrás por la grava, dos surcos de un metro, y en torno a los dos una corona de polvo se abrió hacia fuera y llegó a las botas de Whitfield.
+El puño llegó seco, en el sitio exacto, y el cuerpo entero del joven se dobló alrededor de él. El aire llegó detrás, con una palmada hueca de portón que el viento cierra, y la camisa se pegó a las costillas con su forma exacta. Los pies descalzos patinaron hacia atrás por la grava, dos surcos de un metro, y en torno a los dos una corona de polvo se abrió hacia fuera y llegó a las botas de Whitfield.
 
-Belcebú se enderezó con la boca abierta, sin aire, y cuando lo encontró fue para reírse.
+El joven se enderezó con la boca abierta, sin aire, y cuando lo encontró fue para reírse.
 
 —¡Otro!
 
-Whitfield le dio otro. Mismo sitio, mismo ángulo, un poco más abajo. El joven bajó el codo sobre el hígado, y en ese mismo segundo, por el lado del muñón, donde no había codo que bajar, Zanma le entró en la corva. Kiki había rebotado contra una roca con la suela, y la inercia del rebote la había traído hasta allí sin un paso de más. El joven dobló la pierna para sacarla de la línea, y el codo bajó tarde. El puño pasó por encima del hueso y entró igual, y Belcebú se fue tres pasos atrás, sacudiendo el brazo como se sacude una mano que ha tocado una olla, con la palmada del aire levantando polvo a su alrededor. Kiki ya no estaba. Diez metros más allá giraba hacia otro ángulo, con una línea roja en la hoja.
+Whitfield le dio otro. Mismo sitio, mismo ángulo, un poco más abajo. El joven bajó el codo sobre el hígado, y en ese mismo segundo, por el lado del muñón, donde no había codo que bajar, Zanma le entró en la corva. Kiki había rebotado contra una roca con la suela, y la inercia del rebote la había traído hasta allí sin un paso de más. El joven dobló la pierna para sacarla de la línea, y el codo bajó tarde. El puño pasó por encima del hueso y entró igual, y el joven se fue tres pasos atrás, sacudiendo el brazo como se sacude una mano que ha tocado una olla, con la palmada del aire levantando polvo a su alrededor. Kiki ya no estaba. Diez metros más allá giraba hacia otro ángulo, con una línea roja en la hoja.
 
 Lo aprendió, pensó Whitfield. En dos. Pero ahora tenía que aprender dos cosas a la vez, y eso no se aprende.
 
 El puño le ardía hasta el codo. El Foco no era gratis, y el abrigo le comía el aliento.
 
-Cambió. Un recto a la cara con la derecha, para obligarlo a subir la cabeza, y con la izquierda otra vez el costado, más atrás, hacia el riñón. Cinco. Por el lado del muñón volvió a entrar Zanma, corta, a la altura de la cadera, y Belcebú, que no podía darle la espalda a una hoja, se torció hacia Whitfield sin querer. Cuatro. El recto le dio en el pómulo con la cabeza todavía subiendo, y la cabeza se fue atrás de golpe, y el aire llegó detrás y le aplastó la camisa contra el pecho. Tres. El segundo golpe entró limpio en el riñón, con todo el peso del hombro. Los pies del joven se despegaron de la grava un palmo y cayeron dos pasos más allá, y se quedó doblado de lado, con los dedos hundidos en las costillas, buscando el sitio exacto de un dolor.
+Cambió. Un recto a la cara con la derecha, para obligarlo a subir la cabeza, y con la izquierda otra vez el costado, más atrás, hacia el riñón. Cinco. Por el lado del muñón volvió a entrar Zanma, corta, a la altura de la cadera, y el joven, que no podía darle la espalda a una hoja, se torció hacia Whitfield sin querer. Cuatro. El recto le dio en el pómulo con la cabeza todavía subiendo, y la cabeza se fue atrás de golpe, y el aire llegó detrás y le aplastó la camisa contra el pecho. Tres. El segundo golpe entró limpio en el riñón, con todo el peso del hombro. Los pies del joven se despegaron de la grava un palmo y cayeron dos pasos más allá, y se quedó doblado de lado, con los dedos hundidos en las costillas, buscando el sitio exacto de un dolor.
 
 Whitfield sacó el aire que llevaba dentro. La mano derecha le temblaba. Dos.
 
-—¿Qué es eso, Thomas? —preguntó Belcebú, todavía doblado, con la voz de quien pregunta el nombre de una flor—. Lo que va más deprisa que el brazo.
+—¿Qué es eso, Thomas? —preguntó el joven, todavía doblado, con la voz de quien pregunta el nombre de una flor—. Lo que va más deprisa que el brazo.
 
 —Una cosa que se enseña. Despacio.
 
@@ -190,7 +190,7 @@ No una rama. Todas. Hacia la izquierda, hacia atrás, un paso corto con la derec
 
 Había visto acercarse otras cosas, en otras épocas, y sabía que a veces lo único que se puede elegir es en qué se gastan los cinco segundos. No los gastó en esquivar. Soltó lo que le quedaba del Foco y de la Presión, todo, y lo recogió hacia dentro, a la piel del pecho y de los antebrazos, capa sobre capa, el abrigo viejo cerrándose hasta el último botón. Cruzó los antebrazos delante del esternón. Pies abiertos, peso atrás. Cinco. Cuatro.
 
-Belcebú vino con el brazo derecho ya cerrado, con la concentración total de un niño que copia una letra. Whitfield vio cómo adelantaba el hombro y soltaba el brazo con una velocidad que el brazo no debía tener. Lo había copiado en dos golpes. Lo hacía mejor.
+El joven vino con el brazo derecho ya cerrado, con la concentración total de un niño que copia una letra. Whitfield vio cómo adelantaba el hombro y soltaba el brazo con una velocidad que el brazo no debía tener. Lo había copiado en dos golpes. Lo hacía mejor.
 
 —¿Así, Thomas?
 

@@ -47,3 +47,7 @@ Sisi sabe, y calla, que lo que vio no es una persona.
 - **Cap159, 8 julio:** Kaspar pisa Hesperia por primera vez. Daniel llegó el 3. "Aquí no hay cerrojos." Kaspar cede por primera vez.
 - **Cap164, 18 julio 01:50:** Daniel le admite que dejó que AMAT viera la isla. Kaspar lo piensa "al revés" y calla.
 - **Cap168, 18 julio 04:40:** Daniel le pide bajar a Anaís a la grieta. Kaspar baja a sabiendas con Anaís, Sisi y Tomás hasta la cámara de la zarza (Ladón, pesebre); acaba con un paso hacia la llama, sin cristalizar.
+
+## Poder
+
+Su poder, la jaula (esfera de dominio con dos pasos, rebobinado condicionado y golpe de bucle), está fijado el 2026-11-09 en `world/entities/principado-del-tiempo.md` § La jaula. Se muestra por primera vez en el Cap181 (escena de Kaspar). Su imagen es el telar de su padre, tejedor de tiraz. Sin nombrarse en prosa hasta el Cap184.

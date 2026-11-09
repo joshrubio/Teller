@@ -7,7 +7,7 @@ tags: [principado-tiempo, jinetes, libro-3, daniel-ashworth, inmortal, bucle-tem
 relations: [kaspar, maria-lionza, belcebu, ji-ho, park-jun-ho, oliver, daniel-ashworth]
 load-with: [plot/libro-3-setup.md, world/odem.md]
 status: canon — migrado a plot/libro-3-setup.md 2026-09-22, reservado (no revelar en prosa antes de tiempo)
-updated: 2026-09-25
+updated: 2026-11-09
 ---
 
 > **Nota 2026-09-25:** la mecánica general de bucles, vasijas y presión recurrente (cómo funcionan, no quién las porta) vive ahora en `world/teoria-herzog.md` — tratado en voz de Kaspar Roth, artefacto en el universo y documento de referencia único para el sistema. Esta ficha conserva solo el lore específico de Ibrahim/Daniel Ashworth: su historia, sus vasijas conocidas, sus relaciones. Las secciones de mecánica general que siguen abajo (transferencia de vasija, bucle personal) quedan como estaban por continuidad de lectura, pero cualquier ampliación de esas reglas se hace en el tratado, no aquí.
@@ -115,6 +115,22 @@ Oliver nace ~2003, hijo de una mujer que fue una encarnación del Principado del
 ### Por qué importa para Libro 3
 
 El Registro de Oliver lee solo el presente, nunca estados pasados (`world/odem.md`) — la naturaleza opuesta exacta a la de su padre, que existe entero en la lógica del pasado/futuro/repetición. No hereda el poder del Principado, hereda su negación — motivo fuerte para que sea, entre Oliver y Park, el candidato más natural a El que Rompe el Ciclo en vez de al Jinete de Conquista/Guerra (rol que sigue apuntando a Kaspar). El reencuentro en el clímax de Libro 3 no sería "recordar a un hijo que buscó y no encontró" — sería algo más extraño: una sensación sin nombre, resurgiendo de golpe frente a la única persona que podría explicarla.
+
+## Ibrahim antes del copista (fijado 2026-11-09, usuario)
+
+Su padre era tejedor de tiraz en Bagdad, las cenefas con inscripciones que los talleres tejían para el califa. Tejía letras que no sabía leer y las seguía en el patrón como un dibujo. De niño, junto al telar, Ibrahim aprendió a leerlas antes que ninguna otra cosa, y de ahí viene el oficio de copista y la Casa de la Sabiduría. El papel de Bagdad se hacía con trapos de lino, así que su oficio está hecho del de su padre. Invención del 2026-11-09, no estaba en la ficha. El gesto de tejer sale en prosa una sola vez por escena, si la escena lo pide.
+
+## La jaula, el Dominio del Principado (fijado 2026-11-09, usuario)
+
+Una expansión de dominio. Daniel abre una esfera y la cierra a voluntad, y dentro de ella solo él toca el tiempo. Casi todo lo que hace es **personal**, porque alterar el tiempo de otros se evita. La única excepción es el golpe de bucle. Cómo se abre y cómo se rompe queda sin decidir, y el borde visible (una línea tensa como hilo de trama a ras del suelo) es propuesta sin confirmar.
+
+- **Dos pasos.** Acelera su propio tiempo y da dos pasos mientras los demás ven un solo instante. Nadie más pierde nada, solo ven que se movió sin haber visto cómo.
+- **Rebobinar.** Vuelve él, y solo él, a unos segundos antes, con lo que ya vio. Los demás siguen adelante y lo ven saltar atrás. No tiene límite de usos, pero la jaula solo se lo concede si el resultado puede cambiar. Si el mismo desenlace se repite dos veces seguidas, la tercera vuelta no se concede. Es la regla de los sucesos-ancla de `world/teoria-herzog.md`.
+- **Golpe de bucle.** Necesita contacto, con la palma abierta. Manda a otra persona décadas atrás en su propia vida, y a efectos visuales la hace desaparecer, como un instant kill. Es el mismo golpe que alcanzó a Ji-ho y a Roth. En la página no se ha mostrado todavía ningún retroceso de minutos o instantes, aunque Roth los describe.
+- **Jaula en dos sentidos.** Es el área que Daniel domina y es su propia prisión, porque solo sabe lo que ya ocurrió dentro de ella y se atasca ante lo que no tiene precedente.
+- **Cómo se le vence.** Con un desenlace que no cede, con algo que no vio antes, o esquivando la palma del golpe de bucle.
+
+**Imagen, el telar (anclada al padre).** La jaula es el bastidor. Los dos pasos son pasar la lanzadera dos veces mientras los demás ven una pasada. Rebobinar es destejer su propia hilera, y la urdimbre es el suceso-ancla, así que si la hilera sale igual dos veces el tercer nudo no se suelta. El golpe de bucle tira, con la palma, de un nombre tejido en la cenefa, y esa persona sale del paño y deja el hueco de la letra. Se conecta con su motivo, el registro, porque las cenefas del padre eran nombres tejidos que no se pierden.
 
 ## Relación con Kaspar
 
