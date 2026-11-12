@@ -40,3 +40,21 @@ Whitfield, al cerrar su ventana, lo mira y entiende que Conti ya sabía lo del e
 ## Regla de la Omnipresencia (precisada 2026-10-28)
 
 Puede ir a **cualquier sitio donde haya estado**, y una vez allí se mueve libremente por un **radio equivalente a una ciudad** (como en Milán, Final Exam). Vale para él y para quien lleve de la mano. En Cap169 salva a Kino y dispersa a la Uno en cuatro viajes, y esquiva con Calloway y Solheim siete golpes de Belcebú en siete minutos.
+
+## Cap182 (2026-11-10)
+
+<!-- canonical -->
+- Daniel aconseja a Belcebú atacarlo primero ("Al que los mueve a todos"). Belcebú aprende adónde salta Conti, aunque no cómo, y lo espera en el montón de losas: una palma en el esternón lo deja de rodillas sin aire (solo dolor). **Conti no frena ondas de presión con los antebrazos** (decidido 2026-11-10, usuario).
+- **Dice "Jinetes"** y descubre que Ji-ho ya lo sabía ("Desde antes de pisar la isla. No quise ser yo quien lo dijera"). Lista la Peste, el Hambre, la Conquista y la Muerte, y Ji-ho lo corrige con el Tiempo.
+- Cita Efesios 6:12 como fórmula antes de trasladar a Ji-ho a la espalda de Belcebú, algo que no se había hecho dentro del manto de Daniel.
+
+## Cap184 (2026-11-11)
+
+<!-- canonical -->
+- Repite sin saberlo, siete veces, "Sí" y el versículo cuando Ji-ho lo llama; Daniel rebobina cada asistencia suya. En la octava, la palma de Daniel lo toca en el punto de llegada junto a Belcebú y **desaparece**. Ji-ho dice "Padre" y nadie contesta.
+- **Reservado para el Cap185 (decisión 2026-11-11, usuario):** el golpe de bucle fue un roce y lo mandó minutos atrás, al instante del primer golpe de Ji-ho, el del diezmo. Vive cinco pasadas con memoria; sus asistencias no cambiaban el resultado del combate (Daniel las rebobinaba todas) y en la quinta no se involucra y evita la palma. Es el Conti de la escena de la selva, tras la muerte de Ji-ho, que llora y le reclama a Dios no haberlo salvado y sabe que Ji-ho lleva en bucles más tiempo que él.
+
+## Cap185 — la selva (2026-11-11)
+
+<!-- canonical -->
+- Escena de su POV a las 08:12, al oeste de la cuenca. Pelo revuelto, sotana rota hasta la cintura, golpea la raíz de un árbol y llora. Cinco pasadas, uno la palma, dos Ji-ho le dice "Váyase lejos, padre, hoy no" (y por ese "hoy" sabe que Ji-ho lleva en bucles más que él), tres lo intenta por detrás y cae en la palma, cuatro llega al lado de Ji-ho para llevárselo y "el aire no se dejó", cinco se va, como Ji-ho le pidió. Vio morir a Ji-ho por el Coro, con los ojos de Park. "Cinco veces le había dado Dios las manos, y ninguna el tiempo." Voronin lo llama ("Uno-Cuatro, responda") y contesta "Aquí".

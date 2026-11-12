@@ -19,7 +19,7 @@ Ascending: **4 → 3 → 2 → 1 → S (Principado)**
 | ID | Name | Content | Status |
 |---|---|---|---|
 | `classification` | Anomaly classification | Full scale + Principados protocol + Hartford documented event | Migrated |
-| `grh-094` | GRH-094 — El Cobrador | Grayhaven entity ("Incidente de Grayhaven"), Nivel 3, neutralized in the retcon arc (`chapters/retcon-el-cobro/`) | Migrated |
+| `grh-094` | GRH-094 — El Cobrador | Grayhaven entity ("Incidente de Grayhaven"), Nivel 3, neutralized in the retcon arc (`manuscript/spanish/` Cap1-11) | Migrated |
 | `vls-001` | VLS-001 — La Colonia | Centro Valais entity, Nivel 2, decoordinated Cap 70, Kaspar bond intact | Migrated |
 | `fauna-isla-del-coco` | Fauna de la Isla del Coco | Cría de Ladón: tractores, faroles, pasto, segadores (Cap155-157) | Active |
 | `kaspar-source` | AMAT-1982-S2 | Sustento Potestad Kaspar copied from — status unknown | Pending |

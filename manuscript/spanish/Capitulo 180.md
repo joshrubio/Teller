@@ -6,17 +6,17 @@ Sisi se detuvo en el último cruce de pasarelas, donde las casas se acababan y e
 
 Había vuelto por los que dudaban. Llevaba el plan entero en la cabeza. Abrir un hueco del tamaño de un paso, esperar, dejar que se acercara quien quisiera. No pudo empezar.
 
-Tres mil cien personas estaban de pie, apretadas en anillos, hombro con hombro, de cara al pozo. Habían bajado de las casas mientras ella estaba en el muelle, y se habían puesto alrededor de la boca como el agua en una pila. Solo quedaba un pasillo estrecho, el de los chalecos, y no había una cabeza vuelta hacia atrás. Un hombre de sesenta años con las manos cruzadas. Una mujer con un niño dormido en el hombro. Una pareja joven cogida de la mano. Todos con los ojos secos y la respiración larga, todos mirando el mismo punto del suelo.
+Tres mil personas estaban de pie, apretadas en anillos, hombro con hombro, de cara al pozo. Habían bajado de las casas mientras ella estaba en el muelle, y se habían puesto alrededor de la boca como el agua en una pila. Solo quedaba un pasillo estrecho, el de los chalecos, y no había una cabeza vuelta hacia atrás. Un hombre de sesenta años con las manos cruzadas. Una mujer con un niño dormido en el hombro. Una pareja joven cogida de la mano. Todos siguiendo un plan que ella no conocía.
 
-Probó una vez. Dejó la puerta abierta al hombre más cercano, sin palabras, y esperó. El hombre no se movió. No era un rechazo. No la había visto.
+Sisi se sintió pequeña e impotente.
 
 —Tres mil cien —dijo Tomás, bajito—. Menos veinticuatro.
 
 —Lo sé. No hay a quién preguntar.
 
-Una explanada de losas de quince metros de ancho rodeaba la boca del pozo como la orilla de un estanque. Los chalecos azules la guardaban, doce o catorce, repartidos a intervalos, con las botas de goma juntas. Más allá de la explanada, la gente. Más allá de la gente, a veinte metros, el anillo de criaturas, tres filas de caparazones de cara hacia fuera, inmóviles bajo un sol que no se veía. En el centro, la boca. Cuarenta metros de diámetro, escalones tallados que bajaban y se perdían en la sombra, y de ahí subía un calor tibio, de brasa que se enfría.
+Una explanada de losas de quince metros de ancho rodeaba la boca del pozo como la orilla de un estanque. Los chalecos azules la guardaban, doce o catorce, repartidos a intervalo. Más allá de la explanada, la gente. Más allá de la gente, a veinte metros, el anillo de criaturas, tres filas de caparazones de cara hacia fuera, inmóviles bajo un sol que no se veía. En el centro, la boca. Cuarenta metros de diámetro, escalones tallados que bajaban y se perdían en la sombra, y de ahí subía un calor tibio, de brasa que se enfría.
 
-Abajo había una niña con hambre. Sisi la sentía desde hacía veinte minutos, como una cuerda de otra clase, tirante, estirada hacia arriba. Y debajo de ella, más hondo, otras dos cosas. Una pila de capas que no tenía fondo. Un hueco herido, caliente, que reconocía.
+Abajo había una niña con hambre. Sisi la sentía desde hacía veinte minutos, como una cuerda de otra clase, tirante, estirada hacia arriba. Y debajo de ella, más hondo, otras dos cosas. Una pila de capas que no tenía fondo. Y un hueco herido, caliente, que reconocía.
 
 —Kaspar —dijo.
 
@@ -36,11 +36,11 @@ Fue seco, redondo, una sola nota. Cruzó la cuenca de lado a lado, sin eco, y Si
 
 Algo cayó sobre la explanada.
 
-Fue un hombre, y al aterrizar partió dos losas. Dobló las rodillas, absorbió el golpe por las piernas, y el polvo se levantó a su alrededor en un anillo bajo que se deshizo antes de tocar a nadie. Se enderezó despacio. Tenía el pelo corto, negro con canas, la camiseta oscura pegada a un cuerpo ancho y gastado, y en el hombro derecho una manga vacía que colgaba contra el costado. Del cuello le subía hasta la mandíbula una línea negra, fina, que terminaba bajo la oreja.
+Fue un hombre, y al aterrizar partió dos losas. Dobló las rodillas, absorbió el golpe por las piernas, y el polvo se levantó a su alrededor en un anillo bajo que se deshizo antes de tocar a nadie. Se enderezó despacio. Tenía el pelo lacio sobre la frente, negro con canas, la camiseta oscura pegada a un cuerpo ancho, y en el hombro derecho una manga vacía que colgaba contra el costado. Del cuello le subía hasta la mandíbula una línea negra, fina, que terminaba bajo la oreja.
 
 Sisi lo registró como se registra una salida. Una mano. Un hombre que no miraba a nadie.
 
-Echó a andar hacia la boca del pozo. Los chalecos, que tenían la orden de no dejar pasar a nadie, lo vieron pasar con las botas de goma juntas y las manos quietas.
+Echó a andar hacia la boca del pozo. Los chalecos, que tenían la orden de no dejar pasar a nadie, lo vieron pasar con las manos quietas.
 
 El hombre llegó al borde y miró abajo. Movió los labios sin voz. Parecía contar. Sisi, a doce metros, creyó entender que no contaba escalones. Contaba el aire.
 
@@ -50,25 +50,15 @@ El hombre llegó al borde y miró abajo. Movió los labios sin voz. Parecía con
 
 La niña que dormía en el pesebre tenía diez años. La que subió los escalones ya no los tenía.
 
-En el fondo de la grieta había recibido toda la saturación de Odem que guardaba la cámara, la de diez años de sacrificio y la de todas las noches sin nadie, y el cuerpo había hecho lo que hace un cuerpo al que por fin se le da lo que le faltaba. Había alcanzado su forma completa.
+En el fondo de la grieta había recibido toda la saturación de Odem que guardaba la cámara, la de múltiples incendios de Odem a lo largo del pacifico, y el cuerpo había hecho lo que hace un cuerpo al que por fin se le da lo que le faltaba. Había alcanzado su forma completa.
 
 Primero se oyeron los pasos. Eran pasos descalzos, pesados, en piedra, uno detrás de otro, y detrás de ellos otros, muchos, que no eran pasos. Un rumor de voces bajas, de gente que repite algo sin saber qué. Sisi las conoció. Las había oído diez noches seguidas bajo el sueño de otra.
 
-La cabeza apareció por el borde de los escalones, tan alta que Sisi pensó que era un hombre, y después los hombros. Una mujer de casi dos metros, ancha de espalda, con el pelo negro hasta la cintura y una cicatriz pequeña en la barbilla, la única cosa que quedaba de la niña. El camisón de algodón, sucio de paja, le llegaba por encima de las rodillas y se le había abierto por las costuras de los hombros. Subió el último escalón y la piedra crujió bajo el pie descalzo. Se quedó de pie sobre las losas, con los brazos colgando.
-
-—Anaís —dijo Sisi.
-
-No lo había decidido. Salió solo, entero, en voz alta, y la mujer se detuvo.
-
-Giró la cabeza. Tardó un latido en encontrar de dónde venía. Tenía los ojos muy abiertos, sin sorpresa, los ojos de alguien al que nadie ha llamado en mucho tiempo, y por un instante fueron ojos de niña de verdad, en una cara que ya no era la suya.
-
-—Tengo hambre —dijo.
-
-Fue una voz pequeña. Después hubo otra encima, y otra, una detrás de otra, una marea.
+La cabeza apareció por el borde de los escalones, tan alta que Sisi pensó que era un hombre, y después los hombros. Una mujer de casi dos metros, ancha de espalda, con el pelo negro hasta la cintura y una cicatriz pequeña en la barbilla, la única cosa que quedaba de la niña. El camisón de algodón, sucio de paja, le llegaba por encima de las rodillas y se le había abierto por el costado de una pierna. Subió el último escalón y la piedra crujió bajo el pie descalzo. Se quedó de pie sobre las losas, con los brazos colgando.
 
 Y el anillo cargó.
 
-Fue a su espalda, en las filas de caparazones, una sacudida de piedra y de hierro que se levantó de golpe, un rugido de ruedas y de raíces, tres filas moviéndose a la vez cuesta arriba, hacia fuera. Sisi lo sintió en las suelas. No venía hacia ellos. Se alejaba, a una velocidad de avalancha, ladera arriba, hacia el sur.
+Fue a su espalda, en las filas de caparazones, una sacudida de piedra y de hierro que se levantó de golpe, un rugido de de raíces, tres filas moviéndose a la vez cuesta arriba, hacia fuera. Sisi lo sintió en las suelas. No venía hacia ellos. Se alejaba, a una velocidad de avalancha, ladera arriba, hacia el sur.
 
 Todos los civiles bajaron los ojos.
 
@@ -78,9 +68,35 @@ Fue un solo movimiento, perfectamente sincronizado, tres mil cabezas inclinadas 
 
 Sisi lo había oído en alguna parte, y ahora lo comprendía.
 
-La mujer no se movió. Miraba al hombre del borde.
+Ella no los bajó. No lo decidió. Tenía los ojos puestos en la mujer, y la cuerda que llevaba veinte minutos tirante hacia arriba se aflojó de golpe, como si alguien hubiera soltado el otro extremo.
 
----
+La mujer giró la cabeza.
+
+No buscó. Giró hacia ella como se gira hacia un olor. Y vino.
+
+No hubo aviso. No hubo un peso en el pie ni un instante anterior que mirar. Hubo grava saltando y una mujer de dos metros que cruzaba doce metros de losas en un solo paso, con el puño atrás, y detrás de ella la ráfaga que levantó el camisón. Tomás cogió a Sisi del abrigo y tiró hacia atrás, y fue tarde, y los dos lo supieron. El puño tenía el tamaño de su cara. Sisi supo con claridad que no iba a llegar a ninguna parte.
+
+No llegó.
+
+Una mano se puso entre el puño y su cara. Era una sola, abierta, sin fuerza aparente. El puño la tocó y se fue hacia un lado, por donde la mano lo llevaba, y pasó a un palmo de la oreja de Sisi con un silbido que le apartó el pelo, y partió la losa de su derecha. Sisi no lo vio llegar. Había un hueco a la izquierda, un borrón, y después él ya estaba allí, de espaldas, con los pies hundidos dos dedos en la piedra.
+
+Ji-ho no la miró. Tenía la cara de quien ha hecho algo con el cuerpo antes de decidirlo, y parecía tan sorprendido de estar ahí como ella.
+
+—Anaís —dijo Sisi.
+
+No lo había decidido. Salió solo, entero, en voz alta, y la mujer se detuvo con el brazo todavía en el aire.
+
+Ji-ho dejó de contar.
+
+Sisi no habría sabido decir en qué lo notó. Llevaba desde que llegó moviendo los labios sin voz, y ahora los tenía quietos, a mitad de una cifra. No giró la cabeza hacia ella. Pero se le quedaron los hombros muy rectos, como a quien baja una escalera que conoce de memoria y no encuentra el último peldaño. 
+
+La mujer bajó el brazo muy despacio. Tenía los ojos muy abiertos, sin sorpresa, los ojos de alguien al que nadie ha llamado en mucho tiempo, y por un instante fueron ojos de niña de verdad, en una cara que ya no era la suya.
+
+—Tengo hambre —dijo.
+
+Fue una voz pequeña. Después hubo otra encima, y otra, una detrás de otra, una marea.
+
+La mujer no se movió. Miraba a Ji-ho.
 
 —Tú —dijo.
 
@@ -98,17 +114,15 @@ Ella sonrió, y la sonrisa tenía algo mal en la simetría, como si el cuerpo to
 
 —Qué bien —dijo—. Qué bien se te da.
 
-Ji-ho no contestó. Miró alrededor, a la gente de rodillas, a la explanada, a la boca del pozo a su espalda y a ella. Sisi lo vio calcular. Era lo mismo que hacía ella al entrar en una sala, y por eso lo entendió. Contaba salidas. Contaba cuántas losas había entre la mujer y la primera fila de gente.
+Ji-ho no contestó. Miró alrededor, a la gente con los ojos bajos, a la explanada, a ella. Sisi lo vio calcular. Era lo mismo que hacía ella al entrar en una sala, y por eso lo entendió. Contaba salidas. Contaba cuántas losas había entre la mujer y la primera fila de gente.
 
 Dos pasos para él. Doce para la gente.
 
 —Tú —dijo, sin volverse. Hablaba a Sisi—. Sigue diciendo su nombre.
 
----
-
 María Lionza se movió primero.
 
-Antes de moverse cargó el peso en el pie izquierdo. Fue un cambio mínimo, y Sisi lo vio porque llevaba toda la noche mirando el instante anterior. Y el Odem se le juntó en el puño. Sisi lo vio, visible, negro, apretado en los nudillos como brea sin brillo, con el hambre que llevaba veinte minutos sintiendo en la cuerda. Después la losa que pisaba estalló en estrella y ella cruzó la distancia que los separaba en un solo paso, con el puño por delante, y el puño llegó antes que el ruido.
+Antes de moverse cargó el peso en el pie izquierdo. Fue un cambio mínimo, y Sisi lo vio porque ahora sabía dónde mirar. Y el Odem se le juntó en el puño. Sisi lo vio, visible, negro, apretado en los nudillos como brea sin brillo, con el hambre que llevaba veinte minutos sintiendo en la cuerda. Después la losa que pisaba estalló en estrella y ella cruzó la distancia que los separaba en un solo paso, con el puño por delante, y el puño llegó antes que el ruido.
 
 Ji-ho no retrocedió.
 
@@ -134,7 +148,7 @@ No fue una mirada de odio. Fue la de quien mira una mesa puesta. Sisi lo entendi
 
 Lo que llegó no fue un golpe de mujer sino un camión. Sisi lo vio en las losas. Se abrieron en estrella bajo los pies de Ji-ho, y la estrella corrió hacia el pozo, hacia el borde, y no hacia la gente. Él se hundió dos dedos en la piedra y no cedió ni un paso. La mano no tembló.
 
-Ella empujó. Era un muro de carne que quería pasar, y Ji-ho, con los pies hundidos en la piedra, lo aguantó. Las losas bajo los dos cedieron un dedo, y otro, y los tres mil cien no se enteraron de nada.
+Ella empujó. Era un muro de carne que quería pasar, y Ji-ho, con los pies hundidos en la piedra, lo aguantó. Las losas bajo los dos cedieron un dedo, y otro.
 
 —Anaís —dijo Sisi.
 
@@ -152,11 +166,10 @@ Fue un golpe a la boca del estómago. Sisi lo oyó en las costillas antes de oí
 
 No le rompió nada. Le quitó un escalón.
 
-La forma completa no aguantó. Los hombros se le estrecharon bajo el camisón, el pelo le pesó menos, la cara perdió diez años, y lo que cayó de rodillas sobre las losas ya no era una mujer de dos metros sino una muchacha de dieciséis o diecisiete, con las manos en el suelo y la boca abierta sin aire.
+La forma completa no aguantó. Los hombros se le estrecharon bajo el camisón, el pelo le pesó menos, la cara perdió diez años, y lo que cayó de rodillas sobre las losas ya no era una mujer de dos metros sino una muchacha de dieciséis o diecisiete, con las manos en el suelo, la boca abierta sin aire y el rostro retorciéndose de dolor.
 
 Ji-ho retiró el puño. Estaba de pie ante ella, con el polvo posándose a su alrededor y la respiración igual que al llegar. La línea negra, bajo la oreja, no se había movido.
 
-*Dos pasos, doce*, pensó Sisi. *Y no ha tocado a una persona.*
 
 ---
 
@@ -182,4 +195,4 @@ Sisi lo registró como una anomalía, no como un pensamiento. Una cosa sin sitio
 
 —Don Martín —dijo Daniel, con suavidad, y puso la mano en el hombro sano de Kaspar—. Siéntese. Esto es lo que quería ver.
 
-Ji-ho no había apartado los ojos de la muchacha de rodillas desde que cayó. No se dio la vuelta. Pero giró la cabeza un dedo hacia aquella voz, solo un dedo, como quien oye por segunda vez una cosa que ya ha oído.
+Ji-ho no había apartado los ojos de la muchacha de rodillas desde que cayó. La había leído como a un libro abierto, como a uno que ya se conoce de principio a fin. No se dio la vuelta. Al menos eso le debía. Pero giró la cabeza un dedo hacia aquella voz, solo un dedo, como quien oye por segunda vez una cosa que ya ha oído.

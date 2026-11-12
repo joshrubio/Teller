@@ -6,7 +6,7 @@ module: world
 tags: [principado, belcebu, susanoo, gozu-tenno, kuji, jinete-de-la-peste, libro-3]
 relations: [hayashi-daisuke, mizuno-ren, ji-ho]
 load-with: [world/amat-jp-branch.md, plot/evento-cataclismo-anillo-de-fuego.md]
-updated: 2026-10-15
+updated: 2026-11-10
 ---
 
 # Susanoo / Belcebú — Jinete de la Peste
@@ -53,3 +53,30 @@ updated: 2026-10-15
 
 <!-- canonical -->
 Belcebú es un Principado y se reconoce por tres señales. **Cantidad inmensa de Odem**, mayor que cualquier otra que el lector de Odem haya visto. **Peso y espesor**, que se notan en el aire, en la boca, en las muelas. **Capas superpuestas** una sobre otra, efecto de sus encarnaciones pasadas, sin borde y sin número. **Nunca se lee como un hueco ni como una ausencia.** Corregido en Cap170, donde Oliver lo percibía como un hueco que camina.
+
+## Estilo de pelea y escala de poder (anotado 2026-11-10, a partir de Cap169, 170, 178, 179 y 182)
+
+<!-- canonical -->
+**Cómo pelea.** No pelea, pasea. Va andando a los sitios por gusto, aunque podría llegar antes que el ruido. Cada combate es curiosidad y juego. Cuenta a la gente de uno en uno, se disculpa antes de herir ("Perdona") y busca a quien pueda hacerle daño. **Aprende deprisa.** Copia un movimiento en uno o dos intercambios y lo hace mejor (Whitfield en el Cap178, la diagonal de Ji-ho en el Cap182). Lo que no puede copiar es lo que no entiende, como la Omnipresencia de Conti. No odia ni amenaza. Dice la verdad, "no te voy a hacer daño, pero a ti no", y trata los golpes como regalos ("Esto sí", "Otra vez").
+
+**Qué hace.**
+- **A escala de ladera.** Un barrido de brazo levanta una onda de presión que pliega la roca y aplasta un tercio del anillo (Cap169). La onda de palma contra el suelo parte una columna (Cap179). Ninguno de los dos es su golpe máximo.
+- **Preciso.** Un dedo corta a lo largo y borra una barrera de raíces y a Kino con un golpe de aire. Dos dedos abren un surco. La palma abierta en el esternón basta para dejar fuera de combate a Sabine.
+- **Rápido (corregido 2026-11-10, usuario).** Suele moverse de un lado a otro con tal velocidad que el ojo no lo sigue y no ve los puntos de en medio (Cap179, Cap182). Eso contrasta con su manera de atacar, calmada y lenta mientras está relajado, aunque **usa esa misma velocidad cuando se ve en aprietos**. Le gusta ir andando a los sitios (Cap169, 170 y 178), probablemente porque ser tan veloz lo aburre a veces. No se teletransporta, "tengo que ir andando".
+- **Regenera.** Cierra las heridas de lanza en segundos, se recoloca el cuello roto con las manos, cura una quemadura de la clavícula a los muslos con piel nueva y rosa, y rehace un brazo cortado desde el muñón. Un brazo dormido por un golpe de Foco tarda unos minutos en volver (Cap179 a Cap182). **Cada herida tarda un poco más en cerrar**, y la herida del Cap182, que le arranca el lado izquierdo de la cintura a la cabeza, es la primera que le cuesta cuatro respiraciones y lo deja tambaleándose al levantarse.
+- **Se disuelve en moscas.** Es su forma de irse. Las moscas son lo único que lo acompaña y también se usan como ataque (Cap169), pero Solheim las rompe con la nota.
+
+**Límites decididos 2026-11-10 (usuario).** En el Cap182 no ataca a los civiles. A Conti lo derrota anticipando adónde salta, no persiguiéndolo.
+
+**Qué le duele.** Los impactos de masa e inercia apenas ("casi no me ha dolido", la patada de Park rompiéndole el cuello). Le hacen daño lo concentrado y lo exacto. Zanma, "es de él", que le arranca un miembro de un corte, la explosión de Harlan ("eso duele"), la resonancia de Solheim ("eso duele un poco, hacía mucho que nada me dolía"), la palma de Conti, los ganchos al hígado y al riñón de Whitfield, el Foco de Voronin en el nervio, y el puñetazo de Ji-ho con toda la reserva, que le abre un agujero de lado a lado.
+
+**Escala.** Es un Principado y pelea a una fracción de lo que es, sin prisa y con ganas de ver qué hacen. Contra la Uno entera, con Conti, Calloway y Solheim (Cap169 y 170), gana sin esfuerzo, mata a Solheim sin querer y deja a Kino y a Calloway fuera. En el campo roto contra ocho (Cap178 y 179) pierde un brazo, la espalda y la piel, y sale ganando. No mata a propósito y en la práctica descarta a quien lo rodea. **Solo cuatro cosas lo han dañado de verdad.** Ji-ho en Fukushima (lo mató tras tres meses), Zanma, las explosiones y lo preciso. Con Ji-ho, que ya no tiene un brazo ni todo el Odem, el combate se vuelve parejo y el truco que no puede copiar (Cap182) le abre un agujero en el pecho que tarda en cerrar, pero no basta. Al cierre del Cap182 sigue de pie y dice "Pero no es suficiente". Su marcha herido y vivo, para volver, queda para el capítulo siguiente.
+
+**Estado visible en el Cap182.** Sano de todas las heridas anteriores y sin camisa. El brazo derecho, dormido por el Foco de Voronin, despierta en tres respiraciones. Ji-ho le dice los nombres de Susanoo, Gozu y Belcebú, y el joven los prueba ("Estoy probando"). Mizuno le dijo Susanoo en el Cap146, "con mucho miedo", y le sonó bien.
+
+## Cap184 (2026-11-11)
+
+<!-- canonical -->
+- Tras la herida que le abre Ji-ho (final del Cap182), dice "Vaya", y la tos le corta la frase (Cap184). Al ver la jaula cerrada dice "¿Otra vez?" y "Entonces gracias. Ha sido bonito."
+- Al notar su propio temblor, deja de jugar antes de los rebobinados: borra el borde norte del pozo y cinco casas del dosel y rompe las costillas de Ji-ho. No mata a Calloway, que queda de rodillas.
+- Se deshace en moscas hacia el este al recibir el segundo golpe de Ji-ho, el que la jaula ya no puede rebobinar. Parece una muerte, pero se retira vivo (decidido 2026-11-12, usuario). Nadie del lado de AMAT lo sabe todavía.

@@ -50,4 +50,12 @@ Sisi sabe, y calla, que lo que vio no es una persona.
 
 ## Poder
 
-Su poder, la jaula (esfera de dominio con dos pasos, rebobinado condicionado y golpe de bucle), está fijado el 2026-11-09 en `world/entities/principado-del-tiempo.md` § La jaula. Se muestra por primera vez en el Cap181 (escena de Kaspar). Su imagen es el telar de su padre, tejedor de tiraz. Sin nombrarse en prosa hasta el Cap184.
+Su poder, la jaula (esfera de dominio con dos pasos, rebobinado condicionado y golpe de bucle), está fijado el 2026-11-09 en `world/entities/principado-del-tiempo.md` § La jaula. Se muestra por primera vez en el Cap181 (escena de Kaspar). **Es un manto con Daniel de epicentro, que se mueve con él (2026-11-10).** Su imagen es el telar de su padre, tejedor de tiraz. Sin nombrarse en prosa hasta el Cap184.
+
+## Cap185 — muerte (escrito 2026-11-11)
+
+<!-- canonical -->
+- Ataca a Ji-ho con tres palmas seguidas (las que lo mandaban atrás) y rebobina dos veces. A la tercera la jaula se niega. Prueba por última vez el lado de la manga vacía, y el brazo nuevo de Ji-ho llega antes que la palma. Muere de un puñetazo en el esternón sin Odem. Dice "Ya está" y sonríe, y no rebobina porque la muerte de Ji-ho es un suceso-ancla.
+- **Escena corta de su POV (08:08):** tres cosas, la mano donde no había mano, el telar de su padre en Bagdad con las letras que no sabía leer, y que nadie ha dicho que sí, "tampoco esta vez". Primera vez que se nombra **Ibrahim** en prosa. Salta a Ji-ho: "por primera vez en muchos cuerpos, el sitio estaba lleno".
+
+- **Cap184, reestructura (2026-11-12, usuario).** Su motivo para rebobinar es que ve a Belcebú tambalearse tras el primer golpe de Ji-ho y entiende que otro golpe así lo mata, y que sin Belcebú, la fuerza bruta del grupo, tiene menos posibilidades. Rebobina siete veces, probando una cosa distinta cada vez, y a la octava la jaula se niega. Ya no se le rompe el antebrazo en ninguna pasada.

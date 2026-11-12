@@ -20,7 +20,7 @@ updated: 2026-06-17
 | **Apparent age** | ~35 (con Domain activo) / **69 (real; nació el 23 de octubre de 1956, cumple 70 en octubre de 2026)** |
 | **Natural appearance** | ~65–70 visible. Cabello completamente blanco, liso, corto. Ojos azul grisáceo, pálidos — el único rasgo que no envejece bien. Piel pálida centroeuropea con arrugas profundas. 1.84 m, constitución delgada pero presencia que no corresponde al volumen. Ascendencia alemana-húngara (danubio-suaba), nacido en Budapest, criado en un pueblo austríaco y formado en Zúrich. Cicatrices antiguas en antebrazo izquierdo, origen no documentado. |
 | **Appearance with Domain** | Elige libremente: edad aparente, cabello, tono de piel, estructura facial superficial. **Los ojos no cambian.** Masa y altura no modificables. Cap 71: ~35 años, cabello castaño. |
-| **Domains** | Sustento (copiado de Potestad Nivel 2) · Vínculo (copiado de persona, fuente sin documentar) · Apariencia (copiado de persona, fuente sin documentar) · Frío (copiado de Yvonne Steiner, Zúrich 1975 — ver § Origen y Domain abajo) |
+| **Domains** | Sustento (copiado de Potestad Nivel 2) · Vínculo (copiado de persona, fuente sin documentar) · Apariencia (copiado de persona, fuente sin documentar) · Frío (copiado de Yvonne Steiner, Zúrich 1975 — ver § Origen y Domain abajo) · **Barreras / membranas** (copiado hace mucho, fuente sin documentar, sin nombre en prosa; ver § Domain: Barreras) |
 | **AMAT status** | Off-radar desde 1982 |
 
 ## Origen — István Herzog (Libro3 Arco1, Cap123-129, escrito)
@@ -81,6 +81,11 @@ Reúne humedad ambiental y reduce su temperatura, generando escarcha y, con sufi
 Es su primer copiado real —anterior en siete años a Sustento (1982)— y el único de los cuatro con fuente humana corriente y documentada, no una Potestad ni una fuente sin registrar.
 
 **Nota de continuidad — AMAT nunca lo documenta en 1982 (confirmado 2026-09-25, ver Cap128):** un instrumento de detección marca "algo" durante la custodia inicial, pero Kaspar finge no entender y el evaluador no insiste — AMAT se queda con una sospecha sin confirmar, nunca con una demostración. Esto es deliberado: mantiene a **Sustento** como el único copiado que AMAT observa y documenta de verdad durante los 17 meses de custodia (1982), sin ambigüedad de cara al dato ya establecido en `plot/timeline.md`/Cap48 — Voss le dice a Oliver que va "13 semanas adelantado a cualquier caso previo", comparación que solo tiene sentido si el copiado de Sustento de Kaspar, bajo observación real de AMAT, tardó notablemente más (26+ semanas). Al escribir esa escena (Cap129), respetar ese mínimo. Frío queda, para efectos del expediente oficial de AMAT, un rumor sin confirmar — coherente con que Kaspar salga de la custodia sabiendo ya ocultar mejor de lo que AMAT sabe buscar.
+
+## Domain: Barreras (copied, nuevo en el Cap183, 2026-11-11)
+
+<!-- canonical -->
+Crea **barreras de Odem como membranas en el aire mismo**: pieles finas y tensas, casi invisibles (como el vaho en un cristal), que se tienden a donde él apunta con la mano. Frenan cuerpos y escombros, que rebotan sin saber contra qué, y el Registro las lee como superficies. En el Cap183 las usa para que el anillo en pánico no caiga al pozo (una al borde, otra sobre la raja, otra inclinada hacia el sur contra los trozos de pasarela). **Lo copió hace mucho y nunca lo usó delante de nadie.** Fuente sin documentar y sin nombre en prosa, como Vínculo y Apariencia. Coste, mostrado una sola vez: la membrana pide Odem y se lo da por la mano buena, que se le enfría hasta la muñeca. Oliver lo ve por primera vez y no está en ningún expediente que haya leído. **Descartado en el Cap183 el uso del Tránsito de Tomás, que el borrador anterior le daba para sacar gente por la piedra.**
 
 ## Registry signature (for Oliver)
 

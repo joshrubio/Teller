@@ -32,3 +32,7 @@ Dos, y ninguno se explota. Usar uno solo cuando la escena lo pida, nunca como ci
 - **Cap158:** bautiza a la madre de la isla como **Ladón** (Hesíodo: un dragón que guarda un jardín).
 
 - **Cap169:** Fulgor ofensivo (referencias visuales fijadas por el usuario 2026-10-28, sin nombrarlas): descargas de miles de lanzas de luz que salen de grietas doradas en el aire, y líneas de luz blanca que cruzan el valle antes del sonido. Llama a Belcebú "el señor de las moscas". Se presenta como "Edmund". **Corregido 2026-11-07 (usuario):** las lanzas y las líneas de luz hieren de verdad a Belcebú (agujeros en el hombro y el muslo, tajos en el brazo, el costado y la mejilla, lanzas clavadas en el pecho), y él cura cada herida cerrándose la carne detrás de la luz. Antes se quebraban contra su cuerpo sin hacerle nada.
+
+- **Cap184-185 (2026-11-11):** dos asistencias clave sin reserva. Cap184, una lanza fina al muslo de Belcebú a medio paso que convierte dos pasos en tres, para que Ji-ho pueda llamar a Conti. Cap185, gasta lo que no tiene en una cortina de miles de lanzas de luz quietas, que no hiere ni deja ver, bajo la que Ji-ho regenera el brazo. Queda sentado contra una losa, gris, con la mano todavía abierta.
+
+- **Cap184, reestructura (2026-11-12, usuario).** Su lanza en el muslo de Belcebú ocurre en la escena de las 07:58, antes de los rebobinados, y es el punto al que vuelve cada rebobinado de Daniel.

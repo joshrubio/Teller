@@ -151,3 +151,35 @@ Ji-ho es **cristiano protestante (presbiteriano)**, criado en Incheon en una igl
 - **No se niega a golpearla.** Su último intercambio es un puñetazo a la boca del estómago, a una velocidad tal que Sisi solo ve un borrón, sin cargar Odem (solo cuerpo, cadera y distancia). Le quita un escalón a su forma y la deja de rodillas, como muchacha de 16 o 17 años. No la inmoviliza ni le pega más.
 - **No acumula heridas ni cansancio en este capítulo.** Sin rasguños, respiración igual que al llegar, la línea negra bajo la oreja no se mueve y no gasta ningún escalón. Razón de escritura: le esperan al menos dos combates más (Belcebú y el tramo final) y no se podrían narrar si arrastra daño desde aquí. Mantener sin heridas hasta el combate con Belcebú.
 - Al final, cuando Daniel dice "Esto es lo que quería ver", gira la cabeza un dedo hacia él, sin volverse, como quien oye algo por segunda vez (bucle).
+
+## Libro 3, Cap182 — El impostor (escrito y rehecho 2026-11-10)
+
+<!-- canonical -->
+- Pesa el aire, treinta y uno (el máximo hasta ahora). Llama impostor a Belcebú y le da los nombres de Susanoo, Gozu y Belcebú, como fronteo. Fukushima en tres réplicas ("Me mataste", "No es rencor, es oficio"). A Park le dice "Me encargo yo del joven, la chica es vuestra", y Park contesta "Guardo" y él, "Lo sé".
+- Pelea de contención y de técnica, sin Odem, hasta el último golpe. Recibe un golpe en las costillas del lado izquierdo (dolor, sangre en la boca). **Descubre que Conti sabe lo de los Jinetes**, igual que Conti descubre que él lo sabe ("Lo sé", "¿Lo sabe?", "Hace años"). Corrige a Conti, "No es la Muerte. Es el Tiempo", y señala a Daniel. No dice Ibrahim.
+- Cierre (final reescrito 2026-11-10, usuario). Conti dice la primera mitad de Efesios 6:12 y lo pone a la espalda de Belcebú, y él dice la segunda al soltar **el diezmo de la reserva** en un puñetazo entre los omóplatos. Le quita a Belcebú el lado izquierdo, de la cintura a la cabeza, y Belcebú no se mueve del sitio. **El escalón y la línea negra al pómulo no se muestran todavía.** Quedan para cuando suelte lo que le queda de la reserva. Termina con las costillas doloridas y una sola mano.
+
+## Libro 3, Cap184 — Una vez (escrito 2026-11-11)
+
+<!-- canonical -->
+- Recuerda las pasadas rebobinadas por Daniel (siete) y las cuenta. Repite exactamente "Padre", "Sí", la mano de Conti y la mitad de Efesios para que el final sea siempre el mismo, porque sabe de sus propias pasadas que el tiempo se cansa de repetirse igual y a la tercera no da otra. La jaula se niega a la tercera repetición y el golpe cae.
+- Suelta lo que le queda de la reserva, de una vez, al mismo instante que Park. El aire comprimido sale por los bordes del puño y levanta una cresta que barre el terreno hacia el sur, y la de Park viene del norte. Se encuentran sobre la grieta, la isla baja un metro y queda una cicatriz de roca desnuda visible desde el dosel. **Coste, una sola vez:** la línea negra sube de la mandíbula al pómulo y pierde un escalón. Queda de rodillas, vacío, "no del todo, casi".
+- Siente la onda de Park cruzarle las suelas, entera y de una vez, y no se vuelve. No se nombra a Park.
+- Ve la palma de Daniel sobre Conti y la reconoce "de antes de saber de quién era". Último beat, "Padre", y nadie contesta.
+- Pendiente (Cap185, borrador): la quinta pasada de Conti incluye una frase de Ji-ho que solo diría quien conoce los bucles.
+
+## Libro 3, Cap185 — Entonces ya (escrito 2026-11-11)
+
+<!-- canonical -->
+- **Esquiva tres palmas de Daniel, tres veces** (nuca, esternón y frente, en distinto orden), las mismas que en pasadas anteriores lo devolvían. Son lo único que recuerda entero de todas las pasadas, porque eran lo último de cada una. Daniel rebobina tras la primera y la segunda; a la tercera la jaula se niega. Daniel: "Usted recuerda." / "Siempre."
+- **Heridas acumuladas:** costillas rotas, ceja abierta (Cap184), nudillos izquierdos al hueso, tobillo izquierdo torcido de verdad en la tercera pasada, ojo izquierdo ciego de sangre.
+- **Reverso, grado Restitución** (lo sabía desde hacía veinte años y no lo usaba porque la boca se llevaba más de lo que devolvía). Bajo la cortina de luz de Calloway regenera el brazo derecho, primero la sangre, después el hueso y los dedos. La boca se lleva cuatro escalones de golpe y la línea negra llega al ojo. Mata a Daniel con un puñetazo de la mano nueva, sin Odem, "con las piernas".
+- **Muerte, 08:12.** Con Park y la mano izquierda cogida. "Dime la hora" / "Las ocho y doce" / "Gracias por la hora" por el auricular de Taeho. Después a Park, "¿Guardas?" / "Guardo." / "Entonces ya." Mano sobre el libro del bolsillo, sin sacarlo. La línea negra se va como una marea y la cara queda limpia. **Por dentro, Ibrahim** (saltó del cuerpo de Daniel al suyo en el instante de la muerte de este; la voluntad de Ji-ho queda dormida). Los demás no lo saben.
+
+## Libro 3, Cap184 — Reestructura (2026-11-12, usuario)
+
+<!-- canonical -->
+- **Primer golpe, el del Cap182.** Es el diezmo de la reserva. Belcebú no cae, se regenera con esfuerzo y Daniel no rebobina. Ji-ho ve que los dos, Belcebú y Daniel, notan a la vez que el daño acumulado es mayor del previsto.
+- **Escena de las 07:58.** Belcebú deja de jugar y le rompe las costillas y le abre la ceja izquierda antes de los rebobinados, por eso las heridas persisten. La lanza de Calloway gana un paso. Ji-ho suelta lo que le queda, Belcebú empieza a deshacerse y Daniel rebobina. Ji-ho cuenta "Uno".
+- **Escena de las 08:06.** Siete rebobinados, cinco con finales distintos y dos con el mismo final. Repite "Padre", "Sí" y el versículo para que el desenlace sea idéntico, y a la octava la jaula se niega. Cada vuelta empieza con él de rodillas, la lanza clavada en el muslo de Belcebú y Belcebú a tres pasos.
+- **Brazo derecho (confirmado 2026-11-12, usuario):** vuelve en el Cap185, tras el segundo golpe, como está narrado.

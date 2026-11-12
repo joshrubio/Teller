@@ -1,4 +1,4 @@
-Capítulo 175 — Una cuerda bajo la tierra
+Capítulo 175 — Bajo la tierra
 
 *18 de julio, 05:15 — costa este*
 

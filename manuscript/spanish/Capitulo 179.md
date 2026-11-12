@@ -1,4 +1,4 @@
-Capítulo 179 — Vapor
+Capítulo 179 — Aire Caldeado
 
 *18 de julio, 07:25 — campo roto*
 
@@ -60,8 +60,6 @@ No corrió. Para correr hay que pasar por los sitios de en medio, y Park no lo v
 
 Ella estiró los dedos.
 
-No hacia los suyos. Hacia él.
-
 Un latigazo de quietud cruzó el campo y se clavó en el pie que quedaba apoyado, y lo ató al suelo. Se quedó con la pierna medio levantada y la mano a medio camino, a veinte metros de la terraza, como un insecto en ámbar. Un latido.
 
 Park ya se había levantado. Lo que le había martillado las rodillas y el pecho lo traía guardado, entero, y tenía un sitio donde ponerlo. Entró por la derecha del joven y Kiki por el lado del muñón, y no se dijeron nada. Un golpe por cada lado, uno detrás de otro, para no estorbarse.
@@ -74,7 +72,7 @@ Había encajado los dos golpes y no había mirado a ninguno. Pasó entre ellos c
 
 Le puso la palma abierta en el esternón, con una delicadeza de padre.
 
-Sabine salió volando hacia atrás. No gritó. Golpeó la terraza con la espalda y se deslizó por la piedra hasta quedar sentada con las piernas dobladas hacia un lado, la barbilla en el pecho y un hilo de sangre en la comisura. Bajo la blusa, en el esternón, ya asomaba el morado de una mano.
+Sabine salió volando hacia atrás. No gritó. Golpeó la terraza con la espalda y se deslizó por la piedra hasta quedar sentada con las piernas dobladas hacia un lado, la barbilla en el pecho y un hilo de sangre en la comisura.
 
 No se movió.
 
@@ -88,11 +86,11 @@ Lo vio Park de refilón, ya desde detrás de una roca, con Kiki pegada al hombro
 
 El frío le salió de las palmas.
 
-No tuvo forma de nada vivo. Fue una ráfaga blanca, ancha como una puerta, que cruzó la terraza y el campo de un extremo a otro con un silbido de agujas y sin levantar un grano de polvo. La grava se puso cana a su paso. Una piedra se partió en dos con un chasquido. Alcanzó al joven de lado, por el lado del muñón, le subió por la pierna y la cadera y siguió de largo hasta la linde, y allí, a lo largo de toda su línea a la vez, el aire dejó de ser aire.
+Fue una ráfaga blanca, ancha como una puerta, que cruzó la terraza y el campo de un extremo a otro con un silbido de agujas y sin levantar un grano de polvo. La grava se puso cana a su paso. Una piedra se partió en dos con un chasquido. Alcanzó al joven de lado, por el lado del muñón, le subió por la pierna y la cadera y siguió de largo hasta la linde, y allí, a lo largo de toda su línea a la vez, el aire dejó de ser aire.
 
 El hielo salió con el crujido de un lago al romperse. Subió desde la terraza hasta el bosque en una sola formación, azul y torcida y enorme, una cresta de cristal que atravesaba el campo entero y no se detuvo en las copas. Siguió, y las puntas asomaron por encima de los árboles como los dientes de algo que hubiera salido de debajo de la tierra. Park tuvo que echar la cabeza atrás para encontrarle el borde. Los troncos de la linde habían quedado dentro, crujiendo, con las ramas atrapadas. Todo ocurrió en tres respiraciones, y el joven estaba metido en él hasta la cintura.
 
-No esperó a que subiera más. Tiró de la pierna y la pierna salió, y la piel de la pantorrilla se quedó pegada al hielo. Park lo perdió. Solo vio lo que dejaba, una fila de lenguas de hielo reventando una tras otra, recta, desde el pie de la cresta hasta la terraza, tan seguidas que sonaron como una sola. Al final de la fila, su mano ya estaba cerrada alrededor del cuello de Lev.
+No esperó a que subiera más. Tiró de la pierna y la pierna salió. Park lo perdió. Solo vio lo que dejaba, una fila de lenguas de hielo reventando una tras otra, recta, desde el pie de la cresta hasta la terraza, tan seguidas que sonaron como una sola. Al final de la fila, su mano ya estaba cerrada alrededor del cuello de Lev.
 
 Lev soltó el calor.
 
@@ -120,13 +118,13 @@ A tres metros sobre las losas, en un hueco del vapor, sin nada debajo. La piel, 
 
 Miró hacia el este, por encima de las copas, donde algo muy alto y muy lejos cruzaba el cielo sin ruido, y sonrió. Después miró a Lev, de cerca.
 
-—Qué calor más bonito —dijo, con una admiración sincera—. Gracias. Ya no queda nada.
+— Buen intento —dijo, con una admiración sincera—. No te rompas todavía. Me has gustado.
 
-Lo apartó con dos dedos, como se aparta una cortina, y abrió la mano.
+Lo apartó hacia un costado, como se aparta una cortina, y abrió la mano.
 
-Park ya se había ido. Soltó lo que traía guardado en un solo empuje de pierna, y el campo pasó a sus lados en una raya. No saltó, porque no podía. Corrió por la grava hasta la vertical, y el cuerpo de Lev llegaba a las piedras cuando él se tiró de rodillas debajo y lo cogió con el pecho. Rodaron. Paró con el hombro contra una losa, el dorso de las manos rojo de vapor y un tajo largo en el antebrazo.
+Park ya se había ido. Soltó lo que traía guardado en un solo empuje de pierna, y el campo pasó a sus lados en una raya. Corrió por la grava hasta la vertical, y el cuerpo de Lev llegaba a las piedras cuando él se tiró de rodillas debajo y lo cogió con el pecho. Rodaron.
 
-Lev no se movía. Tenía todo el cuerpo rojo, de la cara a los pies, como tras una insolación brutal, las cejas chamuscadas y los labios agrietados y sangrantes, y los dos brazos, de los hombros a las yemas, pelados en carne viva, por donde habían salido las ráfagas. La escarcha se le derretía en el pelo. Las manos estaban abiertas y no se cerraban. Park le puso la oreja junto a la boca. Un aire corto, tibio, seguido.
+Lev no se movía. Tenía todo el cuerpo rojo, de la cara a los pies, como tras una insolación brutal, las cejas chamuscadas, los labios agrietados y los dos brazos, de los hombros a las yemas, pelados en carne viva. La escarcha se le derretía en el pelo. Park le puso la oreja junto a la boca. Un aire corto, pequeño, seguido. Y le recordó a como lo había sacado del agua tiempo atrás.
 
 —Vive —dijo, por el Coro, y por primera vez en toda la mañana tuvo ganas de reírse.
 
@@ -142,50 +140,52 @@ Cayó con un pie en cada losa, y Pier cerró el puño desde la terraza y el pie 
 
 La ola de grava del pisotón entró en el cráter de Harlan y lo cubrió hasta el pecho.
 
-El joven fue hacia delante, y allí estaba Whitfield, que había salido del bosque por el surco de los siete troncos con una mano contra el costado, donde llevaba clavada una astilla que no se había sacado para no sangrar. Los antebrazos eran un solo morado negro.
+El joven fue hacia delante, y allí estaba Whitfield, que había salido corriendo del bosque por el surco de los siete troncos, agazapado como animal, corriendo con una mano al costado, desde el cual sangraba. Los antebrazos un solo morado negro.
 
 —Cinco —dijo el párroco, apenas.
 
-Entró con un gancho al costado derecho, y el joven se dobló con una palmada hueca y algo cedió dentro. El revés del único brazo que le quedaba cayó sobre los antebrazos cruzados de Whitfield y lo dobló de rodillas, sin aire.
+Y entró con un gancho al costado derecho, sin aviso, y el joven se dobló con una palmada hueca que le hizo ceder algo desde dentro. El revés del único brazo que le quedaba, veloz cual látigo, cayó sobre los antebrazos cruzados de Whitfield y lo dobló de rodillas, sin aire.
 
-Kiki entró por el lado del muñón con Zanma baja. El joven giró el hombro, y la hoja pasó por donde había estado la garganta. Otros dos cortaron aire, y él se le fue encima de hombro. Kiki se echó atrás y no llegó. El hombro la rozó en el costado, el manto se comió el golpe a medias, y lo que no se comió la tiró cuatro metros por la grava, rodando.
+Kiki entró por el lado del muñón con Zanma baja. El joven giró el hombro, y la hoja le pasó por donde había estado su garganta un instante antes. Giró sobre su propio eje y soltó su brazo como con Withfield, veloz cual latigo. Kiki se echó atrás y no llegó. La punta de la mano la rozó el rostro, el manto se comió el golpe a medias, y lo que no se comió la tiró cuatro metros por la grava, rodando.
 
-Park no entró. Guardó, que era lo único útil que sabía hacer, lo que traía el campo en la losa, en la rodilla, en el hueso.
+Park no entró. Guardó, que era lo único útil que sabía hacer.
 
-Voronin entró en el campo por el sur, a la carrera, de roca en roca, y se dejó caer detrás de una losa a veinte pasos. El Coro ya no contaba desde lejos. Tenía aliento.
+Voronin entró en el campo por el sur, a la carrera, de roca en roca, y se dejó caer detrás de una losa a veinte pasos. El Coro encendido en la parte de atrás de la cabeza.
 
 *Siete, arriba. Diez, otra vez. Los dos a la vez.*
 
 Whitfield se levantó sin aire, Kiki volvió a la carrera, y el joven no pudo apartarse de los dos. Voronin salió de la losa y llegó a su espalda en el mismo segundo.
 
-Tenía dos dedos, juntos y rígidos, con todo el Odem del brazo bajado hasta las yemas, y los hundió en el hueco bajo la axila del brazo que le quedaba, donde el nervio pasa cerca de la piel. El brazo se soltó de golpe, como cortado por dentro.
+El joven no la vio venir, entró por el flanco que había dejado libre al golpear a Kiki y con todo el Odem del brazo bajado hasta las yemas, junto dos dedos, rigidos y los hundió en el hueco bajo la axila del brazo que le quedaba, donde el nervio pasa cerca de la piel. El brazo se le soltó de golpe al joven, como cortado por dentro.
 
 —Ah —dijo el joven, y miró por encima del hombro con la cara de un niño al que le han tocado la espalda—. Una más.
 
-Giró sobre sí mismo, con el brazo dormido colgándole, y el giro barrió el círculo como una mano que barre migas. Whitfield salió despedido, Kiki rodó otra vez y Voronin se tiró tras su losa con el aire de la mano sobre el pelo.
+Giró sobre sí mismo, con el brazo dormido colgándole, y el giro barrió el círculo como una mano que barre migas. Whitfield salió despedido, Kiki rodó otra vez y Voronin se tiró hacia atrás con el aire moviendole el pelo.
 
-El joven se quedó solo en el círculo, con el costado derecho hundido y la espalda a Park. Dio un paso hacia donde Kiki intentaba incorporarse.
+El joven se quedó solo en el círculo, con el costado derecho doliendo. Kiki fue la primera en incorporarse, y el joven, sonriendo de par en par, reaccionó como atraído por la gravedad. 
 
 *Nueve*, dijo Voronin desde el suelo, sin alzar la voz. *Ahora.*
 
 Park ya lo veía.
 
-Lo había guardado todo. El pie, el suelo, la pared, la losa. Salió de la piedra con el pie bueno.
+Lo había estado guardando todo. Salió de la piedra con el pie bueno. Disparado como un resorte.
 
-No fue una carrera. Fueron tres pasos, con el hombro por delante y toda la masa en el borde del hueso, y el campo se plegó a su paso. El joven lo oyó venir. No se volvió.
+No fue una carrera. Fue un salto, con el hombro por delante, la inercia en las piernas y toda la masa en el borde de los nudillos. El campo se plegó a su paso. El joven lo oyó venir. No se volvió.
 
-El muñón se abrió como una flor mojada, y de dentro salió un brazo nuevo, rosa, entero, y la mano se cerró en el aire sobre el puño de Park.
+El muñón de su brazo se abrió como una flor mojada, y de dentro salió un brazo nuevo, rosa, entero, y la mano se cerró en el aire sobre el puño de Park.
 
-El golpe se paró en la palma. El campo que se había plegado a su paso se desplegó de golpe, y toda la fuerza que traía le volvió por el brazo y se quedó entre los dos, sin ir a ninguna parte.
+El golpe se paró en la palma. El campo que se había plegado a su paso se desplegó de golpe, y toda la fuerza que traía se dispersó en una ráfaga de presión, que sacudió el aire y movió los cabellos blancos del joven.
 
 El joven lo miró por encima del hombro, de cerca, como había mirado a Lev.
 
-—No eres él —dijo. No era un reproche. Lo dijo como se dice la hora—. Pegas más flojo.
+—Ahora que te veo de cerca, no eres él —dijo. No era un reproche. Lo dijo como se dice la hora—. Pegas más flojo.
 
 Lo soltó. Sonreía, con la misma sonrisa de antes, y algo más.
 
-—Qué divertido —dijo—. De verdad.
+—Qué divertido, de verdad —dijo—. Pero acabo de ver a un viejo conocido, tendrán que disculparme.
 
-Dejó de estar donde estaba. Hubo un estampido de grava en el hueco que dejaron sus pies, y el vapor se cerró sobre el sitio.
+Y en lo que dura un parpadeo dejó de estar donde estaba. Hubo un estampido de grava en el hueco que dejaron sus pies, y el vapor se cerró sobre el sitio.
 
-Park se quedó con el puño en el aire y nada delante.
+Park se quedó con el puño en el aire, nada delante, y por un segundo supo a quien se refería el joven. 
+
+Ji-ho había llegado.

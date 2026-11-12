@@ -81,3 +81,5 @@ En la versión definitiva de Cap135 Kiki **no combate**. Conoce a Riku (evaluaci
 - **Cap158:** llega tarde a la concentración de la SRD-1; es **Uno-Diez, Libre** (segundo rover). Le cuenta a Park lo de Kuji: Riku, Dara, Pier, Asha y Oliver ("me preguntó si necesitaba que mirara algo"); le caen bien, y comprende con quién ha convivido Park. "Si baja alguien, que no sean ellos."
 
 - **Zanma (lore confirmado 2026-10-28):** Ji-ho la hizo hacer en Fukushima (2011) y es de las pocas armas capaces de herir a Belcebú. Cap172: Kiki le da el primer corte real. Se insinúa en el capítulo de Ji-ho (Cap175).
+
+- **Cap184 (2026-11-11):** amaga por la derecha y corta con Zanma por detrás de la rodilla izquierda de María Lionza, donde la carne es blanda y no hay hueso, y la hace cojear.

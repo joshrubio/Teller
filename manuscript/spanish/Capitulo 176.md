@@ -1,4 +1,4 @@
-Capítulo 176 — Antes de tiempo
+Capítulo 176 — Pasarelas del Sur
 
 *18 de julio, 07:12 — pasarelas del sur*
 
@@ -125,3 +125,4 @@ Oliver no se movió. Detrás de él, los soldados no podían pasar, y Voss, con 
 Ella cerró las manos.
 
 Los hilos empezaron a cerrarse.
+
